@@ -147,9 +147,10 @@ def load_all_content() -> tuple[list[dict], list[dict]]:
             "file": str(md_file),
             "category": md_file.parent.name,
             "body": body,
-            "source_url": github_url,
             **frontmatter,
         }
+        # Override source_url with GitHub URL (frontmatter may have old wiki URL)
+        item["source_url"] = github_url
 
         # Determine type: ONLY files in the "terms" folder are terms
         if md_file.parent.name == "terms":
