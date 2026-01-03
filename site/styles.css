@@ -1,0 +1,421 @@
+/* OpenGlossary Styles */
+
+:root {
+    --primary-color: #2563eb;
+    --primary-dark: #1d4ed8;
+    --text-color: #1f2937;
+    --text-light: #6b7280;
+    --bg-color: #ffffff;
+    --bg-secondary: #f3f4f6;
+    --border-color: #e5e7eb;
+    --success-color: #10b981;
+    --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --font-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, monospace;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-sans);
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    opacity: 0.9;
+    font-size: 1.1rem;
+}
+
+header nav {
+    margin-bottom: 1rem;
+}
+
+header nav a {
+    color: white;
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    opacity: 1;
+}
+
+/* Main content */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Search section */
+.search-section {
+    margin-bottom: 2rem;
+}
+
+#search {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Pagefind customization */
+.pagefind-ui__search-input {
+    border-radius: 8px !important;
+    border: 2px solid var(--border-color) !important;
+    padding: 1rem 1rem 1rem 2.5rem !important;  /* Extra left padding for search icon */
+    font-size: 1rem !important;
+}
+
+.pagefind-ui__search-input:focus {
+    border-color: var(--primary-color) !important;
+    outline: none !important;
+}
+
+/* Stats section */
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-bottom: 3rem;
+    padding: 1.5rem;
+    background: var(--bg-secondary);
+    border-radius: 12px;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat-value {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.stat-label {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+/* Glossary list */
+.glossary-list h2 {
+    margin-bottom: 1rem;
+}
+
+/* A-Z Alphabet Navigation */
+.alphabet-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.25rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-radius: 8px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.alphabet-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    background: white;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.alphabet-link:hover {
+    background: var(--primary-color);
+    color: white;
+    text-decoration: none;
+}
+
+.alphabet-link.disabled {
+    color: var(--text-light);
+    opacity: 0.4;
+    cursor: default;
+    background: transparent;
+}
+
+/* Letter sections */
+.letter-section {
+    margin-bottom: 2rem;
+    scroll-margin-top: 4rem;
+}
+
+.letter-heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    padding: 0.5rem 1rem;
+    background: var(--bg-secondary);
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
+
+.glossary-table {
+    margin-bottom: 1rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background: var(--bg-secondary);
+}
+
+th, td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+th {
+    font-weight: 600;
+    color: var(--text-light);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+tbody tr:hover {
+    background: var(--bg-secondary);
+}
+
+tbody tr:last-child td {
+    border-bottom: none;
+}
+
+/* Links */
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Badges */
+.category-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    color: white;
+    font-weight: 500;
+}
+
+.lang-badge {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    background: var(--bg-secondary);
+    border-radius: 4px;
+    font-size: 0.8rem;
+    color: var(--text-light);
+    font-family: var(--font-mono);
+}
+
+.term-count {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+/* Glossary meta */
+.glossary-meta {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+/* Glossary content */
+.glossary-content {
+    margin-bottom: 2rem;
+}
+
+.terms-table {
+    font-size: 0.95rem;
+}
+
+.terms-table td:first-child {
+    font-weight: 500;
+}
+
+/* Glossary info */
+.glossary-info {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+}
+
+.glossary-info h3 {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.glossary-info dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.5rem 1rem;
+}
+
+.glossary-info dt {
+    font-weight: 600;
+    color: var(--text-light);
+}
+
+.glossary-info dd {
+    color: var(--text-color);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 2rem;
+    background: var(--bg-secondary);
+    color: var(--text-light);
+    margin-top: 3rem;
+}
+
+footer p {
+    margin-bottom: 0.5rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.75rem;
+    }
+    
+    .stats {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    table {
+        font-size: 0.9rem;
+    }
+    
+    th, td {
+        padding: 0.75rem 0.5rem;
+    }
+    
+    /* Hide less important columns on mobile */
+    th:nth-child(4),
+    td:nth-child(4) {
+        display: none;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #f3f4f6;
+        --text-light: #9ca3af;
+        --bg-color: #111827;
+        --bg-secondary: #1f2937;
+        --border-color: #374151;
+    }
+    
+    table {
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    }
+    
+    header {
+        background: linear-gradient(135deg, #1e40af, #1e3a8a);
+    }
+}
+
+/* Search term highlighting */
+.search-highlight {
+    background-color: #fef08a;
+    color: #1f2937;
+    padding: 0.1em 0.2em;
+    border-radius: 2px;
+    font-weight: 500;
+}
+
+@media (prefers-color-scheme: dark) {
+    .search-highlight {
+        background-color: #facc15;
+        color: #1f2937;
+    }
+}
+
+.highlight-banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fef9c3;
+    border: 1px solid #fde047;
+    color: #854d0e;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+}
+
+.highlight-banner button {
+    background: transparent;
+    border: 1px solid #ca8a04;
+    color: #854d0e;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+.highlight-banner button:hover {
+    background: #fde047;
+}
+
+@media (prefers-color-scheme: dark) {
+    .highlight-banner {
+        background: #422006;
+        border-color: #854d0e;
+        color: #fef08a;
+    }
+    
+    .highlight-banner button {
+        border-color: #ca8a04;
+        color: #fef08a;
+    }
+    
+    .highlight-banner button:hover {
+        background: #854d0e;
+    }
+}
