@@ -680,10 +680,10 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
                 showImages: false
             }});
 
-            // Intercept Pagefind result link clicks to pass search query
-            document.getElementById('search').addEventListener('click', function(e) {{
+            // Intercept ALL link clicks to pass search query (Pagefind uses shadow DOM)
+            document.addEventListener('click', function(e) {{
                 const link = e.target.closest('a');
-                if (link && link.href) {{
+                if (link && link.href && link.href.includes('/glossary/') || link && link.href && link.href.includes('/term/')) {{
                     const searchInput = document.querySelector('.pagefind-ui__search-input');
                     if (searchInput && searchInput.value.trim()) {{
                         e.preventDefault();
@@ -692,7 +692,27 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
                         window.location.href = link.href + separator + 'q=' + query;
                     }}
                 }}
+            }}, true);  // Use capture phase to intercept before shadow DOM
+            
+            // Also watch for Pagefind result links being added
+            const searchEl = document.getElementById('search');
+            const observer = new MutationObserver(function(mutations) {{
+                searchEl.querySelectorAll('a[href]').forEach(link => {{
+                    if (!link.dataset.intercepted) {{
+                        link.dataset.intercepted = 'true';
+                        link.addEventListener('click', function(e) {{
+                            const searchInput = document.querySelector('.pagefind-ui__search-input');
+                            if (searchInput && searchInput.value.trim()) {{
+                                e.preventDefault();
+                                const query = encodeURIComponent(searchInput.value.trim());
+                                const separator = this.href.includes('?') ? '&' : '?';
+                                window.location.href = this.href + separator + 'q=' + query;
+                            }}
+                        }});
+                    }}
+                }});
             }});
+            observer.observe(searchEl, {{ childList: true, subtree: true }});
         }});
 
         function showTab(tabName, btn) {{
