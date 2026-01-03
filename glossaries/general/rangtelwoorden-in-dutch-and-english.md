@@ -2,6 +2,7 @@
 title: Rangtelwoorden (Ordinal numerals) - in Dutch and English
 slug: rangtelwoorden-in-dutch-and-english
 description: Terminology from Rangtelwoorden (Ordinal numerals) - in Dutch and English
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | first | eerste |  |
 | second | tweede |  |
 | third | derde |  |

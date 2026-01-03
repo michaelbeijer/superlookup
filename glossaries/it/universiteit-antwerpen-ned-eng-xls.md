@@ -2,6 +2,7 @@
 title: Universiteit Antwerpen - Ned-Eng.xls
 slug: universiteit-antwerpen-ned-eng-xls
 description: Terminology from Universiteit Antwerpen - Ned-Eng.xls
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | music | A, A-groot, A-major |  |
 | physics | aan-uit schakelaar, single-throw switch |  |
 | geometry | aangeschreven cirkel van een driehoek, excircle of a triangle |  |

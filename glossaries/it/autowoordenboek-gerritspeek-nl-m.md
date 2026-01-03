@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl m
 slug: autowoordenboek-gerritspeek-nl-m
 description: Terminology from autowoordenboek gerritspeek.nl m
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | m (metre) | zie m (meter) |  |
 | M (midship engine) | middenmotor, midscheeps geplaatste motor |  |
 | M&S (mud and snow) tyre | buitenband geschikt voor rijden in modder en sneeuw, M&S band |  |

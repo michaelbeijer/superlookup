@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl y
 slug: autowoordenboek-gerritspeek-nl-y
 description: Terminology from autowoordenboek gerritspeek.nl y
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Y-joint | driewegverbindingsstuk |  |
 | Y-tube | Y-vormige buis |  |
 | yank tank | grote oude Amerikaanse auto van vóór '70 |  |

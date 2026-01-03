@@ -2,6 +2,7 @@
 title: VOCABULARY OF TECHNICAL TERMS ENGLISH, with translations of the terms into French, German, Italian, Portuguese, Spanish and Swedish (CIETA)
 slug: vocabulary-of-technical-terms-english-with-translations-of
 description: Terminology from VOCABULARY OF TECHNICAL TERMS ENGLISH, with translations of the terms into French, German, Italian, Portuguese, Spanish and Swedish (CIETA)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: textile
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Source | https://cieta.fr/cieta-vocabulaire/ |  |
 | Archived at | https://superlookup.wiki/archives/Textile/VOCABULARY-OF-TECHNICAL-TERMS-ENGLISH-%28CIETA%29.pdf |  |
 | [[File | CIETA.jpg\|thumb\|none\|808x808px]]none\|thumb\|810x810px |  |

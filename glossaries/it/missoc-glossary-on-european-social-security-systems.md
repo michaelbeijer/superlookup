@@ -2,6 +2,7 @@
 title: "MISSOC: Glossary on European social security systems (German, French, English and Dutch)"
 slug: missoc-glossary-on-european-social-security-systems
 description: "Terminology from MISSOC: Glossary on European social security systems (German, French, English and Dutch)"
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | D-I-01 | F-I-01, E-I-01, NL-I-01 |  |
 | D-I-02 | F-I-02, E-I-02, NL-I-02 |  |
 | D-I-03 | F-I-03, E-I-03, NL-I-03 |  |

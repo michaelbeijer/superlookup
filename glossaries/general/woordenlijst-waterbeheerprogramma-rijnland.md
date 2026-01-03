@@ -2,6 +2,7 @@
 title: Woordenlijst Waterbeheerprogramma (WBP6) Rijnland
 slug: woordenlijst-waterbeheerprogramma-rijnland
 description: Terminology from Woordenlijst Waterbeheerprogramma (WBP6) Rijnland
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | afvalwaterzuiveringsinstallatie (AWZI) | Een inrichting vaak onder beheer en in eigendom van het waterschap, waarmee het afvalwater van huishoudens en bedrijven wordt gezuiverd, dat via de riolering wordt aangevoerd. |  |
 | assetmanagement | gecoördineerde activiteiten binnen Rijnland met als doel maximale waarde (= maximale prestaties) te halen uit bedrijfsmiddelen zoals gemalen en afvalwaterzuiveringsinstallaties. |  |
 | bedrijfswaardenmatrix | Methodiek voor het dagelijks beoordelen van risico’s en het prioriteren van onze werkzaamheden. |  |

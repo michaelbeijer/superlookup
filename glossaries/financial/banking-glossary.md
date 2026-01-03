@@ -2,6 +2,7 @@
 title: Banking glossary (165 Dutch-English terms)
 slug: banking-glossary
 description: Terminology from Banking glossary (165 Dutch-English terms)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: financial
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aankruisen | tick, tap |  |
 | Aansprakelijkheidsverzekering | Liability insurance |  |
 | aanvraag product | application product |  |

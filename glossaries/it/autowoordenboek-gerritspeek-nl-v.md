@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl v
 slug: autowoordenboek-gerritspeek-nl-v
 description: Terminology from autowoordenboek gerritspeek.nl v
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | V-belt | ventilatorriem, V-riem, V-snaar |  |
 | V-block | motorblok in V-vorm |  |
 | V-cylinder block | cilinderblok in V-vorm |  |

@@ -2,6 +2,7 @@
 title: acronymbook5
 slug: acronymbook5
 description: Terminology from acronymbook5
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Abbreviation | Meaning |  |
 | BGCOLOR | Background Color |  |
 | BGCC; BGCC | BGCC; conferentie over de coördinatie van de gevechtsgroepen |  |

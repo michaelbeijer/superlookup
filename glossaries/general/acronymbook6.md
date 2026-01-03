@@ -2,6 +2,7 @@
 title: acronymbook6
 slug: acronymbook6
 description: Terminology from acronymbook6
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Abbreviation | Meaning |  |
 | ICADD | International Committee for Accessible Document Design |  |
 | I-Cache | Instruction Cache |  |

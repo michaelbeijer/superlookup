@@ -2,6 +2,7 @@
 title: 42 Dutch-English entries
 slug: 42-dutch-english-entries
 description: Terminology from 42 Dutch-English entries
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Behandel alle middelen met zorg | Treat resources with care |  |
 | Creëer waarde | Create value |  |
 | De wil om te slagen | Will to succeed |  |

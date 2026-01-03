@@ -2,6 +2,7 @@
 title: CIMAC Lexicon
 slug: cimac-lexicon
 description: Terminology from CIMAC Lexicon
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aandrijfas; motoras | driving shaft |  |
 | aandrijfketting | driving chain |  |
 | aangedreven as | driven shaft |  |

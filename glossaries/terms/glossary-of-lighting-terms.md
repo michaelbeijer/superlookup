@@ -2,6 +2,7 @@
 title: Glossary of lighting terms (lightculture.com.au)
 slug: glossary-of-lighting-terms
 description: Terminology from Glossary of lighting terms (lightculture.com.au)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Source | https://www.lightculture.com.au/the-enlightenment-series/definitions/ (retrieved 2025-03-08) |  |
 | IES File | A file format developed by the Illuminating Engineering Society (IES) of North America, used to store photometric data for lighting fixtures. It contains information such as the light distribution pattern, intensity, and colour of a particular luminaire. The IES file is used to simulate the lighting performance of a luminaire in a virtual environment, allowing for accurate lighting design and analysis. |  |
 | ''M classes | '' Mainly roads with motorised traffic, such as main roads and thoroughfares. Evaluation is based on the luminance method taking the road surface into consideration. In addition to the average illumination density, the overall and longitudinal uniformity are used as quality characteristics, as well as the environment illuminance ratio REI and the glare percentage value fTI . |  |

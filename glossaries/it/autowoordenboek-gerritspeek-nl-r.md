@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl r
 slug: autowoordenboek-gerritspeek-nl-r
 description: Terminology from autowoordenboek gerritspeek.nl r
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | R & R (Remove and Reinstall/Replace) | de- en monteren, vervangen |  |
 | R (reardrive) | achterwielaandrijving |  |
 | R (reverse) | achteruit (stand van versnellingsbak) |  |

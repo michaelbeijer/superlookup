@@ -2,6 +2,7 @@
 title: countries
 slug: countries
 description: Terminology from countries
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Algeria | Algerije |  |
 | Bahrain | Bahrein |  |
 | Egypt | Egypte |  |

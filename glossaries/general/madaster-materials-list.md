@@ -2,6 +2,7 @@
 title: Madaster Materials List (nl-en)
 slug: madaster-materials-list
 description: Terminology from Madaster Materials List (nl-en)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Material | Aarde, Soil, Aarde, Soil |  |
 | Material | ABS polymeren, ABS polymers, ABS,polymerenÂ , ABS, ABS Acrylonitrile butadiene styrene  polymer |  |
 | Material | Acryl, Acrylic, Acryl, Acrylic |  |

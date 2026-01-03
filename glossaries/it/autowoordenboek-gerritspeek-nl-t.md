@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl t
 slug: autowoordenboek-gerritspeek-nl-t
 description: Terminology from autowoordenboek gerritspeek.nl t
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | T (timing)-belt | distributieriem |  |
 | T type sliding handle | gewrichtshefboom |  |
 | TüV | Technischer überwachungs-Verein |  |

@@ -2,6 +2,7 @@
 title: Hot Air Balloons Glossary (bized.co.uk)
 slug: hot-air-balloons-glossary
 description: Terminology from Hot Air Balloons Glossary (bized.co.uk)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Actuals | The actual weather report at a given time. |  |
 | Anabatic Wind | Warm air flowing up hill as the sun has heated up the  mountainside surface. |  |
 | Anti-cyclone | Area of high pressure on a weather chart, with characteristics  of very stable air and light winds, generally good for ballooning. |  |

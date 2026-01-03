@@ -2,6 +2,7 @@
 title: Apple glossary (45,000 Dutch-English entries) - Part 2
 slug: apple-glossary-part-2
 description: Terminology from Apple glossary (45,000 Dutch-English entries) - Part 2
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Gecodeerde digitale audio | Encoded Digital Audio |  |
 | Gecodeerde gegevens | Encrypted Data |  |
 | Gecodeerde iChat | Encrypted iChat |  |

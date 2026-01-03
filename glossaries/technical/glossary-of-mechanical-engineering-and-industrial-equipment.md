@@ -2,6 +2,7 @@
 title: Glossary of Mechanical Engineering and Industrial Equipment (Dutch, German, English, French; 800 terms)
 slug: glossary-of-mechanical-engineering-and-industrial-equipment
 description: Terminology from Glossary of Mechanical Engineering and Industrial Equipment (Dutch, German, English, French; 800 terms)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Aanbouwset | Anbausatz, Mounting set, Set adaptable |  |
 | Aandrijfrol | Antriebsrolle, Drive roller, Rouleau d'entraînement |  |
 | Aandrijving | Antrieb, Drive, Système d'entrainement |  |

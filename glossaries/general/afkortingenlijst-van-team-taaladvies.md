@@ -2,6 +2,7 @@
 title: Afkortingenlijst van Team Taaladvies (de taaladviesdienst van de Vlaamse overheid)
 slug: afkortingenlijst-van-team-taaladvies
 description: Terminology from Afkortingenlijst van Team Taaladvies (de taaladviesdienst van de Vlaamse overheid)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AAF | ARK-Angels Fund |  |
 | AAG | adjunct-administrateur-generaal |  |
 | AAL | ambient assisted living |  |

@@ -2,6 +2,7 @@
 title: Dutch-English glossary with 1,654 entries (origin unknown)
 slug: dutch-english-glossary-with-1-654-entries
 description: Terminology from Dutch-English glossary with 1,654 entries (origin unknown)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 0; [wij] connectie leggen; [wij] leggen connectie | connect; associate; tie in; relate; link; colligate; link up, verb |  |
 | 0; [wij] denken | think; cogitate; cerebrate, verb |  |
 | 0; [wij] geven; [wij] overhandigen; verzoek tot ontvangen | pass; hand; reach; pass on; turn over; give, verb |  |

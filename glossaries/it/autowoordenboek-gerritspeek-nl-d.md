@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl d
 slug: autowoordenboek-gerritspeek-nl-d
 description: Terminology from autowoordenboek gerritspeek.nl d
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | D range | D-stand (van automatische versnellingsbak) |  |
 | D-PARC (Daigo-Proving ground And Research Center) | testbaan en onderzoekscentrum van bandenfabriek Yokohama Rubber Co., Tokyo, Japan |  |
 | D-VEC (Designed Visco-Elasticity Compounding Theory (a chemical binding of multiple polymers provides high traction even at high temperatures) | 1. loopvlaksamenstelling voor betere grip bij verschillende temperaturen (Yokohama buitenband A378 "91), |  |

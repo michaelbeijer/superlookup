@@ -2,6 +2,7 @@
 title: Tractor Glossary (English-Dutch)
 slug: tractor-glossary
 description: Terminology from Tractor Glossary (English-Dutch)
+type: glossary
 source_lang: en
 target_lang: nl
 domain: agriculture
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | English | Dutch | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | (bolts + washer + nut) | (bouten + ring + moer) |  |
 | 3-points hitch | driepunt trekhaak |  |
 | 4WD indicator | 4WD-indicator |  |

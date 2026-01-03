@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl g
 slug: autowoordenboek-gerritspeek-nl-g
 description: Terminology from autowoordenboek gerritspeek.nl g
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | G-KAT | geregelter Katalysator |  |
 | G.S.I. (galvanized sheet-iron) | gegalvaniseerd plaatstaal, verzinkt plaatstaal |  |
 | g | gram |  |

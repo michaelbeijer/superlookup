@@ -2,6 +2,7 @@
 title: Textile Glossary (Dutch, English, German, French)(‘2000-textieltermen.xls’)
 slug: textile-glossary
 description: Terminology from Textile Glossary (Dutch, English, German, French)(‘2000-textieltermen.xls’)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | garenboom; kettingboom; scheringboom; textielboom | warp beam; loom beam; beam, Kettbaum, ensouple de chaîne(f) |  |
 | aanbloeden | staining, Anbluten; Abfärben, décoloration |  |
 | aandraaien | tie, andrehen, rattacher |  |

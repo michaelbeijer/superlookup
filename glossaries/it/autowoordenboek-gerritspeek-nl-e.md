@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl e
 slug: autowoordenboek-gerritspeek-nl-e
 description: Terminology from autowoordenboek gerritspeek.nl e
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | E road | E-weg (is aangelegd om het vrije verkeer in Europa te bevorderen en loopt over autosnelwegen en N-wegen) |  |
 | E-gas (electronic gas) | cruise control (DAF FT 95.430) |  |
 | E-Gas (Electronic Gas/Electronic Speed Control) | 1. elektronische gasbediening (DAF ca. '87), |  |

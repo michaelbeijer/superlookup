@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl u
 slug: autowoordenboek-gerritspeek-nl-u
 description: Terminology from autowoordenboek gerritspeek.nl u
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | U-bend | U-bocht |  |
 | U-bolt | klemstrop, U-bout, veerstrop (van bladveer) |  |
 | U-gauge | U-meter (om slijtage aan draaipunt van remschoen te controleren) |  |

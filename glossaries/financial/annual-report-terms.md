@@ -2,6 +2,7 @@
 title: Annual report terms (251 Dutch-English entries)
 slug: annual-report-terms
 description: Terminology from Annual report terms (251 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: financial
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ABS | asset-backed securities (ABS) |  |
 | achtergestelde  schulden | subordinated debts |  |
 | advies | consultancy |  |

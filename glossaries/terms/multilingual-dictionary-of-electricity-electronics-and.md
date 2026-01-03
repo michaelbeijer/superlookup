@@ -2,6 +2,7 @@
 title: Multilingual Dictionary of Electricity, Electronics and Telecommunications with terms in nine languages and definitions in English (IEC/IEEE)
 slug: multilingual-dictionary-of-electricity-electronics-and
 description: Terminology from Multilingual Dictionary of Electricity, Electronics and Telecommunications with terms in nine languages and definitions in English (IEC/IEEE)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | [[File | Multilingual Dictionary of Electricity, Electronics and Telecommunications (IEEE).1.jpg\|thumb]] |  |
 | [[File | Multilingual Dictionary of Electricity, Electronics and Telecommunications (IEEE).2.jpg\|thumb]] |  |
 | [[File | Multilingual Dictionary of Electricity, Electronics and Telecommunications (IEEE).3.jpg\|thumb]]See: mescontact |  |

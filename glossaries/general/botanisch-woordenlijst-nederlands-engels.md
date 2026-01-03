@@ -2,6 +2,7 @@
 title: Botanisch woordenlijst Nederlands/Engels (John Bruinsma en Wim van der Ven)
 slug: botanisch-woordenlijst-nederlands-engels
 description: Terminology from Botanisch woordenlijst Nederlands/Engels (John Bruinsma en Wim van der Ven)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | d200304 | english, nederlands |  |
 | ? | _, heide, droge |  |
 | ? | _, heide, natte |  |

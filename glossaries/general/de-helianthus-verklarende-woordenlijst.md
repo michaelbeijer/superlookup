@@ -2,6 +2,7 @@
 title: De Helianthus - Verklarende woordenlijst
 slug: de-helianthus-verklarende-woordenlijst
 description: Terminology from De Helianthus - Verklarende woordenlijst
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | A | 1: Het aminozuur alanine. |  |
 | AA | 1: Aminozuur. |  |
 | AAA | Aneurysma aortae abdominalis, oftewel aneurysma van de abdominale aorta. |  |

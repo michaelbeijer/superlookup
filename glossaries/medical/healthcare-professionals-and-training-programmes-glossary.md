@@ -2,6 +2,7 @@
 title: Healthcare professionals and training programmes Glossary (178 Dutch-English entries)
 slug: healthcare-professionals-and-training-programmes-glossary
 description: Terminology from Healthcare professionals and training programmes Glossary (178 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: medical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aandachtspunten beleid | policy focus areas |  |
 | advies | recommendation, advice |  |
 | agoog | social welfare worker |  |

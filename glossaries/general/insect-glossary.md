@@ -2,6 +2,7 @@
 title: Insect glossary (79 Dutch-English-Latin entries)
 slug: insect-glossary
 description: Terminology from Insect glossary (79 Dutch-English-Latin entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ??? | Alfalfa looper, Autographa californica |  |
 | ??? | Artichoke plume moth, Platyptilia carduidactyla |  |
 | ??? | Asian corn borer, Ostrinia furnacalis |  |

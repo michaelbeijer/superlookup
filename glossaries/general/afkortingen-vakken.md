@@ -2,6 +2,7 @@
 title: Afkortingen vakken (Huygens College)
 slug: afkortingen-vakken
 description: Terminology from Afkortingen vakken (Huygens College)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AK | Aardrijkskunde |  |
 | BECO | Bedrijfseconomie |  |
 | BHA | Beeldende vorming handvaardigheid |  |

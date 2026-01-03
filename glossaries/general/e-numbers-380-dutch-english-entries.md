@@ -2,6 +2,7 @@
 title: E-numbers - 380 Dutch-English entries
 slug: e-numbers-380-dutch-english-entries
 description: Terminology from E-numbers - 380 Dutch-English entries
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | acesulfaam K | acesulfame K, (E-number: E950) |  |
 | adipinezuur | adipic acid, (E-number: E355 ) |  |
 | agar | agar, (E-number: E406 ) |  |

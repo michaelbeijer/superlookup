@@ -2,6 +2,7 @@
 title: Glossary of Distributed Ledger and Edge Computing Terms (English-Dutch)
 slug: glossary-of-distributed-ledger-and-edge-computing-terms
 description: Terminology from Glossary of Distributed Ledger and Edge Computing Terms (English-Dutch)
+type: glossary
 source_lang: en
 target_lang: nl
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | English | Dutch | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | associated with | geassocieerd met / die verband houden met, "Geassocieerd met" is preferred for logical data relationships; "verband houden met" is standard legal phrasing. Avoid "gekoppeld aan" (reserved for physical coupling). |  |
 | child distributed ledger | onderliggend gedistribueerd grootboek, In a hierarchy. Avoid "kind". |  |
 | claim | conclusie, Strict terminology for patent law. Never use "claim" or "eis". |  |

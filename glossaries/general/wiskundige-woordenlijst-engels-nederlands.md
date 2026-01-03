@@ -2,6 +2,7 @@
 title: Wiskundige woordenlijst Engels-Nederlands (M. Keizer, 1994)
 slug: wiskundige-woordenlijst-engels-nederlands
 description: Terminology from Wiskundige woordenlijst Engels-Nederlands (M. Keizer, 1994)
+type: glossary
 source_lang: en
 target_lang: nl
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | English | Dutch | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | abscissa | x-as, x-coördinaat |  |
 | accummulation point | verdichtingspunt; ophopingspunt |  |
 | accuracy | nauwkeurigheid |  |

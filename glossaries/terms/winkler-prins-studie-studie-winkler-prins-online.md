@@ -2,6 +2,7 @@
 title: Winkler Prins Studie / Studie Winkler Prins online
 slug: winkler-prins-studie-studie-winkler-prins-online
 description: Terminology from Winkler Prins Studie / Studie Winkler Prins online
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | https | //www.britannica.com/topic/Winkler-Prins-Encyclopedie |  |
 | https | //en.wikipedia.org/wiki/Winkler_Prins ⇄ https://nl.wikipedia.org/wiki/Winkler_Prins_Encyclopedie |  |
 | https | //www.winklerprins.com/ |  |

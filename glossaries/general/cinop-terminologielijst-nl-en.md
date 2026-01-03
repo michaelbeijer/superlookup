@@ -2,6 +2,7 @@
 title: CINOP terminologielijst NL-EN (81 Dutch-English entries)
 slug: cinop-terminologielijst-nl-en
 description: Terminology from CINOP terminologielijst NL-EN (81 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Schooldecaan | career teacher  (<nowiki>https://nl.wikipedia.org/wiki/Decaan_(studieadviseur))</nowiki> |  |
 | A&O-fonds | Labour Market and Training Fund |  |
 | AOB | Regional Career Guidance Offices |  |

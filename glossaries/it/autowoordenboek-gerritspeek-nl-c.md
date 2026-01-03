@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl c
 slug: autowoordenboek-gerritspeek-nl-c
 description: Terminology from autowoordenboek gerritspeek.nl c
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | C beam | U-profiel |  |
 | C brake | uitlaatrem die een aangepaste ontwikkeling is van de Jacobs Brake waarbij de uitlaatkleppen van de motor vóór het einde van de compressieslag worden geopend zodat de motor op elke slag remt en de zuigers niet aan te grote krachten worden blootgesteld (is Cummins-patent op 500 pk Cummins motor in DAF 95.500 '95) |  |
 | c of g (centre of gravity) | zwaartepunt |  |

@@ -2,6 +2,7 @@
 title: links
 slug: links
 description: Terminology from links
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -21,7 +22,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | [https | //ai4languageprofessionals.groups.io/g/main AI4LanguageProfessionals.groups.io] (A group created to exchange information about AI for translators, sponsored by CotranslatorAI. Discussion of other programs and AI solutions is also welcome.) |  |
 | [https | //groups.io/g/memoQ memoQ@groups.io] (Discussion forum for users of the memoQ CAT software.) |  |
 | [https | //groups.io/g/TheOriginalVertalers TheOriginalVertalers@groups.io] (Sinds september 1998 staat een voortdurend groeiende groep vertalers Nederlands in de hele wereld met elkaar in verbinding via de vertalerslijst, opgericht door Laura Blijleven-Bergmans, en sinds 2001 beheerd door Marga Blankestijn en Willem Witteveen. Vertalers van en naar alle talen zijn welkom.) |  |

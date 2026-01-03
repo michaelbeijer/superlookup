@@ -2,6 +2,7 @@
 title: acronymbook7
 slug: acronymbook7
 description: Terminology from acronymbook7
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Abbreviation | Meaning |  |
 | FOCS | Fiber Optic Chemical Sensor |  |
 | EYP; EJP | European Youth Parliament; Europees Jongerenparlement |  |

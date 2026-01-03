@@ -2,6 +2,7 @@
 title: General Abbreviations (Who’s Who 2024)
 slug: general-abbreviations
 description: Terminology from General Abbreviations (Who’s Who 2024)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AA | Anti-aircraft |  |
 | AAA | Amateur Athletic Association |  |
 | AAAL | American Academy of Arts and Letters |  |

@@ -2,6 +2,7 @@
 title: Glossary of terms – Court Events (justice.gov.uk)
 slug: glossary-of-terms-court-events
 description: Terminology from Glossary of terms – Court Events (justice.gov.uk)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: legal
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Adjourned | The case has been adjourned. |  |
 | Appeal Interpreter Sworn | An appeal could require one or more interpreters for the witnesses and/or the appellants. All interpreters are required to take an oath prior to performing interpretations for the court. |  |
 | Appeal Witness continues | The specified witness continues to give evidence. |  |

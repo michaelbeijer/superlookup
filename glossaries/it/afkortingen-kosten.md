@@ -2,6 +2,7 @@
 title: Afkortingen kosten (Koninklijk Besluit van 30 november 1976)
 slug: afkortingen-kosten
 description: Terminology from Afkortingen kosten (Koninklijk Besluit van 30 november 1976)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Vast recht | VR, Art. 6 |  |
 | Idem als het vast recht, maar per bijkomende persoon. | VRK, Art. 6 |  |
 | Aanmaning per brief waarbij met vervolging wordt gedreigd. | AANM, Art. 7 |  |

@@ -2,6 +2,7 @@
 title: Tilburg University - Dutch-English Glossary of University related terms (1,657 entries)
 slug: tilburg-university-dutch-english-glossary-of-university
 description: Terminology from Tilburg University - Dutch-English Glossary of University related terms (1,657 entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aanvraag | application |  |
 | aanvrager | applicant |  |
 | aard | nature |  |

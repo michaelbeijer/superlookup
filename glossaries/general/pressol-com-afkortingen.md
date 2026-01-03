@@ -2,6 +2,7 @@
 title: Pressol.com - Afkortingen
 slug: pressol-com-afkortingen
 description: Terminology from Pressol.com - Afkortingen
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 1 SN | hogedruk slang, DIN 20 022 (EN 853), Deel 3, passend bij SAE 100 R 1 T, met één gaasinleg |  |
 | 1~AC | 1-phase alternating current; Wisselstroom |  |
 | 2 SN | hogedrukslang, DIN 20 022 (EN 853), Deel 4, passend bij SAE 100 R 2 T, met twee gaasinleg |  |

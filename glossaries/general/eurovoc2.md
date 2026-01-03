@@ -2,6 +2,7 @@
 title: EuroVoc2
 slug: eurovoc2
 description: Terminology from EuroVoc2
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ontbossing, boomvelling | deforestation, felling of trees |  |
 | onteigening | expropriation |  |
 | ontginning | clearing of land |  |

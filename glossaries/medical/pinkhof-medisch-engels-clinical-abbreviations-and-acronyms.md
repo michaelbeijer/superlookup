@@ -2,6 +2,7 @@
 title: Pinkhof Medisch Engels - Clinical Abbreviations and Acronyms
 slug: pinkhof-medisch-engels-clinical-abbreviations-and-acronyms
 description: Terminology from Pinkhof Medisch Engels - Clinical Abbreviations and Acronyms
+type: glossary
 source_lang: nl
 target_lang: en
 domain: medical
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ? … | query …, verdacht voor… |  |
 | a | arterial, arterieel |  |
 | a.m. | in the morning, ochtend; 's ochtends |  |

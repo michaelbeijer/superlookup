@@ -2,6 +2,7 @@
 title: Dastex.com Verklarende woordenlijst
 slug: dastex-com-verklarende-woordenlijst
 description: Terminology from Dastex.com Verklarende woordenlijst
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | B | Bactericide, Enkele actieve stof of mengsel dat bacteriën doodt. |  |
 | C | Cellulose (CEL), Algemene benaming voor pulp die hoofdzakelijk bestaat uit cellulose afkomstig van plantencelwanden, vooral van bomen, of van de korte haren van katoenzaad (de zogenaamde linter). |  |
 | E | Effenbinding, Deze stof toont aan de boven- en onderzijde van de stof hetzelfde beeld; elke kettingdraad kruist afwisselend een inslagdraad; zie ook keperbinding. |  |

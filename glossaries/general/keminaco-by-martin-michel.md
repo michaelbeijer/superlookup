@@ -2,6 +2,7 @@
 title: Keminaco, by Martin Michel (Risk & Safety Phrases + Hazard & Precautionary Statements)
 slug: keminaco-by-martin-michel
 description: Terminology from Keminaco, by Martin Michel (Risk & Safety Phrases + Hazard & Precautionary Statements)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | R1 | In droge toestand ontplofbaar., Explosive when dry. |  |
 | R2 | Ontploffingsgevaar door schok, wrijving, vuur of andere ontstekingsoorzaken., Risk of explosion by shock, friction, fire or other sources of ignition. |  |
 | R3 | Ernstig ontploffingsgevaar door schok, wrijving, vuur of andere ontstekingsoorzaken., Extreme risk of explosion by shock, friction, fire or other sources of ignition. |  |

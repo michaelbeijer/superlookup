@@ -2,6 +2,7 @@
 title: Glossary of Dutch Procedural Terminology (Netherlands Commercial Court, NCC)
 slug: glossary-of-dutch-procedural-terminology
 description: Terminology from Glossary of Dutch Procedural Terminology (Netherlands Commercial Court, NCC)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: legal
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aangewezen rechter | designated court / judge |  |
 | aanhangig | pending |  |
 | (dag waarop) aanhangig is gemaakt | (day on which) the case is made pending |  |

@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl h
 slug: autowoordenboek-gerritspeek-nl-h
 description: Terminology from autowoordenboek gerritspeek.nl h
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | h (hour) | h (uur) (eenheid van tijd) |  |
 | H (hump) | 1. bolvormige verhoging op velg, |  |
 | H-rated | H-type buitenband (goedgekeurd voor snelheden tot 210 km/h) |  |

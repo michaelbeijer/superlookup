@@ -2,6 +2,7 @@
 title: Eurocode vertaallijst
 slug: eurocode-vertaallijst
 description: Terminology from Eurocode vertaallijst
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 0.01 | (Council) Regulation, Règlement, Verordening (van de Raad), zoals b.v. het project Verordening Bouwproducten |  |
 | 0.02 | (Council) Resolution, Résolution, Besluit (van de Raad), besluit van de Raad |  |
 | 2.04 | accidental (design) situation, situation (de projet) accidentelle, außergewöhnliche (…) Situation, buitengewone (ontwerp)situatie, buitengewone (ontwerp)toestand, Nl: bijzondere (ontwerp)toestand, B: accidentele toestand |  |

@@ -2,6 +2,7 @@
 title: Verklarende woordenlijst naaitermen Engels-Nederlands (naaipatronen.nl)
 slug: verklarende-woordenlijst-naaitermen-engels-nederlands
 description: Terminology from Verklarende woordenlijst naaitermen Engels-Nederlands (naaipatronen.nl)
+type: glossary
 source_lang: en
 target_lang: nl
 domain: textile
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | English | Dutch | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Above | Boven |  |
 | Accessories | Accessoires, extra benodigdheden |  |
 | Actual size | Ware grootte |  |

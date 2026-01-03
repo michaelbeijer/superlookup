@@ -2,6 +2,7 @@
 title: Inventory of Federal Tax Expenditures (PFPS Finance)(Dutch, English, French)
 slug: inventory-of-federal-tax-expenditures
 description: Terminology from Inventory of Federal Tax Expenditures (PFPS Finance)(Dutch, English, French)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: financial
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | “Internet voor iedereen” en  "Start2surf@home"-pakket | Internet for everyone and   "Start2surf@home" package, Internet pour tous et opération Start2surf@home |  |
 | 21,5 % voor het Belgisch Interventie-en  Restitutiebureau | 21,5% "Bureau d'Intervention et de Restitution belge" ^ "  Belgisch Interventie- en Restitutiebureau", 21,5% pour le Bureau d'Intervention et de Restitution belge |  |
 | 21,5 % voor het Belgisch Interventie-en  Restitutiebureau | 21,5% "Bureau d'Intervention et de Restitution belge" / "  Belgisch Interventie- en Restitutiebureau", 21,5% pour le Bureau d'Intervention et de Restitution belge |  |

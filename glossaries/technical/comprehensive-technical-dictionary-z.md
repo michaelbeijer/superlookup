@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - Z
 slug: comprehensive-technical-dictionary-z
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - Z
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Z | METEO., (south) S |  |
 | Z-afbuiging | ELECTRON., Z deflection |  |
 | z-as | GEOM., z-axis |  |

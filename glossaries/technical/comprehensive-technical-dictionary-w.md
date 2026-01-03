@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - W
 slug: comprehensive-technical-dictionary-w
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - W
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | W | METEO., 1. (wolfraam) tungsten; 2. (west) W |  |
 | W-motor | AEROSP., W engine |  |
 | W-profiel | ~, W-beam |  |

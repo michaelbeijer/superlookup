@@ -2,6 +2,7 @@
 title: Multiligual set of R and S phrases, courtesy of Marek Pawelec
 slug: multiligual-set-of-r-and-s-phrases-courtesy-of-marek-pawelec
 description: Terminology from Multiligual set of R and S phrases, courtesy of Marek Pawelec
+type: glossary
 source_lang: nl
 target_lang: en
 domain: legal
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Aanraking met de huid vermijden. | Avoid contact with skin., (Risk and Safety Statements: S24) |  |
 | Aanraking met de ogen en de huid vermijden. | Avoid contact with skin and eyes., (Risk and Safety Statements: S24/25) |  |
 | Aanraking met de ogen vermijden. | Avoid contact with eyes., (Risk and Safety Statements: S25) |  |

@@ -2,6 +2,7 @@
 title: acronymbook1
 slug: acronymbook1
 description: Terminology from acronymbook1
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Abbreviation | Meaning |  |
 | PMB; polymeergemodificeerde bitumen | polymer modified bitumen; PMB |  |
 | SAP | Structural Adjustment Programme |  |

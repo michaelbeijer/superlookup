@@ -2,6 +2,7 @@
 title: Thesaurus Zorg en Welzijn (TZW)(extract)
 slug: thesaurus-zorg-en-welzijn
 description: Terminology from Thesaurus Zorg en Welzijn (TZW)(extract)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: medical
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Source | https://thesauruszorgenwelzijn.multites.net/ (retrieved 2025-05-11) |  |
 | Term | psychische problemen |  |
 | Definition | verzamelnaam voor psychosociale problemen en psychische stoornissen |  |

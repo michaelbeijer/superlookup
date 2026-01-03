@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl z
 slug: autowoordenboek-gerritspeek-nl-z
 description: Terminology from autowoordenboek gerritspeek.nl z
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Zalm Cup | eenvoudige viscositeitsmeter voor lak, trechter om viscositeit van lak te meten |  |
 | zebra crossing | voetgangersoversteekplaats, zebrapad |  |
 | Zeiger (Ls) | taximeter (in Londense taxi) |  |

@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - J
 slug: comprehensive-technical-dictionary-j
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - J
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | J | ~, joule |  |
 | J-band | ~, J-band |  |
 | J-integraal | ~, (bij materiaalproef) J-integral |  |

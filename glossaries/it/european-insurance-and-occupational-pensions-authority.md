@@ -2,6 +2,7 @@
 title: European Insurance and Occupational Pensions Authority (EIOPA) Glossary (214 Dutch-English entries)
 slug: european-insurance-and-occupational-pensions-authority
 description: Terminology from European Insurance and Occupational Pensions Authority (EIOPA) Glossary (214 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | (methode van) aftrek en aggregatie | deduction and aggregation method, Domain: 24-FINANCE 2431-Insurance 24-FINANCE 2431-Insurance, IATE ID: 3563265 |  |
 | aan een index gekoppelde verzekering | index-linked insurance, Domain: 24-FINANCE 2431-Insurance 24-FINANCE 2431-Insurance, IATE ID: 3563296 |  |
 | aan een index gekoppelde  verzekeringsovereenkomst | index-linked contract, Domain: 24-FINANCE 2431-Insurance 24-FINANCE 2431-Insurance, IATE ID: 3563295 |  |

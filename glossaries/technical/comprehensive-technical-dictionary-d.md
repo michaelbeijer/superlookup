@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - D
 slug: comprehensive-technical-dictionary-d
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - D
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | D-carvon | CHEM.TECHN., D-carvon |  |
 | D-dakstijl | AUTOMOT., D-pillar, D-post |  |
 | D-flens | ~, D flange |  |

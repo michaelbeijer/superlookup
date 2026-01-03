@@ -2,6 +2,7 @@
 title: Thematische woordenschat Engels - Bouwen, gebouwen en bewoners (woordjesleren.nl)
 slug: thematische-woordenschat-engels-bouwen-gebouwen-en-bewoners
 description: Terminology from Thematische woordenschat Engels - Bouwen, gebouwen en bewoners (woordjesleren.nl)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: construction
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | build, built, built | bouwen (b) |  |
 | built of stone | gemaakt uit stenen |  |
 | building material | bouwmateriaal |  |

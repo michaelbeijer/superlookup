@@ -2,6 +2,7 @@
 title: EUFOFINET Fire Glossary (List of Abbreviations and Acronyms)
 slug: eufofinet-fire-glossary
 description: Terminology from EUFOFINET Fire Glossary (List of Abbreviations and Acronyms)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AFA | Australasian Fire and Emergency Service Authorities Council |  |
 | AH | Absolute Humidity |  |
 | AIIMS | Australasian Inter-service Incident Management System |  |

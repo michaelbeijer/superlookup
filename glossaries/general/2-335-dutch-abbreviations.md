@@ -2,6 +2,7 @@
 title: 2,335 Dutch abbreviations
 slug: 2-335-dutch-abbreviations
 description: Terminology from 2,335 Dutch abbreviations
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | A en V | Tijdschrift voor aansprakelijkheid en verzekering |  |
 | A&V | Aansprakelijkheid en verzekering |  |
 | A-G | Advocaat-Generaal |  |

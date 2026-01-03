@@ -2,6 +2,7 @@
 title: List of Abbreviations 2 (Origin unknown)
 slug: list-of-abbreviations-2
 description: Terminology from List of Abbreviations 2 (Origin unknown)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | °C | Degrees Celsius |  |
 | µSv | Micro Sieverts |  |
 | AADQ | Annual Authorized Discharged Quantities |  |

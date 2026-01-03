@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl i
 slug: autowoordenboek-gerritspeek-nl-i
 description: Terminology from autowoordenboek gerritspeek.nl i
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | I-beam | I-balk |  |
 | i-Butanol (isobutanol) | i-Butanol (isobutanol) (oplosmiddel in lak) |  |
 | i-Four (Intelligent 4WD Integrated Control System) | intelligent vierwielaandrijvingssysteem dat bestaat uit elektronische permanente vierwielaandrijving, anti-blokkeerremsysteem, elektronische luchtvering, elektronische brandstofinjectie, elektronische trans missie en actieve vierwielbesturing (Toyota '93) |  |

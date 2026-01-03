@@ -2,6 +2,7 @@
 title: digitalSkillsCollection (ESCO classification)
 slug: digitalskillscollection
 description: Terminology from digitalSkillsCollection (ESCO classification)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Haskell | Haskell, Haskell, De technieken en beginselen van softwareontwikkeling, zoals analyses, algoritmen, coderen, testen en compileren van programmeerparadigma’s in Haskell., The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Haskell. |  |
 | incrementele ontwikkeling | Incremental development, oplopende ontwikkeling, Incremental development, Het incrementele ontwikkelingsmodel is een methode voor het ontwerpen van softwaresystemen en toepassingen., The incremental development model is a methodology to design software systems and applications. |  |
 | KDevelop | KDevelop, KDevelop 4.7.0 \| KDevelop 4.6.0 \| KDevelop 4.0.0 \| KDevelop \| KDevelop 5.0.0, Het computerprogramma KDevelop bestaat uit een reeks softwareontwikkelingsinstrumenten voor het schrijven van programma’s, zoals een compiler, debugger, code-editor, syntaxiskleuring, die zijn gebundeld in een uniforme gebruikersinterface. Het wordt ontwikkeld door de software-gemeenschap KDE., The computer program KDevelop is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software community KDE. |  |

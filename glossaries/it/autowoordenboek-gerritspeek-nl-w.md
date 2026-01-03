@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl w
 slug: autowoordenboek-gerritspeek-nl-w
 description: Terminology from autowoordenboek gerritspeek.nl w
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Wä | Wärmeschutzglas |  |
 | W. (watt) | W (watt) |  |
 | W.S.W. (white side wall) | wit zijvlak (van buitenband) |  |

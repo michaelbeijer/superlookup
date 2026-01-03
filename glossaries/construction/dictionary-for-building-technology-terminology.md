@@ -2,6 +2,7 @@
 title: Dictionary for Building Technology Terminology (Technische Universiteit Delft)
 slug: dictionary-for-building-technology-terminology
 description: Terminology from Dictionary for Building Technology Terminology (Technische Universiteit Delft)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: construction
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aanbesteden | to tender, contract out |  |
 | aanbesteding | submission, (public) tender |  |
 | aanbouten | to connect with bolts |  |

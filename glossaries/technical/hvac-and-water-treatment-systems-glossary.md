@@ -2,6 +2,7 @@
 title: HVAC and water treatment systems glossary
 slug: hvac-and-water-treatment-systems-glossary
 description: Terminology from HVAC and water treatment systems glossary
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aan de  luchtzijde | air side |  |
 | aanbouwdelen | additional components |  |
 | aansluitgedeelte | connection part |  |

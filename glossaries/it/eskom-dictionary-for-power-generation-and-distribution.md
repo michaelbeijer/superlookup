@@ -2,6 +2,7 @@
 title: Eskom Dictionary for power generation and distribution (English-Afrikaans)
 slug: eskom-dictionary-for-power-generation-and-distribution
 description: Terminology from Eskom Dictionary for power generation and distribution (English-Afrikaans)
+type: glossary
 source_lang: en
 target_lang: af
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | English | Afrikaans | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Archived at | https://superlookup.wiki/archives/Eskom-woordeboek-1986.pdf |  |
 | A (ampêre) | A (ampêre) |  |
 | A (angstrom)* | A (angstrom)* (10"1° m) |  |

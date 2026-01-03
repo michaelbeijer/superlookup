@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl 0-9
 slug: autowoordenboek-gerritspeek-nl-0-9
 description: Terminology from autowoordenboek gerritspeek.nl 0-9
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 0,31 Cx | luchtweerstandscoëfficiënt van 0,31 |  |
 | 12,000-pound front axle | vooras met een draagvermogen van 5.500 kg |  |
 | 16 vs (valves) | 16 kleppen |  |

@@ -2,6 +2,7 @@
 title: Statistics Glossary (3,517 Dutch-English entries)
 slug: statistics-glossary
 description: Terminology from Statistics Glossary (3,517 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 2x2-tabel ; twee-bij-twee frequentietabel | four-fold table ; two-by-two frequency table |  |
 | a posteriori waarschijnlijkheid | posterior probability |  |
 | a priori waarschijnlijkheid | prior probability ; a priori probability |  |

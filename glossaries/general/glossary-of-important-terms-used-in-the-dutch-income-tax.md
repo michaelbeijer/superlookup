@@ -2,6 +2,7 @@
 title: Glossary of important terms used in the Dutch Income Tax Act 2001 (tax-consultants-international.com)
 slug: glossary-of-important-terms-used-in-the-dutch-income-tax
 description: Terminology from Glossary of important terms used in the Dutch Income Tax Act 2001 (tax-consultants-international.com)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Accelerated Depreciation | Vervroegde afschrijving |  |
 | Accumulated Income | Verzamelinkomen |  |
 | Act of the Education Allowances | Wet op de studiefinanciering |  |

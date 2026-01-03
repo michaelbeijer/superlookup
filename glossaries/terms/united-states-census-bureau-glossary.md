@@ -2,6 +2,7 @@
 title: United States Census Bureau Glossary (www.census.gov)
 slug: united-states-census-bureau-glossary
 description: Terminology from United States Census Bureau Glossary (www.census.gov)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | First Mortgage | A mortgage having priority over all other voluntary liens against the property. A first mortgage gives the lender a first claim against the owner's rights in the property if the owner fails to meet the required payments on the mortgage. |  |
 | Second Mortgage | A junior mortgage that ranks after a first mortgage in priority. Properties may have two, three, or more mortgages, deeds of trust, or land contracts, as liens at the same time. Legal priority would determine whether they are called a first, second, third, etc. lien. |  |
 | Deed of Trust | An instrument used in many states in place of a mortgage. The difference between a mortgage and a deed of trust is that a deed of trust involves a third party, known as the trustee, who has technical title to the property. Trust deeds, trusts, mortgage bonds, and vendor's liens are similar terms used in various parts of the country. |  |

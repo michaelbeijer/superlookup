@@ -2,6 +2,7 @@
 title: Automotive terms (W.P. Barendsen & D. Belau, 2001)
 slug: automotive-terms
 description: Terminology from Automotive terms (W.P. Barendsen & D. Belau, 2001)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: automotive
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 2(4)-stroke | 2(4)takt, Zwei- (Vier-) Takt |  |
 | accelerating | optrekken, beschleunigen |  |
 | adjusting screw | stelschroef, Einstellschraube |  |

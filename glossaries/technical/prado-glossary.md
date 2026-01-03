@@ -2,6 +2,7 @@
 title: PRADO glossary (Technical terms related to security features and documents)(nl-en)(Council of the European Union)
 slug: prado-glossary
 description: Terminology from PRADO glossary (Technical terms related to security features and documents)(nl-en)(Council of the European Union)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | nl | Aanvullende beveiliging, en, Additional Safeguard |  |
 | 1 | transparant venstertje, 1, transparent window |  |
 | nl | Wijze van aanbrengen, en, Application Technique |  |

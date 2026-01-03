@@ -2,6 +2,7 @@
 title: Apple glossary (45,000 Dutch-English entries) - Part 1
 slug: apple-glossary-part-1
 description: Terminology from Apple glossary (45,000 Dutch-English entries) - Part 1
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 128 kbits/seconde | 128 kbits/second |  |
 | 128 kbps AAC-audio | 128 kbps AAC audio |  |
 | 128-bits AES-codering (aanbevolen) | 128-bit AES encryption (recommended) |  |

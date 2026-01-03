@@ -2,6 +2,7 @@
 title: Diamond Glossary (168 Dutch-English entries)
 slug: diamond-glossary
 description: Terminology from Diamond Glossary (168 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 0,2 gram = 1 karaat  = 100 punten | 0.2 grams = 1 carat = 100 points |  |
 | achtkant | eight cut diamond |  |
 | alle zuiverheidsbepalende kenmerken  optekenen | to note down all characteristics having a bearing on the clarity |  |

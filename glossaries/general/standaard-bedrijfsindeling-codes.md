@@ -2,6 +2,7 @@
 title: Standaard Bedrijfsindeling codes (SBI-codes)
 slug: standaard-bedrijfsindeling-codes
 description: Terminology from Standaard Bedrijfsindeling codes (SBI-codes)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | december 2022 | December 2022 |  |
 | A Landbouw, bosbouw en visserij | A Agriculture, forestry and fishing |  |
 | Landbouw, jacht en dienstverlening voor de landbouw en jacht | Agriculture and related service activities |  |

@@ -2,6 +2,7 @@
 title: "Covid-19 Terminology: English-Dutch, Engels-Nederlands (Oxford Languages)"
 slug: covid-19-terminology-english-dutch-engels-nederlands
 description: "Terminology from Covid-19 Terminology: English-Dutch, Engels-Nederlands (Oxford Languages)"
+type: glossary
 source_lang: en
 target_lang: nl
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | English | Dutch | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | n | antibody, de, antistof |  |
 | rowspan="2" \|adj | rowspan="2" \|asymptomatic, rowspan="2" \|, asymptomatisch |  |
 | n | basic reproduction number (R0), rowspan="2" \|het, rowspan="2" \|basisreproductiegetal |  |

@@ -1,1691 +1,2657 @@
 ---
-title: Technical glossary (1,674 Dutch-English terms)
+title: Technical glossary (2636 Dutch-English entries)
 slug: technical-glossary
-description: Terminology from Technical glossary (1,674 Dutch-English terms)
+description: Terminology from Technical glossary (2636 Dutch-English entries)
 source_lang: nl
 target_lang: en
 domain: technical
-term_count: 1670
-source_url: "https://superlookup.wiki/wiki/Technical_glossary_(1,674_Dutch-English_terms)"
+term_count: 2636
+source_url: "https://superlookup.wiki/wiki/Technical_glossary_(2636_Dutch-English_entries)"
 last_updated: 2026-01-03
 tags:
   - Technical
   - Origin unknown
 ---
 
-# Technical glossary (1,674 Dutch-English terms)
+# Technical glossary (2636 Dutch-English entries)
 
 ## Terms
 
 | Dutch | English | Notes |
 |-------|---------|-------|
-| (accu)lader | charger |  |
-| (accu)zuur | acid |  |
-| (binnen) diameter | bore |  |
-| (door)spoelen / vlak liggen | flush |  |
-| (hard)solderen | brazing |  |
-| (lang)vezelige vervuiling | fibrous pollutant |  |
-| (motor)inhoud verliezen / verspilling | displacement dissipate |  |
-| (ont)brandbaar | flammable |  |
-| (over)lopen/vloeien / overstromen / onderwater zetten | flood |  |
-| (pas)pen | dowel |  |
-| (pomphuis) voet | support |  |
-| (V-)snaar / riem | belt |  |
-| 4-deurs auto | saloon |  |
-| aandrijf tandwiel(en) | drive gear |  |
-| aandrijfas | driveshaft |  |
-| aandrijfas / prise as | input shaft |  |
-| aandrijfas eindstuk | driveshaft gaiter |  |
-| aandrijfas koppelstuk | driveshaft joint |  |
-| aandrijfriem | drive belt |  |
-| aandrijvend tandwiel | driving gear |  |
-| aangedreven starre as | live axle |  |
-| aangedreven zijde uiteinde | drive end |  |
-| aangrijpen van koppeling / remmen | grabbing (clutch, brake) |  |
-| aanhaalmoment | torque wrench setting |  |
-| aanhaalmoment / aandraaimoment | tightening torque |  |
-| aanhangsel (mechanisch) | relay (mech.) |  |
-| aanslagschroef | stop screw |  |
-| aansluitdoos | connecting box |  |
-| aansluiten / verbinden | join |  |
-| aansluiting / verbinding | joint |  |
-| aansluitpunt | connecting link |  |
-| aansluitpunt / accupool | terminal |  |
-| aansluitring | ring terminal |  |
-| aantal / getal | number |  |
-| aanzuigbuis / hulp venturi | barrel (of carburetor) |  |
-| aanzuigen / opvoeren / grondverven / handmatig bedienen | priming |  |
-| aarde (- massa) | earth (-) |  |
-| aarde / massa test pen | earth probe |  |
-| aarde / massa verbinding | earth connection |  |
-| aarde / min / massa | ground |  |
-| aardingspunt | earth strap |  |
-| absolute druk in spruitstuk | manifold absolute pressure |  |
-| absorptie materiaal | absorber |  |
-| acceleratie pomp | accelerator pump |  |
-| accessoires | fittings |  |
-| accu | accumulator |  |
-| accu kabel | battery cable |  |
-| accu leeg maken / ontladen | drain the battery |  |
-| achter ruit | rear window |  |
-| achteras | rear axle |  |
-| achterasverhouding | rear axle ratio |  |
-| achterlicht | tail light |  |
-| achterlichten | rear lights |  |
-| achterschot | tailgate |  |
-| achteruit (versnelling) | reverse (gear) |  |
-| achteruitrijlamp | reversing light |  |
-| actieve wielophanging | linked suspension |  |
-| adapter / tussenstuk | adapter |  |
-| af drijven / doorslag | drift |  |
-| afbuigplaat / spatplaat | deflector (airflow) |  |
-| afdichting / pakking | seal |  |
-| afdichtingsmassa | jointing compound |  |
-| afdichtmiddel | sealant |  |
-| afdichtstrip | weather strip |  |
-| afgeveerd gewicht | sprong mass |  |
-| aflaat ventiel | relief valve |  |
-| afronden | round off |  |
-| afsluitgroef | sealing groove |  |
-| afstandsstuk | distance piece |  |
-| afstandstuk | spacer |  |
-| afstel merkteken | timing mark |  |
-| afstellamp | timing light |  |
-| afstellen | tuning |  |
-| aftap punt | drain |  |
-| aftapkraan | drain cock |  |
-| aftapplug | drain plug |  |
-| afvoerpomp (bij carterloze motor) | scavenge pump |  |
-| afzetting (vuil) | deposit |  |
-| airbag | airbag |  |
-| airconditioning vloeistof | refrigerant |  |
-| alarm knipperlichten | hazard warning lights |  |
-| alarm systeem | anti-theft system |  |
-| alcohol / methanol | alcohol |  |
-| aluminium | aluminum |  |
-| Ampère meter | amp meter |  |
-| anker as | armature spindle |  |
-| anker winding | armature winding |  |
-| ankerplaat / achterplaat / steunplaat | backplate |  |
-| anti blokkeer remsysteem | ABS braking device |  |
-| anti vries | antifreeze |  |
-| anti-roest | anti-rust |  |
-| APK | MoT test |  |
-| arbeid (ontsteek) slag | firing stroke |  |
-| arbeidsslag | ignition stroke |  |
-| arbeidsslag | power stroke |  |
-| arme lucht-brandstof mengsel | lean mixture |  |
-| as | axle |  |
+| aandr. wiel | drive wheel |  |
+| aandr. Wielen | drive wheels |  |
+| aandrijf as | drive shaft |  |
+| aandrijf assen | drive shafts |  |
+| aandrijf blok | drive block |  |
+| aandrijf blokken | drive blocks |  |
+| aandrijf motor | drive motor |  |
+| aandrijf motoren | drive motors |  |
+| aandrijf motors | drive motors |  |
+| aandrijfas | drive shaft |  |
+| aandrijfassen | drive shafts |  |
+| aandrijfgedeelte | drive part |  |
+| aandrijfgedeelten | drive parts |  |
+| aandrijfgedeeltes | drive parts |  |
+| aandrijfrol | drive roller |  |
+| aandrijfrollen | drive rollers |  |
+| aandrijfunit | drive unit |  |
+| aandrijfunits | drive units |  |
+| aandrijfzijde | driven side |  |
+| aandrijfzijden | driven sides |  |
+| aandrijfzijdes | driven sides |  |
+| aandrijving | drive |  |
+| aandrijvingen | drives |  |
+| aandruk unit | fixing unit |  |
+| aandruk units | fixing units |  |
+| aandrukband | fixing belt |  |
+| aandrukbanden | fixing belts |  |
+| aandruk-unit | fixing unit |  |
+| aandruk-units | fixing units |  |
+| aandrukwiel | fixing wheel |  |
+| aandrukwielen | fixing wheels |  |
+| aanduwer | pusher |  |
+| aanduwers | pushers |  |
+| aanduwer steel | pusher stem |  |
+| aanduwer stelen | pusher stems |  |
+| aanduwstang | pusher rod |  |
+| aanduwstangen | pusher rods |  |
+| aanloop | run-up |  |
+| aanslag | stop |  |
+| aanslag steel | stop stem |  |
+| aanslag stelen | stop stems |  |
+| aanslagband | stop belt |  |
+| aanslagbanden | stop belts |  |
+| aanslagbeugel | stop bracket |  |
+| aanslagbeugels | stop brackets |  |
+| aanslagplaat | stop plate |  |
+| aanslagplaten | stop plates |  |
+| aanslagschijf | stop disc |  |
+| aanslagschijven | stop discs |  |
+| aansluitkabel | connection cable |  |
+| aansluitkabels | connection cables |  |
+| aansluitklem | terminal clamp |  |
+| aansluitklemmen | terminal clamps |  |
+| aansluitleiding | connection line |  |
+| aansluitleidingen | connection lines |  |
+| aanstoot | jog |  |
+| aanstoot deur snijder | jog door cutter |  |
+| aanstoot deur snijders | jog door cutters |  |
+| aansturingsplaat | control plate |  |
+| aansturingsplaten | control plates |  |
+| aanvoer telmachine | supply counter |  |
+| aanvoer telmachines | supply counters |  |
+| aanvoerband | supply belt |  |
+| aanvoerbanden | supply belts |  |
+| aanvoerbuis | supply pipe |  |
+| aanvoerbuizen | supply pipes |  |
+| aanzetstuk | extension piece |  |
+| aanzetstukken | extension pieces |  |
+| achter | rear |  |
+| achterkap | rear cover |  |
+| achterkappen | rear covers |  |
+| achtermeubel | rear furniture |  |
+| achterplaat | back plate |  |
+| achterplaat | rear plate |  |
+| achterplaten | back plates |  |
+| achterplaten | rear plates |  |
+| achterschot | end gate |  |
+| achterschotten | end gates |  |
+| actieve sturing | active control |  |
+| adapter | adapter |  |
+| adapters | adapters |  |
+| adercodering | core coding |  |
+| aderhuls | ferule |  |
+| aderhulzen | ferules |  |
+| afbladerstrip | peeler strip |  |
+| afbladerstrips | peeler strips |  |
+| afdekplaat | cover plate |  |
+| afdekplaten | cover plates |  |
+| afdichting | sealing |  |
+| afdichtplaat | seal plate |  |
+| afdichtplaten | seal plates |  |
+| afdichtprofiel | sealing section |  |
+| afdichtprofielen | sealing sections |  |
+| afdichtstrip | sealing strip |  |
+| afdichtstrips | sealing strips |  |
+| afdopplug | filler plug |  |
+| afdoppluggen | filler plugs |  |
+| afgeschermd | guarded |  |
+| afkeur | reject |  |
+| afkeur | rejection |  |
+| afkeur-twijfelband | reject-doubt belt |  |
+| afkeur-twijfelbanden | reject-doubt belts |  |
+| afleg | placement |  |
+| aflegtafel | receiving table |  |
+| aflegtafels | receiving tables |  |
+| afscheiding | separation |  |
+| afscherm klep | guard flap |  |
+| afscherm kleppen | guard flaps |  |
+| afschermbak | guard box |  |
+| afschermbakken | guard boxes |  |
+| afschermbeugel | guard bracket |  |
+| afschermbeugels | guard brackets |  |
+| afschermflap | guard flap |  |
+| afschermflappen | guard flaps |  |
+| afscherming | cover |  |
+| afscherming | guard |  |
+| afscherming deel | guard section |  |
+| afscherming delen | guard sections |  |
+| afschermkap | protection cover |  |
+| afschermkappen | protection covers |  |
+| afschermkap | guard cover |  |
+| afschermkappen | guard covers |  |
+| afschermring | guard ring |  |
+| afschermringen | guard rings |  |
+| afschermstrip | guard strip |  |
+| afschermstrippen | guard strips |  |
+| afschermwand | guard panel |  |
+| afschermwanden | guard panels |  |
+| afschuiningsplaat | bevelling plate |  |
+| afschuiningsplaten | bevelling plates |  |
+| afsluiter | valve |  |
+| afsluiters | valves |  |
+| afsluitklep | shut-off valve |  |
+| afsluitkleppen | shut-off valves |  |
+| afsluitplaat | closing plate |  |
+| afsluitplaten | closing plates |  |
+| afstand sensor | distance sensor |  |
+| afstand sensors | distance sensors |  |
+| afstand sensoren | distance sensors |  |
+| afstandhouder | spacer holder |  |
+| afstandhouders | spacer holders |  |
+| afstandplaat | spacer plate |  |
+| afstandplaten | spacer plates |  |
+| afstandring | spacer ring |  |
+| afstandringen | spacer rings |  |
+| afsteunbeugel | support bracket |  |
+| afsteunbeugels | support brackets |  |
+| afstrijker | wiper |  |
+| afstrijkers | wipers |  |
+| aftelsysteem | count-down system |  |
+| aftelsystemen | count-down systems |  |
+| afvoerband | discharge belt |  |
+| afvoerbanden | discharge belts |  |
+| afvoerbuis | discharge pipe |  |
+| afvoerbuizen | discharge pipes |  |
+| afvoerplaat | discharge plate |  |
+| afvoerplaten | discharge plates |  |
+| afwerpstrip | discharge strip |  |
+| afwerpstrips | discharge strips |  |
 | as | shaft |  |
-| as / staf / stang / stok | rod |  |
-| as kanteling | castor |  |
-| as met spie sleuven | splined shaft |  |
-| as steun | axle stand |  |
-| as tap | journal |  |
-| asbest | asbestos |  |
-| astap | stub axle |  |
-| auto identificatie nummer | vehicle identification number (VIN) |  |
-| automatische verstelling (voorontsteking) | automatic advance |  |
-| autoradio | car radio |  |
-| axiaal / in de as richting | axial |  |
-| axiaal speling | end float |  |
-| axiale krukas speling | crankshaft end float |  |
-| bagageruimte | luggage compartment |  |
-| baggeren / dreggen | dredging |  |
-| bajonet fitting | bayonet socket |  |
-| bajonet sluiting | bayonet joint |  |
-| bak filter (grof mazig) | bin strainer |  |
-| balanceer gewicht | balance weight |  |
-| balg | bellow |  |
+| assen | shafts |  |
+| as aandrijving | shaft drive |  |
+| as aandrijvingen | shaft drives |  |
+| asbekleding | shaft cladding |  |
+| assenrek | shaft rack |  |
+| assenrekken | shaft racks |  |
+| automaat | circuit breaker |  |
+| automaten | circuit breakers |  |
+| bak camera | tray camera |  |
+| bak camera's | tray cameras |  |
+| bak invoer | tray infeed |  |
+| bak opener | tray opener |  |
+| bak openers | tray openers |  |
+| bak | tray |  |
+| bakken | trays |  |
+| bakkensluiter | bin closer |  |
+| bakkensluiters | bin closers |  |
+| baksluiter | tray closer |  |
+| baksluiters | tray closers |  |
 | balk | beam |  |
-| band | tire |  |
-| band te hard | over inflation |  |
-| band, steun beugel, steun | brace bracket |  |
-| bandenpomp | tire pump |  |
-| bandenventiel | valve core |  |
-| bankschroef | vice (clamping device) |  |
-| basis / onderkant / bodem | base |  |
-| batterij / accu | battery |  |
-| bedekken | covering |  |
-| bedieningsarm | cantilever |  |
-| bedieningspaneel van verwarming | heater control panel |  |
-| beitel | chisel |  |
-| bekleding | gaiter |  |
-| bekleding | trim (decorative items) |  |
-| belasten | laden |  |
-| beluchter / ontluchter | breather |  |
-| beluchter slang | breather hose |  |
-| bentoniet / zwelklei / super klei | bentonite |  |
-| benzine | gasoline |  |
-| benzine | petrol |  |
-| bescherm pijp / mantel / goot | conduit |  |
-| bescherming | bush |  |
-| beschermkap | protective cap |  |
-| bestelwagen | van |  |
-| besturen | steering |  |
-| betrouwbaar | reliable |  |
-| beveiliging tegen ondeskundige handelingen | tamperproof |  |
-| bevestigingsbout | holding down bolt |  |
-| bevestigingsplaat | retaining plate |  |
-| bevestigingsschroef | retaining screw |  |
-| bevestigingsstrop / beugel | retaining strap |  |
-| beweegbaar | movable |  |
-| beweegbaar contact | moving contact- |  |
-| beweging volgend | tracking |  |
-| bij elkaar passende oppervlakten / pasvlakken | mating surfaces |  |
-| bi-metaalstrip | bi-metal strip |  |
-| bindweefsel | fascia |  |
-| binnen bekleding | padding (upholstery) |  |
-| binnen verlichting schakelaar | door light switch |  |
-| binnenband / binnen buis / inhang buis | inner tube |  |
-| binnenbekledingsplaat | trim panel |  |
-| binnenverlichting | interior light |  |
-| blind klink nagel / popnagel | pop-rivet |  |
-| blinde plug / afdopplug | blind plug |  |
-| blokkeer | detent |  |
-| blokkeerkogel- | detent ball |  |
-| blokkeren van wiel | wheel lock-up |  |
-| bobine / ontstekingsspoel | ignition coil |  |
-| bobine ontsteking | coil ignition |  |
-| bobine, spoel, spiraal | coil |  |
-| bocht | bend |  |
-| boek / handboek | manual |  |
-| bolhamer | ball plain hammer |  |
-| bolvormige moer | domed nut |  |
-| bolvormige verhoging / koepel | dome |  |
-| boor / boren | drill |  |
-| boor slurry / boor slib | drilling sludge |  |
-| borgclip | securing clip |  |
-| borglip | lock tab |  |
-| borgmiddel | locking compound |  |
-| borgmoer | check nut |  |
-| borgmoer | jam nut |  |
+| balken | beams |  |
+| balk verlichting | beam lighting |  |
+| balkklem | beam clamp |  |
+| balkklemmen | beam clamps |  |
+| band | belt |  |
+| banden | belts |  |
+| band bevestiging | belt attachment |  |
+| band bevestigingen | belt attachments |  |
+| band borstel | belt brush |  |
+| band borstels | belt brushes |  |
+| band flap | belt flap |  |
+| band flappen | belt flaps |  |
+| band geleiding | belt guide |  |
+| band geleidingen | belt guides |  |
+| band inspectie | belt inspection |  |
+| band inspecties | belt inspections |  |
+| band invoer | belt infeed |  |
+| band invoeren | belt infeed |  |
+| band invoerstation | belt infeed station |  |
+| band invoerstations | belt infeed stations |  |
+| band ondersteuning | belt support |  |
+| band ondersteuningen | belt supports |  |
+| band ontboller | belt debulber |  |
+| band ontbollers | belt debulbers |  |
+| band plaat | belt plate |  |
+| band platen | belt plates |  |
+| band schraper | belt scraper |  |
+| band schrapers | belt scrapers |  |
+| banddoek | belt cloth |  |
+| banddoeken | belt cloths |  |
+| bandduwer | belt pusher |  |
+| bandduwers | belt pushers |  |
+| bandframe | belt frame |  |
+| bandframes | belt frames |  |
+| bandgeleiding | belt guide |  |
+| bandgeleidingen | belt guides |  |
+| bandkabel | belt cable |  |
+| bandkabels | belt cables |  |
+| bandrol | belt roller |  |
+| bandrollen | belt rollers |  |
+| bandschrap plaat | belt scrape plate |  |
+| bandschrap platen | belt scrape plates |  |
+| bandspanner | belt tensioner |  |
+| bandspanners | belt tensioners |  |
+| bandsteun | belt support |  |
+| bandstuk | belt section |  |
+| bandstukken | belt sections |  |
+| basis beugel | basis bracket |  |
+| basis beugels | basis brackets |  |
+| basisframeplaat | base frame plate |  |
+| basisframeplaten | base frame plates |  |
+| basismachine | base machine |  |
+| basismachines | base machines |  |
+| basisplaat | base plate |  |
+| basisplaten | base plates |  |
+| basisplaat schraper | base plate scraper |  |
+| basisplaat schrapers | base plate scrapers |  |
+| basisplaat wiel | base plate wheel |  |
+| basisplaat wielen | base plate wheels |  |
+| basisstuk | base piece |  |
+| basisstukken | base pieces |  |
+| bedieningskast | control cabinet |  |
+| bedieningskasten | control cabinets |  |
+| bedieningsknop | control button |  |
+| bedieningsknoppen | control buttons |  |
+| bedieningspaneel | control panel |  |
+| bedieningspanelen | control panels |  |
+| bedieningsscherm | control screen |  |
+| bedieningsschermen | control screens |  |
+| bedradingskoker | wiring sleeve |  |
+| bedradingskokers | wiring sleeves |  |
+| beeldschermbeugel | creen bracket |  |
+| beeldschermbeugels | creen brackets |  |
+| beeldschermplaat | screen plate |  |
+| beeldschermplaten | screen plates |  |
+| begin segment | start segment |  |
+| begin segmenten | start segments |  |
+| begindeel | start section |  |
+| begindelen | start sections |  |
+| beginkap | start cap |  |
+| beginkappen | start caps |  |
+| behuizing | housing |  |
+| bekleed | coated |  |
+| bescherming kast | protection cabinet |  |
+| bescherming kasten | protection cabinets |  |
+| beschermkap | protective cover |  |
+| beschermkappen | protective covers |  |
+| beschermplaat | guard plate |  |
+| beschermplaten | guard plates |  |
+| bestelling | ordering |  |
+| besturing | control |  |
+| besturingskast | control cabinet |  |
+| besturingskasten | control cabinets |  |
+| besturingsplaat | control plate |  |
+| besturingsplaten | control plates |  |
+| betonplex | concrete plex |  |
+| betonplex plaat | concrete plex plate |  |
+| betonplex platen | concrete plex plates |  |
+| betonplex strook | concrete plex strip |  |
+| betonplex stroken | concrete plex strips |  |
+| beugel | bracket |  |
+| beugels | brackets |  |
+| beugelplaat | bracket plate |  |
+| beugelplaten | bracket plates |  |
+| beugelstang | bracket rod |  |
+| beugelstangen | bracket rods |  |
+| beveiliging behuizing | cap safeguard housing |  |
+| beveiligingsschakelaar | safety switch |  |
+| beveiligingsschakelaars | safety switches |  |
+| beveligings module | safety module |  |
+| beveligings modules | safety modules |  |
+| bevest beugel | attachm bracket |  |
+| bevest beugels | attachm brackets |  |
+| bevest. plaat | fixing plate |  |
+| bevest. platen | fixing plates |  |
+| bevestiging | attachment |  |
+| bevestiging profiel | attachment section |  |
+| bevestiging profielen | attachment sections |  |
+| bevestiging rol | attachment roller |  |
+| bevestiging rollen | attachment rollers |  |
+| bevestiging strip | attachment strip |  |
+| bevestiging strips | attachment strips |  |
+| bevestigingsbeugel | attachment bracket |  |
+| bevestigingsbeugels | attachment brackets |  |
+| bevestigingsblok | attachment block |  |
+| bevestigingsblokken | attachment blocks |  |
+| bevestigingsbuis | attachment cube |  |
+| bevestigingsbuizen | attachment cubes |  |
+| bevestigingsframe | attachment frame |  |
+| bevestigingsframes | attachment frames |  |
+| bevestigingskap | attachment cap |  |
+| bevestigingskappen | attachment caps |  |
+| bevestigingslip | attachment lip |  |
+| bevestigingslippen | attachment lips |  |
+| bevestigingsoor | attachment ear |  |
+| bevestigingsoren | attachment ears |  |
+| bevestigingsplaat | fixing plate |  |
+| bevestigingsplaten | fixing plates |  |
+| bevestigingsstrip | attachment strip |  |
+| bevestigingsstrips | attachment strips |  |
+| bevestigingsblok | attachment block |  |
+| bevestigingsblokken | attachment blocks |  |
+| bevst.gaffel | attachm. fork |  |
+| bevst.gaffels | attachm. forks |  |
+| bevst.lip | attachm. lip |  |
+| bevst.lippen | attachm. Lips |  |
+| bevstplt afscherming deel | attachm plt guard section |  |
+| bevstplt afscherming delen | attachm plt guard sections |  |
+| bezem | broom |  |
+| bezems | brooms |  |
+| bindband | bind belt |  |
+| bindbanden | bind belts |  |
+| binder | binder |  |
+| binders | binders |  |
+| binder basis | binder base |  |
+| binder naald | binder needle |  |
+| binder naalden | binder needles |  |
+| binderarm | binder arm |  |
+| binderarmen | binder arms |  |
+| binderdeel | binder section |  |
+| binderdelen | binder sections |  |
+| binderkar | binder cart |  |
+| binderkarren | binder carts |  |
+| bindermes | binder knife |  |
+| bindermessen | binder knifes |  |
+| bindernaald | binder needle |  |
+| bindernaalden | binder needles |  |
+| binderplaat | binder plate |  |
+| binderplaten | binder plates |  |
+| binderrek | binder rack |  |
+| binderrekken | binder racks |  |
+| binderspriet | binder probe |  |
+| bindersprieten | binder probes |  |
+| binderstrip | binder strip |  |
+| binderstrips | binder strips |  |
+| bindkop | binding head |  |
+| bindkoppen | binding heads |  |
+| bindlijn | binding line |  |
+| bindlijnen | binding lines |  |
+| binnen arm | inner arm |  |
+| binnen arms | inner armen |  |
+| binnenbak | inner tray |  |
+| binnenbakken | inner trays |  |
+| binnenbocht | inside bend |  |
+| binnenbochten | inside bends |  |
+| binnendeksel | inner cover |  |
+| binnendeksels | inner covers |  |
+| binnenplaat | inner plate |  |
+| binnenplaten | inner plates |  |
+| blaaspijp | blow pipe |  |
+| blaaspijpen | blow pipes |  |
+| bladstrekband | leaf stretch belt |  |
+| bladstrekbanden | leaf stretch belts |  |
+| bladstrekker | leaf stretcher |  |
+| bladstrekkers | leaf stretchers |  |
+| bladveer | leaf spring |  |
+| blindklinkmoer | blind rivet nut |  |
+| blindklinkmoeren | blind rivet nuts |  |
+| bloemen aanvoer | flower supply |  |
+| bloemen aanvoeren | flower supplies |  |
+| bloemgeleider | flower guide |  |
+| bloemgeleiding | flower guide |  |
+| bloemgeleiders | flower guides |  |
+| bloemgeleidingen | flower guides |  |
+| bloklager | block bearing |  |
+| bloklagers | block bearings |  |
+| blokschraper | block scraper |  |
+| blokschrapers | block scrapers |  |
+| bochtband | angle belt |  |
+| bochtbanden | angle belts |  |
+| bodemplaat | bottom plate |  |
+| bodemplaten | bottom plates |  |
+| boeketlijn | bouqet line |  |
+| boeketlijnen | bouqet lines |  |
+| bokwiel | fixed castor |  |
+| bokwielen | fixed castors |  |
+| bol geleider | bulb guide |  |
+| bol geleiders | bulb guides |  |
+| bollering | bulging |  |
+| boordschijf | collar disc |  |
+| boordschijven | collar discs |  |
+| boormal | drill mould |  |
+| boormallen | drill moulds |  |
+| bordes | platform |  |
+| bordesframe | platform frame |  |
+| bordesframes | platform frames |  |
+| bordestrap | platform stairs |  |
+| bordwandprofiel | dropside section |  |
+| bordwandprofielen | dropside sections |  |
+| borg ring | lock ring |  |
+| borg ringen | lock rings |  |
 | borgmoer | locknut |  |
-| borgmoer | self-locking nut |  |
-| borgring | lock washer |  |
-| borgveer | circlip |  |
-| borgveer | locating clip |  |
+| borgmoeren | locknuts |  |
+| borgplaat | locking plate |  |
+| borgplaten | locking plates |  |
+| borgstrip | lock strip |  |
+| borgstrips | lock strips |  |
+| borstbout | shoulder belt |  |
+| borstbouten | shoulder belts |  |
 | borstel | brush |  |
-| borstel houder | brush holder |  |
-| bougie | spark plug |  |
-| bougiekabel | ignition cable |  |
-| bougiekabel | plug lead |  |
-| bougiekap | spark plug cap |  |
-| bougiesleutel | plug socket / spanner |  |
-| bougiesleutel | spark plug socket / spanner |  |
-| bouwplaats | construction site |  |
-| boven liggende nokkenas | OHC [over head camshaft] |  |
-| bovenliggende nok | overhead cam |  |
-| bovenste dode punt | TDC (top dead center) |  |
-| braam / gietnaad | burr |  |
-| brandstof | fuel |  |
-| brandstof injectie | fuel injection |  |
-| brandstof leiding | fuel line |  |
-| brandstof lucht mengsel | fuel mixture |  |
-| brandstof pomp | fuel pump |  |
-| brandstof rail | fuel rail |  |
-| brandstof retourleiding | fuel return pipe |  |
-| brandstof tank | fuel tank |  |
-| brandstof toevoer leiding | fuel feed pipe |  |
-| brandstof toevoerleiding | fuel supply line |  |
-| brandstof vul leiding | fuel filler pipe |  |
-| brandstof vulslang | fuel inlet hose |  |
-| brandstoffilter | fuel filter |  |
-| brandstofverbruik | fuel consumption |  |
-| bron | source |  |
-| bron filter | well filter |  |
-| bronbemaling | well-pointing |  |
-| Bronbemaling | wellpoint dewatering |  |
-| brons / bronskleurig | bronze |  |
-| bruikbaar maken/reviseren | reconditioning |  |
-| buidel / koker | pouch |  |
-| buigbaar / buigzaam | ductile |  |
-| buigen / kromming / bocht | curve |  |
-| buigstraal | bending radius |  |
-| bult / bobbel | bulge |  |
-| cabriolet | cabriolet |  |
-| capacitieve ontlading | capacitive discharge |  |
-| carburateur | carburetor |  |
-| cardanas | cardan shaft |  |
-| cardanas | propeller shaft |  |
-| cardanas tandwiel (pignion) | bevel pinion |  |
-| cardankoppeling | cardan joint |  |
-| carrosserie | body shell |  |
-| carrosserie stijl | body pillar |  |
-| carter | sump |  |
-| carter aftapplug | sump drain plug |  |
-| carterventilatie | crankcase ventilation |  |
-| carterventilatie-filter | crankcase filter |  |
-| C-clip / borgring | snap-ring (circlip) |  |
-| centrale brandstof injectie | single-point fuel injection |  |
-| centrale portier vergrendeling | central locking system |  |
-| choke | choke |  |
-| choke kabel verbinding | choke linkage |  |
-| chokeklep spleet | choke valve gap |  |
-| cilinder / loop | cylinder barrel |  |
-| cilinder slot | lock barrel |  |
-| cilinderblok | cylinder block |  |
-| cilinderboring / diameter | cylinder bore |  |
-| cilinderbus | cylinder liner (sleeve) |  |
-| cilinderinhoud | swept volume |  |
-| cilinderkop | cylinder head |  |
-| cilinderkopbout | cylinder head bolt |  |
-| cirkel van lagerkogels | bearing race |  |
-| civiele aannemers | civil contractors |  |
-| claxon | horn |  |
-| collector | commutator |  |
-| combinatiesleutel | combination spanner |  |
-| combinatietang | combination pliers |  |
-| compensatie sproeier | compensating jet |  |
-| compleet anker (ac) | armature |  |
-| complete koppelingseenheid | diaphragm unit |  |
-| complete verwarmingseenheid | heater unit |  |
-| compressie | compression |  |
-| compressie tester | compression tester |  |
-| compressie(zuiger)veer | compression ring |  |
-| compressiemeter | compression gauge |  |
-| compressieverhouding | compression ratio |  |
-| compressor | compressor |  |
-| compressor / turbo | supercharger (turbo) |  |
-| compressor huis / carrosserie | blower body |  |
-| computer (ECU) | computer |  |
-| condensatie / vochtvorming | condensation |  |
-| condensator | capacitor |  |
-| condensator | condenser (capacitor) |  |
-| condensor | condenser (thermodynarnic) |  |
-| conisch | conical |  |
-| conisch lager | cone (bearing) |  |
-| conisch lager | taper-roller bearing |  |
-| conische as | tapered journal |  |
-| conische pen | taper pin |  |
-| conische pen/deel | cone |  |
-| conische ring | tapered ring |  |
-| constante spanning | constant voltage |  |
-| contact onderbreker | breaker / contact breaker |  |
-| contact punten | breaker points |  |
-| contacthoek | dwell angle / cam angle |  |
-| contactschakelaar | ignition switch |  |
-| contactsleutel | ignition key |  |
-| contactvlak | contact area |  |
-| continu stroom | continuous current |  |
-| continuïteit tester | continuity tester |  |
+| borstels | brushes |  |
+| borstel as | brush shaft |  |
+| borstel assen | brush shafts |  |
+| borstelbeugel | brushbracket |  |
+| borstelbeugels | brushbrackets |  |
+| borstelbuis | brush tube |  |
+| borstelbuizen | brush tubes |  |
+| borstelunit | brush unit |  |
+| borstelunits | brush units |  |
+| bos afvoer | bunch discharge |  |
+| bos afvoeren | bunch discharges |  |
+| bosaanduwer | bunch pusher |  |
+| bosaanduwers | bunch pushers |  |
+| bosafhouder | bunch distancer |  |
+| bosafhouders | bunch distancers |  |
+| bosband | bunching belt |  |
+| bosbanden | bunching belts |  |
+| bosbufferband | bunch buffer belt |  |
+| bosbufferbanden | bunch buffer belts |  |
+| bosbuffersysteem | bunch buffer system |  |
+| bosbuffersystemen | bunch buffer systems |  |
+| bosgedeelte | bunch section |  |
+| bosgedeelten | bunch sections |  |
+| bosgedeeltes | bunch sections |  |
+| boshouder | bunch holder |  |
+| boshouders | bunch holders |  |
+| bosklopper | bunch tapper |  |
+| boskloppers | bunch tappers |  |
+| boskopper | bunch head |  |
+| boskoppers | bunch heads |  |
+| bossnijder | bunch cutter |  |
+| bossnijders | bunch cutters |  |
+| bosstation | bunching station |  |
+| bosstations | bunching stations |  |
+| bossteun | bunch support |  |
+| bosuitduwer | bunch pusher |  |
+| bosuitduwers | bunch pushers |  |
+| bos-unit | bunching unit |  |
+| bos-units | bunching units |  |
+| boutplaat | bolt plate |  |
+| boutplaten | bolt plates |  |
+| bovenaandrijving | top drive |  |
+| bovenaandrijvingen | top drives |  |
+| bovenband | top belt |  |
+| bovenbanden | top belts |  |
+| bovenframe | top frame |  |
+| bovengeleidingen | top guides |  |
+| bovengeleiding | top guide |  |
+| bovenkap | top cover |  |
+| bovenkappen | top covers |  |
+| bovenligger | top girder |  |
+| bovenliggers | top girders |  |
+| bovenplaat | top plate |  |
+| bovenplaten | top plates |  |
+| bovenzijde | top side |  |
+| bovenzijden | top sides |  |
+| bovenzijdes | top sides |  |
+| breed | wide |  |
+| breed opleg | wide placement |  |
+| brodes rand | platform edge |  |
+| brodes randen | platform edges |  |
+| brug | bridge |  |
+| bruggen | bridges |  |
+| brugdeel | bridge section |  |
+| brugdelen | bridge sections |  |
+| brugframe | bridge frame |  |
+| brugframes | bridge frames |  |
+| buffer | buffer |  |
+| buffers | buffers |  |
+| bufferband | buffer belt |  |
+| bufferbanden | buffer belts |  |
+| buis bevestiging | tube attachment |  |
+| buis bevestigingen | tube attachments |  |
+| buis haak | tube hook |  |
+| buis haken | tube hooks |  |
+| buisklem | tube clamp |  |
+| buisklemmen | tube clamps |  |
+| buisplaat | tube plate |  |
+| buisplaten | tube plates |  |
+| buiten arm | outer arm |  |
+| buiten armen | outer arms |  |
+| buitenbocht | outer angle |  |
+| buitenbochten | outer angles |  |
+| buitenplaat | outer plate |  |
+| buitenplaten | outer plates |  |
+| bunkerelevator | bunker elevator |  |
+| bunkerelevators | bunker elevator s |  |
+| bus module | bus module |  |
+| bus modulen | bus modules |  |
+| bus modules | bus modules |  |
+| bus pijp | bush pipe |  |
+| bus pijpen | bush pipes |  |
+| bus rol | bush roller |  |
+| bus rollen | bush rollers |  |
+| bus snijder | bush cutter |  |
+| bus snijders | bush cutters |  |
+| camerabehuizing | camera housing |  |
+| carbonbuis | carbon tube |  |
+| carbonbuizen | carbon tubes |  |
+| centerplaat | centre plate |  |
+| centerplaten | centre plates |  |
+| centre | midden |  |
+| centreerpen | centring pin |  |
+| centreerpennen | centring pins |  |
+| centreerplaat | centring plate |  |
+| centreerplaten | centring plates |  |
+| cil. frame | cyl. frame |  |
+| cil. Frames | cyl. Frames |  |
+| cilinder | cylinder |  |
+| cilinder klep | cylinder valve |  |
+| cilinder kleppen | cylinder valves |  |
+| cilinderframe | cylinder frame |  |
+| cilinderframes | cylinder frames |  |
+| cilinderplaat | cylinder plate |  |
+| cilinderplaten | cylinder plates |  |
+| cilinderstift | cilinder pin |  |
+| cilinderstiften | cilinder pins |  |
+| cliplager | clip bearing |  |
+| cliplagers | clip bearings |  |
+| codeerhouder | coding holder |  |
+| codeerhouders | coding holders |  |
+| combinatieband | combination belt |  |
+| combinatiebanden | combination belts |  |
+| communicatie | communication |  |
+| compact | compact |  |
+| compartiment binder | compartment binder |  |
+| compartiment binders | compartment binders |  |
+| compensatieband | compensation belt |  |
+| compensatiebanden | compensation belts |  |
+| computerbak | computer tray |  |
+| computerbakken | computer trays |  |
+| condensator | condenser |  |
+| condensators | condensers |  |
+| connector | connector |  |
+| connectors | connectors |  |
+| contactveer | contact spring |  |
 | contra gewicht | counterweight |  |
-| controle | control |  |
-| controle eenheid | control unit |  |
-| controle klep / ventiel | check valve |  |
-| controleren | check |  |
-| corrosie / roesten / oxideren | corrosion |  |
-| dakplaat | canopy |  |
-| dashboardkastje | glovebox |  |
-| DC (gelijkstroom) | DC (direct current) |  |
-| debiet meter | flow meter |  |
-| deellast verrijking | part throttle enrichment |  |
-| dekkleed | tarpaulin |  |
-| demonteren | dismantle |  |
-| demonteren / verwijderen | removal |  |
+| contra spanplaat | counter clamping plate |  |
+| contra spanplaten | counter clamping plates |  |
+| controller ethernet | controller ethernet |  |
+| controller modbus | controller modbus |  |
+| cover | deksel |  |
+| covers | deksels |  |
+| curveblok | curve block |  |
+| curveblokken | curve blocks |  |
+| dak constructie | roof structure |  |
+| dak frame | roof frame |  |
+| dak frames | roof frames |  |
+| dak insp | roof insp |  |
+| dak rib | roof rib |  |
+| dak ribben | roof ribs |  |
+| dak tulp | roof tulip |  |
+| dak tulpen | roof tulips |  |
+| dakluik | roof hatch |  |
+| dakluiken | roof hatches |  |
+| dakplaat | roof plate |  |
+| dakplaten | roof plates |  |
+| dekplaat | cover plate |  |
+| dekplaten | cover plates |  |
+| dekselklem | cover clamp |  |
+| dekselklemmen | cover clamps |  |
+| dekselplaat | cover plate |  |
+| dekselplaten | cover plates |  |
+| dekselveer | cover spring |  |
+| deel | component |  |
+| delen | components |  |
 | demper | silencer |  |
-| demperveer | damper spring |  |
-| derde / vijfde deur | hatchback |  |
-| deuk | dent |  |
-| diafragma huis | diaphragm cover |  |
-| diafragma koppeling | diaphragm clutch |  |
-| diagnose stekker | diagnostic connector |  |
-| dieptemeter | depth gauge |  |
-| diesel katalysator | DOC (diesel oxidation catalyst) |  |
-| dieselbrandstof | diesel fuel |  |
-| dieselmotor | diesel engine |  |
-| differentieel | differential |  |
-| differentieelhuis | differential case |  |
-| digitale klok | digital clock |  |
-| dim licht | low beam |  |
-| dimlichtrelais | dimmer relay |  |
-| dimlichtschakelaar | dimmer switch |  |
-| dimmen | dim |  |
-| directe overbrenging | direct drive |  |
-| distributieketting | timing chain |  |
-| distributieriem | timing belt |  |
-| distributieriem spanning | timing belt tension |  |
-| distributierotor | rotor arm (distributor) |  |
-| distributietandwielen | timing gears |  |
-| door vacuüm bediende klep | vacuum valve |  |
-| doorlopende bout | through bolt |  |
-| doorslag | drift-punch |  |
-| doorverbonden | interconnected |  |
-| dopmoer | cap nut |  |
-| dopsleutel | socket spanner |  |
-| draaddikte meter | wire gauge |  |
-| draadstekker | wiring plug |  |
-| draaibare arm | swing arm |  |
-| draaicirkel | turning circle |  |
-| draaiing van wiel | tire rotation |  |
-| draaikolk / werveling | vortex |  |
-| draaipunt | fulcrum |  |
-| dragende constructie / raamwerk | frame |  |
-| drainage pijp | leak-off pipe |  |
-| drevel | mandrel |  |
-| drevel | punch |  |
-| drie armige pully trekker | three-legged puller |  |
-| drie hoek schakeling | delta connection |  |
-| drijfstangoog | small end (connecting rod) |  |
-| droge cel batterij | dry cell battery |  |
-| droog lopen / droog draaien / draaien zonder smering | dry run |  |
-| druk / stuwkracht | thrust |  |
-| druk aflaat ventiel | pressure relief valve |  |
-| druk sensor in spruitstuk | manifold pressure sensor |  |
-| druk verminderen / indrukken | depress |  |
-| druklager | ball trust bearing |  |
-| druklager | bevel ring gear |  |
-| druklager | release bearing |  |
-| druklager | thrust bearing |  |
-| drukplaat | thrust plate |  |
-| drukplaat / koppelingsplaat | pressure plate |  |
-| drukregelklep | pressure regulating valve |  |
-| drukring | thrust washer |  |
-| drukschakelaar | pressure-operated switch |  |
-| druksmering | forced lubrication |  |
-| drukveer | holding down spring |  |
-| drukverlies tester | pressure loss tester |  |
-| druppel voeding / lader | drip feed |  |
-| dubbele bovenliggende nokkenas | DOHC (double overhead camshaft) |  |
-| dubbele carburateur | dual carburetor |  |
-| dubbelwerkende hoofd(rem)cilinder | dual circuit master cylinder |  |
-| duim (25.4 mm) | inch |  |
-| dunne olie | light oil |  |
-| Dutch | English |  |
-| duurzaam | durable |  |
-| duurzaamheid | durability |  |
-| dwarsliggende motor | transverse engine |  |
-| dwarsstuk / knevel / brugstuk / traverse | cross member |  |
-| dynamo | dynamo |  |
-| eergaande slag | downstroke |  |
-| effectief vermogen | effective output |  |
-| eigendom / bezit / eigendomsrecht | ownership |  |
-| eindaandrijving | final drive |  |
-| eindstop / eindplug / einddop | end plug |  |
-| elektrisch bediende ramen | electric windows |  |
-| elektrisch schema | circuit diagram |  |
-| elektrisch schema | wiring diagram |  |
-| elektrische brandstofpomp | electric fuel pump |  |
-| elektrische koelventilator | electric cooling fan |  |
-| elektrische magneetklep | electrical solenoid valve |  |
-| elektrische ruitensproeierpomp | electric screen water pump |  |
-| elektrische ventilator | electric fan |  |
-| elektrode afstand | electrode gap |  |
-| elektroden afstand | spark plug gap |  |
-| elektromagneet/spoel | solenoid |  |
-| elektromagnetische klep | solenoid-operated valve |  |
-| elektromagnetische zuiger | solenoid plunger |  |
-| elektronisch ontstekingssysteem | electronic ignition system |  |
-| elektronische regeleenheid | electronic control unit |  |
-| elleboogstuk / kniestuk / elleboog | elbow |  |
-| Engelse maataanduiding | imperial (units of measurement) |  |
-| enkel / een-kant-op | single |  |
-| enkelwerkende remcilinder | single-acting brake cylinder |  |
-| etsmiddel | caustic soda |  |
-| excentrisch / ovaal | eccentricity / ovality |  |
-| expansieklep | expansion valve |  |
-| expansietype uitlaatdemper | exhaust expansion box |  |
-| expansievat | expansion tank |  |
-| explosie-bestand | burst-proof |  |
-| explosief mengsel | explosive mixture |  |
-| extreem / overdadig / buitengewoon | excessive |  |
-| fiber ring | fiber washer |  |
-| filter element / patroon | filter element |  |
-| filter magneet | filter magnet |  |
+| demper verlenging | silencer extension |  |
+| detectie strip | detection strip |  |
+| detectie strips | detection strips |  |
+| deur plaat | door plate |  |
+| deur rand | door edge |  |
+| deur randen | door edges |  |
+| deur snijder | door cutter |  |
+| deur snijders | door cutters |  |
+| deurbeugel | door bracket |  |
+| deurbeugels | door brackets |  |
+| deurhaak | door hook |  |
+| deurhaken | door hooks |  |
+| diodeklem | diode clamp |  |
+| diodeklemmen | diode clamps |  |
+| display module | display module |  |
+| display modules | display modules |  |
+| display modulen | display modules |  |
+| display plaat | display plate |  |
+| display platen | display plates |  |
+| doek | cloth |  |
+| doeken | cloths |  |
+| doorkijk luik | look through hatch |  |
+| doorkijk luiken | look through hatches |  |
+| doorslagflap | penetration flap |  |
+| doorslagflappen | penetration flaps |  |
+| doorvoer | duct |  |
+| doorvoerplaat | duct plate |  |
+| doorvoerplaten | duct plates |  |
+| doostransport | box transport |  |
+| doppelnippel | double nipple |  |
+| doseerpomp | dosing pump |  |
+| doseerpompen | dosing pumps |  |
+| dozencaroussel | box carousel |  |
+| dozencaroussels | box carousels |  |
+| dozenlift | boxeslift |  |
+| dozenliften | boxeslifts |  |
+| dozenlijn | box line |  |
+| dozenlijnen | box lines |  |
+| dozenuitvoer | box exit |  |
+| draad | wire |  |
+| draden | wires |  |
+| draad sensor | wire sensor |  |
+| draad sensors | wire sensors |  |
+| draadeind | threaded end |  |
+| draadgeleiding | wire guide |  |
+| draadgeleidingen | wire guides |  |
+| draadgoot | wire gutter |  |
+| draadgoten | wire gutters |  |
+| draadnummer | wire number |  |
+| draadnummers | wire numbers |  |
+| draadsensor | wire sensor |  |
+| draadsensors | wire sensors |  |
+| draag arm | carrier arm |  |
+| draag armen | carrier arms |  |
+| draagbeugel | carrier bracket |  |
+| draagbeugels | carrier brackets |  |
+| draagbuis | carrier tube |  |
+| draagbuizen | carrier tubes |  |
+| draagframe | support frame |  |
+| draagframes | support frames |  |
+| draaggeleider | wire guide |  |
+| draaggeleiders | wire guides |  |
+| draagplaat | carrier plate |  |
+| draagplaten | carrier plates |  |
+| draagplateau | carrier plateau |  |
+| draagplateaus | carrier plateaus |  |
+| draai deel | rotating part |  |
+| draai delen | rotating parts |  |
+| draaibaar | rotating |  |
+| draaiblok | rotation block |  |
+| draaiblokken | rotation blocks |  |
+| draaideel | rotating part |  |
+| draaidelen | rotating parts |  |
+| draaiflens | rotation flange |  |
+| draaiflensen | rotation flanges |  |
+| draaimechanisme | rotation mechanism |  |
+| draaimechanismes | rotation mechanisms |  |
+| draaiplaat | pivot plate |  |
+| draaiplaten | pivot plates |  |
+| draaipunt | pivot point |  |
+| draaipunt | turning point |  |
+| draaipunten | pivot points |  |
+| draaipunten | turning points |  |
+| draaistuk | rotating piece |  |
+| draaistukken | rotating pieces |  |
+| draaitafel | turntable |  |
+| draaitafels | turntables |  |
+| draaitafelpoot | turntable leg |  |
+| draaitafelpoten | turntable legs |  |
+| drager | carrier |  |
+| dragers | carriers |  |
+| draintegel | drain tile |  |
+| draintegels | drain tiles |  |
+| druppelaar | dripper |  |
+| druppelaars | drippers |  |
+| droogbloemenlijn | dried flower line |  |
+| droogbloemenlijnen | dried flower lines |  |
+| druk sensor | pressure sensor |  |
+| druk sensors | pressure sensors |  |
+| drukknopkast | press button cabinet |  |
+| drukknopkasten | press button cabinets |  |
+| drukplaat | pressure plate |  |
+| drukplaten | pressure plates |  |
+| drukveer | compression spring |  |
+| dubbele aandrijfrol | double drive roller |  |
+| dubbele aandrijfrollen | double drive rollers |  |
+| dubbele bochtband | double angle belt |  |
+| dubbele bochtbanden | double angle belts |  |
+| dubbele vork | double fork |  |
+| dubbele vorken | double forks |  |
+| duwplaat | push plate |  |
+| duwplaten | push plates |  |
+| duwstang | push rod |  |
+| duwstangen | push rods |  |
+| duwstangvergrendelplaat | push rod lock plate |  |
+| duwstangvergrendelplaten | push rod lock plates |  |
+| dwars | cross |  |
+| dwarsbuis | cross-tube |  |
+| dwarsbuizen | cross-tubes |  |
+| dwarsligger | cross girder |  |
+| dwarsliggers | cross girders |  |
+| dwarsplaat | cross plate |  |
+| dwarsplaten | cross plates |  |
+| egelband | pin belt |  |
+| egelbanden | pin belts |  |
+| eind frame | end frame |  |
+| eind frames | end frames |  |
+| eind module | end module |  |
+| eind modules | end modules |  |
+| eindaanslag | end stop |  |
+| eindaanslagplaat | end stop plate |  |
+| eindaanslagplaten | end stop plates |  |
+| eindbak | end tray |  |
+| eindbakken | end trays |  |
+| einddeel | end section |  |
+| einddelen | end sections |  |
+| einddeksel | end cover |  |
+| einddeksels | end covers |  |
+| eindframe | end frame |  |
+| eindframes | end frames |  |
+| eindjuk | end yoke |  |
+| eindjukken | end yokes |  |
+| eindkap | end cap |  |
+| eindkappen | end caps |  |
+| eindpaneel | end panel |  |
+| eindpanelen | end panels |  |
+| eindplaat | end plate |  |
+| eindplaten | end plates |  |
+| eindschakelaar | limit switch |  |
+| eindschakelaars | limit switches |  |
+| eindschot | end partition |  |
+| eindsteun | end support |  |
+| eindstop | end stop |  |
+| eindstuk | end piece |  |
+| eindstukken | end pieces |  |
+| ekast | e-cabinet |  |
+| ekasten | e-cabinets |  |
+| elastiek geleider | elastic guide |  |
+| elastiek geleiders | elastic guides |  |
+| elastiek rol | elastic roller |  |
+| elastiek rollen | elastic rollers |  |
+| elastiek rol houder | elastic roll holder |  |
+| elastiek rol houders | elastic roll holders |  |
+| elastiekgeleider | elastic guide |  |
+| elastiekgeleiders | elastic guides |  |
+| elastiekspanner | elastic tensioner |  |
+| elastiekspanners | elastic tensioners |  |
+| elektra | electricity |  |
+| elektrakast | electric cabinet |  |
+| elektrakasten | electric cabinets |  |
+| encoderhouder | encoder holder |  |
+| encoderhouders | encoder holders |  |
+| encoderplaat | encoder plate |  |
+| encoderplaten | encoder plates |  |
+| encodervertraging | encoder delay |  |
+| enkel | single |  |
 | flap | flap |  |
-| flens / rand | flange |  |
-| flexibel remslang | flexible brake hose |  |
-| fout | fault |  |
-| foutafstelling | maladjustment |  |
-| foutdiagnose | fault diagnosis |  |
-| frequentie | frequency |  |
-| fusee | swivel |  |
-| fuseepen | king pin |  |
-| gaas | mesh |  |
-| galvaniseren in vloeibare zink | hot dip galvanizing |  |
-| garage krik | trolley jack |  |
-| gas / benzine | gas |  |
-| gaskabel | accelerator cable |  |
-| gaskabel | throttle cable |  |
-| gasklep | throttle |  |
-| gasklep bevestigingsplaat | throttle plate |  |
-| gaspedaal | accelerator |  |
-| gaspedaal | accelerator pedal |  |
-| gebogen | bent |  |
-| gecentraliseerde portier vergrendeling | centralized door locking |  |
-| gedeelte / tussenschot | partition |  |
-| gedeïoniseerd water | deionized water |  |
-| gedimd groot licht | dipped light |  |
-| geen laadstroom / kosten | no charge |  |
-| geforceerd terugschakelen bij automaat | kick down |  |
-| gegroefd, beschadigd | scored |  |
-| geheel | integral |  |
-| geïsoleerd | insulated |  |
-| gekarteld | knurled |  |
-| gelaagd / gelamineerd | laminated |  |
-| gelast | welded |  |
-| geleide gleuf | guide sleeve |  |
-| geleide pen | gudgeon pin |  |
-| gelijklopend assen | synchro hub |  |
-| gelijmde remvoering | bonded brake linings |  |
-| gelood brandstof | leaded fuel |  |
-| geluid gedempt | silenced |  |
-| gemeente / lokale overheid | municipality |  |
-| generator / opwekker | generator |  |
-| geperst | crimped |  |
-| geremde aanhanger | braked trailer |  |
-| gescheiden hydraulisch (rem)systeem | dual circuit hydraulic system |  |
-| gespleten pin | spigot |  |
-| getande riem / tandriem | toothed belt |  |
-| gevaren driehoek | warning triangle |  |
-| gevlochten kabel | braided cable |  |
-| gewoon lampje | cap less bulb |  |
-| giet(vorm) | cast |  |
-| gieten | casting |  |
-| gieten / gietstuk | casting |  |
-| gietijzer | cast iron |  |
-| giftig | toxic |  |
-| glijlager | plain bearing |  |
-| gloei bougie | glow plug |  |
-| gloei bougie / spiraal | heated plug |  |
-| gloei bougie elektroden | glow plug tips |  |
-| gloeilamp | bulb |  |
-| glycerine | glycerin |  |
-| grendel | latch |  |
-| gripsleutel | mole wrench |  |
-| groef | groove |  |
-| groef, schuine kant | chamfer |  |
-| grondplaat | baseplate |  |
-| grondspeling | ground clearance |  |
-| grondspeling | ride height |  |
-| grootlicht | high beam |  |
-| grootlicht / hoofd balk | main beam |  |
-| grootste drijfstanglager | big-end bearing |  |
-| grotere maat / overmaat | oversize |  |
-| grove regeling | coarse adjustment |  |
-| halfautomatisch | semi-automatic |  |
-| hall zender | Hall sender |  |
-| halvemaan vormige spie | woodruff key |  |
-| hand opvoerpomp / primer | hand primer |  |
-| handbediend | hand operated |  |
-| handbediende opvoerpomp | priming pump |  |
-| handrem | handbrake |  |
-| handremhendel | handbrake lever |  |
-| handremkabel | handbrake cable |  |
-| hardstalen klepzitting | valve seat insert |  |
-| hechten / grip | adhesion |  |
-| hemelbekleding | headlining |  |
+| flappen | flaps |  |
+| flap houder | flap holder |  |
+| flap houders | flap holders |  |
+| flappen deur | flaps door |  |
+| flappen deuren | flaps doors |  |
+| flens | flange |  |
+| flensen | flanges |  |
+| flens kap | flange cap |  |
+| flens kappen | flange caps |  |
+| flensencoder | flange encoder |  |
+| flensencoders | flange encoder s |  |
+| flenslager | flange bearing |  |
+| flenslagers | flange bearing s |  |
+| flensmoer | flange nut |  |
+| flensmoeren | flange nuts |  |
+| flensmoerkoker | flange nut sleeve |  |
+| flensmoerkokers | flange nut sleeves |  |
+| flensplaat | flange plate |  |
+| flensplaten | flange plates |  |
+| fotocelbeugel | photocell bracket |  |
+| fotocelbeugels | photocell brackets |  |
+| frame | frame |  |
+| frames | frames |  |
+| frame invoer | frame infeed |  |
+| frame kap | frame cap |  |
+| frame kappen | frame caps |  |
+| frame plaat | frame plate |  |
+| frame platen | frame plates |  |
+| frame raam | frame window |  |
+| frame ramen | frame windows |  |
+| frame snijder | frame cutter |  |
+| frame snijders | frame cutters |  |
+| framebuis | frame tube |  |
+| framebuizen | frame tubes |  |
+| frameplaat | frame plate |  |
+| frameplaten | frame plates |  |
+| frequentieregelaar | frequency controller |  |
+| frequentieregelaars | frequency controllers |  |
+| gaffel | fork |  |
+| gaffel cilinder | fork cylinder |  |
+| gaffel geleiding | fork guide |  |
+| gaffel geleidingen | fork guide s |  |
+| gaffel spanner | fork tensioner |  |
+| gaffel spanners | fork tensioners |  |
+| gaffelbus | fork bush |  |
+| gaffelbussen | fork bushes |  |
+| gaffelplaat | fork plate |  |
+| gaffelplaten | fork plates |  |
+| gasveer | gas spring |  |
+| gat | hole |  |
+| gatenpons | hole punch |  |
+| gatenponsen | hole punches |  |
+| gedeeld | split |  |
+| gedeeld as | split shaft |  |
+| gedeelde assen | split shafts |  |
+| gedeelde band | split belt |  |
+| gedeelde banden | split belts |  |
+| gedraaid | twist |  |
+| geleideblok | guide block |  |
+| geleideblokken | guide blocks |  |
+| geleideplaat | guide plate |  |
+| geleideplaten | guide plates |  |
+| geleider | guide |  |
+| geleiders | guides |  |
+| geleider doek | guide cloth |  |
+| geleider doeken | guide cloths |  |
+| geleiderol | guide roller |  |
+| geleiderollen | guide rollers |  |
+| geleiderplaat | guide plate |  |
+| geleiderplaten | guide plates |  |
+| geleiding band | guide belt |  |
+| geleiding banden | guide belts |  |
+| geleiding eind | guide end |  |
+| geleiding grijper | guide clamp |  |
+| geleiding grijpers | guide clamps |  |
+| geleiding houder | guide holder |  |
+| geleiding houders | guide holders |  |
+| geleiding ketting | guide chain |  |
+| geleiding kettingen | guide chains |  |
+| geleiding profiel | guide section |  |
+| geleiding profielen | guide sections |  |
+| geleiding riem | guide belt |  |
+| geleiding riemen | guide belts |  |
+| geleiding spanner | guide tensioner |  |
+| geleiding spanners | guide tensioners |  |
+| geleiding strip | guide strip |  |
+| geleiding strips | guide strips |  |
+| geleidingblok | guide block |  |
+| geleidingblokken | guide blocks |  |
+| geleidingframe | guide frame |  |
+| geleidingframes | guide frames |  |
+| geleidingsbeugel | guide bracket |  |
+| geleidingsbeugels | guide brackets |  |
+| geleidingsprofielsnaar | guide section string |  |
+| geleidingsprofielsnaren | guide section strings |  |
+| geleidingsrol | guide roller |  |
+| geleidingsrollen | guide rollers |  |
+| geleidingsstang | guide rod |  |
+| geleidingsteun | guide support |  |
+| geleidingswiel | guide wheel |  |
+| geleidingswielen | guide wheels |  |
+| gelijk | identical |  |
+| gelijktrekker | aligner |  |
+| gelijktrekkers | aligners |  |
+| gelijktrekkerkast | aligner cabinet |  |
+| gelijktrekkerkasten | aligner cabinets |  |
+| gelijktrekkerprint | aligner print |  |
+| gelijktrekkerprints | aligner prints |  |
+| geremd | braked |  |
+| gewicht rol | weight roller |  |
+| gewicht rollen | weight rollers |  |
+| gewichtplaat | weight plate |  |
+| gewichtplaten | weight plates |  |
+| gezette plaat | set plate |  |
+| gezette platen | set plates |  |
+| glasplaat | glass plate |  |
+| glasplaten | glass plates |  |
+| glaszekering | glass fuse |  |
+| glaszekeringen | glass fuses |  |
+| glijblok | slide block |  |
+| glijblokken | slide blocks |  |
+| glijlager | slide bearing |  |
+| glijlagers | slide bearings |  |
+| glijlager flens | slide bearing flange |  |
+| glijlager flensen | slide bearing flanges |  |
+| glijplaat | sliding plate |  |
+| glijplaten | sliding plates |  |
+| glijprofiel | slide section |  |
+| glijprofielen | slide sections |  |
+| glijstrip | slide strip |  |
+| glijstrips | slide strips |  |
+| goot | gutter |  |
+| goten | gutters |  |
+| gordijn | curtain |  |
+| gordijnen | curtains |  |
+| gordijnplaat | curtain plate |  |
+| gordijnplaten | curtain plates |  |
+| gordijnrib | curtain rib |  |
+| gordijnribben | curtain ribs |  |
+| greep | handle |  |
+| grepen | handles |  |
+| grendel | lock |  |
+| grendels | locks |  |
+| grendelblok | locking block |  |
+| grendelblokken | locking blocks |  |
+| grendelplaat | lock plate |  |
+| grendelplaten | lock plates |  |
+| grijper | gripper |  |
+| grijpers | grippers |  |
+| grijper arm | gripper arm |  |
+| grijper armen | gripper arms |  |
+| grijper kantelunit | gripper tilting unit |  |
+| grijper kantelunits | gripper tilting units |  |
+| grijper plaat | gripper plate |  |
+| grijper platen | gripper plates |  |
+| grijperbek | gripper jaw |  |
+| grijperbekken | gripper jaws |  |
+| grijperplaat | gripper plate |  |
+| grijperplaten | gripper plates |  |
+| gripband | grip belt |  |
+| gripbanden | grip belts |  |
+| griplaag | grip layer |  |
+| griplagen | grip layers |  |
+| gripperhuis | gripper house |  |
+| gripperhuizen | gripper houses |  |
+| gripslang | grip hose |  |
+| gripslangen | grip hoses |  |
+| groefkogellager | groove ball bearing |  |
+| groefkogellagers | groove ball bearings |  |
+| groepenscheidingsplaat | group separation plate |  |
+| groepenscheidingsplaten | group separation plates |  |
+| grondplaat | base plate |  |
+| grondplaten | base plates |  |
+| grote as | large shaft |  |
+| grote assen | large shafts |  |
+| haak | hook |  |
+| haken | hooks |  |
+| haak sluiter | hook closer |  |
+| haak sluiters | hook closers |  |
+| haakplaat | hook plate |  |
+| haakplaten | hook plates |  |
+| haaks | perpendicular |  |
+| halter steun | haltersupport |  |
+| halve sluitschakel | half closing link |  |
+| halve sluitschakels | half closing links |  |
+| hand carrousel | hand carrousel |  |
+| hand carrousels | hand carrousels |  |
+| handlijn | manual line |  |
+| handlijnen | manual lines |  |
+| handvatplaat | handle plate |  |
+| handvatplaten | handle plates |  |
+| hangconstructie | suspension construction |  |
+| hangconstructies | suspension constructions |  |
+| hangframe | suspension frame |  |
+| hangframes | suspension frames |  |
+| hangjuk | suspension yoke |  |
+| hangjukken | suspension yokes |  |
+| hangstrip | suspension strip |  |
+| hangstrips | suspension strips |  |
+| head section | kopdeel |  |
+| head sections | kopdelen |  |
+| hefbeugel | lifting bracket |  |
+| hefbeugels | lifting brackets |  |
+| hefboom | lever |  |
+| hefbomen | levers |  |
 | hendel | handle |  |
-| hendel / hefboom | lever |  |
-| herladen | recharge |  |
-| herstellen / monteren | refitting |  |
-| hete lucht verharden | hot air shroud |  |
-| hiel van de band | bead |  |
-| hijsoog / -beugel | lifting bracket |  |
-| hitte schild | heat shield |  |
-| hoedenplank | parcel shelf |  |
-| hoekstuk/beugel | knee-bar |  |
-| hoge versnelling | high gear |  |
-| hol | hollow |  |
-| holle bout | hollow bolt |  |
-| homokinetische koppeling | constant-velocity joint |  |
-| homokinetische koppeling / kruiskoppeling | U-joint |  |
-| hoofd waarde | mean value |  |
-| hoofdas | main shaft |  |
-| hoofdas | output shaft |  |
-| hoofdlagerkap | main bearing shell |  |
-| hoofdpijp / verzamelpijp | header pipe |  |
-| hoofdremcilinder | brake master cylinder |  |
-| hoofdstroom | primary current |  |
-| hoofdstroom olie filter | full-flow oil filter |  |
-| hoog smeltpunt | high melting point |  |
-| hoogspanningsspoel | high tension coil |  |
-| Hoogwaterbestrijding | Flood control |  |
-| houder | retainer |  |
-| houder voor vet | grease retainer |  |
-| hulp as, secundaire as | lay shaft |  |
-| hulpaccu | booster battery |  |
-| hulpaccu | slave battery |  |
-| hulp-as | auxiliary shaft |  |
-| hulp-as behuizing | auxiliary shaft housing |  |
-| hulpcilinder | slave cylinder |  |
-| huls/ mof / voering / mouw | sleeve |  |
-| hydraulisch | hydraulic |  |
-| hydraulische klepstoter | hydraulic tappet |  |
-| hydraulische kracht | hydraulic force |  |
-| hydraulische krik | hydraulic jack |  |
-| hydraulische remmen | hydraulic brakes |  |
-| hydropneumatische wielophanging | hydro pneumatic suspension |  |
-| hypoïd tandwiel / overbrenging | hypoid gear |  |
-| identificatieplaatje | identification plate |  |
-| ijzerzaag | hacksaw |  |
-| imperiaal / dak drager | roof rack |  |
-| imperiaal belasting | roof rack load |  |
-| in elkaar grijpend | interlocking |  |
-| in lijn stellen | line up |  |
-| in onbalans | out of balance |  |
-| in overeenstemming met | compliance |  |
-| in/afstelschroef | set screw |  |
-| inbusbout | Allen screw |  |
-| inbussleutel | Allen key |  |
-| ingebouwd | built-in |  |
-| ingebouwd | inbuilt |  |
-| inhalen / over nemen | overtake |  |
-| inhoud / inhoudsopgave | content |  |
-| inhoud / volume | cubic capacity |  |
-| inhoud van boek / woordenlijst | indexing |  |
-| inklapbaar | collapsible |  |
-| inlaat | induction |  |
-| inlaat periode / tijd | intake period |  |
-| inlaat spruitstuk ruimte | plenum chamber |  |
-| inlaatdeel radiateur / koelwatertank | header tank |  |
-| inlaatklep | inlet valve |  |
-| inlaatslag | induction stroke |  |
-| inlaatspruitstuk | inlet manifold |  |
-| inlegspie | shaft key |  |
-| inlopen van motor | running in |  |
-| innovatie / nieuwigheid / verandering / vernieuwing | innovation |  |
-| inrichting tegen stilvallen motor | anti-stall |  |
-| inslijpen (van klep) | grinding-in(valve) |  |
-| inspectiedeksel | clean out cover |  |
-| inspuiting | injection |  |
-| instellen | set (adjust) |  |
-| instrumenten panel / dashboard | instrument panel |  |
-| interieur | interior |  |
-| inwendig | internal |  |
-| inwendig schroefdraad | female thread |  |
-| irrigatie / beregening / bevloeiing | irrigation |  |
-| isolatie | insulation |  |
-| isolatie band / tape | insulating tape |  |
-| jerrycan | canister |  |
-| juk / inspanstuk / voorspanstuk | yoke |  |
-| kaak | jaw |  |
-| kabel / (elektra) draad | cable |  |
-| kabel beschermrubber | cable grommet |  |
-| kabel klem | cable clamp |  |
-| kabel spanner | cable adjuster |  |
-| kabel voor kickdown | kick down cable |  |
-| kabelboom | wiring harness / loom |  |
-| kabeldoorvoer / bescherming | wiring grommet |  |
-| kabelsnijtang | cable cutter |  |
-| kabeltrekker | cable puller |  |
-| kalibreren / ijken | calibrate |  |
-| kam / nok / lob | lobe |  |
-| kamer | chamber |  |
-| kap/dop | cap |  |
-| kapmoer | acorn nut |  |
-| kartel ring | splined washer |  |
-| kartelmoer | grub screw |  |
-| katalizator | catalyst |  |
-| katalizator | catalytic converter |  |
-| katrol / takel | lifting tackle |  |
-| keerring | lip seal |  |
-| keerring | sealing washer |  |
-| kelder / souterrain / benedenverdieping | basement |  |
-| ketting en kettingwiel | chain and sprocket |  |
-| ketting verbindingsschakel | chain joint |  |
-| kettingkast | chain case |  |
+| hendels | handles |  |
+| hijs plaat | hoisting plate |  |
+| hijs platen | hoisting plates |  |
+| hijsbeugel | hoisting bracket |  |
+| hijsbeugels | hoisting brackets |  |
+| hijsbuis | hoisting tube |  |
+| hijsbuizen | hoisting tubes |  |
+| hijsoog | hoisting eye |  |
+| hijsogen | hoisting eyes |  |
+| hijsplaat | hoisting plate |  |
+| hijsplaten | hoisting plates |  |
+| hijsschoor | hoisting shore |  |
+| hijsschoren | hoisting shores |  |
+| hk. instl. | angle set |  |
+| hoekbeugel | angle bracket |  |
+| hoekbeugels | angle brackets |  |
+| hoekframe | angle frame |  |
+| hoekframes | angle frames |  |
+| hoekkap | angle cap |  |
+| hoekkappen | angle caps |  |
+| hoekplaat | angled plate |  |
+| hoekprofiel | angle section |  |
+| hoekprofielen | angle sections |  |
+| hoekstuk | angle piece |  |
+| hoekstukken | angle pieces |  |
+| hoektraject | angle path |  |
+| hoektrajecten | angle paths |  |
+| hoekverstelling | angle adjustment |  |
+| hoekverstellingen | angle adjustments |  |
+| hollebout | hollow bolt |  |
+| hollebouten | hollow bolts |  |
+| hoofddeel | main section |  |
+| hoofddelen | main sections |  |
+| hoofdframe | main frame |  |
+| hoofdframes | main frames |  |
+| hoofdschakelaar | main switch |  |
+| hoofdschakelaars | main switchs |  |
+| hoogte instelling | height adjustment |  |
+| hoogte instellingen | height adjustments |  |
+| hoogtemeter | height gauge |  |
+| hoogtemeters | height gauges |  |
+| hoogteverstelling | height adjustment |  |
+| hoogteverstellingen | height adjustments |  |
+| hulp contact | auxiliary contact |  |
+| hyacintenontboller | hyacinth debulber |  |
+| hyacintenontbollers | hyacinth debulbers |  |
+| hybride relais | hybrid relay |  |
+| inbouw | built-in |  |
+| inbouw bochtband | built-in angle belt |  |
+| inbouw bochtbanden | built-in angle belts |  |
+| inbouwconnector | built-in connector |  |
+| inbouwconnectors | built-in connectors |  |
+| inbouwconnectoren | built-in connectors |  |
+| incrementele encoder | incremental encoder |  |
+| incrementele encoders | incremental encoders |  |
+| indicatie aanslag | indication stop |  |
+| indicatieplaat | indication plate |  |
+| indicatieplaten | indication plates |  |
+| indicatiestrip | indication strip |  |
+| indicatiestrips | indication strips |  |
+| indicatorbeugel | indicator bracket |  |
+| indicatorbeugels | indicator brackets |  |
+| indicatorsteun | indicator support |  |
+| inductieve sensor | inductive sensor |  |
+| inductieve sensors | inductive sensors |  |
+| ingang | entrance |  |
+| ingangsmodule | input module |  |
+| ingangsmodules | input modules |  |
+| ingangsmodulen | input modules |  |
+| inlasdeel | weld-in section |  |
+| inlasdelen | weld-in sections |  |
+| inlasplaat | weld-in plate |  |
+| inlasplaten | weld-in plates |  |
+| inloop | entry |  |
+| inloop geleider | entry guide |  |
+| inloop geleiders | entry guides |  |
+| inloop plaat | entry plate |  |
+| inloop platen | entry plates |  |
+| inloopband | entry belt |  |
+| inloopbanden | entry belts |  |
+| inloopblok | entry block |  |
+| inloopblokken | entry blocks |  |
+| inloopplaat | entry plate |  |
+| inloopplaten | entry plates |  |
+| inloopstang | entry rod |  |
+| inloopstangen | entry rods |  |
+| inpak tafel | packaging table |  |
+| inpak tafels | packaging tables |  |
+| inpectieband | inspection belt |  |
+| inpectiebanden | inspection belts |  |
+| insert lager | insert bearing |  |
+| insert lagers | insert bearings |  |
+| inspectie | inspection |  |
+| inspectie deksel | inspection cover |  |
+| inspectie deksels | inspection covers |  |
+| inspectie frame | inspection frame |  |
+| inspectie frames | inspection frames |  |
+| inspectie luik | inspection hatch |  |
+| inspectie luiken | inspection hatches |  |
+| inspectiekast | inspection cabinet |  |
+| inspectiekasten | inspection cabinets |  |
+| inspectiesegment | inspection segment |  |
+| inspectiesegmenten | inspection segments |  |
+| installatie-automaat | installation-circuit breaker |  |
+| installatie-automaten | installation-circuit breakers |  |
+| installatiebuis | installation tube |  |
+| installatiebuizen | installation tubes |  |
+| insteek | insert |  |
+| insteekbrug | insert bridge |  |
+| insteekbruggen | insert bridges |  |
+| insteker | insert |  |
+| interieurklem | interior clamp |  |
+| interieurklemmen | interior clamps |  |
+| intern ventiel | internal valve |  |
+| intern ventielen | internal valves |  |
+| invoer | infeed |  |
+| invoer recht | infeed right |  |
+| invoerband | infeed belt |  |
+| invoerbanden | infeed belts |  |
+| invoerhaak | infeed hook |  |
+| invoerkast | infeed cabinet |  |
+| invoerkasten | infeed cabinets |  |
+| invoerklep | infeed valve |  |
+| invoerkleppen | infeed valves |  |
+| invoerstation | infeed station |  |
+| invoerstations | infeed stations |  |
+| invoertransport | infeed transport |  |
+| invoerzijde | infeed side |  |
+| invoerzijden | infeed sides |  |
+| invoerzijdes | infeed sides |  |
+| isolatieplaat | insulation plate |  |
+| isolatieplaten | insulation plates |  |
+| jerrycanhouder | jerrycan holder |  |
+| jerrycanhouders | jerrycan holders |  |
+| juk | yoke |  |
+| jukken | yokes |  |
+| juk band | yoke belt |  |
+| juk banden | yoke belts |  |
+| kaarten duwplaat | card push plate |  |
+| kaarten duwplaten | card push plates |  |
+| kaarten overzetter | cards transfer mechanism |  |
+| kaarten overzetters | cards transfer mechanisms |  |
+| kaartenduwer | card pusher |  |
+| kaartenduwers | card pushers |  |
+| kaartengeleiding | card guide |  |
+| kaartengeleidingen | card guides |  |
+| kaartenoplegger | card placer |  |
+| kaartenopleggers | card placers |  |
+| kaartophanging | card suspension |  |
+| kaartoplegger | card placer |  |
+| kaartopleggers | card placers |  |
+| kabelbeugel | cable bracket |  |
+| kabelbeugels | cable brackets |  |
+| kabelbevestiging | cable attachment |  |
+| kabelbevestigingen | cable attachments |  |
+| kabelbrug | cable bridge |  |
+| kabelbruggen | cable bridges |  |
+| kabeldoorvoer | cable duct |  |
+| kabelgoot | cable gutter |  |
+| kabelgoten | cable gutters |  |
+| kabelkanaal | cable channel |  |
+| kabelkanalen | cable channels |  |
+| kabelrups | cable chain |  |
+| kabelrupsen | cable chains |  |
+| kalibratie buis | calibration tube |  |
+| kalibratie buizen | calibration tubes |  |
+| kalibratie strip | calibration strip |  |
+| kalibratie strips | calibration strips |  |
+| kalibratieplaat | calibration plate |  |
+| kalibratieplaten | calibration plates |  |
+| kantafwerking | edge finish |  |
+| kantafwerkprofiel | edge finish section |  |
+| kantafwerkprofielen | edge finish sections |  |
+| kantel | tilting |  |
+| kanteljuk | tilting yoke |  |
+| kanteljukken | tilting yokes |  |
+| kantingframe | tilting frame |  |
+| kantingframes | tilting frames |  |
+| kap | cover |  |
+| kappen | covers |  |
+| kap | cap |  |
+| kappen | caps |  |
+| kap aandrijving | cap drive |  |
+| kap aandrijvingen | cap drives |  |
+| kap band | cap belt |  |
+| kap banden | cap belts |  |
+| kap brug | cap bridge |  |
+| kap bruggen | cap bridges |  |
+| kap geleiding | cover guiding |  |
+| kap geleidingen | cover guidings |  |
+| kap hoek | cap angle |  |
+| kap hoeken | cap angles |  |
+| kap rib | cover rib |  |
+| kap ribben | cover ribs |  |
+| kap snijder | cap cutter |  |
+| kap snijders | cap cutters |  |
+| kap snijder | cover cutter |  |
+| kap snijders | cover cutters |  |
+| kap uitgang | cap exit |  |
+| kap uitgang | cover exit |  |
+| kap uitgangen | cap exits |  |
+| kap uitgangen | cover exits |  |
+| kapschakelaar ontvanger | cap switch receiver |  |
+| kapschakelaar ontvangers | cap switch receivers |  |
+| kast | cabinet |  |
+| kasten | cabinets |  |
+| kast beugel | cabinet bracket |  |
+| kast beugels | cabinet brackets |  |
+| kast schoor | cabinet shore |  |
+| kast schoren | cabinet shores |  |
+| kast snijder | cabinet cutter |  |
+| kast snijders | cabinet cutters |  |
+| kastbeugel | cabinet bracket |  |
+| kastbeugels | cabinet brackets |  |
+| kastdeur | cabinet door |  |
+| kastdeuren | cabinet doors |  |
+| kastframe | cabinet frame |  |
+| kastframes | cabinet frames |  |
+| kastprofiel | cabinet section |  |
+| kastprofielen | cabinet sections |  |
+| kaststrip | cabinet strip |  |
+| kaststrips | cabinet strips |  |
+| kastventilator | cabinet fan |  |
+| kastventilators | cabinet fans |  |
+| keeras | return shaft |  |
+| keerassen | return shafts |  |
+| keerrol | return roller |  |
+| keerrollen | return rollers |  |
+| keerset | return set |  |
+| keersets | return sets |  |
+| keerwiel | return wheel |  |
+| keerwielen | return wheels |  |
+| ketsplaat | deflector plate |  |
+| ketsplaten | deflector plates |  |
+| ketting | chain |  |
+| kettingen | chains |  |
+| ketting beveiliging | chain safeguard |  |
+| ketting geleiding | chain guide |  |
+| ketting geleidingen | chain guides |  |
+| ketting gelijktrekker | chain aligner |  |
+| ketting gelijktrekkers | chain aligners |  |
+| ketting test | chain test |  |
+| ketting testen | chain tests |  |
+| ketting tests | chain tests |  |
+| ketting verzet | chain shift |  |
+| ketting verzetten | chain shifts |  |
+| kettingbeveiligingsblok | chain safety block |  |
+| kettingbeveiligingsblokken | chain safety blocks |  |
+| kettingblok | chain block |  |
+| kettingblokken | chain blocks |  |
+| kettingkap | chain cap |  |
+| kettingkap | chain cover |  |
+| kettingkappen | chain caps |  |
+| kettingkappen | chain covers |  |
+| kettingkast | chain cabinet |  |
+| kettingkasten | chain cabinets |  |
+| kettingpaar | chain pair |  |
+| kettingprofielplaat | chain section plate |  |
+| kettingprofielplaten | chain section plates |  |
+| kettingset | chain set |  |
+| kettingsets | chain sets |  |
 | kettingspanner | chain tensioner |  |
-| kettingwiel | chain sprocket |  |
-| kettingwiel / tandriemwiel | sprocket |  |
-| kilometer dag teller | trip mileage indicator |  |
-| klauw | claw |  |
-| klein laagje verwijderen | skimming- |  |
-| kleinste tandwiel / rondsel | pinion |  |
-| klem | clamp |  |
-| klembevestigingsschroef | clamp bracket screw |  |
-| klembout / schroef | clamp bolt / screw |  |
-| klembus | taper lock bush |  |
-| klep / ventiel | valve |  |
-| klep deksel | rocker box |  |
-| klep in slijpen | valve grinding |  |
-| klepgeleider | valve guide |  |
-| kleppendeksel | valve cover |  |
-| kleppendeksel | cylinder head cover |  |
-| kleppenmechanisme | valve gear |  |
-| klepspeling | tappet clearance |  |
-| klepspeling | valve clearance |  |
-| klepsteel | valve stem |  |
-| klepstoter | tappet |  |
-| klepstotergeleider | tappet guide |  |
-| kleptuimelaar | rocker arm |  |
-| klepveer | valve spring |  |
-| klepveer indruk gereedschap | valve spring compressor |  |
-| klepveerzetel | valve spring seat |  |
-| klepzitting | valve seat |  |
-| klepzitting breedte | seat width (valve) |  |
-| klepzitting hoek | seat angle (valve) |  |
-| klier | gland |  |
-| klikken | clicking |  |
-| klimaatregeling | air conditioning |  |
-| klingelend geluid | jingling noise |  |
-| klinknagel / klinkbout | rivet |  |
-| klip / klem | clip |  |
-| klok met wijzerplaat | analogue clock |  |
-| kloppen | knocking |  |
-| knikken / vervormen | buckling |  |
-| knipper relais | flasher relay |  |
-| knippereenheid | flasher unit |  |
-| koelmantel | water jacket |  |
-| koelsysteem | cooling system |  |
-| koelsysteem doorspoelen | cooling system flushing |  |
-| koelsysteem ontluchtingsschroef | coolant bleed screw |  |
-| koelvloeistof / koelmiddel | coolant |  |
-| koelwaterpomp | coolant pump |  |
-| koelwaterpomp | water (coolant) pump |  |
-| koelwaterslang | coolant hose |  |
-| kofferbak | boot |  |
-| kogelbout | ball-head bolt |  |
-| kogelklep / kogelkraan | ball valve |  |
-| kogellager | ball bearing |  |
-| kogelverbinding | ball joint |  |
-| kogelverbinding trekker / scheider | ball joint separator |  |
-| kool waterstof | hydrocarbon |  |
-| koolaanslag | carbon deposit |  |
-| koolaanslag verwijderen | carbon removing (decoke) |  |
-| koolborstel | carbon brush |  |
-| koperen pakking | copper gasket |  |
-| kopklep | overhead valve |  |
-| kopklep motor | OHV [over head valve] |  |
-| koplamp | headlamp / headlight |  |
-| koplamp sierring | bezel |  |
-| koplampglas | headlamp lens |  |
-| koppakking | cylinder head gasket |  |
-| koppel | torque |  |
-| koppeling | clutch |  |
+| kettingspanners | chain tensioners |  |
+| kettingspannerplaat | chain tensioner plate |  |
+| kettingspannerplaten | chain tensioner plates |  |
+| kettingverstelling | chain adjustment |  |
+| kettingverstellingen | chain adjustments |  |
+| kettingwiel | chain wheel |  |
+| kettingwielen | chain wheels |  |
+| keuzeschakelaar | selector switch |  |
+| keuzeschakelaars | selector switches |  |
+| klaparm | folding arm |  |
+| klaparmen | folding arms |  |
+| klem plaat | clamp plate |  |
+| klem platen | clamp plates |  |
+| klemband | fixing belt |  |
+| klembanden | fixing belts |  |
+| klembus | clamp bush |  |
+| klembussen | clamp bushes |  |
+| klemmenblok | terminal block |  |
+| klemmenblokken | terminal blocks |  |
+| klemmenkast | terminal cabinet |  |
+| klemmenkasten | terminal cabinets |  |
+| klemplaat | clamp plate |  |
+| klemplaten | clamp plates |  |
+| klemplaat | fixing plate |  |
+| klemplaten | fixing plates |  |
+| klemprofiel | clamp section |  |
+| klemprofielen | clamp sections |  |
+| klemstrip | clamp strip |  |
+| klemstrips | clamp strips |  |
+| klemwiel | clamp wheel |  |
+| klemwielen | clamp wheels |  |
+| klep | valve |  |
+| kleppen | valves |  |
+| klep buffer | valve buffer |  |
+| klep buffers | valve buffers |  |
+| klep gelijktrekker | valve aligner |  |
+| klep gelijktrekkers | valve aligners |  |
+| klep hoogte | valve height |  |
+| klep hoogten | valve heights |  |
+| klep hoogtes | valve heights |  |
+| klik-top | click-top |  |
+| klinknagel | revit |  |
+| klinknagels | revits |  |
+| knelplaat | pinch plate |  |
+| knelplaten | pinch plates |  |
+| knevelschroef | pinch screw |  |
+| knevelschroeven | pinch screws |  |
+| kniestuk | knee piece |  |
+| kniestukken | knee pieces |  |
+| knik | bending |  |
+| knikband | bending belt |  |
+| knikbanden | bending belts |  |
+| knikdeel | bending piece |  |
+| knikdelen | bending pieces |  |
+| knikgedeelte | bending section |  |
+| knikgedeelten | bending sections |  |
+| knikgedeeltes | bending sections |  |
+| knikstuk | bending piece |  |
+| knikstukken | bending pieces |  |
+| knoppenkast | bud cabinet |  |
+| knoppenkast | control box |  |
+| knoppenkasten | bud cabinets |  |
+| knoppenkasten | control boxes |  |
+| koeler | cooler |  |
+| koelers | coolers |  |
+| koeler generator | cooler generator |  |
+| koeler generatoren | cooler generators |  |
+| koeler generators | cooler generators |  |
+| koelunit | cooling unit |  |
+| koelunits | cooling units |  |
+| koelvloeistof | cooling liquid |  |
+| koelvloeistoffen | cooling liquids |  |
+| kogelgaffel | bulb-and-socket joint |  |
+| kogelgaffels | bulb-and-socket joints |  |
+| koker | sleeve |  |
+| koker | sleeves |  |
+| koort houder | cord holder |  |
+| koort houders | cord holders |  |
+| kop vuistslagknop | head punch button |  |
+| kop vuistslagknoppen | head punch buttons |  |
+| kopbout | head bolt |  |
+| kopbouten | head bolts |  |
+| kopcamera | head camera |  |
+| kopcamera's | head cameras |  |
+| kopgedeelte | head section |  |
+| kopgedeelten | head sections |  |
+| kopgedeeltes | head sections |  |
+| koppel beugel | coupler bracket |  |
+| koppel beugels | coupler brackets |  |
+| koppel plaat | coupling plate |  |
+| koppel platen | coupling plates |  |
+| koppelbeugel | coupling bracket |  |
+| koppelbeugels | coupling brackets |  |
+| koppelbuis | coupling tube |  |
+| koppelbuizen | coupling tubes |  |
+| koppelflens | coupling flange |  |
+| koppelflensen | coupling flanges |  |
+| koppelframe | coupling frame |  |
+| koppelframes | coupling frames |  |
 | koppeling | coupling |  |
-| koppeling centraliseer gereedschap | clutch plate alignment plate |  |
-| koppeling drukplaat | clutch pressure plate |  |
-| koppeling pedaal | clutch pedal |  |
-| koppeling slip | clutch slip |  |
-| koppeling voering | clutch lining |  |
-| koppeling voering | friction linings |  |
-| koppelingsplaat | clutch disk |  |
-| koppelingsplaat | driven plate |  |
-| koppelingsplaat naaf | clutch hub |  |
-| koppelomvormer | torque converter |  |
-| kortsluiting | short circuit |  |
-| koubeitel | cold chisel |  |
-| koude start klep | choke (cold start valve) |  |
-| kraag / flens | collar |  |
-| kraagbout | collar screw |  |
-| krachtafnemer | PTO (power take-off) |  |
-| krachtoverbrenging | power transmission |  |
-| kreukelzone | crumple zone |  |
-| krik | jack |  |
-| kriksteun | jacking point |  |
-| kromtrekken | warp |  |
-| kroonmoer | castellated nut |  |
-| kroonmoer | castle nut |  |
-| kroonwiel (grootste tandwiel) | differential crown gear |  |
-| kroonwiel (grootste wiel van een stel) | crown wheel |  |
-| kruishoofd | crosshead |  |
-| kruiskoppeling | universal joint |  |
-| kruissnelheid | cruising speed |  |
-| krukas | crankshaft |  |
-| krukas hoofdlager | crankshaft bearing (main) |  |
-| krukas kast | crankcase |  |
-| krukas kettingwiel | crankshaft sprocket |  |
-| krukas poelie | crankshaft pulley |  |
-| krukas taplager | crankshaft bearing journal |  |
-| krukashoofdlager | main bearing (crankshaft) |  |
-| krukaslager | crankcase bearing |  |
-| krukaslager | crankshaft bearing |  |
-| krukpen | crankpin |  |
-| krukpenlager | crankpin bearing |  |
-| krukwang | crankshaft web |  |
-| kunstmatig / synthetisch | synthetic |  |
-| kunststof / polyetheen polymeer | HDPE (high-density polyurethane) |  |
-| laad snelheid | charging rate |  |
-| laadcontrole lamp | charging control lamp |  |
-| laadstroom | charging current |  |
-| laag druk smering | low tension lubricant |  |
-| lading afhankelijke klep | load sensing valve |  |
-| lager (compleet) | bearing |  |
-| lager (kogel) | ball race |  |
-| lager huis | bearing shell |  |
-| lager loop / lager oppervlakte (glij) | bearing surface |  |
-| lager op niet meedraaiende as | bearing journal |  |
-| lager schild / plaat | bearing plate |  |
-| lagerblok / lagerhuis | bearing block |  |
-| lagercup | cup (bearing) |  |
-| lagerdeksel | bearing cover |  |
-| lagerhuis | casing |  |
-| lagerkap | bearing cap |  |
-| lagervet | ball-bearing grease |  |
-| lamp | lamp |  |
-| lamp / licht / licht in gewicht | light |  |
-| lamphuis / armatuur | lamp body |  |
-| lange bek tang | long-nosed pliers |  |
-| langsdraagarm | trailing link |  |
-| langsliggend | longitudinal |  |
-| langzaam snelheid | low speed |  |
-| laser snijden | laser cutting |  |
-| lassen | welding |  |
-| last / belasting | load |  |
-| leeggewicht | empty weight |  |
-| leer | leather |  |
-| legering | alloy |  |
-| lek test | leak down test |  |
-| lekkage | blow-by |  |
-| lekkage | leakage |  |
-| lekke / platte band | flat tire |  |
-| lenspomp | bilge pump |  |
-| lessen / afkoelen / blussen / dempen | quench |  |
-| levenscyclus / levensduur | life cycle |  |
-| lichte legering | light alloy |  |
-| lichtgewicht | lightweight |  |
-| lijm / kleefstof / kleefmiddel | glue |  |
-| links | left-hand |  |
-| linkse draad | left-hand thread |  |
-| linksom draaiend | counterclockwise- |  |
-| lood | lead |  |
-| loopvlak | tread (tire) |  |
-| losmaken / verbreken | disconnect |  |
-| lucht compressor | air compressor |  |
-| lucht regeling | air control |  |
-| lucht temperatuur voeler | air temperature sensor |  |
-| luchtfilter | air cleaner |  |
+| koppelingsbuis | coupling tube |  |
+| koppelingsbuizen | coupling tubes |  |
+| koppeljuk | coupling yoke |  |
+| koppeljukken | coupling yokes |  |
+| koppelplaat | coupling plate |  |
+| koppelplaten | coupling plates |  |
+| koppelprofiel | coupling section |  |
+| koppelprofielen | coupling sections |  |
+| koppelstang | coupling rod |  |
+| koppelstangen | coupling rods |  |
+| koppelstrip | coupling strip |  |
+| koppelstrips | coupling strips |  |
+| koppelstuk | connecting piece |  |
+| koppelstuk | coupling piece |  |
+| koppelstukken | connecting pieces |  |
+| koppelstukken | coupling pieces |  |
+| kopplaat | head plate |  |
+| kopplaten | head plates |  |
+| koprol | head roller |  |
+| koprollen | head rollers |  |
+| kopseplaat | face plate |  |
+| kopseplaten | face plates |  |
+| kopset | head set |  |
+| kopsets | head sets |  |
+| korenschoof | wheat sheaf |  |
+| korenschoven | wheat sheafs |  |
+| kort | short |  |
+| kozijnversteviging | frame reinforcement |  |
+| kozijnverstevigingen | frame reinforcements |  |
+| krat houder | crate holder |  |
+| krat houders | crate holders |  |
+| krattenframe | crate frame |  |
+| krattenframes | crate frames |  |
+| krattenhouder | crate holder |  |
+| krattenhouders | crate holders |  |
+| kunststofschijf | plastic disc |  |
+| kunststofschijven | plastic discs |  |
+| kuubkist | cubic crate |  |
+| kuubkisten | cubic crates |  |
+| kuubkistsensor | cubic crate sensor |  |
+| kuubkistsensors | cubic crate sensors |  |
+| kuubskist lediger | cubic crate emptier |  |
+| kuubskist ledigers | cubic crate emptiers |  |
+| kuubskistdetectie | cubic crate detection |  |
+| kuubskistdetecties | cubic crate detections |  |
+| laboratoriumslang | laboratory hose |  |
+| laboratoriumslangen | laboratory hoses |  |
+| lager | washer |  |
+| lagers | washers |  |
+| lager gaffel | bearing fork |  |
+| lager gaffels | bearing forks |  |
+| lagerblok | bearing block |  |
+| lagerblokken | bearing blocks |  |
+| lagerbus | bearing bush |  |
+| lagerbussen | bearing bushes |  |
+| lagercover | bearing cover |  |
+| lagercovers | bearing covers |  |
+| lagerplaat | bearing plate |  |
+| lagerplaten | bearing plates |  |
+| langs ligger | longitudinal girder |  |
+| langs liggers | longitudinal girders |  |
+| las | weld |  |
+| lasdeel | weld section |  |
+| lasdelen | weld sections |  |
+| laseinde | welding stud |  |
+| laseinden | welding studs |  |
+| laseraanslag | laser stop |  |
+| laserlijn | laser line |  |
+| laserlijnen | laser lines |  |
+| lassamenstelling ondersteuning | weld composition support |  |
+| lasserij | welding shop |  |
+| leesband | reading belt |  |
+| leesbanden | reading belts |  |
+| leidingsysteem | pipe system |  |
+| leidingsystemen | pipe systems |  |
+| lekbak | leak tray |  |
+| lekbakken | leak trays |  |
+| lekgoot | leak gutter |  |
+| lekgoten | leak gutters |  |
+| lekplaat | leak plate |  |
+| lekplaten | leak plates |  |
+| lepelbuis | spoon tube |  |
+| lepelbuizen | spoon tubes |  |
+| leuning | railing |  |
+| leunplaat | rest plate |  |
+| leunplaten | rest plates |  |
+| lexanplaat | lexan plate |  |
+| lexanplaten | lexan plates |  |
+| lichtbalk | light beam |  |
+| lichtbalken | light beams |  |
+| lichtscherm | light screen |  |
+| lichtschermen | light screens |  |
+| ligger | girder |  |
+| liggers | girders |  |
+| lineair | linear |  |
+| lineair geleider | linear guide |  |
+| lineair geleiders | linear guides |  |
+| loodplaat | lead plate |  |
+| loodplaten | lead plates |  |
+| loopplaat | track plate |  |
+| loopplaten | track plates |  |
+| looprol | track roller |  |
+| looprollen | track rollers |  |
+| los | loose |  |
+| lossing | unloading |  |
+| lossings arm | loosening arm |  |
+| lossings armen | loosening arms |  |
+| lucht regelset | air control set |  |
+| lucht regelsets | air control sets |  |
+| luchtbak | air tray |  |
+| luchtbakken | air trays |  |
+| luchtbuis | air tube |  |
+| luchtbuizen | air tubes |  |
 | luchtfilter | air filter |  |
-| luchtgeleider | air deflector |  |
-| luchthoeveelheidsmeter | airflow meter |  |
-| luchtkamer | air chamber |  |
-| luchtkanaal | air funnel |  |
-| luchtklep | air flap valve |  |
-| luchtkoeling | air cooling |  |
-| luchtlek | air leak |  |
-| luchtmengselsproeier / meng pijp | emulsion tube |  |
-| luchtregelschroef | air adjusting screw |  |
-| luchtregelsproeier | air correction jet |  |
-| luchtsnelheidsmeter | air flow sensor |  |
-| luchtweerstand | air resistance |  |
-| luchtweerstand coëfficiënt | drag coefficient |  |
-| luidspreker / box | loudspeaker |  |
-| magnetisch | magnetic |  |
-| magnetische standard / houder | magnetic stand |  |
-| magnetiseringsdiode | excitation diode |  |
-| mal gieten | die casting |  |
-| mannelijk / mannelijk deel | male |  |
-| markeer punt / teken | center punch |  |
-| massa elektrode (bougie) | earth electrode |  |
-| massieve delen / vaste delen | solids |  |
-| mechanische asafdichting | mechanical seal |  |
-| meeneempen | driving pinion |  |
-| meet gereedschap / instrument | instrument |  |
-| meetinstrument | test meter |  |
-| membraam acceleratiepomp | diaphragm accelerator pump |  |
-| membraan | diaphragm |  |
-| membraan | membrane |  |
-| meng / wervel kamer | mixing chamber |  |
-| mengsel | mixture |  |
-| merkteken op vliegwiel | flywheel marking |  |
-| mes / snijblad | cutting blade |  |
-| messing / geelkoper | brass |  |
-| met de richting van de klok mee | clockwise |  |
-| met zand vervuild | sand-laden |  |
-| metaal vulling | metal filings |  |
-| metalen slang | metal hose |  |
-| meter / instrument / lamp | indicator |  |
-| meter water kolom | m.w.c. (meter water column) |  |
-| metrisch schroefdraad | metric threads |  |
-| metrisch stelsel | metric system |  |
-| mica | mica |  |
-| micrometer | micrometer |  |
-| microschakelaar | micro switch |  |
-| middel punt | dead center |  |
-| middenconsole | central console |  |
-| middenlijn | center line |  |
-| mijn / groeve / steengroeve | quarry |  |
-| mijnbouw | mining |  |
-| min kabel | negative lead |  |
-| min pool | negative pole |  |
-| mistlicht | fog light |  |
+| luchtfilters | air filters |  |
+| luchtmes | air blade |  |
+| luchtmessen | air blades |  |
+| luchtregelunit | air unit |  |
+| luchtregelunits | air units |  |
+| luchtslang | air hose |  |
+| luchtslangen | air hoses |  |
+| luchtslanggeleider | air hose guide |  |
+| luchtslanggeleiders | air hose guides |  |
+| magneethouder | magnet holder |  |
+| magneethouders | magnet holders |  |
+| magneetplaat | magnet plate |  |
+| magneetplaten | magnet plates |  |
+| magneetsensor | magnet sensor |  |
+| magneetsensors | magnet sensors |  |
+| magneetsluiting | magnet closure |  |
+| magneetsluiting | magnetic closure |  |
+| magneetsluitingen | magnet closures |  |
+| magneetsluitingen | magnetic closures |  |
+| mal | mould |  |
+| mallen | moulds |  |
+| mantelplaat | mantle plate |  |
+| mantelplaten | mantle plates |  |
+| matrijs | die |  |
+| meeloop as | idler shaft |  |
+| meeloop as | idler shafts |  |
+| meeloop poelie | idler pulley |  |
+| meeloop poelies | idler pulleys |  |
+| meeloop poelie verenkelaar | idler pulley separator |  |
+| meeloop poelie verenkelaars | idler pulley separators |  |
+| meeloopas | idler shaft |  |
+| meeloopassen | idler shafts |  |
+| meeloopband | travel belt |  |
+| meeloopbanden | travel belts |  |
+| meelooprol | idler roller |  |
+| meelooprollen | idler rollers |  |
+| meeloopsnaar | idler string |  |
+| meeloopsnaar | travel string |  |
+| meeloopsnaren | idler strings |  |
+| meeloopsnaren | travel strings |  |
+| meeloopwiel | idler wheel |  |
+| meeloopwielen | idler wheels |  |
+| meenemer | carrier |  |
+| meenemers | carriers |  |
+| meetbak | measuring tray |  |
+| meetbakken | measuring trays |  |
+| meetblad | measurement sheet |  |
+| meetbladen | measurement sheets |  |
+| meetrelay | measurement relay |  |
+| membraamdroger | membrane dryer |  |
+| membraamdrogers | membrane dryers |  |
+| mesband | knife belt |  |
+| mesbanden | knife belts |  |
+| meskant | knife edge |  |
+| meskanten | knife edges |  |
+| meubel | furniture |  |
+| midden bordes | middle platform |  |
+| midden segment | middle segment |  |
+| midden segmenten | middle segments |  |
+| middenbalk | centre beam |  |
+| middenbalken | centre beams |  |
+| middendeur | middle door |  |
+| middendeurer | middle doors |  |
+| middenplaat | centre plate |  |
+| middenplaten | centre plates |  |
+| middenstuk | centre piece |  |
+| middenstukken | centre pieces |  |
+| modulair | modular |  |
 | moer | nut |  |
-| moer met sleuf | slotted nut |  |
-| molybdeen di-sulfide | molybdenum di-sulphide |  |
-| momentsleutel | torque wrench |  |
+| moeren | nuts |  |
+| moer plaat | nut plate |  |
+| moer platen | nut plates |  |
+| monitorframe | monitor frame |  |
+| monitorframes | monitor frames |  |
+| montage arm | mounting arm |  |
+| montage armen | mounting arms |  |
+| montage beugel | mounting bracket |  |
+| montage beugels | mounting brackets |  |
+| montage gereedschap | mounting tool |  |
+| montage gereedschappen | mounting tools |  |
+| montage luik | mounting hatch |  |
+| montage luiken | mounting hatches |  |
 | montage plaat | mounting plate |  |
-| montagebout | mounting bolt |  |
-| montagesteun | mounting bracket |  |
-| motor | engine |  |
-| motor koppel | engine torque |  |
-| motor met compressor / turbo | supercharged engine |  |
-| motor met de cilinders in v vorm | V-engine |  |
-| motor met de uit- en inlaat tegenover elkaar | cross-flow engine |  |
-| motor ophanging | engine mounting |  |
-| motorafstelling | engine timing |  |
-| motorkap | bonnet |  |
-| motorkap | hood |  |
-| motorolie koeler | engine oil cooler |  |
-| motorsmering zonder carter | dry sump lubrication |  |
-| motortoerental | engine speed |  |
-| multi cilinders | multi-cylinder |  |
-| multifunctioneel | multi-function |  |
-| na ontsteking / verlating | ignition delay |  |
-| na verwarming | post-heating |  |
-| naald klep / afsluiter | needle valve |  |
-| naaldlager | needle bearing / roller |  |
-| naaldlagerkooi | needle roller cage |  |
-| nabehandeling | aftertreatment |  |
-| nadruppelen | dribble |  |
-| nauwe passing | snug fit |  |
-| negatieve aarding | negative earth |  |
-| negatieve camber | negative camber |  |
-| nettogewicht | net weight |  |
-| neutraal | neutral |  |
-| niet afgewerkt gietstuk | half-casting |  |
-| niet giftig | non-toxic |  |
-| niet in lijn | misalignment |  |
-| niet reagerend / inert / vertragend | inert |  |
-| niet rond | out of round |  |
-| niet verstoppend / onbelemmerd | non-clog |  |
-| niet werkend | out of action |  |
-| niet werkend / kapot / defect | defect |  |
-| niveau meter | level gauge |  |
-| niveau plug | level plug |  |
-| nok | cam |  |
-| nok | notch |  |
-| nokkenas | camshaft |  |
-| nokkenas (lager) houder | camshaft sprocket |  |
-| nokkenas aandrijf tandwiel | camshaft pinion |  |
-| nokkenas aandrijving | camshaft gear |  |
-| nokkenas beschermkap | camshaft cover |  |
-| nokkenas eindspeling | camshaft end float |  |
-| nokkenaslager | camshaft bearing |  |
-| nokvolger | cam follower |  |
-| nokvolger | rocker finger |  |
-| nominale waarde | nominal value |  |
-| noodpomp | emergency pump |  |
-| noodschakelaar | emergency switch |  |
-| noodstop | emergency stop |  |
-| normale onderhoud / onderhoud beurt | routine maintenance |  |
-| normale spanning | rated voltage |  |
-| nullast schakelaar | no-load switch |  |
-| octaangetal | octane number/rating |  |
-| olie | oil |  |
-| olie aftapplug | oil drain plug |  |
-| olie kan | oil can |  |
-| olie schraapveerring | oil scraper |  |
-| olie slinger schot | oil deflector plate- |  |
-| olie verversen | changing of oil |  |
-| olie verversen | oil change |  |
-| oliedruk | oil pressure |  |
-| oliedrukmeter | oil pressure gauge |  |
-| oliedrukschakelaar | oil pressure switch |  |
-| oliedrukwaarschuwingslamp | oil pressure warning light |  |
-| oliefilter | oil filter |  |
-| oliefiltertang | oil filter removal tool |  |
-| oliekamer / olieruimte | oil chamber |  |
-| oliekanaal | oilway |  |
-| oliekeerring / olie afdichting | oil seal |  |
-| oliekoeler | oil cooler |  |
-| olieleiding | oil pipe |  |
-| olielek / olie lekkage | oil spill |  |
-| olieniveau | oil level |  |
-| oliepeilstok | engine oil level dipstick |  |
-| oliepeilstok | oil level dipstick |  |
-| oliepomp | oil pump |  |
-| oliepomp tandwiel | oil pump gear |  |
-| oliepompzeef | oil pump strainer |  |
-| oliestand oog / olieniveau inspectieglas | oil level sight gauge |  |
-| olievuldop | oil filler cap |  |
-| omgekeerde volgorde | reverse order |  |
-| omhoog / naar boven wijzend | upward |  |
-| omhoog / opschakelen | change up |  |
-| omkeerbare ratel | reversible ratchet |  |
-| omkeerstuk | reversing piece |  |
-| omlaag / terugschakelen | change down |  |
-| omleiding | by-pass |  |
-| omvormer | converter |  |
-| omwenteling | revolution |  |
-| omwentelingen per minuut | rpm (revs per minute) |  |
-| onafhankelijke wielophanging | independent suspension |  |
-| onbrandbaar | inflammable |  |
-| onderbreker | contact breaker |  |
-| onderbreker houder | cam plate |  |
-| onderbrekerpunten / contact punten | contact breaker points |  |
-| onderdeel van versnelling (bak) | gear component |  |
-| onderdelen regeleenheid | metering components |  |
-| onderdompelbaar / overstroombaar / duikboot | submersible |  |
-| onderdrukken / dempen | quell |  |
-| onderdrukker | suppressor (electrical) |  |
-| onderhoudsvrije accu | maintenance-free battery |  |
-| onderkoeld / te lage temperatuur | overcooling |  |
-| onderling uitwisselbaar | interchangeability |  |
-| onderste dode punt (ODP) | BDC (bottom dead center) |  |
-| onderste dode punt (ODP) | bottom dead center (BDC) |  |
-| onderstuur | understeer |  |
-| ongelood benzine | unleaded (fuel) |  |
-| ontgassing kamer | degassing chamber |  |
-| ontgassing slang | degassing pipe |  |
-| ontkolen | de-carbonization |  |
-| ontkoppelen | declutch |  |
-| ontladen / lege accu | discharged battery |  |
-| ontladen / perszijde | discharge |  |
-| ontluchten | bleed |  |
-| ontluchting schroef | bleed screw |  |
-| ontluchting, lucht verwijderen | deaeration |  |
-| ontluchtingsklep | air bleed valve |  |
-| ontsteking | ignition |  |
-| ontsteking regeleenheid | ignition control |  |
-| ontsteking vervroegen | advance ignition |  |
-| ontstekingsspanning | firing voltage |  |
-| ontstekingssysteem | ignition system |  |
-| ontstekingstijd | ignition timing |  |
-| ontstekingstijdstip | ignition setting |  |
-| ontstekingsvolgorde | firing order |  |
-| onttrekken van ijzerdeeltjes | de-ironization |  |
-| onttrokken water | abstracted water |  |
-| oog | eye |  |
-| op maat gemaakt / handgemaakt / maatwerk | tailor made |  |
-| opeen volgende lagers | bearing ladder |  |
-| open laadbak | stake |  |
-| openings-/ losbreekmechanisme | release mechanism |  |
-| opkrikken | jacking |  |
-| opladen | charging |  |
-| oplossen | dissolve |  |
-| oplossing | solution |  |
-| opnieuw boren | redrilling |  |
-| oprolbaar | retractable |  |
-| opstelling | deployment |  |
-| opvoerhoogte | suction head |  |
-| opvulplaatje | shim |  |
-| opwarm klep | warm-up valve |  |
-| originele onderdelen / onvervalste onderdelen | genuine parts |  |
-| ovaal | elliptic |  |
-| over druk ventiel | pressure limiting valve |  |
-| over slaan | misfire |  |
-| overdragen / overbrengen | transfer |  |
-| overdrive [toeren verminderende versnelling] | overdrive |  |
-| overdruk | excess pressure |  |
-| overdruk | overpressure |  |
-| overgangsstuk | transition piece |  |
-| overgewicht, te zwaar | overweight |  |
-| overladen / droog gekookte accu | dry charged battery |  |
-| overladen / te vol | overcharge |  |
-| overladen, te zwaar belast | overload |  |
-| overloop klep / ventiel | overflow valve |  |
-| overloop pijp | overflow pipe |  |
-| overlopen | overflow |  |
-| overschot | surplus |  |
-| overstroomopening | transfer port |  |
-| overstuur | oversteer |  |
-| overtoeren | overrun |  |
-| overtoeren brandstof afsluitklep | overrun fuel cut-off |  |
-| oververhit, te heet | overheating |  |
-| pakking / afdichting | gasket |  |
-| pal | pawl |  |
-| parallel lopend | parallel (alignment) |  |
-| parallel schakelen | connect in parallel |  |
-| parallel schakeling | parallel (electric.) |  |
-| parallelweerstand | shunt |  |
-| pasnok | locating lug |  |
-| paspen | locating dowel |  |
-| paspen | scriber |  |
-| patroon / cassette | cartridge |  |
-| peilstok | dipstick |  |
-| permanente aarde verbinding | PE (protective earth) |  |
-| permanente magneet | permanent magnet |  |
-| pers gereedschap | crimping tool |  |
-| persleiding | discharge line |  |
-| petroleum | paraffin (kerosene) |  |
-| piek vermogen | peak power |  |
-| pignion (kleinste tandwiel) | differential pinion |  |
-| pijp / buis | pipe |  |
-| pin / pen | pin |  |
-| pincet / punt tang | pinchers |  |
-| pingel- / klopsensor | knock sensor |  |
-| pingelen | pinking |  |
-| pingelen / klop | knock |  |
-| plaat van de luchthoeveelheidsvoeler | airflow sensor plate |  |
-| plaats waar de kabel in- of door gaat | cable casing |  |
-| plaatwerk | bodywork |  |
-| planeetwiel van differentieel | differential side gear |  |
-| plastic draad meter | plastic gauge |  |
-| platina | platinum |  |
-| platte stekker | blade terminal |  |
-| plug / bougie | plug |  |
-| plunjer / zuiger | plunger |  |
-| plunjer klep | plunger valve |  |
-| plunjerpomp / zuigerpomp | plunger pump |  |
-| polijstmiddel | emery |  |
-| Polyetheen | PE |  |
-| polyurethaan | PU (polyurethane) |  |
-| pomp | pump |  |
-| pomphuis | volute |  |
-| portier / deur | door |  |
-| positief camber | positive camber |  |
-| potentiometer (potmeter) regelbare weerstand | potentiometer |  |
-| prestatie / uitvoering / voorstelling | performance |  |
-| proefrit | road test |  |
-| puls breedte | pulse width |  |
-| pulserend | intermittent |  |
-| puntige bout | pinch-bolt |  |
-| raam / ruit | window |  |
-| radiaal / in de radius richting | radial |  |
-| radiateur | radiator |  |
-| radiateur lamellen | heater matrix (radiator) |  |
-| radiateur slang | radiator hose |  |
-| radiateur ventilator | radiator fan |  |
-| radiateurhoes | radiator shroud |  |
-| radiator | cooler |  |
-| radiator met de uit- en inlaat tegenover elkaar | cross-flow radiator |  |
-| rand / hoek | edge |  |
-| ratel | ratchet |  |
-| ratelen | clatter |  |
-| ratelsleutel | ratchet spanner |  |
-| rechts | right hand |  |
-| rechtse schroefdraad | right-hand thread |  |
-| recirculerende lucht / niet verversend | recirculated air |  |
-| reduceerklep | pressure reducing valve |  |
-| regelen / stellen | adjust- |  |
-| reiniger / schoonmaker | cleaner |  |
-| relais (elektrisch) | relay (elect) |  |
+| montage platen | mounting plates |  |
+| montage profiel | mounting section |  |
+| montage profielen | mounting sections |  |
+| montage strip | mounting strip |  |
+| montage strips | mounting strips |  |
+| montagebalk | mounting beam |  |
+| montagebalken | mounting beams |  |
+| montagebeugel | mounting bracket |  |
+| montagebeugels | mounting brackets |  |
+| montageblok | mounting block |  |
+| montageblokken | mounting blocks |  |
+| montagebuis | mounting tube |  |
+| montagebuizen | mounting tubes |  |
+| montagebus | mounting bush |  |
+| montagebussen | mounting bushes |  |
+| montagekoker | mounting sleeve |  |
+| montagekokers | mounting sleeves |  |
+| montagepen | mounting pin |  |
+| montagepennen | mounting pins |  |
+| montageplaat | mounting plate |  |
+| montageplaten | mounting plates |  |
+| montageset | mounting set |  |
+| montagesets | mounting sets |  |
+| montagestuk | mounting piece |  |
+| montagestukken | mounting pieces |  |
+| motor kap | motor cover |  |
+| motor kappen | motor covers |  |
+| motor steun | motor support |  |
+| motorafdekplaat | motor cover plate |  |
+| motorafdekplaten | motor cover plates |  |
+| motorbeugel | motor bracket |  |
+| motorbeugels | motor brackets |  |
+| motorcontroller | motor controller |  |
+| motorcontrollers | motor controllers |  |
+| motorframe | motor frame |  |
+| motorframes | motor frames |  |
+| motorkant | motor side |  |
+| motorkanten | motor sides |  |
+| motorkap | motor cover |  |
+| motorkappen | motor covers |  |
+| motorsteun | motor support |  |
+| motorunit | motorunit |  |
+| motorunits | motorunits |  |
+| naderingsschakelaar | proximity switch |  |
+| naderingsschakelaars | proximity switches |  |
+| nadrukwiel | post fixing wheel |  |
+| nadrukwielen | post fixing wheels |  |
+| narcisband | daffodil belt |  |
+| narcisbanden | daffodil belts |  |
+| nieuwe opstelling | new configuration |  |
+| nieuwe opstellingen | new configurations |  |
+| nieuwe samenstelling | new composition |  |
+| nieuwe samenstellingen | new compositions |  |
+| noodstoparm | emergency stop arm |  |
+| noodstoparmen | emergency stop arms |  |
+| noodstopknop | emergency stop button |  |
+| noodstopknoppen | emergency stop buttons |  |
+| noodstopkoord | emergency stop cord |  |
+| noodstopkoorden | emergency stop cords |  |
+| noodstopkoord blok | emergency stop cord block |  |
+| noodstopkoord blokken | emergency stop cord blocks |  |
+| noodstoprelais | emergency stop relay |  |
+| oliekeerring | oil catcher |  |
+| oliekeerringen | oil catches |  |
+| ombouw | conversion |  |
+| onbl. unit | deleafer unit |  |
+| onbl. Units | deleafer units |  |
+| onder | bottom |  |
+| onder aanslag | lower stop |  |
+| onder paneel | bottom panel |  |
+| onder panelen | bottom panels |  |
+| onderbak | lower tray |  |
+| onderbakken | lower trays |  |
+| onderband | lower belt |  |
+| onderbanden | lower belts |  |
+| onderbuis | lower tube |  |
+| onderbuizen | lower tubes |  |
+| onderframe | lower frame |  |
+| onderframes | lower frames |  |
+| ondergeleiding | lower guide |  |
+| ondergeleidingen | lower guides |  |
+| onderhoud | maintenance |  |
+| onderkant | bottom side |  |
+| onderkanten | bottom sides |  |
+| onderkast | lower cabinet |  |
+| onderkasten | lower cabinets |  |
+| onderligger | lower girder |  |
+| onderliggers | lower girders |  |
+| onderopbouw | lower structure |  |
+| onderplaat | lower plate |  |
+| onderplaten | lower plates |  |
+| onderrol | bottom roller |  |
+| onderrollen | bottom rollers |  |
+| onderrollen | lower rollers |  |
+| onderrol | lower roller |  |
+| onderstel | undercarriage |  |
+| onderstellen | undercarriages |  |
+| ondersteuningsframe | support frame |  |
+| ondersteuningsframes | support frames |  |
+| ondersteuningsjuk | support yoke |  |
+| ondersteuningsjukken | support yokes |  |
+| ondersteuningspoelie | support pulley |  |
+| ondersteuningspoelies | support pulleys |  |
+| ondersteuningsschoor | support shore |  |
+| ondersteuningsschoren | support shores |  |
+| ontbl. | deleafer unit |  |
+| ontbladeraar | deleafer unit |  |
+| ontbladeraars | deleafer units |  |
+| ontbladerunit | deleafer unit |  |
+| ontbladerunits | deleafer units |  |
+| ontbolband | debulber belt |  |
+| ontbolbanden | debulber belts |  |
+| ontbolketting | debulb chain |  |
+| ontbolkettingen | debulb chains |  |
+| ontboller | debulber |  |
+| ontbollers | debulbers |  |
+| ontboltraject | debulb path |  |
+| ontboltrajecten | debulb paths |  |
+| ontbol-unit-ketting | debulb-unit-chain |  |
+| ontbol-unit-kettingen | debulb-unit-chains |  |
+| ontbolunit-vijzel | debulb unit-screw jack |  |
+| ontbolunit-vijzels | debulb unit-screw jacks |  |
+| ontdreuningsplaat | rumble cancellation plate |  |
+| ontdreuningsplaten | rumble cancellation plates |  |
+| ontsprotband | defoliating belt |  |
+| ontsprotband | defoliator belt |  |
+| ontsprotbanden | defoliating belts |  |
+| ontsprotbanden | defoliator belts |  |
+| ontsprotter | defoliator |  |
+| ontsprotters | defoliators |  |
+| ontvanger | receiver |  |
+| ontvangers | receivers |  |
+| ontvouw unit | unfolding unit |  |
+| ontvouw units | unfolding units |  |
+| ontwortel unit | deroot unit |  |
+| ontwortelunit | derooter unit |  |
+| ontwortel units | deroot units |  |
+| ontwortelunits | derooter units |  |
+| oogbout | eye bolt |  |
+| oogbouten | eye bolts |  |
+| oogmoer | eye nut |  |
+| oogmoeren | eye nuts |  |
+| oogplaat | eye plate |  |
+| oogplaten | eye plates |  |
+| oogstband | harvest belt |  |
+| oogstbanden | harvest belts |  |
+| oogstlijn | harvest line |  |
+| oogstlijnen | harvest lines |  |
+| oogstsysteem | harvest system |  |
+| oogstsystemen | harvest systems |  |
+| opbouw | structure |  |
+| opbouwframe | structure frame |  |
+| opbouwframes | structure frames |  |
+| opduwband | push up belt |  |
+| opduwbanden | push up belts |  |
+| opduwsnaar | push up string |  |
+| opduwsnaren | push up strings |  |
+| open | open |  |
+| opendoosprofiel | open box section |  |
+| opendoosprofielen | open box sections |  |
+| opener | opener |  |
+| ophang frame | suspension frame |  |
+| ophang frames | suspension frames |  |
+| ophang plaat | suspension plate |  |
+| ophang platen | suspension plates |  |
+| ophang schuifkoker | suspension slide sleeve |  |
+| ophang schuifkokers | suspension slide sleeves |  |
+| ophangarm | suspension arm |  |
+| ophangarms | suspension arms |  |
+| ophangbeugel | suspension bracket |  |
+| ophangbeugels | suspension brackets |  |
+| ophangbeugel aanslag | bracket stop |  |
+| ophanging | suspension |  |
+| ophanging as | suspension shaft |  |
+| ophanging assen | suspension shafts |  |
+| ophanging band | suspension belt |  |
+| ophanging banden | suspension belts |  |
+| ophanging poelie | suspension pulley |  |
+| ophanging poelies | suspension pulleys |  |
+| ophanging schans | suspension ramp |  |
+| ophanging schansen | suspension ramps |  |
+| ophangjuk | suspension yoke |  |
+| ophangjukken | suspension yokes |  |
+| ophangkoker | suspension sleeve |  |
+| ophangkokers | suspension sleeves |  |
+| ophangplaat | suspension plate |  |
+| ophangplaten | suspension plates |  |
+| ophangpunt | suspension point |  |
+| ophangpunten | suspension points |  |
+| ophangstrip | suspension strip |  |
+| ophangstrips | suspension strips |  |
+| oplegband | support belt |  |
+| oplegbanden | support belts |  |
+| oplegger | placer |  |
+| opleggers | placers |  |
+| oplegindicatie | placement indication |  |
+| oplegindicaties | placement indications |  |
+| oplegpunt | placement point |  |
+| oplegpunten | placement points |  |
+| oplegtafel | placement table |  |
+| oplegtafels | placement tables |  |
+| oplegtafelblad | placement tabletop |  |
+| oplegtafelbladen | placement tabletops |  |
+| oploop bakken | approach trays |  |
+| oploop bak | approach tray |  |
+| oploop grijper | bracket gripper |  |
+| oploop grijpers | bracket grippers |  |
+| opsluitplaat | retaining plate |  |
+| opsluitplaten | retaining plates |  |
+| opspantafel | tensioning table |  |
+| opspantafels | tensioning tables |  |
+| opvangarm | collection arm |  |
+| opvangarmen | collection arms |  |
+| opvangbak | collection tray |  |
+| opvangbakken | collection trays |  |
+| opvangbuis | collection tube |  |
+| opvangbuizen | collection tubes |  |
+| opvangkap | collection cap |  |
+| opvangkappen | collection caps |  |
+| opvangpen | catch pin |  |
+| opvangpennen | catch pins |  |
+| opvangplaat | collection plate |  |
+| opvangplaten | collection plates |  |
+| opvangstrip | collection strip |  |
+| opvangstrips | collection strips |  |
+| opvangzak | collection bag |  |
+| opvangzakken | collection bags |  |
+| opvulplaat | packing plate |  |
+| opvulplaten | packing plates |  |
+| opvulstrip | packing strip |  |
+| opvulstrips | packing strips |  |
+| opzetkap | placement cap |  |
+| opzetkappen | placement caps |  |
+| overdrukventiel | pressure relief valve |  |
+| overdrukventielen | pressure relief valves |  |
+| overgangskap | transition cap |  |
+| overgangskappen | transition caps |  |
+| overgangsstrip | transition strip |  |
+| overgangsstrips | transition strips |  |
+| overlap buis | overlap tube |  |
+| overlap buizen | overlap tubes |  |
+| overlegger | overlayer |  |
+| overleggers | overlayers |  |
+| overname | takeover |  |
+| overnames | takeovers |  |
+| overslagdoek | wrap-around cloth |  |
+| overslagdoeken | wrap-around cloth s |  |
+| overspanningsbeveiliging | overvoltage protection |  |
+| overzetter | transfer mechanism |  |
+| overzetters | transfer mechanisms |  |
+| parallel frame | parallel frame |  |
+| parallel frames | parallel frames |  |
+| pen houder | pin holder |  |
+| pen houders | pin holders |  |
+| pennenbeveiliging | pin safeguard |  |
+| pictogram | symbol |  |
+| pictogrammen | symbols |  |
+| pioenenplaat | peony plate |  |
+| pioenenplaten | peony plates |  |
+| plaat aandrijving | plate drive |  |
+| plaat aandrijvingen | plate drives |  |
+| plaat koeler | plate cooler |  |
+| plaat koelers | plate coolers |  |
+| plaat lager | plate bearing |  |
+| plaat lagers | plate bearings |  |
+| plaat opspantafel lasserij | plate tensioning table welding shop |  |
+| plaat poelie | plate pulley |  |
+| plaat poelies | plate pulleys |  |
+| plaat rol | plate rollers |  |
+| plaat rollen | plate rollers |  |
+| plaat slot | plate lock |  |
+| plaat sloten | plate locks |  |
+| plaat snijder | plate cutter |  |
+| plaat snijders | plate cutters |  |
+| plaat spanner | plate tensioner |  |
+| plaat spanners | plate tensioners |  |
+| plaat spiegel | plate mirror |  |
+| plaat spiegels | plate mirrors |  |
+| plaat wissel | plate switch |  |
+| plaat wissels | plate switches |  |
+| plaathouder | plate holder |  |
+| plaathouders | plate holders |  |
+| plaatschroef | sheet-metal screw |  |
+| plaatschroeven | sheet-metal screws |  |
+| plakzadel | adhesive base |  |
+| plakzadels | adhesive bases |  |
+| plantlijn | plant line |  |
+| plantlijnen | plant lines |  |
+| plet-unit | flattening unit |  |
+| plet-units | flattening units |  |
+| pletwiel | flattening wheel |  |
+| pletwielen | flattening wheels |  |
+| plexiglas plaat | plexiglass plate |  |
+| plexiglas platen | plexiglass plates |  |
+| plug-in module | plug-in module |  |
+| plug-in modulen | plug-in modules |  |
+| plug-in modules | plug-in modules |  |
+| pneumatiek | pneumatics |  |
+| pneumatiek kast | pneumatics cabinet |  |
+| pneumatiek kasten | pneumatics cabinets |  |
+| poelie | pulley |  |
+| poelies | pulleys |  |
+| poelie band | pulley belt |  |
+| poelie banden | pulley belts |  |
+| poelie bevestiging | pulley attachment |  |
+| poelie bevestigingen | pulley attachments |  |
+| poelie contragewicht | pulley counter weight |  |
+| poelie snaar | pulley string |  |
+| poelie snaren | pulley strings |  |
+| poelie snor | pulley moustache |  |
+| poelie snorren | pulley moustaches |  |
+| poelie verenkelaar | pulley separator |  |
+| poelie verenkelaars | pulley separators |  |
+| poelieblok | pulley block |  |
+| poelieblokken | pulley blocks |  |
+| poelies schietband | pulleys retracting belt |  |
+| poelies schietbanden | pulleys retracting belts |  |
+| poeliesteun | pulley support |  |
+| pole basic housing | pole basic housing |  |
+| pons | punch |  |
+| pons bevestiging | punch attachment |  |
+| pons bevestigingen | punch attachments |  |
+| ponsband | punch belt |  |
+| ponsbanden | punch belts |  |
+| ponsblok | punch block |  |
+| ponsblokken | punch blocks |  |
+| ponsblokriem | punch block belt |  |
+| ponsblokriemen | punch block belts |  |
+| ponsenbaan | punch track |  |
+| ponsenbanen | punch tracks |  |
+| poot | leg |  |
+| poten | legs |  |
+| poot hoek | leg angle |  |
+| poot hoeken | leg angles |  |
+| poot schoor | leg shore |  |
+| poot schoren | leg shores |  |
+| positieplaat | position plate |  |
+| positieplaten | position plates |  |
+| potentiaalvereff | potential equalisation |  |
+| pot-free | pot-free |  |
+| potveer ontboller | potveer debulber |  |
+| potveer ontbollers | potveer debulbers |  |
+| print boshouder | print bunch holder |  |
+| print boshouders | print bunch holders |  |
+| print gelijktrekker | print aligner |  |
+| print gelijktrekkers | print aligners |  |
+| print verenkelaar | print separator |  |
+| print verenkelaars | print separators |  |
+| printdeel | print part |  |
+| printdelen | print parts |  |
+| printkop | print head |  |
+| printkoppen | print heads |  |
+| printplaat | circuit board |  |
+| printplaten | circuit boards |  |
+| profiel | section |  |
+| profielen | sections |  |
+| profiel binder | section binder |  |
+| profiel binders | section binders |  |
+| profiel trap | section stairs |  |
+| raam kap | window cover |  |
+| raam kappen | window covers |  |
+| raam snijder | window cutter |  |
+| raam snijders | window cutters |  |
+| raam zijkant | window side |  |
+| raam zijkanten | window sides |  |
+| raamframe | window frame |  |
+| raamframes | window frames |  |
+| raamklemming | frame clamp |  |
+| raamklemmingen | frame clamps |  |
+| reactiearm | reaction arm |  |
+| reactiearmen | reaction arms |  |
+| recht | straight |  |
+| rechtgeleiding | straight guide |  |
+| rechtgeleidingen | straight guides |  |
+| reduceer ventiel | reduction valve |  |
+| reduceer ventielen | reduction valves |  |
+| reduceertoestel | reduction appliance |  |
+| reduceertoestellen | reduction appliances |  |
+| regelset | control set |  |
+| regelsets | control sets |  |
+| relaisvoet | relay foot |  |
 | rem | brake |  |
-| rem afstelling | brake adjustment |  |
-| rem anker plaat | brake anchor plate |  |
-| rem bekrachtiger | servo (brake) |  |
-| rem ontluchten | brake bleeding |  |
-| remband (automaat) | locking strap |  |
-| rembekrachtiger | brake servo |  |
-| remblok | brake pad |  |
-| remblok slijtage waarschuwingslampje | brake lining wear indicator |  |
-| remklauw | brake caliper |  |
-| remklauw | caliper |  |
-| remlicht | brake light |  |
-| remlichtschakelaar | brake light switch |  |
-| remmentestbank | dynamometer brake |  |
-| rempedaal | brake pedal |  |
-| remschijf | brake disc |  |
-| remschijf | rotor (US=brake disc) |  |
-| remschoen | brake shoe |  |
-| remslangklem | brake hose clamp |  |
-| remsysteem | braking system |  |
-| remtrommel | brake drum |  |
-| remvloeistof | brake fluid |  |
-| remvoeringen | brake linings |  |
-| repareren | repair |  |
-| reserve onderdelen | spare parts |  |
-| reservewiel | spare wheel |  |
-| residu / rest / bezinksel | residue |  |
-| retourleiding | return line |  |
-| reviseren | overhaul |  |
-| richting aanwijzer dashboardlampje | direction indicator |  |
-| rijkmengsel | rich mixture |  |
-| ringen / beugels | collets |  |
-| ringmoer | ring nut |  |
-| ringsleutel | box spanner |  |
-| riolering | drainage |  |
-| Rioolompomping | sewage bypassing |  |
-| rioolwater | sewage |  |
-| robuust / fors / gespierd | robust |  |
-| robuust / stoer / fors | sturdy |  |
-| roestwerend middel | rust-preventive (paint etc) |  |
-| roetfilter | PDF (diesel particulate filter) |  |
-| rol / overhangen in bocht | roll |  |
-| rol kooi | roller cage |  |
-| rollager | roller bearing |  |
-| rol-punt | center of rotation |  |
-| rolstift | roll pin |  |
-| rond draaiend / draaibaar | revolving |  |
-| ronddraaien | cranking |  |
-| ronde doorslag / drevel | tubular drift |  |
-| röntgenstraal | X-ray |  |
-| rotatiesnelheidsmeter | rotational speed sensor |  |
-| rotor | rotor (alternator) |  |
-| rotor wikkeling | rotor winding- |  |
-| route/volgorde | routing |  |
-| rubber beschermring | rubber grommet |  |
-| rubber hamer | soft-faced mallet |  |
-| rugschoep (van een waaier) | back vane |  |
-| ruilmotor | exchange engine |  |
-| ruimen | broach |  |
-| ruimte / speling | slack |  |
-| ruit ontwaseming | demister |  |
-| ruitensproeier | washer jet |  |
-| ruitensproeiers | windscreen washers |  |
-| ruitenwissers | windscreen wipers |  |
-| ruitmechanisme | window lift mechanism |  |
-| ruwheid (oppervlakte) | roughness |  |
-| RVS / roestvast staal | stainless steel |  |
-| samenvatting / overzicht | summary |  |
-| schacht (van een spiraalboor) | shank (of a twist drill) |  |
+| remmen | brakes |  |
+| remmenreiniger | brake cleaner |  |
+| remmenreinigers | brake cleaners |  |
+| rib | rib |  |
+| ribben | ribs |  |
+| rijplaat | drive plate |  |
+| rijplaten | drive plates |  |
+| ring | washer |  |
+| ringen | washers |  |
+| rol | roller |  |
+| rollen | rollers |  |
+| rol houder | roll holder |  |
+| rol houders | roll holders |  |
+| rolarm | roller arm |  |
+| rolarmen | roller arms |  |
+| rolband doos | rolbelt box |  |
+| rolband dozen | rolbelt boxes |  |
+| rolbevestiging | roller attachment |  |
+| rolbevestigingen | roller attachments |  |
+| rolhouder | roller holder |  |
+| rolhouders | roller holders |  |
+| rollen verenkelaar | roller separator |  |
+| rollen verenkelaars | roller separators |  |
+| rollenbaan | roller conveyor |  |
+| rollenbanen | roller conveyors |  |
+| rollenband | roller belt |  |
+| rollenbanden | roller belts |  |
+| rolmontage | roller mounting |  |
+| rondgeleiding | round guide |  |
+| rondgeleidingen | round guides |  |
+| rontgen | x-ray |  |
+| rontgens | x-ray |  |
+| rontgen plaat | x-ray plate |  |
+| rontgen platen | x-ray plates |  |
+| rontgen toren | x-ray tower |  |
+| rontgen torens | x-ray towers |  |
+| rontgen venster | x-ray window |  |
+| rontgen vensters | x-ray windows |  |
+| rontgenplaat | x-ray plate |  |
+| rontgenplaten | x-ray plates |  |
+| rotatie arm | rotation arm |  |
+| rotatie armen | rotation arms |  |
+| rotatie stang | rotation rod |  |
+| rotatie stangen | rotation rods |  |
+| rotatiearm | rotation arm |  |
+| rotatiearmen | rotation arms |  |
+| rotatiebeugel | rotation bracket |  |
+| rotatiebeugels | rotation brackets |  |
+| roterende houder | rotating holder |  |
+| roterende houders | rotating holders |  |
+| rotor | rotor |  |
+| rotoren | rotors |  |
+| rotors | rotors |  |
+| rotor klep | rotor valve |  |
+| rotor kleppen | rotor valves |  |
+| rotor steel | rotor stem |  |
+| rotor stelen | rotor stems |  |
+| rubberprofiel | rubber section |  |
+| rubberprofielen | rubber sections |  |
+| ruit grijper | pane gripper |  |
+| ruit grijpers | pane grippers |  |
+| ruit kap | pane cover |  |
+| ruit kappen | pane covers |  |
+| rupsbeugel | caterpillar bracket |  |
+| rupsbeugels | caterpillar brackets |  |
+| rupsgoot | caterpillar gutter |  |
+| rupsgoten | caterpillar gutters |  |
 | schakelaar | switch |  |
-| schakelen(versnelling) | change gear |  |
-| schakelmechanisme | gear selector |  |
-| schakelmof | synchronizer sleeve |  |
-| schakelpook | shift lever (US) |  |
-| schakelstang | selector rod |  |
-| schakelvork | selector fork |  |
-| scharnierbout | pivot bolt |  |
-| scharnierpen | pivot |  |
-| scharnierpenhouder | pivot bush |  |
-| scharnierstijl | pivot post |  |
-| scheider | separator |  |
-| scheur / barst | crack |  |
-| schijf / plaat / ring | disc |  |
-| schijfrem | disc brake |  |
-| schoep (van een waaier) | vane |  |
-| schokdemper | shock absorber |  |
-| schokdemper | damper (shock absorber) |  |
-| schommelarm | swinging arm |  |
-| schommeling / fluctuatie | fluctuation |  |
-| schotelring | dished washer |  |
-| schraapveer (zuiger) | scraper ring |  |
+| schakelaren | switches |  |
+| schakelband | link belt |  |
+| schakelbanden | link belts |  |
+| schakelunit | switch unit |  |
+| schakelunits | switch units |  |
+| schans | ramp |  |
+| schansen | ramps |  |
+| schansplaat | ramp plate |  |
+| schansplaten | ramp plates |  |
+| scharnier | hinge |  |
+| scharnieren | hinges |  |
+| scharnier buis | hinge tube |  |
+| scharnier buizen | hinge tubes |  |
+| scharnierbeugel | hinge bracket |  |
+| scharnierbeugels | hinge brackets |  |
+| scharnierdeksel | hinge cover |  |
+| scharnierdeksels | hinge covers |  |
+| scharnierkap | hinge cap |  |
+| scharnierkappen | hinge caps |  |
+| scharnierpen | hinge pin |  |
+| scharnierpennen | hinge pins |  |
+| scharnierplaat | hinge plate |  |
+| scharnierplaten | hinge plates |  |
+| scharnierpunt | hinge point |  |
+| scharnierpunten | hinge points |  |
+| scharnierstrip | hinge strip |  |
+| scharnierstrips | hinge strips |  |
+| scharnierstuk | hinge piece |  |
+| scharnierstukken | hinge pieces |  |
+| scheidingsplaat | separation plate |  |
+| scheidingsplaten | separation plates |  |
+| schep | shovel |  |
+| scheppen | shovels |  |
+| scherm beugel | screen bracket |  |
+| scherm beugels | screen brackets |  |
+| schermkap | protective cover |  |
+| schermkappen | protective covers |  |
+| schermklem | screen clamp |  |
+| schermklemmen | screen clamps |  |
+| schermophanging | screen suspension |  |
+| schermophangingen | screen suspensions |  |
+| schermplaat | guard plate |  |
+| schermplaten | guard plates |  |
+| schietband | retracting belt |  |
+| schietbanden | retracting belts |  |
+| schoep rotor | paddle rotor |  |
+| schoep rotors | paddle rotors |  |
+| schoep rotoren | paddle rotors |  |
+| schoor | shore |  |
+| schoren | shores |  |
+| schoor rol | shore roller |  |
+| schoor rollen | shore rollers |  |
+| schoorplaat | shore plate |  |
+| schoorplaten | shore plates |  |
+| schoorprofiel | shore section |  |
+| schoorprofielen | shore sections |  |
+| schoorstrip | shore strip |  |
+| schoorstrips | shore strips |  |
+| schoprand | toe plate |  |
+| schopranden | toe plates |  |
+| schot | partition |  |
+| schot draaitafel | partition turntable |  |
+| schotplaat | partition plate |  |
+| schotplaten | partition plates |  |
+| schraapplaat | scraping plate |  |
+| schraapplaten | scraping plates |  |
 | schraper | scraper |  |
-| schroef | screw |  |
-| schroef zonder kop | headless screw |  |
-| schroevendraaier | screwdriver |  |
-| schuifdak | sunroof |  |
-| schuifklep | gate valve |  |
-| schuifmaat | slide caliper |  |
-| schuifmaat | Vernier calipers |  |
-| schuine vertanding | bevel (gear) |  |
-| schutbord | bulkhead- |  |
-| schutbord doorvoerrubber | bulkhead grummet |  |
-| schuur / schurend / schuurmiddel | abrasive |  |
-| schuurmiddel | carborundum |  |
-| sealkamerplaat | backplate cover |  |
-| secundaire as van versnellingsbak | countershaft |  |
-| secundaire remschoen | trailing shoe |  |
-| serie schakelen | connect in series |  |
-| serieschakeling | series (elect. connection) |  |
-| set tandwielen | gear train |  |
-| sigaretten aansteker | cigar lighter |  |
-| silicium carbide | SiC |  |
-| slag | stroke |  |
-| slag schroevendraaier | impact screwdriver |  |
-| slag, drevel | punch |  |
-| slagvast / stootvast / schokbestendig | shock proof |  |
+| schrapers | scrapers |  |
+| schraper band | scraper belt |  |
+| schraper banden | scraper belts |  |
+| schroefbuis | threaded tube |  |
+| schroefbuizen | threaded tubes |  |
+| schroefplaat | screw plate |  |
+| schroefplaten | screw plates |  |
+| schuif | slide |  |
+| schuiven | slides |  |
+| schuif ontbladeraar | slide deleafer |  |
+| schuif ontbladeraars | slide deleafers |  |
+| schuifas | slide shaft |  |
+| schuifassen | slide shafts |  |
+| schuifband | sliding belt |  |
+| schuifbanden | sliding belts |  |
+| schuifblok | slide block |  |
+| schuifblokken | slide blocks |  |
+| schuifbuis | slide tube |  |
+| schuifbuizen | slide tubes |  |
+| schuifbus | slide bush |  |
+| schuifbussen | slide bushes |  |
+| schuifframe | slide frame |  |
+| schuifframes | slide frames |  |
+| schuifkap | slide cap |  |
+| schuifkappen | slide caps |  |
+| schuifklem | slide clamp |  |
+| schuifklemmen | slide clamps |  |
+| schuifknop | slide button |  |
+| schuifknoppen | slide buttons |  |
+| schuifkoker | slide sleeve |  |
+| schuifkokers | slide sleeves |  |
+| schuifplaat | slide plate |  |
+| schuifplaten | slide plates |  |
+| schuifstuk | sliding piece |  |
+| schuifstukken | sliding pieces |  |
+| schuiftafel | slide table |  |
+| schuiftafels | slide tables |  |
+| schuimband | foam belt |  |
+| schuimbanden | foam belts |  |
+| schuimband | sponge belt |  |
+| schuimbanden | sponge belts |  |
+| schuimrol | foam roller |  |
+| schuimrollen | foam rollers |  |
+| schuimwiel | foam wheel |  |
+| schuimwielen | foam wheels |  |
+| schuin | inclined |  |
+| sensor | sensor |  |
+| sensor behuizing | sensor housing |  |
+| sensor beugel | sensor bracket |  |
+| sensor beugels | sensor brackets |  |
+| sensor plaat | sensor plate |  |
+| sensor platen | sensor plates |  |
+| sensor ring | sensor ring |  |
+| sensor ringen | sensor rings |  |
+| sensor steun | sensor support |  |
+| sensor strip | sensor strip |  |
+| sensor strips | sensor strips |  |
+| sensor vinger | sensor finger |  |
+| sensor vingers | sensor fingers |  |
+| sensorarm | sensor arm |  |
+| sensorarmen | sensor arms |  |
+| sensorbeugel | sensor bracket |  |
+| sensorbeugels | sensor brackets |  |
+| sensorblok | sensor block |  |
+| sensorblokken | sensor blocks |  |
+| sensorhouder | sensor holder |  |
+| sensorhouders | sensor holder |  |
+| sensorsteun | sensor support |  |
+| sentilatieplaat | sentilation plate |  |
+| sentilatieplaten | sentilation plates |  |
+| signaallamp | signal lamp |  |
+| signaallampen | signal lamps |  |
+| signaalpaal | signal post |  |
+| signaalpalen | signal posts |  |
+| signaalsplitter | signal splitter |  |
+| signaalsplitters | signal splitters |  |
 | slang | hose |  |
-| slang / buis | tube |  |
-| slang van verwarming | heater hose |  |
-| slangklem | hose clamp |  |
-| slangklem | worm-drive hose clip |  |
-| slangkoppeling | hose coupling |  |
-| slangpilaar / vaareind / slangtule | sock drain connection |  |
-| sleep gewicht | towing weight |  |
-| sleepoog | towing eye |  |
-| sleepring | slip ring |  |
-| slepen / trekken | towing |  |
-| sleuf | slot |  |
-| sleuf | spline |  |
-| sleutel | spanner |  |
-| sleutel met sleuf / sleuven | splined key |  |
-| slibrijk | silty |  |
-| slijtage | wear |  |
-| slijtage indicator | tread wear indicator |  |
-| slijtplaat | wear plate |  |
-| slijtring | wear ring |  |
-| slingeren van ketting | chain whip |  |
-| slippen / schuiven | slip |  |
-| slot | lock |  |
-| sluitring | washer |  |
-| slurry (vloeistof met vaste deeltjes) | sludge |  |
-| smeer put | inspection pit |  |
-| smeltpunt | fusing point |  |
-| smoorklep | strangler (choke) |  |
-| snaar indrukbaarheid | belt deflection |  |
-| snaaraandrijving | belt drive |  |
-| snaarschijf van de dynamo | alternator pulley |  |
-| snaarspanner | belt tensioner |  |
-| snelheidsbegrenzer | speed limiter |  |
-| snelheidsmeter | speedometer |  |
-| snelheidsmeter | tachometer |  |
-| snij af / knip af | cut off |  |
-| snij groef / versnijdende groef | cutting slot |  |
-| snij ijzer (schroefdraad) | die nut |  |
-| snurken / slobberen | snoring |  |
-| softstarter (AC elektrische motor) | soft starter |  |
-| solderen | solder |  |
+| slangen | hoses |  |
+| slangspanner | hose tensioner |  |
+| slangspanners | hose tensioners |  |
+| sleufplaat | slotted plate |  |
+| slotbout | coach bolt |  |
+| slotbouten | coach bolts |  |
+| slotplaat | lock plate |  |
+| slotplaten | lock plates |  |
+| sluiter | closer |  |
+| sluiters | closers |  |
+| sluitplaat | closing plate |  |
+| sluitplaat | locking plate |  |
+| sluitplaten | closing plates |  |
+| sluitplaten | locking plates |  |
+| sluitrol | closing roller |  |
+| sluitrollen | closing rollers |  |
+| sluitschakel | chain connection |  |
+| sluitschakel | closing link |  |
+| sluitschakels | chain connections |  |
+| sluitschakels | closing links |  |
+| smal | narrow |  |
+| smalle band | narrow belt |  |
+| smeersysteem | lubrication system |  |
+| smeersystemen | lubrication systems |  |
+| smoringsventiel | throttle valve |  |
+| smoringsventielen | throttle valves |  |
+| snaar steun | string support |  |
+| snaarband | string belt |  |
+| snaarbanden | string belts |  |
+| snaargeleiding | string guide |  |
+| snaargeleidingen | string guides |  |
+| snaarpoelie | string pulley |  |
+| snaarpoelies | string pulleys |  |
+| snaarsteun | string support |  |
+| snaartransport | string transport |  |
+| snarenband | wire belt |  |
+| snarenbanden | wire belts |  |
+| snelkoppeling | quick coupling |  |
+| snijder | cutter |  |
+| snijders | cutters |  |
+| snijderafscherming | cutter guide |  |
+| snijderafschermingen | cutter guides |  |
+| snijderkap | cutter cap |  |
+| snijderkappen | cutter caps |  |
+| snijkast | cutting cabinet |  |
+| snijkasten | cutting cabinets |  |
+| sokkel | pedestal |  |
+| sokkels | pedestals |  |
+| span arm | tensioning arm |  |
+| span armen | tensioning arms |  |
+| span as | tensioning shaft |  |
+| span assen | tensioning shafts |  |
+| span buis | tensioning tube |  |
+| span buizen | tensioning tubes |  |
+| spanblok | tensioning block |  |
+| spanblokken | tensioning blocks |  |
+| spanbuis | tensioning tube |  |
+| spanbuizen | tensioning tubes |  |
+| spandeel | tensioning piece |  |
+| spandelen | tensioning pieces |  |
+| spanhendel | tensioning handle |  |
+| spanhendels | tensioning handles |  |
 | spanner | tensioner |  |
-| spanning- | voltage |  |
-| spanning regelaar | voltage regulator |  |
-| spanrol | idler (gear, pulley) |  |
-| spanrol | tensioner pulley |  |
-| spat lap | splash guard |  |
-| spatbord / stootkussen / blok | fender |  |
-| spatlap | mud flap |  |
-| spatscherm | mudguard |  |
-| speling / ruimte | clearance |  |
-| spie / keg | wedge |  |
-| spiebaan | keyway |  |
-| spiegel | mirror |  |
-| spiraalboor | twist drill |  |
-| spiraalveer | coil spring |  |
-| spiraalveer | cylindrical spring |  |
-| spiraalvormige groef | helical groove |  |
-| spiritus | methylated spirit |  |
-| splitpen | split pin |  |
-| spoelwater | flushing water |  |
-| spoorbreedte | track (width) |  |
-| spoorstang | tie-rod |  |
-| spoorstang | track-rod |  |
-| spoorstangeind | track-rod end |  |
-| sproeier | carburetor jet |  |
-| sproeier | jet |  |
-| sproeier / gekalibreerde opening | notched nozzle |  |
-| sproeierhouder | nozzle holder |  |
-| sproeiernaald | jet needle |  |
-| spruitstuk | manifold |  |
-| Spuitpomp | high head pump |  |
-| staal | steel |  |
-| staalborstel | wire brush |  |
-| stabelbaar | stackable |  |
-| stabilisator stang | anti-roll bar |  |
-| stang | stem |  |
-| stang met schroefdraad | adjustment rod |  |
-| stap voor stap | step by step |  |
-| start blokkering | starter inhibitor |  |
-| starterkrans | ring gear |  |
-| starterkrans | starter ring gear |  |
-| startkabel | jump leads |  |
-| startmotor | starter |  |
-| startmotor | starter motor |  |
-| startmotorlager | starter bush |  |
-| startsproeier | starter jet |  |
-| stationair lopen | idling |  |
-| stationair mengsel | idle mixture |  |
-| stationair regelschroef | idle adjustment screw |  |
-| stationair sproeier | idle jet |  |
-| stationair sproeier afsluitklep | idle cut-of valve |  |
-| stationair toeren | idle speed |  |
-| stationair toeren regelklep | idle speed control valve |  |
-| stationaire sproeier | slow running jet |  |
-| stationwagen | estate car |  |
-| steeksleutel | c-spanner |  |
-| stekker | connector |  |
-| stekker verbinding | push-on connector |  |
-| stelruimte- | backlash |  |
-| stelschroef / bout | adjustment bold |  |
-| stenen vanger | stone catcher |  |
-| steun | bracket |  |
-| steunbalk | support strut (tailgate) |  |
-| stevig / robuust / sterk | rugged |  |
-| stoelgeleider | seat runner |  |
-| stofdicht | dust proof |  |
-| stofdichte hoes | dust excluding boot |  |
-| stofkap | dust cap / cover |  |
-| stoot / schok | impulse |  |
-| stoot stang / bumper / aanslag | bumper |  |
-| stop relais | cut-out relay |  |
-| stopbuspakking | gland packing |  |
-| stopbuspakking kamer | gland packing chamber |  |
-| stoplicht | stop-light |  |
-| stopmogelijkheid | stopping ability |  |
-| stoppen / afbreken / uitschakelen | cut-outs |  |
-| storing | interference |  |
-| storing onderdrukking | interference suppression |  |
-| storing zoeken | trouble shooting |  |
-| stoterstang | pushrod |  |
-| stroboscoop afstellamp | stroboscopic timing light |  |
-| stroboscope afstellamp | neon timing light |  |
-| stroom / stroming / debiet / opbrengst | flow |  |
-| stroom onderbreker | circuit breaker |  |
-| stroomverbruik | current consumption |  |
-| stroomverdeler | ignition distributor |  |
-| stroomvoerende draad | live lead |  |
-| stuur | steering wheel |  |
-| stuurbekrachtiging | power-assisted steering |  |
-| stuurdemper | steering damper |  |
-| stuurheugel | steering rack |  |
-| stuurhuis | steering rack gaiter |  |
-| stuurkolom | steering column |  |
-| stuuroverbrenging | steering gear |  |
-| stuurslot | steering lock (anti-theft device) |  |
-| stuurstang | steering linkage |  |
-| subframe | sub frame |  |
-| super benzine | 4-star (fuel grade) |  |
-| super benzine | premium |  |
-| superbenzine | super (fuel grade) |  |
-| synchromesh-ring | synchronizer ring |  |
-| taaiheid | toughness |  |
-| tanden van tandwiel | gear teeth |  |
-| tandheugel | rack- |  |
-| tandheugel stuurinrichting | rack-and-pinion steering |  |
-| tandkrans | drive plate |  |
-| tandriemschijf | synchronous belt drive |  |
-| tandwiel van secundaire as | counter gear |  |
-| tandwielen met rechte vertanding | spur gear |  |
-| tang | pliers |  |
-| tang / sleutel | fastener |  |
-| tank meter opnemer | fuel gauge sender |  |
-| tap (uitwendige draad snij gereedschap) | tap (thread cutter) |  |
-| tap en snij ijzer set | tap and die set |  |
-| tapbout | stud |  |
-| tapboutverwijder gereedschap | stud extractor |  |
-| tapverstuiver | pintle (nozzle) |  |
-| te groot vrije slag / speling | free play |  |
-| te klein/ondermaat | undersize |  |
-| te lage (banden)spanning | under-inflation |  |
-| teflon / PTFE / polytetrafluoretheen | Teflon |  |
-| tegen balans / tegengewicht | counterbalance |  |
-| tegen elkaar aan liggen | be in close contact |  |
-| temperatuurmeter | temperature gauge |  |
-| temperatuurvoeler | temperature sender |  |
-| terugslag in carburateur | blow-back |  |
-| terugslagklep | non-return valve |  |
-| terugslagklep | one-way valve |  |
-| terugtrekken | retract |  |
-| terugtrekveer | pull-off spring |  |
-| terugtrekveer | return spring |  |
-| terugveren | recoil |  |
-| test | test |  |
-| test meter (met wijzerplaat) | dial test indicator |  |
-| testlamp | test lamp |  |
-| thermische beveiliging | thermal protection |  |
-| thermische tijdschakelaar | thermos-time switch |  |
-| thermoplastisch | thermoplastic |  |
-| thermostaat | temperature-operated switch |  |
-| thermostaat | thermostat |  |
-| thermostat huis | thermostat housing |  |
-| timer | timer |  |
-| tocht / ventilatie raampje | quarter light |  |
-| toegeven / opbrengst / opleveren | yield |  |
-| toeren | cruising |  |
-| toeren teller | revolution counter |  |
-| toespoor | toe-in |  |
-| toevoer | delivery |  |
-| toevoerklep | delivery valve |  |
-| toevoerleiding | delivery pipe |  |
-| torx sleutel | torx key |  |
-| totaal autogewicht | gross vehicle weight |  |
-| totaal voertuig gewicht | Kerb weight |  |
-| totale breedte | overall width |  |
-| totale lengte | overall length |  |
-| transistor bobine | inductive semiconductor |  |
-| transistor ontsteking | transistorized ignition system |  |
-| transparant / doorzichtig | transparent |  |
-| trechter | funnel |  |
-| trekhaak / trekstang | tow bar |  |
-| trekker | extractor |  |
-| trekker | puller |  |
-| trekstang | pull rod |  |
-| trekstang | tie-bar |  |
-| trillingdemper | dashpot |  |
-| trommelrem | drum brake |  |
-| T-stuk / T-koppeling | T-piece |  |
-| tuimelaar as | rocker shaft |  |
-| turbine / schoepenwiel | turbine |  |
-| turbolader | turbocharger |  |
-| tweetaktmotor | two-stroke engine |  |
-| uit het midden | off-set |  |
-| uiterst / erg / uitermate / buitengewoon | extremely |  |
-| uitgang vermogen (pk, kW) | output |  |
-| uitgelopen | run-out |  |
-| uitlaat | exhaust |  |
-| uitlaat | muffler |  |
-| uitlaatdemper | exhaust silencer |  |
-| uitlaatgas emissie controlesysteem | emission control system |  |
-| uitlaatklep | outlet valve |  |
-| uitlaatpijp na uitlaatspruitstuk | down pipe |  |
-| uitschakelen | shut off |  |
-| uitspoor | toe-out |  |
-| UV bestand | UV resistant (ultra violet) |  |
-| vacuüm (rem)bekrachtiger | vacuum actuator |  |
-| vacuüm ondersteund | vacuum assisted |  |
-| vacuüm remservo | vacuum servo (brake) |  |
-| vacuüm vervroeging | vacuum advance |  |
-| vacuüm / onderdruk | vacuum |  |
-| vacuümmeter | vacuum gauge |  |
-| vacuümpomp | vacuum pump |  |
-| vacuümslang | vacuum hose |  |
-| vacuümtank | vacuum unit |  |
-| valstroom | down draft / draught |  |
-| van schroefdraad voorzien | threaded |  |
-| van versnelling veranderen | gear change |  |
-| vangen | catch |  |
-| variabele venturi | variable-venturi |  |
-| vaseline | petroleum jelly |  |
-| vast draaipunt | fixed pivot |  |
-| vast zetten / draaien | fasten |  |
-| vaste sproeier | fixed jet |  |
+| spanners | tensioners |  |
+| spanplaat | clamping plate |  |
+| spanplaten | clamping plates |  |
+| spanrol | tensioning roller |  |
+| spanrollen | tensioning rollers |  |
+| spanschroefmoer | tensioning screw nut |  |
+| spanschroefmoeren | tensioning screw nuts |  |
+| spanstrip | tensioning strip |  |
+| spanstrips | tensioning strips |  |
+| spansysteem | tensioning system |  |
+| spansystemen | tensioning systems |  |
+| spanunit | tensioning unit |  |
+| spanunits | tensioning units |  |
+| spanvork | tensioning fork |  |
+| spanvorken | tensioning forks |  |
+| spanwiel | tensioning wheel |  |
+| spanwielen | tensioning wheels |  |
+| spanzijde | tension side |  |
+| spanzijden | tension sides |  |
+| spanzijdes | tension sides |  |
+| spatscherm | splash screen |  |
+| spatschermen | splash screens |  |
+| spiraalband | spiral wrap |  |
+| spiraalbanden | spiral wraps |  |
+| splitplaat | split plate |  |
+| splitplaten | split plates |  |
+| sponsrollenband | sponge roller belt |  |
+| sponsrollenbanden | sponge roller belts |  |
+| spoorsensor | track sensor |  |
+| spoorsensors | track sensors |  |
+| sproeier | sprayer |  |
+| sproeiers | sprayers |  |
+| sproeinozzle | spray nozzle |  |
+| sproeinozzles | spray nozzles |  |
+| spuitmond | spray nozzle |  |
+| spuitmonden | spray nozzles |  |
+| staander | stand |  |
+| staanders | stands |  |
+| staander afscherming | stand guard |  |
+| staander afschermingen | stand guards |  |
+| staander buis | stand tube |  |
+| staander buizen | stand tubes |  |
+| staander camera | stand camera |  |
+| staander camera's | stand cameras |  |
+| stanader steun | stand support |  |
+| stang | rod |  |
+| stangen | rods |  |
+| stangklem | rod clamp |  |
+| stangklemmen | rod clamps |  |
+| stangkop | rod head |  |
+| stangkoppen | rod heads |  |
+| stangsteun | rod support |  |
+| stapelbak | stacking tray |  |
+| stapelbakken | stacking trays |  |
+| steekbrug | plug-in bridge |  |
+| steekbruggen | plug-in bridges |  |
+| steelcamera | stem camera |  |
+| steelcamera's | stem cameras |  |
+| steel-diametercamera | stem diameter camera |  |
+| steel-diametercamera's | stem diameter cameras |  |
+| steelsteun | steelsupport |  |
+| steelstopper | stem locator |  |
+| steelstoppers | stem locators |  |
+| steeltikker | stem tapper |  |
+| steeltikkers | stem tappers |  |
+| stekkerdeel | plug part |  |
+| stekkerdelen | plug parts |  |
+| stekkerplaat | plug plate |  |
+| stekkerplaten | plug plate |  |
+| stelbeugel | adjusting bracket |  |
+| stelbeugels | adjusting brackets |  |
+| stelbout | adjusting bolt |  |
+| stelbouten | adjusting bolts |  |
+| stelbuis | adjusting tube |  |
+| stelbuizen | adjusting tubes |  |
+| stelen geleider | stem guide |  |
+| stelen geleiders | stem guides |  |
+| stelensensor | stem sensor |  |
+| stelensensors | stem sensors |  |
+| stelenstrekker | stem stretcher |  |
+| stelenstrekkers | stem stretchers |  |
+| stelenvinger | stem finger |  |
+| stelenvingers | stem fingers |  |
+| stelkoker | stem sleeve |  |
+| stelkokers | stem sleeves |  |
+| stelplaat | adjustment plate |  |
+| stelplaten | adjustment plates |  |
+| stelpoot | adjustable leg |  |
+| stelpoten | adjustable legs |  |
+| stelpoot zwenkwiel | adjustable leg castor |  |
+| stelpoot zwenkwielen | adjustable leg castors |  |
+| stelring-sensor | adjusting ring-sensor |  |
+| stelring-sensors | adjusting ring-sensors |  |
+| stelschroef | adjusting screw |  |
+| stelschroeven | adjusting screws |  |
+| stelvoet | adjustable foot |  |
+| steun | support |  |
+| steunbalk | support beam |  |
+| steunbalken | support beams |  |
+| stijgstuk | rising piece |  |
+| stijgstukken | rising pieces |  |
+| stortbak | chute |  |
+| stortbakken | chutes |  |
+| stortkoker plaat | chute plate |  |
+| stortkoker platen | chute plates |  |
+| straling | radiation |  |
+| strekband | stretch belt |  |
+| strekbanden | stretch belts |  |
+| stuk invoer | piece infeed |  |
+| sturing band | control belt |  |
+| sturing banden | control belts |  |
+| sub frame | sub frame |  |
+| sub frames | sub frames |  |
+| synchro-unit | synchro unit |  |
+| synchro-units | synchro unit s |  |
+| system unit | system unit |  |
+| system units | system units |  |
+| tafel poot | table leg |  |
+| tafel poten | table legs |  |
+| tandriem | geared belt |  |
+| tandriemen | geared belts |  |
+| tandriempulley | geared belt pulley |  |
+| tandriempulleys | geared belt pulleys |  |
+| tandwiel | gear |  |
+| tandwielen | gears |  |
+| telmachine | counting machine |  |
+| telmachines | counting machines |  |
+| telsysteem | counting system |  |
+| telsystemen | counting systems |  |
+| tikker | tapper |  |
+| tikkers | tappers |  |
+| tikker-unit | tapper unit |  |
+| tikker-units | tapper units |  |
+| tl verlichting | fluorescent lighting |  |
+| touchscreen monitor | touchscreen monitor |  |
+| touchscreen monitors | touchscreen monitors |  |
+| touchscreen monitoren | touchscreen monitors |  |
+| transformator beugel | transformer bracket |  |
+| transformator beugels | transformer brackets |  |
+| transport grijper | transport gripper |  |
+| transport grijpers | transport grippers |  |
+| transportjuk | transport yoke |  |
+| transportjukken | transport yokes |  |
+| trapeziumdraad | trapezoidal thread |  |
+| trechter | hopper |  |
+| trechters | hoppers |  |
+| trechterplaat | hopper plate |  |
+| trechterplaten | hopper plates |  |
+| trekbereik | pull range |  |
+| trekkoord | pull cord |  |
+| trekkoorden | pull cords |  |
+| trekschoor | pull shore |  |
+| trekschoren | pull shores |  |
+| trekstang | tie rod |  |
+| trekstangen | tie rods |  |
+| trekstang plaat | tie rod plate |  |
+| trekstang platen | tie rod plates |  |
+| trekstangkoker | tie rod sleeve |  |
+| trekstangkokers | tie rod sleeves |  |
+| trekveer | pull string |  |
+| trillingsdemper | vibration isolator |  |
+| trillingsdempers | vibration isolators |  |
+| tulpenstrekband | stretcher belt |  |
+| tulpenstrekbanden | stretcher belts |  |
+| tussen frame | intermediate frame |  |
+| tussen frames | intermediate frames |  |
+| tussenblok | intermediate block |  |
+| tussenblokken | intermediate blocks |  |
+| tussenbuis | intermediate tube |  |
+| tussenbuizen | intermediate tubes |  |
+| tussendeel | intermediate section |  |
+| tussendelen | intermediate sections |  |
+| tussendelen | middle pieces |  |
+| tussendeel | middle piece |  |
+| tussenjuk | intermediate yoke |  |
+| tussenjukken | intermediate yokes |  |
+| tussenkoker | intermediate sleeve |  |
+| tussenkokers | intermediate sleeves |  |
+| tussenligger | intermediate girder |  |
+| tussenliggers | intermediate girders |  |
+| tussenplaat | intermediate plate |  |
+| tussenplaten | intermediate plates |  |
+| tussensegment | intermediate segment |  |
+| tussensegmenten | intermediate segments |  |
+| tussenstuk | intermediate section |  |
+| tussenstukken | intermediate sections |  |
+| twee sortering | two sort |  |
+| tweede sortering | second sort |  |
+| twijfelband | doubt belt |  |
+| twijfelbanden | doubt belts |  |
+| twijfelbol | doubt bulb |  |
+| twijfelbollen | doubt bulbs |  |
+| twistband | twist belt |  |
+| twistbanden | twist belts |  |
+| uitbreidingsmodule | expansion module |  |
+| uitbreidingsmodulen | expansion modules |  |
+| uitbreidingsmodules | expansion modules |  |
+| uitdrijver | expulser |  |
+| uitdrijvers | expulsers |  |
+| uitgangsmodule | output module |  |
+| uitgangsmodulen | output modules |  |
+| uitgangsmodules | output modules |  |
+| uitvoerband | outfeed belt |  |
+| uitvoerbanden | outfeed belts |  |
+| unit twistband | unit twist band |  |
+| uv gordijn | uv curtain |  |
+| uv gordijnen | uv curtains |  |
+| uv unit | uv unit |  |
+| uv units | uv units |  |
+| uv unit-basis | uv unit-base |  |
+| uv-kast | uv cabinet |  |
+| uv-kasten | uv cabinets |  |
+| uv-lamp | uv lamp |  |
+| uv-lampen | uv lamps |  |
+| uv-tunnel | uv tunnel |  |
+| uv-tunnels | uv tunnels |  |
+| vak | panel |  |
+| vakken | panels |  |
+| vakaanduiding | panel indication |  |
+| vakaanduidingen | panel indications |  |
+| vakdetectie | panel detection |  |
+| vakdetecties | panel detections |  |
+| vakkenband | panel belt |  |
+| vakkenbanden | panel belts |  |
+| vakkensponsband | panel sponge belt |  |
+| vakkensponsbanden | panel sponge belts |  |
+| vakverdeler | panel distributor |  |
+| vakverdelers | panel distributors |  |
+| vanghaak | catch hook |  |
+| vanghaken | catch hooks |  |
+| vast | fixed |  |
 | veer | spring |  |
-| veerbalans | spring balance |  |
-| veerbodem | spring seat |  |
-| veerpoot | suspension strut |  |
-| veerring | clamping washer |  |
-| veerring | spring washer |  |
-| veiligheidsgordel | seat belt |  |
-| veiligheidsrolgordel | inertia reel seat belt |  |
-| veldspoel/winding | field coil/winding |  |
-| veldstroom | field current |  |
-| velg | wheel rim |  |
-| ventieldopje | valve cap (tyre) |  |
-| ventilatie leiding | vent pipe |  |
-| ventilatie-eenheid | ventilation unit |  |
+| veren | springs |  |
+| veer grendel | spring lock |  |
+| veer grendels | spring locks |  |
+| veer spanner | spring tensioner |  |
+| veer spanners | spring tensioners |  |
+| veerhouder | spring holder |  |
+| veerhouders | spring holders |  |
+| veerpen | spring pin |  |
+| veerpennen | spring pins |  |
+| ventiel eiland | valve island |  |
+| ventiel eilanden | valve islands |  |
+| ventielsturing | valve control |  |
+| ventielsturingen | valve controls |  |
 | ventilator | fan |  |
-| ventilator vin | cooling fin |  |
-| ventilatorriem | fan belt |  |
-| ventilatorschakelaar | cooling fan switch |  |
-| verbinden / aansluiten | connect |  |
-| verbinding | connection |  |
-| verbinding | link |  |
-| verbinding / bediening mechanisme | gear linkage |  |
-| verbinding- / lasdoos | junction box |  |
-| verbindingsklem | connecting clamp |  |
-| verbindingsmof | jointing sleeve |  |
-| verbindingsstang | linkage |  |
-| verbranding | combustion |  |
-| verbrandingskamer | combustion chambers |  |
-| verbroken verbinding | open circuit |  |
-| verchroomd | chrome plated |  |
-| verdeel kap | distributor cap |  |
+| ventilators | fans |  |
+| verbindingsdeel | connection section |  |
+| verbindingsdelen | connection sections |  |
+| verbindingsmoer | coupling screw |  |
+| verbindingsmoeren | coupling screws |  |
+| verbindingsplaat | connection plate |  |
+| verbindingsplaten | connection plates |  |
+| verdeelklep | distributor valve |  |
+| verdeelkleppen | distributor valves |  |
+| verdeelplaat | distribution plate |  |
+| verdeelplaten | distribution plates |  |
 | verdeler | distributor |  |
-| verdeler as | distributor shaft / spindle |  |
-| verdeler inspuitpomp | distributor injection pump |  |
-| verdeler testbank | distributor test bench |  |
-| verdeler vervroeging | distributor advance |  |
-| verdelerloze ontsteking | distributorless ignition |  |
-| verenigbaar / compatibel | compatible |  |
-| verenigbaar met het Bauer systeem | system B |  |
-| verenigbaar met het Italiaans systeem | system IT |  |
-| verenigbaar met het Perrot systeem | system C |  |
-| verf / lak | enamel |  |
-| vergroten / intensiveren | intensified |  |
-| verhoogd stationair toeren | idle speed boost |  |
-| verhouding / proportie / ratio | ratio |  |
-| verloopstuk (van breed naar smal) | reducer |  |
-| verloopstuk (van smal naar breed) | increaser |  |
-| verminderen / reduceren / terugbrengen / verkleinen / verlagen | reduce |  |
-| vernauwing / venturi | venturi |  |
-| vernikkeld | nickel plated |  |
-| verontreiniging / vervuiling | pollution |  |
-| versleten | worn out |  |
-| versneld stationair | fast idle |  |
-| versnelling | gear |  |
-| versnellingsbak | gearbox |  |
-| versnellingsbak | transmission |  |
-| versnellingsbak aftapplug | gearbox drain plug |  |
-| versnellingsbakhuis | gearbox housing |  |
-| versnellingspook | gearshift lever |  |
-| versnellingspook afdichtingsrubber | gear lever boot |  |
-| versnellingspook knop | gear lever knob |  |
-| versnellingsverhouding | gear ratio |  |
-| verstelbaar snij gereedschap | adjustment ferrule |  |
-| verstelbare steeksleutel (Bahco) | adjustable spanner- |  |
-| verstelbare steun / poot | adjuster strut |  |
-| verstelbare verbinding | adjustment link |  |
-| verstelinrichting | adjuster- |  |
-| verstelmogelijkheid in worm- en rolstuurinrichting | peg spanner |  |
-| versterkt | reinforced |  |
-| versteviging | shroud |  |
-| verstoppen / dichtslibben / dichtslippen | clogging |  |
-| verstuiver | injector |  |
-| vertraagd ontstekingstijdstip | retard (ignition timing) |  |
-| vertragingsbak | reduction gearing |  |
-| vertragingsverhouding | reduction ratio |  |
-| vervanging | replacement |  |
-| verviervoudigen / viervoud | quadruple |  |
-| vervuild | polluted |  |
-| verwarmd achterruit | heated rear window |  |
-| verwarmingsbedieningskabel | heater control cable |  |
-| verwarmingsventilator | heater blower |  |
-| verzinken (van kop) | recess |  |
-| verzonken | counter bore |  |
-| vet | grease |  |
-| vetnippel | grease nipple |  |
-| vetspuit | grease gun |  |
-| viertakt motor | four-stroke |  |
-| vierwielaandrijving | four-wheel drive |  |
-| vijl / vijlen / opslaan | file |  |
-| vijver / waterplas / waterkolk | pond |  |
-| vilten pakkingring | felt washer |  |
-| vin / propeller / schoepenrad / waaier | impeller |  |
-| vlak haakse overbrenging | bell crank |  |
-| vlakzuiger | puddle sucker |  |
-| vlam onderbreekklep | de-fuming valve |  |
-| vleugelmoer | wing nut |  |
-| vliegwiel | flywheel |  |
-| vlinder klep | butterfly valve |  |
-| vloeibaar gas | LPG [liquefied petroleum gas] |  |
-| vloeistof | fluid |  |
-| vloeistof koppeling | fluid coupling |  |
-| vloeistofdruk | fluid pressure |  |
-| vlotter / drijver | float |  |
-| vlotter / drijver / drijvende schakelaar | floater |  |
-| vlotterarm scharnierpen | float arm fulcrum |  |
-| vlotterbak | float box |  |
-| vlotterkamer | carburetor bowl |  |
-| vlotterkamer | float chamber |  |
-| vlotternaald | float needle |  |
-| vlotterniveau | float level |  |
-| vlotterscharnierpunt | float pivot |  |
-| vocht meter | hydrometer |  |
-| vochtig | damp |  |
-| voeding / toevoer leiding/pijp | feed pipe |  |
-| voelereenheid | sender unit |  |
-| voelermaat | feeler blade (gauge) |  |
-| voering / cilindervoering / cilinderbus | liner |  |
-| volgas mengselverrijking | full throttle enrichment |  |
-| volger | follower |  |
-| volgooien / bijvullen | top up |  |
-| vollast accumeter | heavy discharge meter (battery) |  |
-| Voltmeter | voltmeter |  |
-| vonk trekken | draw (electric current) |  |
-| voor bovenste dode punt (VBDP) | BTDC |  |
-| voor en achter | fore and aft |  |
-| voor ODP | BBDC (before BDC) |  |
-| voor ontsteking / vervroeging | ignition advance |  |
-| vooras | front axle |  |
-| voordeel | advantage |  |
-| voorontsteking | pre-ignition |  |
-| voorruit | windscreen |  |
-| voorspanning | preload |  |
-| voorwielaandrijving | front wheel drive |  |
-| vorkvormige pen | clevis pin |  |
-| vorraad / in voorraad hebben | stock |  |
-| vraag / in twijfel trekken | query |  |
-| vriesplaatje | core plug (cylinder block |  |
-| vrije doorgang | free passage |  |
-| vrije slag | free movement |  |
-| vrije slag /vrij bewegend | free travel |  |
-| vrijloop motor (kleppen komen nooit tegen de zuiger) | free run engine |  |
-| vrouwelijk / vrouwelijk deel | female |  |
-| v-snaar | v-belt |  |
-| vulbuis / vulnek / vulhals | filler tube |  |
-| vuldop | filler cap |  |
-| V-vormige tanden (tandwiel) | herringbone teeth |  |
-| waarschuwing | caution |  |
-| waarschuwingslamp | warning light |  |
-| waarschuwingssignaal | warning signal |  |
-| wagenbodem | underbody |  |
-| warmte / hitte | heat |  |
-| warmtegeleider | heat sink |  |
-| wartel aansluiting | union |  |
-| wartelmoer | union nut |  |
-| wasthermostaat | wax thermostat |  |
-| wasthermostaatklep | wax-controlled thermostatic valve |  |
-| waterbestendig kit | damp-proofing sealant |  |
-| Waterbouw | construction |  |
-| waterdicht | water-tight |  |
-| watergekoeld | water-cooled |  |
-| waterpomptang | slip joint pliers |  |
-| waterstraal boren | water jet drilling |  |
-| waterstroom | water stream |  |
-| watertemperatuurmeter | water temperature gauge |  |
-| waterwegen | waterways |  |
-| waterzuivering | waste water treatment |  |
-| Watt | Watt |  |
-| weerstand- / ohm meter | ohmmeter |  |
-| weerstand / restrictie | restrictor |  |
-| wegligging | road holding |  |
-| weigering (van motor) / storing | failure |  |
-| werkingsgraad bocht | efficiency elbow |  |
-| wervelkamer | swirl chamber |  |
-| wiel naaf | hub |  |
-| wiel naafdop /wieldop | hub cap |  |
-| wiel naaflager | hub bearing |  |
-| wielbalans | wheel balance |  |
-| wielbasis | wheel base |  |
-| wielflens | hub flange |  |
-| wielhelling | camber |  |
-| wielnaaf | wheel hub |  |
-| wielophanging | suspension |  |
-| wieluitlijning | wheel alignment |  |
-| wijzer klok (analoog) | dial gauge |  |
-| wisselschakelaar | change-over switch |  |
-| wisselstroom (AC) | alternating current (AC) |  |
-| wisselstroom dynamo | ac generator |  |
-| wisselstroomdynamo | alternator |  |
-| wisser | wiper |  |
-| wissermotor | wiper motor |  |
-| woelkop / verspreider | diffusor |  |
-| wolfraam | tungsten |  |
-| wolfraamcarbide | tungsten carbide |  |
-| wormwiel | worm gear |  |
-| wrijving | friction |  |
-| wring ijzer | die stock /die holder |  |
-| x-vormig chassis | X-frame |  |
-| Y-stuk / Y-koppeling | Y-piece |  |
-| zachte(koperen) hamer | engineering hammer |  |
-| zand opvangbak | sand collector |  |
-| zeef | screen (filter) |  |
-| zeef / korf (grofmazig) | strainer |  |
-| zeefbak / zuigbak (grofmazig) | strainer bin |  |
+| verdelers | distributors |  |
+| verende as | spring-loaded shaft |  |
+| verende assen | spring-loaded shafts |  |
+| verenkelaar | separator |  |
+| verenkelaars | separators |  |
+| verenkelaarsegment | separator segment |  |
+| verenkelaarsegments | separator segments |  |
+| verenkeltraject | separation path |  |
+| verenkeltrajects | separation paths |  |
+| verenkeltrajects | separator paths |  |
+| verenkeltraject | separator path |  |
+| vergrendelbaar | lockable |  |
+| vergrendeling | lock |  |
+| vergrendelingen | locks |  |
+| vergrendelplaat | lock plate |  |
+| vergrendelplaten | lock plates |  |
+| verhoogd | elevated |  |
+| verlengd | extended |  |
+| verlengflens | extension flange |  |
+| verlengflensen | extension flanges |  |
+| verlenging | extension |  |
+| verlengingen | extensions |  |
+| verlenging band | extension belt |  |
+| verlenging banden | extension belts |  |
+| verlenging inloop | extension entry |  |
+| verlenging invoer | extension infeed |  |
+| verlengkabel | extension cable |  |
+| verlengkabels | extension cables |  |
+| verlichting | lighting |  |
+| verloop | reduction |  |
+| verloopplaat | reducing plate |  |
+| verloopplaten | reducing plates |  |
+| verloopring | reducing ring |  |
+| verloopringen | reducing rings |  |
+| verloopstuk | reducing piece |  |
+| verloopstukken | reducing pieces |  |
+| vermogensdistributie | power distribution |  |
+| verschoor | shoring |  |
+| versmalling | narrowing |  |
+| versmallingsplaat | narrowing plate |  |
+| versmallingsplaten | narrowing plates |  |
+| versprongen | staggered |  |
+| verstelbaar | adjustable foot |  |
+| verstelbuis | adjusting tube |  |
+| verstelbuizen | adjusting tubes |  |
+| verstelling | adjustment |  |
+| verstellingen | adjustments |  |
+| versterkerplaat | reinforcement plate |  |
+| versterkerplaten | reinforcement plates |  |
+| versteviging strip | reinforcement strip |  |
+| versteviging strips | reinforcement strips |  |
+| versteviging verstelling | reinforcement adjustment |  |
+| versteviging verstellingen | reinforcement adjustments |  |
+| verstevigingsbuis | reinforcement tube |  |
+| verstevigingsbuizen | reinforcement tubes |  |
+| verstevigingsframe | reinforcement frame |  |
+| verstevigingsframes | reinforcement frames |  |
+| verticaal transport | vertical transport |  |
+| vertraging | speed reduction |  |
+| vertraging binder | speed reduction binder |  |
+| vertraging binders | speed reduction binders |  |
+| vervalstuk | declining piece |  |
+| vervalstukken | declining pieces |  |
+| vervangende schakelaar | replacement switch |  |
+| vervangende schakelaars | replacement switches |  |
+| vervangingsfiltermat | replacement filter mat |  |
+| vervangingsfiltermatten | replacement filter mats |  |
+| vijzel | screw jack |  |
+| vijzels | screw jacks |  |
+| vinger ophanging | finger suspension |  |
+| vinger ophangingen | finger suspensions |  |
+| vision | vision |  |
+| vlak profiel | flat section |  |
+| vlakke profielen | flat sections |  |
+| vloermontage | floor assembly |  |
+| vloermontages | floor assemblies |  |
+| voeding | power supply |  |
+| voedingsprint | power supply circuit board |  |
+| voedingsprints | power supply circuit boards |  |
+| voet hefboom | foot lever |  |
+| voet hefbomen | foot levers |  |
+| voetplaat | foot plate |  |
+| voetplaten | foot plates |  |
+| voor geleiding | front guide |  |
+| voor geleidingen | front guides |  |
+| voorkant | front |  |
+| voorkap | front cap |  |
+| voorkappen | front caps |  |
+| voorrijkosten | call-out costs |  |
+| voorzijde | front |  |
+| vork aanduwer | fork pusher |  |
+| vork aanduwers | fork pushers |  |
+| vorkplaat | fork plate |  |
+| vorkplaten | fork plates |  |
+| vorksensor | fork sensor |  |
+| vorksensors | fork sensors |  |
+| vuil geleiding | waste guide |  |
+| vuil geleidingen | waste guides |  |
+| vuilband | waste belt |  |
+| vuilbanden | waste belts |  |
+| vuilgoot | dirt chute |  |
+| vuilgoten | dirt chutes |  |
+| vuilkap | waste cap |  |
+| vuilkappen | waste caps |  |
+| vuilplaat | waste plate |  |
+| vuilplaten | waste plates |  |
+| vuilplatenset | waste plate set |  |
+| vuilplatensets | waste plate sets |  |
+| vuiltrechter | waste hopper |  |
+| vuiltrechters | waste hoppers |  |
+| vuistslagknop | punch button |  |
+| vuistslagknoppen | punch buttons |  |
+| vulblok | filling block |  |
+| vulblokken | filling blocks |  |
+| vulbus | filling bush |  |
+| vulbussen | filling bushes |  |
+| vulplaat | filling plate |  |
+| vulplaten | filling plates |  |
+| vulpoot | filling leg |  |
+| vulpoten | filling legs |  |
+| werkschakelaar | maintenance switch |  |
+| werkschakelaars | maintenance switches |  |
+| wielbevestiging | wheel attachment |  |
+| wielbevestigingen | wheel attachments |  |
+| wielhouder | wheel holder |  |
+| wielhouders | wheel holder |  |
+| wieljuk | wheel yoke |  |
+| wieljukken | wheel yokes |  |
+| wielstel | wheel pair |  |
+| wielstel | wheel set |  |
+| wielstellen | wheel pairs |  |
+| wielstellen | wheel sets |  |
+| wielsteun | wheel support |  |
+| wielzijde | wheel side |  |
+| wielzijden | wheel sides |  |
+| wielzijdes | wheel sides |  |
+| wikkel frame | wrapping frame |  |
+| wikkel frames | wrapping frames |  |
+| wikkel kop | wrap head |  |
+| wikkel koppen | wrap heads |  |
+| wikkelbinder | wrap binder |  |
+| wikkelbinders | wrap binders |  |
+| wissel | switch |  |
+| wissels | switches |  |
+| wormwiel | worm wheel |  |
+| wormwielen | worm wheels |  |
+| zeefpen | sieve pin |  |
+| zeefpennen | sieve pins |  |
+| zeepcabine | soap cabin |  |
+| zeepcabines | soap cabins |  |
+| zeepdispenser | soap dispenser |  |
+| zeepdispensers | soap dispensers |  |
+| zeepplateau | soap platform |  |
+| zeepplateaus | soap platforms |  |
+| zeildoek | tarpaulin |  |
+| zeildoeken | tarpaulins |  |
 | zekering | fuse |  |
-| zekering doos | fuse box |  |
-| zelf stellende koppeling | self-adjusting clutch |  |
-| zelf stellende rem | self-adjusting brake |  |
-| zelfaanzuigend | self-priming |  |
-| zelfblokkerende tang | self-locking pliers/wrench |  |
-| zelf-instellend / regelend | self-adjusting |  |
-| zelftapper | self-tapping screw |  |
-| zeskant kop bout | socket-headed screw |  |
-| zie pagina | see page |  |
-| zij verlichting | sidelights |  |
-| zijafvoer | side discharge |  |
-| zijkant van autoband | shoulder |  |
-| zink | Zinc |  |
-| zoemer | buzzer |  |
-| zomer en winterstand luchtfilter | air distribution switch |  |
-| zone / luchtstreek / omgorden | zone |  |
-| zout / zilt / zoutachtig | salty |  |
-| zuig / zuigzijde / zuigwerking | suction |  |
-| zuigdeksel | suction cover |  |
-| zuiger | piston |  |
-| zuigerbodem | piston crown |  |
-| zuigerkop | piston head |  |
-| zuigerpen | piston pin |  |
-| zuigerpen | wrist pin (US / piston pin |  |
-| zuigerpen borging | piston pin retainer |  |
-| zuigerpenlager | piston pin bearing |  |
-| zuigerpomp | piston pump |  |
-| zuigerspeling | piston clearance |  |
-| zuigerstang | connecting rod |  |
-| zuigerstanglager | connecting rod bearing |  |
-| zuigerveer | piston ring |  |
-| zuigerveer klem | piston ring compressor |  |
-| zuigerveer speling | piston ring end gap |  |
-| zuigerveer speling | ring-to-groove clearance (piston) |  |
-| zuigerwand | piston skirt |  |
-| zuigflens | suction flange |  |
-| zuigkorf (grofmazig) | suction strainer |  |
-| zuigleiding | suction line |  |
-| zuigslang | suction hose |  |
-| zuigstuk | suction nozzle |  |
-| zuurniveau (in accu) | acid level |  |
-| zwaar uitgevoerd | heavy duty |  |
-| zwaartekracht | gravity |  |
-| zwaartekracht filter | gravity filter |  |
-| zwaartepunt | center of gravity |  |
+| zekeringen | fuses |  |
+| zekeringhouder | fuse holder |  |
+| zekeringhouders | fuse holders |  |
+| zekeringsring | retainer ring |  |
+| zekeringsringen | retainer rings |  |
+| zelfklevend | self-adhesive |  |
+| zeskantbout | hexagon bolt |  |
+| zeskantbouten | hexagon bolts |  |
+| zeskantmoer | hexagon nut |  |
+| zeskantmoeren | hexagon nuts |  |
+| zij geleiding | side guide |  |
+| zijgeleiding | side guide |  |
+| zij geleidingen | side guides |  |
+| zijgeleidingen | side guides |  |
+| zijgeleidingsdeur | side guide door |  |
+| zijgeleidingsdeuren | side guide doors |  |
+| zijkant bak | side tray |  |
+| zijkant band | side belt |  |
+| zijkant trap | side stairs |  |
+| zijpaneel | side panel |  |
+| zijpart | side part |  |
+| zijpart bak | side part tray |  |
+| zijpart basis | side part base |  |
+| zijpart opbouw | side part structure |  |
+| zijplaat | side plate |  |
+| zijplaten | side plates |  |
+| zuigerstangloze | piston-less |  |
+| zuignap | suction |  |
+| zuignappen | suctions |  |
+| zwenk-bokwiel | caster-fixed castor |  |
+| zwenk-bokwielen | caster-fixed castors |  |
+| zwenkwiel | castor |  |
+| zwenkwielen | castors |  |
+| zwenkwielen set | castor set |  |
+| zwenkwielen sets | castor sets |  |

@@ -2,6 +2,7 @@
 title: list-of-acronyms.pdf
 slug: list-of-acronyms-pdf
 description: Terminology from list-of-acronyms.pdf
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AVC | Absentee Voting Certificate |  |
 | AVL | Additional Voter List |  |
 | AVMS | Agency for Audio and Audiovisual Media  Services |  |

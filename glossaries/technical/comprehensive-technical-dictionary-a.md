@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - A
 slug: comprehensive-technical-dictionary-a
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - A
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | A | ELECTRON., 1. accumulator; 2. area; 3. (ampère) ampere |  |
 | A batterij | ELECTRON., A battery |  |
 | à cheval | ~, staggered |  |

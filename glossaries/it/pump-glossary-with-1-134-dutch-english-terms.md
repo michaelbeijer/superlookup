@@ -2,6 +2,7 @@
 title: Pump glossary with 1,134 Dutch-English terms
 slug: pump-glossary-with-1-134-dutch-english-terms
 description: Terminology from Pump glossary with 1,134 Dutch-English terms
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | USE 02-16 | USE 02-16, GEBRUIK 02-16, GEBRUIK 02-16 |  |
 | INSTALL CPK-CQC | INSTALLATION CPK-CQC, INBOUW CPK-CQC, INBOUW CPK-CQC |  |
 | INSTALL CPK-CQ7 | INSTALLATION CPK-CQ7, INBOUW CPK-CQ7, INBOUW CPK-CQ7 |  |

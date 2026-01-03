@@ -2,6 +2,7 @@
 title: TU/e Terminology list
 slug: tu-e-terminology-list
 description: Terminology from TU/e Terminology list
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Raad van Toezicht | Supervisory Board |  |
 | Voorzitter van de Raad van Toezicht | President of the Supervisory Board* |  |
 | Lid van de Raad van Toezicht | Member of the Supervisory Board* |  |

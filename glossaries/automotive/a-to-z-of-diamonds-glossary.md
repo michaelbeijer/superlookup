@@ -2,6 +2,7 @@
 title: A to Z of Diamonds Glossary (24carat.co.uk)
 slug: a-to-z-of-diamonds-glossary
 description: Terminology from A to Z of Diamonds Glossary (24carat.co.uk)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: automotive
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 1 | Type 1 diamonds contain nitrogen. See Diamond Types |  |
 | 1a, | Type 1 diamonds contain nitrogen. See Diamond Types |  |
 | 1b, | Type 1 diamonds contain nitrogen. See Diamond Types |  |

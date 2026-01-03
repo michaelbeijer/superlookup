@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl b
 slug: autowoordenboek-gerritspeek-nl-b
 description: Terminology from autowoordenboek gerritspeek.nl b
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | B-pillar | B-stijl, middelste dakstijl, middenstijl |  |
 | B-post | zie B-pillar |  |
 | B-road | B-weg (weg alleen toegankelijk voor voertuigen met een bepaalde breedte, hoogte en gewicht), secundaire weg |  |

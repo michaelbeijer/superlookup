@@ -2,6 +2,7 @@
 title: Terminologie Elektronica Producerende Industrie (piektraining.com)
 slug: terminologie-elektronica-producerende-industrie
 description: Terminology from Terminologie Elektronica Producerende Industrie (piektraining.com)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Anode | Componenten, De positieve aansluiting van een gepoold component |  |
 | Axiale componenten | Componenten, Een component waarbij een uitloper aan iedere zijde van het lichaam uitsteekt, zoals armen |  |
 | Ball Grid Array | Componenten, or BGA, een component uit de “array” familie met aansluitingen aan de onderzijde in de vorm van kogels |  |

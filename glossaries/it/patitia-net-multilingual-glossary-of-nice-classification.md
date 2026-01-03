@@ -2,6 +2,7 @@
 title: "Patitia.net: Multilingual Glossary of Nice Classification System of goods and services relating to trademarks)(6,264 Dutch-English entries)"
 slug: patitia-net-multilingual-glossary-of-nice-classification
 description: "Terminology from Patitia.net: Multilingual Glossary of Nice Classification System of goods and services relating to trademarks)(6,264 Dutch-English entries)"
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aandrijfassen | drive shafts |  |
 | aandrijfkoppelingen | clutches |  |
 | aangroeiwerende samenstellingen | anti-fouling compositions |  |

@@ -2,6 +2,7 @@
 title: Glossary of Terms (Brillopak.co.uk)
 slug: glossary-of-terms
 description: Terminology from Glossary of Terms (Brillopak.co.uk)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Automated packing system | A system that automatically places a product into a crate or tray. Also refers to bag filling systems such as form fill and seal which fills a bag or sack with product. |  |
 | Case and crate packing systems | The latest developments in case/box handling equipment has seen the rise of robotic machines that are designed to fully automate the packing of pre-packed products into cases, trays or crates on new or existing production lines. These new units remove labour intensive operations, which can be a cause of repetitive strain injuries as well as a major cost. Many robotic systems offer efficiency through simplicity in terms of set-up, operation and maintenance. Robotics options include two axis robots for simple case loading; four axis robots for more complex case loading and palletising applications and high-speed automated pick and place robotics for volume operations. Integrated vision systems for product detection, orientation and quality control can also be offered to provide flexibility in case/pack handling and any future formats. |  |
 | Case Palletiser | Palletiser specifically adapted to palletise sacks, which may work using the robot, gantry or low level palletiser principles. |  |

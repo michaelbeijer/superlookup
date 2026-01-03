@@ -2,6 +2,7 @@
 title: Bicycle Dictionary (Dutch-English) by Edwin Seldenthuis
 slug: bicycle-dictionary-by-edwin-seldenthuis
 description: Terminology from Bicycle Dictionary (Dutch-English) by Edwin Seldenthuis
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Achterlicht | Rear lamp,- light |  |
 | Achtervork | Seat stays |  |
 | Afnemer [freewheel,crank] | Remover, Puller, Extractor |  |

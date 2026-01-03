@@ -2,6 +2,7 @@
 title: Glossary of misc. terms used in EU organisations (142 Dutch-English terms)
 slug: glossary-of-misc-terms-used-in-eu-organisations
 description: Terminology from Glossary of misc. terms used in EU organisations (142 Dutch-English terms)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aangewezen vliegsnelheid, aangegeven  vliegsnelheid | indicated airspeed |  |
 | aanvraag voor een Uniemerk,  Uniemerkaanvraag, aanvrage om een Gemeenschapsmerk | European Union trade mark application, EUTM application, Community trade  mark application, CTMA, EU trade mark application, CTM Application |  |
 | actuele zaken, thematische problemen | topical issues |  |

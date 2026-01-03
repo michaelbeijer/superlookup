@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl s
 slug: autowoordenboek-gerritspeek-nl-s
 description: Terminology from autowoordenboek gerritspeek.nl s
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | S (Speed) | aanduiding van snelheidscategorie op buitenband (snelheid tot 180 km/h) |  |
 | S-2 (Supercharged 2-stroke) engine | tweetaktmotor met mechanische Roots compressor (Toyota) |  |
 | S-cam expander | holnok (van rem) |  |

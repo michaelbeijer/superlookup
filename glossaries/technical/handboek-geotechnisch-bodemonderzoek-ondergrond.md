@@ -2,6 +2,7 @@
 title: handboek geotechnisch bodemonderzoek ondergrond
 slug: handboek-geotechnisch-bodemonderzoek-ondergrond
 description: Terminology from handboek geotechnisch bodemonderzoek ondergrond
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Ackermann steekapparaat | Boorapparaat waarmee ongeroerde monsters kunnen worden genomen, ontwikkeld door Ackermann. |  |
 | anhydride | Verbinding die door het verlies van water uit andere stof- fen ontstaat. |  |
 | anhydriet | Anhydride van gips; watervrije, zwavelzure kalk. |  |

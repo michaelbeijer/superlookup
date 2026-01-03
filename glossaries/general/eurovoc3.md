@@ -2,6 +2,7 @@
 title: EuroVoc3
 slug: eurovoc3
 description: Terminology from EuroVoc3
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | wederzijdse landbouwsteun, CUMA, Uitwisseling van materieel en mankracht tussen de uitbaters. | mutual assistance among farmers |  |
 | weduwschap, oorlogsweduwe, weduwe, weduwnaar | widowed person, war widow, widow, widower, widowhood |  |
 | weekdier, calamar, inktvis, koppotige, pijlinktvis | mollusc, cephalopod, shellfish, squid |  |

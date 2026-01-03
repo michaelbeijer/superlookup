@@ -2,6 +2,7 @@
 title: 1,016 Dutch-English technical terms
 slug: 1-016-dutch-english-technical-terms
 description: Terminology from 1,016 Dutch-English technical terms
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 1-draads | 1-fall |  |
 | 2-draads | 2-fall |  |
 | 2-draads-bedrijf; tweedraadsbedrijf | 2-fall operation; 2-run operation |  |

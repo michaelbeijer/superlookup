@@ -2,6 +2,7 @@
 title: IMF Glossary Web 2015 (imf.org)
 slug: imf-glossary-web-2015
 description: Terminology from IMF Glossary Web 2015 (imf.org)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | (conservatoir) bewijsbeslag | freezing of evidence |  |
 | aangehuwde | relative by affinity |  |
 | aangifte van de geboorte | registration of birth |  |

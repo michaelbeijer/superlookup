@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - Y
 slug: comprehensive-technical-dictionary-y
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - Y
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Y-adres | COMP., Y-address |  |
 | Y-afbuiging | ELECTRON., Y deflection |  |
 | Y-as | ~, Y axis |  |

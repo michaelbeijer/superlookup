@@ -2,6 +2,7 @@
 title: "XBRL 2 Excel: Vertalingen (in Dutch, English, French and German)"
 slug: xbrl-2-excel-vertalingen
 description: "Terminology from XBRL 2 Excel: Vertalingen (in Dutch, English, French and German)"
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 10/15 | Eigen vermogen, Equity, Capitaux propres, Eigenkapital |  |
 | 168 | 168, Uitgestelde belastingen, Deferred taxes, Impôts différés, Aufgeschobene Steuern |  |
 | 22 | 22, Terreinen en gebouwen, Land and buildings, Terrains et constructions, Grundstücke und Bauten |  |

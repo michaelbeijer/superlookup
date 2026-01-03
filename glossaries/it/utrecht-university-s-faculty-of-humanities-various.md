@@ -2,6 +2,7 @@
 title: Utrecht University’s Faculty of Humanities’ various departments
 slug: utrecht-university-s-faculty-of-humanities-various
 description: Terminology from Utrecht University’s Faculty of Humanities’ various departments
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Departement Geschiedenis en Kunstgeschiedenis | Department of History and Art History |  |
 | Departement Media- en Cultuurwetenschappen | Department of Media and Culture Studies |  |
 | Departement Nederlands | Department of Dutch Studies |  |

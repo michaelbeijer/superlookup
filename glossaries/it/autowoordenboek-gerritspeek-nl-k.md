@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl k
 slug: autowoordenboek-gerritspeek-nl-k
 description: Terminology from autowoordenboek gerritspeek.nl k
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | K | Klimaanlage, halbautom., manuell |  |
 | kangaroo bar | bull bar |  |
 | kanibalise, to | slopen |  |

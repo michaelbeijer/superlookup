@@ -2,6 +2,7 @@
 title: TERMES ECONOMIQUES 616.pdf
 slug: termes-economiques-616-pdf
 description: Terminology from TERMES ECONOMIQUES 616.pdf
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ... meter  hoog (etc.) | .. mètres de  haut; haut<.> de ... mètres |  |
 | ... meter  hoog zijn (etc.) | avoir une hauteur de ... mètres |  |
 | 's zomers  gaan naar | passer l'été dans/ à |  |

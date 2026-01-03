@@ -2,6 +2,7 @@
 title: DUTCH-ENGLISH DICTIONARY V.05.2011 - Jerzy Kazojć (2011)
 slug: dutch-english-dictionary-v-05-2011-jerzy-kazoj
 description: Terminology from DUTCH-ENGLISH DICTIONARY V.05.2011 - Jerzy Kazojć (2011)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aai | caress |  |
 | aaien | caress |  |
 | aaien | chuck |  |

@@ -2,6 +2,7 @@
 title: terminology
 slug: terminology
 description: Terminology from terminology
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -24,7 +25,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | [[File | WhatsApp Image 2025-01-04 at 19.49.05 b3baeda5.jpg\|alt=lexicographer surrounded by thousands of dictionaries\|thumb\|386x386px]] |  |
 | Correct and consistent terminology is critical in technical translation, which is why I maintain what is possibly the world’s largest collection of specialist Dutch/English terminology, part of which is presented in a systematic and easily searchable format on this website. The data is organised using two main categories | ‘Terms’ and ‘Terminology resources’, which are explained below. |  |
 | In my spare time, I also like to help colleagues with tricky terms in Proz.com’s so-called ‘KudoZ translation help network’, where I am often among the top ‘[https | //www.proz.com/?sp=leaders_new KudoZ point leaders]’ in my language pair. Indeed, if you’re struggling with a particular term, I may already have researched and documented it at some point, so feel free to drop me a line or try searching the [https://www.proz.com/search/?es=1 ProZ.com term search forums] or here on superlookup.wiki. |  |

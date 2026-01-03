@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl o
 slug: autowoordenboek-gerritspeek-nl-o
 description: Terminology from autowoordenboek gerritspeek.nl o
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | O.E. (original equipmen ) spec. | eerste montage specificatie |  |
 | O.E. (original equipment) | door fabriek gemonteerd, eerste montage |  |
 | O.E.M. (Original Equipment Manufacturer) | door anderen geleverde apparatuur draagt naam van autofabrikant die deze monteert |  |

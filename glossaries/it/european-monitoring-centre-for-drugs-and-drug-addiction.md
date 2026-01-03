@@ -2,6 +2,7 @@
 title: European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) Glossary
 slug: european-monitoring-centre-for-drugs-and-drug-addiction
 description: Terminology from European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) Glossary
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aanbodreductie | supply reduction, Domain: 2826004-Social problem 2826004-Social problem, IATE ID: 3529345 |  |
 | algemeen bevolkingsonderzoek | general population survey, Domain: 2826004-Social problem 2826004-Social problem, IATE ID: 3529301 |  |
 | alternatieve maatregelen voor  gevangenisstraf, alternatief voor gevangenisstraf | alternative to prison, alternative to imprisonment, Domain: 2826004-Social problem 2826004-Social problem, IATE ID: 3529256 |  |

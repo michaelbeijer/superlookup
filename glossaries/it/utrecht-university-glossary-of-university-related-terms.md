@@ -2,6 +2,7 @@
 title: "Utrecht University: Glossary of university-related terms (585 Dutch-English entries)"
 slug: utrecht-university-glossary-of-university-related-terms
 description: "Terminology from Utrecht University: Glossary of university-related terms (585 Dutch-English entries)"
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aanmelding | application |  |
 | aanmeldingscijfers | application numbers |  |
 | aanmeldingsformulier | application form |  |

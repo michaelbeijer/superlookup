@@ -2,6 +2,7 @@
 title: 268 mainly Dutch acronyms.xls
 slug: 268-mainly-dutch-acronyms-xls
 description: Terminology from 268 mainly Dutch acronyms.xls
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 2L-CVRP | Vehicle  Routing Problem with Two-Dimensional Loading Constraints |  |
 | 4PL | Fourth  Party Logistics |  |
 | AA | Algemene  Administratie/General Administration (BE) |  |

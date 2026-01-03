@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl q
 slug: autowoordenboek-gerritspeek-nl-q
 description: Terminology from autowoordenboek gerritspeek.nl q
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | QC (quality control) | kwaliteitsbeheersing, kwaliteitscontrole |  |
 | QFD (quality function deployment) | managementmethodiek om een betrouwbaar produkt te ontwikkelen en voor het eerst toegepast in '66 in Japan |  |
 | Qt. | Quart |  |

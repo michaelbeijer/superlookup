@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl n
 slug: autowoordenboek-gerritspeek-nl-n
 description: Terminology from autowoordenboek gerritspeek.nl n
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | N (Newton) | N (Newton) (eenheid van kracht) |  |
 | N road | Nederlandse hoofdverbindingsweg met meestal niet-gescheiden rijbanen en gelijkvloerse kruisingen |  |
 | N.A. (not available) | niet beschikbaar, niet verkrijgbaar |  |

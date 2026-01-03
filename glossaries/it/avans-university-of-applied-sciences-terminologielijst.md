@@ -2,6 +2,7 @@
 title: Avans University of Applied Sciences - Terminologielijst Avans Hogeschool
 slug: avans-university-of-applied-sciences-terminologielijst
 description: Terminology from Avans University of Applied Sciences - Terminologielijst Avans Hogeschool
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | artikel | (in wetsteksten), Section |  |
 | artikel | (in regelingen en procedures), article |  |
 | Milieuadvisering en Duurzame Bedrijfsvoering | (major), Environmental Consultancy and Sustainable Business Practices (major) |  |

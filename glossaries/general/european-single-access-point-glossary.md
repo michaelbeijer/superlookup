@@ -2,6 +2,7 @@
 title: European Single Access Point (ESAP) Glossary
 slug: european-single-access-point-glossary
 description: Terminology from European Single Access Point (ESAP) Glossary
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aandelenfinanciering | equity financing, equity finance, equity funding, FINANCE, [https://iate.europa.eu/entry/result/931361/nl-en 931361] |  |
 | aandelenkapitaal, eigen vermogen, eigen  kapitaal | shareholders' funds, equity capital, stockholders' equity, owner's  equity, own capital, shareholders' equity, equity, share capital;FINANCE, 2243438 |  |
 | aangehouden netto economisch belang,  aangehouden belang | retained interest, retained net economic interest, FINANCE, 3545603 |  |

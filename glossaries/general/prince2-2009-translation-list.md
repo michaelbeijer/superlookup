@@ -2,6 +2,7 @@
 title: "PRINCE2:2009 – Translation List (Dutch)"
 slug: prince2-2009-translation-list
 description: "Terminology from PRINCE2:2009 – Translation List (Dutch)"
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ''Engelse Manual'' | ''Nederlandse vertaling'' |  |
 | Principles | Principes |  |
 | continued business justification | voortdurende zakelijke rechtvaardiging |  |

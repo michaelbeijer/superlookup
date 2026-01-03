@@ -2,6 +2,7 @@
 title: acronymbook2
 slug: acronymbook2
 description: Terminology from acronymbook2
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Abbreviation | Meaning |  |
 | MBS | Mobile Remote Servicer Base System |  |
 | MBR/td> | Maandblad voor berechting en reclassering (Proces) |  |

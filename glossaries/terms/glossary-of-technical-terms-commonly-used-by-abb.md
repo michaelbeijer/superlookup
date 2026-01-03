@@ -2,6 +2,7 @@
 title: Glossary of technical terms commonly used by ABB
 slug: glossary-of-technical-terms-commonly-used-by-abb
 description: Terminology from Glossary of technical terms commonly used by ABB
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Current | Ampere, A |  |
 | Voltage | Volt, V |  |
 | Power | Watt, W |  |

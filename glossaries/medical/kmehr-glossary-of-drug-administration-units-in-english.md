@@ -2,6 +2,7 @@
 title: KMEHR glossary of drug administration units, in English, Dutch, Frech and German
 slug: kmehr-glossary-of-drug-administration-units-in-english
 description: Terminology from KMEHR glossary of drug administration units, in English, Dutch, Frech and German
+type: glossary
 source_lang: nl
 target_lang: en
 domain: medical
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 1 | 5 ml, Koffielepel (5 ml), 5 ml, 5 ml |  |
 | 2 | amp., ampule, amp., Ampulle |  |
 | 3 | applic., aanbrengen, applic., Anwenden |  |

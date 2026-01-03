@@ -2,6 +2,7 @@
 title: European fibre abbreviations chart (joelandsonfabrics.com)
 slug: european-fibre-abbreviations-chart
 description: Terminology from European fibre abbreviations chart (joelandsonfabrics.com)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: textile
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AC | Acetate |  |
 | AF | Other Fibres |  |
 | CA | Acetate |  |

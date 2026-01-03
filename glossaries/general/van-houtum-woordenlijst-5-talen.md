@@ -2,6 +2,7 @@
 title: Van Houtum woordenlijst 5 talen (239 entries, 5 languages)
 slug: van-houtum-woordenlijst-5-talen
 description: Terminology from Van Houtum woordenlijst 5 talen (239 entries, 5 languages)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 1-laags | 1-lagig, single ply / 1-ply, 1 pli, 1 hoja |  |
 | 2-laags | 2-lagig, 2-ply, 2-plis, 2 hojas |  |
 | absolute wereldklasse | absolute Weltklasse, absolute world class top |  |

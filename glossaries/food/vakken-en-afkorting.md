@@ -2,6 +2,7 @@
 title: Vakken en afkorting (Hubertus & Berkhoff - De Culinaire Vakschool)
 slug: vakken-en-afkorting
 description: Terminology from Vakken en afkorting (Hubertus & Berkhoff - De Culinaire Vakschool)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: food
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ne | Nederlands |  |
 | en | Engels |  |
 | du | Duits |  |

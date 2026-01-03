@@ -2,6 +2,7 @@
 title: "LOINC: Abbreviations and acronyms used in LOINC"
 slug: loinc-abbreviations-and-acronyms-used-in-loinc
 description: "Terminology from LOINC: Abbreviations and acronyms used in LOINC"
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 1.5H | 1.5 hours, Timing; Challenge timing |  |
 | 100D | 100 days, Timing |  |
 | 10D | 10 days, Timing; Challenge timing |  |

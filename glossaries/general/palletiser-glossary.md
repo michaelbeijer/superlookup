@@ -2,6 +2,7 @@
 title: Palletiser glossary (Palletizing.com)
 slug: palletiser-glossary
 description: Terminology from Palletiser glossary (Palletizing.com)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Cap Sheet | A sheet that is placed on the top of a palletized load. |  |
 | Case Stop | Barriers that are introduced between cases, cartons or packages in a row-forming conveyor to create spaces or gaps in the row and subsequently in the pattern. |  |
 | Case Turner | A mechanism on a palletizer for changing the direction of a carton, case or package as needed to form a pattern. Also called a Turning Device. |  |

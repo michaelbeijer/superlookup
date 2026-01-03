@@ -2,6 +2,7 @@
 title: Microsoft Excel function translations (481 Dutch-English entries)
 slug: microsoft-excel-function-translations
 description: Terminology from Microsoft Excel function translations (481 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AANG.DUUR | MDURATION, Geeft als resultaat de aangepaste Macauley-looptijd voor een waardepapier, aangenomen dat de nominale waarde € 100 bedraagt |  |
 | AANTAL | COUNT, Telt het aantal getallen in de argumentenlijst |  |
 | AANTAL.ALS | COUNTIF, Telt in een bereik het aantal cellen die voldoen aan een bepaald criterium |  |

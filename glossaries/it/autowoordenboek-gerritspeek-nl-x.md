@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl x
 slug: autowoordenboek-gerritspeek-nl-x
 description: Terminology from autowoordenboek gerritspeek.nl x
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | X-bracing | kruisbalk, X-verstijving |  |
 | X-frame | kruisvormig chassis, X-vormig chassis |  |
 | X-member frame | kruisbalkchassis |  |

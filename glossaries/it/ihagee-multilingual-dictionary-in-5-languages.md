@@ -2,6 +2,7 @@
 title: Ihagee Multilingual Dictionary in 5 Languages (nl-en-fr-de-sp)(432 entries)
 slug: ihagee-multilingual-dictionary-in-5-languages
 description: Terminology from Ihagee Multilingual Dictionary in 5 Languages (nl-en-fr-de-sp)(432 entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aanloop van de film | film lead, amorce de la peliculle, Anlauf des Filmes |  |
 | aanzetstuk | attachment, adaptateur, Ansatz, adición? |  |
 | aberratie | aberration, aberration, Aberration, aberración |  |

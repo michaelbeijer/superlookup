@@ -2,6 +2,7 @@
 title: acronymbook3
 slug: acronymbook3
 description: Terminology from acronymbook3
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Abbreviation | Meaning |  |
 | RI | Referential Integrity |  |
 | RI | Rockwell International |  |

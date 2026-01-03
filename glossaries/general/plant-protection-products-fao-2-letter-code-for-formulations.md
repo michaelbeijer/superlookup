@@ -2,6 +2,7 @@
 title: Plant Protection Products - FAO 2-letter code for formulations
 slug: plant-protection-products-fao-2-letter-code-for-formulations
 description: Terminology from Plant Protection Products - FAO 2-letter code for formulations
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AB | Grain bait, Lokmiddel op graanbasis, Special form of bait |  |
 | AE | Aerosol dispenser, Aerosol spuitbus, Formulation  in a container usually dispersed by means of a carrier gas as fine droplets or particles after  activation of |  |
 | AI | Active ingredient, Werkzame stof |  |

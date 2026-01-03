@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - F
 slug: comprehensive-technical-dictionary-f
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - F
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | F | PHYS., 1. (abbr.: F) fluorine; 2. (abbr.: F) Faraday; 3. (temp.-aanduiding) fahrenheit |  |
 | F-band | ~, F-band |  |
 | f-commerce | ~, (aanprijzen van diensten en producten via sociale media) f-commerce |  |

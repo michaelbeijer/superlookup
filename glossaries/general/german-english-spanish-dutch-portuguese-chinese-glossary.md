@@ -2,6 +2,7 @@
 title: German, English, Spanish, Dutch, Portuguese, Chinese glossary (93 terms)
 slug: german-english-spanish-dutch-portuguese-chinese-glossary
 description: Terminology from German, English, Spanish, Dutch, Portuguese, Chinese glossary (93 terms)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Aktiengesellschaft | corporation |  |
 | Aktienkurs | stock price |  |
 | Arbeitsdirektor | Labor Director |  |

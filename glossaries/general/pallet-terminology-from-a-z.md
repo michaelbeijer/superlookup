@@ -2,6 +2,7 @@
 title: Pallet Terminology from A-Z (Palletconsultants.com)
 slug: pallet-terminology-from-a-z
 description: Terminology from Pallet Terminology from A-Z (Palletconsultants.com)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 4-Way Notched Heavy Duty Stringer Pallet | A pallet with openings at both opposite pallet ends and sides sufficient to admit hand-pallet jacks-full four-way entry pallet. |  |
 | Block Pallet | A type of pallet with blocks between the pallet decks or beneath the top deck. |  |
 | Chamfered Deck Board | A deck board with the edges of 1 or 2 faces beveled, either along the full or specified length of board or between the stringers or blocks thus facilitating entry of pallet-jack wheels and tines of forklift trucks. |  |

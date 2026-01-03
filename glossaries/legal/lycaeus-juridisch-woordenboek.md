@@ -2,6 +2,7 @@
 title: Lycaeus Juridisch Woordenboek
 slug: lycaeus-juridisch-woordenboek
 description: Terminology from Lycaeus Juridisch Woordenboek
+type: glossary
 source_lang: nl
 target_lang: en
 domain: legal
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | a fortiori | rechtswetenschap, Latijn: met meer reden, des te eerder. Bijv. de specifieke bescherming ten aanzien van niet-soortgelijke waren dient ~ te gelden ten aanzien van soortgelijke waren. |  |
 | à pari | vennootschapsrecht, Latijn: op gelijke wijze. Bij uitgifte van aandelen moet het nominale bedrag van die aandelen in de naamloze vennootschap worden gestort. Diegenen die zich professioneel bezighouden met het uitgeven van aandelen mogen onder bepaalde voorwaarden van de uitgifte van aandelen ~ afwijken. |  |
 | a posteriori | rechtswetenschap, Latijn: achteraf. |  |

@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - G
 slug: comprehensive-technical-dictionary-g
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - G
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | g | ~, gram |  |
 | G | PHYS., (abbr.: G – zwaartekracht) gravity, gravitational force |  |
 | G-band | ~, G-band |  |

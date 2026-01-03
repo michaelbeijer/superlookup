@@ -1,18 +1,18 @@
 ---
-title: Post Office Dictionary 1990 (English-Afrikaans)(Part 1)
+title: Post Office Dictionary 1990 (English-Afrikaans)(Part 2)
 slug: post-office-dictionary-1990
-description: Terminology from Post Office Dictionary 1990 (English-Afrikaans)(Part 1)
+description: Terminology from Post Office Dictionary 1990 (English-Afrikaans)(Part 2)
 source_lang: en
 target_lang: af
 domain: it
-term_count: 8904
-source_url: "https://superlookup.wiki/wiki/Post_Office_Dictionary_1990_(English-Afrikaans)(Part_1)"
+term_count: 9525
+source_url: "https://superlookup.wiki/wiki/Post_Office_Dictionary_1990_(English-Afrikaans)(Part_2)"
 last_updated: 2026-01-03
 tags:
   - Afrikaans
 ---
 
-# Post Office Dictionary 1990 (English-Afrikaans)(Part 1)
+# Post Office Dictionary 1990 (English-Afrikaans)(Part 2)
 
 ## Terms
 
@@ -20,8905 +20,9526 @@ tags:
 |-------|---------|-------|
 | Back to | Post Office Dictionary 1990 (English-Afrikaans) |  |
 | Archived at | https://superlookup.wiki/archives/Poskantoorwoordeboek.pdf |  |
-| -3dB point (half-power point) {transmission} | halfkragpunt, -3dB-punt |  |
-| 12-bit constant (twelve-bit constant) | 12-bis-konstante, twaalfbiskonstante |  |
-| 2-sheet board | 2-vel-karton |  |
-| 2-way cord (2-wire cord, two-way cord) | 2-draad-snoer, tweedraadsnoer |  |
-| 24-hour recall | 24-uur-herroep, 24-uur-terugdink |  |
-| 3-sheet board | 3-vel-karton |  |
-| 8/1-line multiplexer | 8/1-lyn-multiplekser |  |
-| A battery | A-battery |  |
-| A leg (A wire) | A-draad |  |
-| A pole {surveys} | A-paal |  |
-| A pole | bokpaal |  |
-| A position | A-bedienpunt |  |
-| A station {radio navigation} | A-stasie |  |
-| A terminal | A-eindpunt |  |
-| A-A ballast impulsing relay | O-O-impulsrele met ballaslamp |  |
-| A-digit selector | A-syfer-kieser |  |
-| A-frame belt | A-raam-band |  |
-| A-position demand working | aanvraagwerking by A-bedienpunt |  |
-| A.h capacity (ampere-hour capacity) | A.h-kapasiteit, ampere-uurkapasiteit |  |
-| A/D converter (analog-to-digital converter) | A/D-omsetter, analoog-in-digitaal-omsetter |  |
-| AA (accountant's authority) | RM, rekenmeestersmagtiging |  |
-| AAIC (accounting authority identification code) | AAIC, rekeningowerheid-identifikasiekode |  |
-| AC (asbestos cement) | AS, asbessement |  |
-| AC-sheet (asbestos-cement sheet) | AS-plaat, asbessementplaat |  |
-| ACCEPT ALARM key | NEEM ALARM AAN-sleutel |  |
-| ACE (automatic cross-connection equipment) | OKT, outomatiese kruisverbindtoerusting |  |
-| ACK (acknowledgement signal) | ES, erkensein |  |
-| ACKNOWLEDGE ANSWER signal | ERKEN ANTWOORD-sein |  |
-| ACKNOWLEDGE CALLED PARTY CLEARS signal | ERKEN OPGEROEPTE MAAK VRY-sein |  |
-| ADB (African Development Bank} | Afrika Ontwikkelingsbank, AOB |  |
-| ADC (advise duration and charge) {telephone calls} | VGK, verstrek gesprekduur en koste |  |
-| ADC (street-distribution cabinet) | SDK, straatdistribusiekabinet |  |
-| Africa) | Kernenergiekorporasie van Suid-Afrika, NECSA. |  |
-| AELH (automatic exchange line hold) | OSLH, outomatiese sentralelynhoufasiliteit |  |
-| AFA (auxiliary-fuse alarm) | HLPSA, hulpsekeringalarm |  |
-| AG (Auditor-General) | OG, Ouditeur-generaal |  |
-| AGC (automatic gain control) | OWB, outomatiese winsbeheer |  |
-| AGC amplifier (automatic gain-control amplifier) | OWB-versterker, outomatiesewinsbeheer-versterker |  |
-| AGR (automatic gain regulation) | OWB, outomatiese winsreeling, outomatiese winsbeheer |  |
-| AL (analogue loop) | AL, analooglus |  |
-| ALARM OFF key | ALARM AF-sleutel |  |
-| ALARM RECEIVING ATTENTION light (ARA light) | ALARM GENIET AANDAG-lig, AGA-lig |  |
-| ALL TRUNKS BUSY alarm (ATB alarm) | ALLE BANE BESET-alarm, ABB-alarm |  |
-| ALT key | alternatiefsleutel, ALT-sleutel |  |
-| ALU (analog/logic unit) {computer} | rekenkunde/logika-eenheid |  |
-| AM (amplitude modulation) | AM, amplitudemodulasie |  |
-| AMOR circuit (automatic meter-observation recorder circuit) | AMOR-kring, outomatiese |  |
-| AND gate truth table | EN-hek-waarheidstabel |  |
-| AND gate | EN-hek |  |
-| AND operation | EN-bewerking |  |
-| AND-OR logic | EN-OF-logika |  |
-| AND-OR-NOT logic | EN-OF-NIE-logika |  |
-| APD (avalanche photodiode) | LFD, lawine-fotodiode |  |
-| APL (average picture level) {television} | GBP, gemiddelde beeldpeil |  |
-| APL screen | APL-skerm |  |
-| AQL (acceptable quality level) | AGP, aanvaarbare gehaltepeil |  |
-| AR card (advice of delivery card, avis de r,ception card) | afleweringsadvieskaart, AR-kaart |  |
-| ARM (asynchronous response mode) | AAM, asinchrone antwoordmodus |  |
-| ARTB (automatic routining and test bay) | ORTH, outomatiese roetineer-en-toetsraam |  |
-| ASCII {computer} | ASCII |  |
-| ASO (antiscuffing oil) | SWO, skuurwerende olie |  |
-| ATE (automatic telephone exchange) | OTS, outomatiese telefoonsentrale |  |
-| Adcock antenna | Adcock antenne |  |
-| Adcock direction finder | Adcock rigtingsoeker |  |
-| Administrative Council | Administrasieraad |  |
-| Administrative Councillor's invoice | Administrasieraadfaktuur |  |
-| Admission of Advocates Act | Wet op die Toelating van Advokate |  |
-| Advanced Technical Certificate (ATC) | Gevorderde Tegniese Sertifikaat, GTS |  |
-| Advise payment! {money order} | Meld uitbetaling! |  |
-| Allen screw (cap-head screw) | Allen skroef |  |
-| American fine {screw thread} | Amerikaanse fyndraad |  |
-| Ampère's circuit relation | Ampère se kringloopverhouding |  |
-| Anaconda rolling tool | Anaconda rollasser |  |
-| Anderson bridge | Anderson brug |  |
-| Appleton layer | Appleton laag |  |
-| Applied Mathematics | Toegepaste Wiskune |  |
-| Applied Mechanics | Toegepaste Meganika |  |
-| Applied Thermodynamics | Toegepaste Termodinamika |  |
-| Arabic numeral | Arabiese syfer |  |
-| Araldite cement | Araldite-sement |  |
-| Asian | Asier |  |
-| Association for Advertising Agencies (AAA) | Assosiasie vir Reklame-agentskappe, ARA |  |
-| Association of Advertising Agencies (AAA) {marketing} | Assosiasie vir Reklameagentskappe, ARA |  |
-| Atmite protector | Atmite afleier |  |
-| Atmite resistor | Atmite resistor |  |
-| Attorney General | Prokureur-generaal |  |
-| Attorneys Act | Wet op Prokureurs |  |
-| Auditor-General (AG) | Ouditeur-generaal, OG |  |
-| Austenlite {trade-name} | Austenlite |  |
-| Autrax {system} | Autrax |  |
-| B (bel) | B, bel |  |
-| B battery | B-battery |  |
-| B contact (break contact) | verbreekkontak |  |
-| B position | B-bedienpunt |  |
-| B terminal | B-eindpunt |  |
-| B/A indicator (before/after indicator) | V/N-aanwyser, voor/na-aanwyser |  |
-| B/A indicator {Mapkas} | V/N-aanwyser |  |
-| BAL (account balance) | SAL, rekeningsaldo |  |
-| BC-digit selector | BC-syferkieser |  |
-| BCCP (BREAK CONTACT CLOSED period) | VKGT, VERBREEKKONTAK GESLUIT-tyd |  |
-| BNC {connector} | BNC |  |
-| BNR (basic noise ratio) {microwave systems} | BRV, basiese ruisverhouding |  |
-| BPY (bill payments) | RBE, rekeningbetalings |  |
-| BREAK GLASS alarm | BREEK GLAS-alarm |  |
-| BRS (business reply service) | BAD, besigheidsantwoorddiens |  |
-| BT (busy tone, engaged tone) | BT, besettoon |  |
-| BUSY relay | BESET-rele |  |
-| Barcograph method | Barcograph metode |  |
-| Bayesian decision theory {marketing} | Bayesiaanse besluitnemingsteorie, Bayesiaanse beslissingsteorie |  |
-| Bayesian decision theory | Bayesiaanse besluitnemingsteorie, Bayesiaanse beslissingsteorie |  |
-| Beaverboard | Beaver bord |  |
-| Behavioural Science | Gedragswetenskap |  |
-| Bell-type receiver | Bell-tipe gehoorstuk |  |
-| Bellini-Tosi direction finder | Bellini-Tosi rigtingsoeker |  |
-| Bellini-Tosi system | Bellini-Tosi stelsel |  |
-| Bessemer converter | Bessemer peer |  |
-| Beverage antenna | Beverage antenne |  |
-| Bitumastic compound | Bitumastic mengsel |  |
-| Black Administration Act | Wet op Swart Plaaslike Owerhede |  |
-| Black Building Workers Act | Wet op Swart Bouwerkers |  |
-| Blick impulse distribution | Blick impulsverdeling |  |
-| Blick panel | Blick paneel |  |
-| Blick time recorder | Blick registreerder |  |
-| Blick-timer circuit | Blick lyn |  |
-| Boltzmann's constant | Boltzmann se konstante |  |
-| Bonita ring | Bonita ring |  |
-| Boolean algebra | Boole algebra |  |
-| Boolean logic expression | Boole-logika-uitdrukking |  |
-| Boolean logic | Boole logika |  |
-| Bordeaux mixture | Bordeaux mengsel |  |
-| Bowden wire | Bowden draad |  |
-| Braun tube | Braun buis |  |
-| Brewster angle | Brewster hoek |  |
-| Britannia joint | Britannia las |  |
-| Britannia metal | Britannia metaal |  |
-| British Association thread {screws} | British Association draad |  |
-| British standard Whitworth thread (Whitworth thread) {screws} | Whitworth-draad |  |
-| British standard fine thread {screws} | Britse standaard fyn draad |  |
-| British standard wire gauge (imperial standard wire gauge, standard wire gauge) | standaarddraaddikte |  |
-| British thermal unit | Britse termiese eenheid |  |
-| Brown and Sharpe taper | Brown en Sharpe tapsheid |  |
-| Bucknell cross-head | Bucknell ankerbeuel |  |
-| Bulldog clip | Bulldog klem |  |
-| Bureau for Economic Research (BER) {marketing} | Buro vir Ekonomiese Ondersoek, BEO |  |
-| Bureau of Market Research {marketing} | Buro vir Marknavorsing |  |
-| C (coulomb) | C, coulomb |  |
-| C network | C-netwerk |  |
-| C/B (coated back) | A/B, agterkant bestryk |  |
-| C/F (coated front) | V/B, voorkant bestryk |  |
-| C/FB (coated front and back) | W/B, weerskante bestryk |  |
-| CALL ACCEPTED packet | OPROEP AANVAAR-pakkie |  |
-| CALL CONFIRMATION signal | OPROEPBEVESTIG-sein |  |
-| CALL CONNECTED packet | OPROEP VERBIND-pakkie |  |
-| CALL CONNECTED signal | OPROEP VERBIND-sein |  |
-| CALL SUPERVISOR AND SENDER CHANGEOVER key | ROEP OPSIGTER EN SKAKEL SENDER OOR- |  |
-| CALLED PARTY CLEARED supervisory signal | OPGEROEPTE VRY-kontrolesein |  |
-| CALLED-SUBSCRIBER ANSWER condition | OPGEROEPTE ANTWOORD-toestand |  |
-| CALLS WAITING lamp | OPROEPE WAG-lamp |  |
-| CAS (channel-associated signalling) | KAS, kanaalgeassosieerde seining |  |
-| CATI (computer assisted telephone interviewing) {marketing} | rekenaarondersteunde |  |
-| CATR (centralised access and testing rack) | DLE, gesentraliseerde datalustoetseenheid |  |
-| CB manual exhange area | SB-handsentralegebied |  |
-| CBF (channel-branching filter) | KAF, kanaalaftakfilter |  |
-| CCA (copper-chrome arsenate) | KCA, koperchroomarsenaat |  |
-| CCD {semi-conductor} | ladinggekoppelde toestel |  |
-| CCIR (International Radio Consultative Committee) | CCIR, Internasionale Raadgewende Komitee vir Radio |  |
-| CCITT (International Telephone and Telegraph Consultative Committee) | CCITT, Internasionale |  |
-| CCS (common-channel signalling) | GKS, gemeenskaplikekanaal-seining |  |
-| CCU (central control unit) | SBE, sentrale beheereenheid |  |
-| CDSTL (CONNECT DATA SET TO LINE) | VDSML, VERBIND DATASTEL MET LYN |  |
-| CDV (check-digit verification) | TSV, toetssyferverifikasie |  |
-| CH control circuit {numbering device} | CH-beheerkring |  |
-| CHANNEL OUT lead | KANAAL UIT-leiding |  |
-| CL (connecting link) | VS, verbindskakel |  |
-| CLEAR INDICATION packet | VRYMAAKAANWYSING-pakkie |  |
-| CLEAR REQUEST packet | VRYMAAKVERSOEK-pakkie |  |
-| CLEAR THE LINE telegram | RUIM DIE LYN-telegram |  |
-| CLEAR TO SEND (CTS) | SKOON OM TE SEND, SOTS |  |
-| CLEAR collision | VRYMAAK-botsing |  |
-| CLEAR confirmation | VRYMAAK-bevestiging |  |
-| CLEAR indication | VRYMAAK-aanwysing |  |
-| CLEAR request | VRYMAAK-versoek |  |
-| CLK (clock) | KLK, klok |  |
-| CM (count meter) | TT, tellingteller |  |
-| CMA (Institute of Cost and Management Accountants) | KBR, Instituut van Koste- en Bestuursrekenmeesters |  |
-| CMDR (command reject) | BVWP, bevel verwerp |  |
-| CMOS (complementary metal-oxide semiconductor) | CMOS, komplementere-metaaloksied-halfgeleier |  |
-| CMRR (common mode rejection ratio) | GMSV, gemeenskaplikemodus-sperverhouding |  |
-| COIN ACCEPTED oscillator | MUNT AANVAAR-ossillator |  |
-| COIN ACCEPTED signal | MUNT AANVAAR-sein |  |
-| COM (computer output microfilm) | RUM, rekenaaruitvoermikrofilm |  |
-| COM-fiche | KOM-fiche |  |
-| COMVOOR {commitment of stores} | COMVOOR |  |
-| CONNECT DATA SET TO LINE (CDSTL) | VERBIND DATASTEL MET LYN, VDSML |  |
-| CONNECTED IDLE condition | VERBINDE RUS-toestand |  |
-| CONSTANT {control of standard stock} | CONSTANT |  |
-| COUPLE LEFT key | KOPPEL LINKS-sleutel |  |
-| COUPLE RIGHT key | KOPPEL REGS-sleutel |  |
-| CPR mouthpiece {first-aid} | KPR-mondstuk |  |
-| CQ telegram | CQ-telegram |  |
-| CR (Crime Register) | MR, Misdaadregister |  |
-| Campbell mutual-inductance bridge | Campbell se wedersydse-induktansiebrug |  |
-| Carpenter relay | Carpenter rele |  |
-| Carrier Operated Device Anti-Noise (Codan) | Codan |  |
-| Carson balanced modulator | Carson se gebalanseerde modulator |  |
-| Cartesian method | Cartesiese metode |  |
-| Cary-Foster mutual inductance bridge | Cary-Foster se wedersydse induktansiebrug |  |
-| Case cell | Case sel |  |
-| Cassegrain antenna | Cassegrain antenne |  |
-| Celsius thermometer | Celsius termometer |  |
-| Celsius | Celsius |  |
-| Centenary telephone | Centenary telefoon |  |
-| Central Exchange | Sentraal sentrale |  |
-| Central Statistical Service (CSS) {marketing} | Sentrale Statistiekdiens, CSS |  |
-| Central Statistical Service (CSS) | Sentrale Statistiekdiens, SSD |  |
-| Certificate of Uniform Title | Sertifikaat van Uniforme Titel |  |
-| Chance glass | Chance glas |  |
-| Chebyshev approximation | benadering van Tsjebisjof, Tsjebisjof benadering |  |
-| Chebyshev array (Dolph-Chebyshev array) | Tsjebisjof rignet |  |
-| Christmas airmail | Kerslugpos |  |
-| Christmas card | Kerskaart |  |
-| Christmas rush | Kersdrukte |  |
-| Christmas stamp | Kersseel |  |
-| Christmas tree | Kersboom |  |
-| Christmas-stamp fund | Kersseelfonds |  |
-| Clear! {telex} | Skakel af! |  |
-| Client Agreement {Safex} | Klientooreenkoms |  |
-| Clyburn spanner | Clyburn sleutel |  |
-| Cochran's Q test {marketing} | Cochran se Q-toets |  |
-| Cochran's Q-test | Cochran se Q-toets |  |
-| Coffing hoist | Coffing hyser |  |
-| Coloured Postal Employees' Association | Kleurlingposwerkersvereniging |  |
-| Commonwealth Telecommunications Board | Statebondstelekommunikasieraad |  |
-| Condemnation Board | Afkeurraad |  |
-| Construction Education and Training Authority | Konstruksie-onderrig-en-opleidingsowerheid |  |
-| Construction Industry Alliance (CIA) | Konstruksiebedryfalliansie, KBA |  |
-| Contracts Section | Kontrakteseksie |  |
-| Crosby clip | Crosby klem |  |
-| Cutler feed | Cutler bestraler |  |
-| D bit (rifle drill) | D-boorpunt |  |
-| D drill | D-boor |  |
-| D layer (D region) {ionosphere} | D-laag |  |
-| D-shaped shackle | D-harp |  |
-| D/A converter (digital-to-analogue converter) | D/A-omsetter, digitaal-in-analoog-omsetter |  |
-| DA <obsolete term - use authority instead> | magtiging |  |
-| DA number (divisional-authority number) | AM-nommer, afdelingsmagtigingsnommer |  |
-| DATA TERMINAL READY interface circuit (DTR interface circuit) | DATATERMINAAL GEREED- |  |
-| DATA TERMINAL READY | DATATERMINAAL GEREED |  |
-| DC nippers (diagonal cutting nippers) | skuinskniptang |  |
-| DC restorer | GS-hersteller |  |
-| DCC (destination code count) {telephone} | bestemmingkodetelling |  |
-| DCM (dialled-code monitor) | SKM, geskakeldekode-monitor |  |
-| DCTL (direct-coupled-transistor logic) | DGTL, direkgekoppeldetransistor-logika |  |
-| DG insulator (double-groove insulator) | DG-isolator, dubbelgroefisolator |  |
-| DH (director hunter) | DS, direktorsoeker |  |
-| DI material (direct-issue material) | direkte-uitreikingsmateriaal, DU-materiaal |  |
-| DIAL lamp | SKAKEL-lamp |  |
-| DID (direct in-dialling, direct inward dialling) | DIS, direkte in-skakeling |  |
-| DIP (dual-in-line package) | DGP, dubbelgelidpakket |  |
-| DIP switch (dual in-line package switch) | DIP-skakelaar, dubbelinlynpakketskakelaar |  |
-| DIRIGENT {directory preparation and information for telephone subscribers} | DIRIGENT |  |
-| DISC (disconnect) | DISK, diskonnekteer |  |
-| DISTANT STATION CONNECTED signal | ANDERKANTSE STASIE VERBIND-sein |  |
-| DPW (Department of Public Works) | Departement van Openbare Werke |  |
-| DSE (dynamic band-width allocation) | DSS, dinamiese bandbreedtetoewysing |  |
-| DTI (Department of Trade and Industry) | Departement van Handel en Nywerheid |  |
-| DTMF (dual-tone multifrequency) | DTMF, dubbeltoonmultifrekwensie |  |
-| Data Communications Co-ordinating Committee | Ko”rdinerende Komitee vir Datakommunikasie |  |
-| Davey knot | Davey knoop |  |
-| De Morgan's law | De Morgan se wet, wet van De Morgan |  |
-| Decometer | Decometer |  |
-| Department of Banking Supervision | Departement van Banktoesighouding |  |
-| Department of Minerals and Energy (DME) | Departement van Minerale en Energie, DME |  |
-| Department of Posts and Telecommunications | Departement van Pos- en Telekommunikasiewese |  |
-| Departmental office | Departementele kantoor |  |
-| Departmental transfer {of officer} | Departementele verplasing |  |
-| Departmental transfer | Departementele oordrag |  |
-| Depreciation and Maintenance (IDM, Interest) | RWI, Rente, Waardevermindering en Instandhouding |  |
-| Deputy Postmaster General | Adjunk-posmeester-generaal |  |
-| Derby boot | Derby stewel |  |
-| Development State {JSE} | Ontwikkelingsfase (JSE) |  |
-| Diagnostics | Diagnostiek |  |
-| Dimond ring memory core | Dimond ringgeheuekern |  |
-| Dimond ring store | Dimond ringgeheue |  |
-| Doherty transmitter | Doherty sender |  |
-| Doppler effect | Doppler effek |  |
-| Drawing {subject} | Tekene |  |
-| Drug Utilisation Review {publication} | Riglyne van Medikasiegebruik |  |
-| Dymo writer | Dymo skrywer |  |
-| E (earthenware) | E, erde- |  |
-| E and M signalling {transmission} | E-en-M-seining |  |
-| E bend {waveguide} | E-buiging |  |
-| E corner | E-elmboog |  |
-| E layer {ionosphere} | E-laag |  |
-| E level | E-vlak |  |
-| E mode {waves} | E-modus |  |
-| E plane lens | E-vlaklens |  |
-| E plane sectoral horn | E-vlaksektorhoring |  |
-| E region {ionosphere} | E-streek |  |
-| E wire {carrier systems} | E-draad |  |
-| EARLY margin {teleprinter} | VROEG-grens |  |
-| EB (extension bell) | AK, aanvullende klokkie |  |
-| EBT (EQUIPMENT BUSY tone) | TBT, TOERUSTING BESET-toon |  |
-| EBX (electronic branch exchange) | ETS, elektroniese taksentrale |  |
-| ECL (emitter-coupled logic) | EGL, emittorgekoppelde logika |  |
-| EDS (electronic digital switching) | EDS, elektroniese digitale skakeling |  |
-| EDX-P (electronic digital exchange-packet) {trade name} | EDX-P |  |
-| EFSL (estimated free-space level) | GVRP, geskatte vryruimtepeil |  |
-| EFT (electronic funds transfer) | EGO, elektroniese geldoordrag |  |
-| EFTS {Electronic Funds Transfer System} | EGOS, Elektroniese Geldoordragstelsel |  |
-| EHF (extremely high frequency) | eHf, ekstreem hoe frekwensie, uiters hoe frekwensie |  |
-| EHT unit (extra high tension unit) | EHS-eenheid, ekstrahoespanningseenheid |  |
-| ELF (exchange-line finder) | SLV, sentralelynvinder |  |
-| EN SUITE installation | EN SUITE-installasie |  |
-| ENABLE INTERRUPT instruction | ONTSPER ONDERBREKING-instruksie |  |
-| END OF DIGIT signal | EINDE VAN SYFER-sein, SYFER END-sein |  |
-| END OF IMPULSING signal | EINDE VAN IMPULSERING-sein |  |
-| END OF INFORMATION signal | EINDE VAN INLIGTING-sein |  |
-| END OF MESSAGE interpretation | EINDE VAN BERIG-vertolking |  |
-| END OF SELECTION signal | EINDE VAN KIESING-sein |  |
-| END OF SEQUENCE (EOS) | EINDE VAN REEKS, EVR |  |
-| END OF TAPE interpretation | BANDENT-vertolking |  |
-| END OF TRANSMISSION signal {data} | EINDE VAN TRANSMISSIE-sein |  |
-| END-OF-NUMBER signal (EON signal) | EINDE VAN NOMMER-sein, EVN-sein |  |
-| EPROM (erasable programmable read-only memory) | EPROM, uitwisbare programmeerbare leesgeheue |  |
-| ES (exchange selector) {PABX} | SLK, sentralelynkieser |  |
-| ES (extra small) {garment size} | EK, ekstra klein |  |
-| EWSD | EWSD |  |
-| EXECUTE routine | UITVOER-roetine |  |
-| Easter holidays | Paasvakansie |  |
-| Easter stamp | Paasseel |  |
-| Education and Training Quality Assurer (ETQA) | Onderrig-en-opleidingkwaliteitversekeraar, ETQA |  |
-| Electronic Fund Transfer (EFT) | Elektroniese Fondsoordrag, EFT |  |
-| Electronics {subject} | Elektronika |  |
-| Employment Equity Act | Wet op Billike Indiensneming |  |
-| Engineering Drawing {subject} | Ingenieurstekene |  |
-| Engineering Materials {subject} | Ingenieursmateriale |  |
-| Epsom salts | Engelse sout, Epsom-sout |  |
-| Erlang's equation | vergelyking van Erlang |  |
-| Erlang's formula | formule van Erlang |  |
-| Etelphone | Etelfoon |  |
-| Eustachian tube | buis van Eustachius |  |
-| F distribution {marketing} | F-verdeling |  |
-| F layer {ionosphere} | F-laag |  |
-| F region {ionosphere} | F-streek |  |
-| FASTER {funds applied for savings and transfer electronically in the Republic} | FASTER |  |
-| FCS (frame-checking sequence) | RKR, raamkontroleerreeks |  |
-| FD (final decoder) | FD, finale dekodeerder |  |
-| FDM (frequency division multiplexing) | FDM, frekwensiedeelmultipleksering |  |
-| FDNR circuit (frequency-dependent negative-resistance circuit) | FANW-kring, kring met |  |
-| FDSVC (fixed-destination switched virtual circuit) | VBSVK, vastebestemming-geskakelde virtuele kring |  |
-| FDX (full duplex) | VDX, voldupleks |  |
-| FEE RECEIVED rele {public telephone} | GELD IN-rele |  |
-| FETCH routine | HAAL-roetine |  |
-| FF (fixed fee) | vaste tarief, VTF |  |
-| FFL (finished floor level) {air conditioning} | AVV, afgewerkte vloervlak |  |
-| FIFO (first-in-first-out) | FIFO, eerste-in-eerste-uit |  |
-| FIFO register (first-in-first-out register) | FIFO-register, eerste-in-eerste-uit-register |  |
-| FIGURES shift bellcrank | SYFERS-skuifkniehefboom |  |
-| FIGURES shift control lever | SYFERS-skuifbeheerhefboom |  |
-| FIGURES shift signal | SYFERS-skuifsein |  |
-| FIGURES shift | SYFERS-skuif |  |
-| FILTEL {philately} | FILTEL |  |
-| FINISH key | KLAAR-sleutel |  |
-| FIRST ROUTE SELECTOR SEIZED detector | EERSTE ROETEKIESER IN BESLAG GENEEM-detektor |  |
-| FM (frequency modulation) | FM, frekwensiemodulasie |  |
-| FM interference ratio | FM-steurverhouding |  |
-| FO (frequency overlap) | FO, frekwensie-oorvleueling |  |
-| FOLLOW ME facility | VOLG MY-fasiliteit |  |
-| FOLLOW ME {telephone facility} | VOLG MY |  |
-| FOM sheet <see - rele data sheet> | merietesyferkaart |  |
-| FORCED RELEASE WITH BUSY TONE signal | GEDWONGE VRYMAKING MET BESETTOON-sein |  |
-| FORCED RELEASE WITH NU TONE signal | GEDWONGE VRYMAKING MET DOOIETOON-sein |  |
-| Fahrenheit thermometer | Fahrenheit termometer |  |
-| Faraday cell | Faraday sel |  |
-| Faraday effect | Faraday effek |  |
-| Faraday shield | Faraday skerm |  |
-| Fermi level | Fermi vlak |  |
-| Fermi-Dirac function | Fermi-Dirac funksie |  |
-| Ferrox Cube {trade name} | Ferrox Cube |  |
-| Fibre Optics {subject} | Veseloptika |  |
-| Fleming's left-hand rule | Fleming se linkerhandreel |  |
-| Footprint-type pipe wrench | Footprint-tipe pypsleutel |  |
-| Foster-Seeley discriminator | Foster-Seeley diskrimineerder |  |
-| Foucault current | Foucault stroom |  |
-| Fourier analysis | Fourier ontleding |  |
-| Fourier's theorem | Fourier se stelling |  |
-| Fr (franklin) | Fr, franklin |  |
-| Frama postage label | Frama posgeldstrokie |  |
-| Fraunhofer region | Fraunhofer gebied |  |
-| French chalk | fyntalk |  |
-| French drain | stapelriool |  |
-| Fresnel region | Fresnel gebied |  |
-| Fresnel zone | Fresnel sone |  |
-| Fresnel-zone clearance {microwave} | Fresnel-sonevryruimte |  |
-| Friedman two-way analysis of variance {marketing} | Friedman se tweerigtingontleding van variansie |  |
-| GAD {computer} | GAD |  |
-| GASF (group alarm signalling frame) {German telephone equipment} | GASR, groepalarmseinraam |  |
-| GMT (Greenwich Mean Time) | GT, Greenwich-Tyd |  |
-| GO AHEAD signal (GO statement) {eg data transmission} | GAAN VOORT-sein |  |
-| GROUP BUSY interface | GROEP BESET-koppelvlak |  |
-| GROUP BUSY lead | GROEP BESET-leiding |  |
-| GROUP BUSY relay | GROEP BESET-rele |  |
-| Gantt chart (program control chart) | Gantt kaart, programbeheerkaart |  |
-| Gb (gilbert) | Gb, gilbert |  |
-| German silver (nickel silver) | nikkelsilwer |  |
-| Government Employees' Provident Fund | Regeringswerknemersondersteuningsfonds |  |
-| Government Garage | Staatsgarage |  |
-| Government Gazette | Staatskoerant |  |
-| Government Notice | Goewermentskennisgewing |  |
-| Government contractor | Staatskontrakteur |  |
-| Graphics {subject} | Grafika |  |
-| Group of African Member Associations (GAMA) | no Afrikaans version |  |
-| Gunn-diode oscillator | Gunn diodeossillator |  |
-| Gunn-effect diode | Gunn diode |  |
-| H (henry) | H, henry |  |
-| H antenna | H-antenne |  |
-| H mode (TE mode, transverse electric mode) {waveguide} | dwars elektriese modus |  |
-| H network | H-netwerk |  |
-| H pad {electricity} | H-lid |  |
-| H plane lens | H-vlaklens |  |
-| H-parameter circuit (hybrid equivalent circuit) | hibridiese ekwivalente kring, H-parameterkring |  |
-| HDLC (high-level data link control) | HDLC, hoevlakse dataverbindingbeheer |  |
-| HDPE (high-density polyethylene) | HDPE, hoedigtheid-polietileen |  |
-| HERE IS key {teleprinter} | HIER IS-toets, selfidentifiseertoets |  |
-| HF (high frequency) | HF, hoe frekwensie |  |
-| HIGH PILOT alarm | HOE LOODS-alarm |  |
-| HIGH VOLT alarm | HOE VOLT-alarm |  |
-| HP/LP cut-out {Trane water chiller} | HD/LD-uitskakelaar |  |
-| HYB (hybrid) | DIF, differensiaal |  |
-| Hall constant | Hall konstante |  |
-| Hall effect | Hall effek |  |
-| Hall mobility | Hall mobiliteit |  |
-| Halon (halon) {gas mixture of bromide, chlorine and fluorine} | Halon, halon |  |
-| Hamming code {logic} | Hamming kode |  |
-| Heaviside layer | Heaviside laag |  |
-| Heising modulation | Heising modulasie |  |
-| Heliflat hose | Heliflat slang |  |
-| Heliflex hose | Heliflex slang |  |
-| Hell sender | Hell-sender |  |
-| Hellschreiber system (Hell system) | Hell stelsel |  |
-| Hellschreiber | Hellschreiber |  |
-| Helmholtz' law | Helmholtz se Wet, Wet van Helmholtz |  |
-| Hertz antenna | Hertz antenne |  |
-| Hertz effect | Hertz effek |  |
-| Hertzian wave | Hertz golf |  |
-| Hold the line | Bly aan |  |
-| Hollerith system | Hollerith stelsel |  |
-| I (information transfer format) | I, inligtingoorplaasformaat |  |
-| IC (integrated circuit) | IK, ge<ntegreerde kring |  |
-| ID (inside diameter) | binnediameter, ID, interne diameter |  |
-| IDB (input data bus) | IDB, insetdatabus |  |
-| IDM (Interest, Depreciation and Maintenance) | RWI, Rente, Waardevermindering en Instandhouding |  |
-| IDP {automatic telephone} | TSP |  |
-| IE (inspection eye) | IO, inspeksie-oog |  |
-| IEEE bus | IEEE bus |  |
-| IF breakthrough | TF-deurbraak |  |
-| IGFET (insulated-gate field-effect transistor) | IGFET, veldeffektransistor met ge<soleerde hek |  |
-| ILN (internal line number) | ILN, interne lynnommer |  |
-| IMC (international maintenance centre) | IIS, internasionale instandhousentrum |  |
-| IMESA (Institute of Municipal Engineers of South Africa) | Instituut van Munisipale Ingenieurs van Suid-Afrika |  |
-| INF (account information) | RIN, rekeninginligting |  |
-| INFOTEL {telephone information} | INFOTEL |  |
-| INTELSAT (International Telecommunications Satellite Consortium) | INTELSAT, Internasionale |  |
-| INVERT operation | OMKEER-bewerking |  |
-| ISA (SFSA, Special Foreign Service Allowance) | Spesiale Buitelandse Dienstoelae, SBDT |  |
-| Important Places/Areas (IPAs) | Belangrike Plekke/Gebiede, BPG's |  |
-| Industrial Conciliation Amendment Act | Wysigingswet op Nywerheidsversoening |  |
-| Industrial Social Services | Bedryfsmaatskaplike Dienste |  |
-| Informatics | Informatika |  |
-| Institute for Marketing Management (IMM) | Instituut vir Bemarkingbestuur, IBB |  |
-| Institute for Planning Research {marketing} | Instituut vir Beplanningsnavorsing |  |
-| Institute for Planning Research | Instituut vir Beplanningnavorsing |  |
-| Institute of Cost and Management Accountants (CMA) | Instituut van Koste- en Bestuursrekenmeesters, KBR |  |
-| Institute of Marketing Management (IMM) {marketing} | Instituut vir Bemarkingsbestuur, IBB |  |
-| Institute of Social and Economic Research {marketing} | Instituut vir Sosiale en Ekonomiese Navorsing |  |
-| Institute of Social and Economic Research | Instituut vir Sosiale en Ekonomiese Navorsing |  |
-| Instituut vir Taalfasilitering en Taalbemagtiging | no English version |  |
-| International Telecommunication Convention | Internasionale Telekommunikasiekonvensie |  |
-| Investment and Development Cluster | Beleggings- en Ontwikkelingskluster |  |
-| Isenthal voltage regulator | Isenthal spanningsreelaar |  |
-| J (joule) | J, joule |  |
-| J antenna | J-antenne |  |
-| J bolt | J-bout |  |
-| J carrier route | J-draerroete |  |
-| J spindle | J-spil |  |
-| JIBAR (Johannesburg Inter Bank Agreed Rate) | Johannesburgse Interbank Ooreengekome Koers, JIBOK |  |
-| JK flip-flop | JK-wipkring |  |
-| JOBEHEER {job control} | JOBEHEER |  |
-| JUGFET (junction-gate field-effect transistor) | JUGFET, veldeffektransistor met voegvlak |  |
-| JUMP instruction | SPRING-instruksie |  |
-| JV-transposed route | JV-gekruiste roete |  |
-| Jacobs clutch | Jacobs kloukop |  |
-| Jarno taper | Jarno tapsheid |  |
-| Jury of Executive Opinion {marketing} | Jurie van Uitvoerende Opinie |  |
-| K {1024 in computer applications} | K |  |
-| KONDEL {cash on delivery} | KONDEL |  |
-| Kalamazoo binder | Kalamazoo binder |  |
-| Karnaugh map | Karnaugh kaart |  |
-| Kbit (kilobit) | Kbis, kilobis |  |
-| Kbit/s {signalling speed} | Kbis/s |  |
-| Kbyte (kilobyte) | Kgreep, kilogreep |  |
-| Kennelly-Heaviside layer | Kennelly-Heaviside laag |  |
-| Kerr cell | Kerr sel |  |
-| Kerr effect | Kerr effek |  |
-| Keystone link | Keystone skakel |  |
-| Kirchhoff's law | Kirchhoff se wet, wet van Kirchhoff |  |
-| Kolmogorov-Smirnov one sample test {marketing} | Kolmogorov-Smirnov eensteekproeftoets |  |
-| Kolmogorov-Smirnov one-sample test | Kolmogorov-Smirnov eensteekproeftoets |  |
-| Koomans array | Koomans rignet |  |
-| Kruskal-Wallis test {marketing} | Kruskal-Wallis toets |  |
-| Kruskal-Wallis test | Kruskal-Wallis toets |  |
-| L (large, OS, outsize) {garment size} | G, groot |  |
-| L and P protector unit {lightning and power} | W-en-K-afleiereenheid |  |
-| L section | L-seksie |  |
-| LAN (local-area network) {computer} | LAN, lokale-area-netwerk, plaaslike netwerk |  |
-| LAP (link access procedure) | VAP, verbindingaksesseerprosedure |  |
-| LATE margin {teleprinter} | LAAT-grens |  |
-| LBO (line building out) | LUB, lynuitbou |  |
-| LCD (liquid crystal display) | VKV, vloeikristalvertoner |  |
-| LCN (logical channel number) | LKN, logikakanaalnommer |  |
-| LDPE (low-density polyethylene) | LDPE, laedigtheidpolietileen |  |
-| LDR (light-dependent resistor) | LAR, ligafhanklike resistor |  |
-| LE (line equipment) | LT, lyntoerusting |  |
-| LED (light-emitting diode) | LD, glimdiode, ligdiode |  |
-| LETTERS-shift | LETTER-skuif |  |
-| LF (low frequency) | LF, lae frekwensie |  |
-| LG (light galvanised) | LG, lig gegalvaniseer |  |
-| LID CLOSED condition {tape reader} | KLAP TOE-toestand |  |
-| LINE ANSWER key | LYNANTWOORD-sleutel |  |
-| LO (local oscillator) | PO, plaaslike ossillator |  |
-| LOCAL LOOP-BACK button | PLAASLIKE TOETS-knop |  |
-| LOOP-BACK switch | TERUGLUS-skakelaar |  |
-| LOW VOLT alarm | LAE VOLT-alarm |  |
-| LR network | LR-netwerk |  |
-| Lancaster wheel {marketing} | Lancaster wiel |  |
-| Lancaster wheel | Lancaster wiel |  |
-| Langmuir arc lamp | Langmuir booglamp |  |
-| Latin square design {marketing} | Latynse vierkantontwerp |  |
-| Latin square design | Latynsevierkant-ontwerp |  |
-| Leclanch,e cel | Leclanch,e sel |  |
-| Lee's disc | Lee skyf |  |
-| Licensing Agreement Reseller (LAR) | Lisensieringsooreenkomsherverkoper, LOH |  |
-| Likert scale {marketing} | Likert skaal |  |
-| Likert scale | Likert skaal |  |
-| Local Government - Municipal Structures Act {117/98} <NB - replace the dash in the name by a colon> | Wet |  |
-| Lorenz curve {marketing} | Lorenz kromme |  |
-| Lorenz curve | Lorenz kromme |  |
-| Luxemburg effect | Luxemburg effek |  |
-| M (medium) {garment size} | M, medium |  |
-| M and R work (modification and rearrangement work) | W en H-werk, wysiging- en herinrigtingswerk |  |
-| M wire {carrier systems} | M-draad |  |
-| MA (miscellaneous apparatus) | DA, diverse apparaat |  |
-| MAKE BUSY button | BESETMAAK-knop |  |
-| MAKE CONTACT CLOSED period (MCCP) | SLUITKONTAK GESLUIT-tyd, SKGT |  |
-| MANCOVA (multivariate analysis of covariance) {marketing} | multivariante ontleding van kovariansie |  |
-| MANOVA (multivariate analysis of variance) {marketing} | multivariante ontleding van variansie |  |
-| MAPKAS {main accounts} | MAPKAS |  |
-| MAR (miscellaneous apparatus rack, miscellaneous apparatus bay) | AAR, algemene apparaatraam |  |
-| MAR {computer} | GAR |  |
-| MBR (mortgage bond rate) | verbandleningskoers |  |
-| MC (metallic circuit) | MK, metaalkring |  |
-| MC connector block | MK-verbindblok |  |
-| MCB (miniature circuit breaker) | MSB, miniatuurstroombreker |  |
-| MCW (modulated carrier wave) | MDG, gemoduleerde draergolf |  |
-| MEA (multi-exchange area) | MSG, multisentralegebied |  |
-| MEC {provincial government} | LUR |  |
-| MFPB dialling (multi-frequency push-button dialling) | MFDK-skakeling, multifrekwensiedrukknopskakeling |  |
-| MLTU (modem line-termination unit) | MLAE, modemlynafsluiteenheid |  |
-| MONITOR FAIL LOCATE facility | MONITORFALINGOPSPOOR-fasiliteit |  |
-| MORE DATA mark | NOG DATA-merk |  |
-| MULTIPLE ENGAGED lamp | MULTIPEL BESET-lamp |  |
-| Maintenance of Surviving Spouses Act {27/90} | Wet op Onderhoud van Langslewende Gades, 27/90 |  |
-| Malthoid | Malthoid |  |
-| Mann-Whitney test (U test) {marketing} | Mann-Whitney toets, U-toets |  |
-| Mann-Whitney test (U-test) | Mann-Whitney toets, U-toets |  |
-| Manual of Telegraph Procedure (Telegraph Manual) | Telegraafhandboek |  |
-| Marconi antenna | Marconi antenne |  |
-| Masonite | Masonite |  |
-| Master of the Supreme Court | Weesheer |  |
-| Measurements {subject} | Metings |  |
-| Mechanics {science} | Meganika |  |
-| Mechanics | Werktuigkunde |  |
-| Mensuration | Maatleer |  |
-| Metrosil | Metrosil |  |
-| Miller circuit | Miller kring |  |
-| More About It button | Meer Daaroor-knoppie |  |
-| Morse drill | Morse boor |  |
-| Morse sounder | Morse klopper |  |
-| Morse taper | Morse tapsheid |  |
-| Mufax | Mufax |  |
-| 56/1996> | Padongelukfondswet |  |
-| Mylar tape | Mylar band |  |
-| N spring | N-veer |  |
-| N-type semiconductor | N-halfgeleier, N-tipe halfgeleier |  |
-| NA (no answer) | GA, geen antwoord |  |
-| NACK (non-acknowledgement signal) | NES, nie-erkensein |  |
-| NAND latch | NEN-knip |  |
-| NCC (Network Control Centre) | NBS, Netwerkbeheersentrum |  |
-| NCR paper (no-carbon-required paper) | deurslagpapier |  |
-| NCS (nickel-chrome steel) | NCS, nikkelchroomstaal |  |
-| NDL circuit {telegraphy} | NDL-kring |  |
-| NDRO (non-destructive read-out) | NDUL, nie-destruktiewe uitlesing |  |
-| NETSAPO {portion of Saponet and associated plant used exclusively by SAPT} | NETSAPO |  |
-| NETWORK CONGESTION code | NETWERK OORLAAI-kode |  |
-| NL unit | NDL-eenheid, NL-eenheid |  |
-| NO GO gauge (NOT GO gauge) | KANNIE-maat |  |
-| NO SIGNAL indication | GEEN SEIN-aanwysing |  |
-| NO jump | NEE-sprong |  |
-| NOR gate | NOF-hek |  |
-| NPA spring | NPA-veer |  |
-| NPA {two-motion selector} | A-laagveer, NPA |  |
-| NPB {two-motion selector} | B-laagveer, NPB |  |
-| NPN transistor | NPN-transistor |  |
-| NR spring | NR-veer |  |
-| National Consultative Committee on Post Office Affairs | Nasionale Beraadslagingskomitee oor |  |
-| National Manpower Commission | Nasionale Mannekragkommissie |  |
-| National Savings Certificate (NSC) | Nasionale Spaarsertifikaat, NSS |  |
-| National Savings Stamp | Nasionale Spaarseel |  |
-| National Skills Fund | Nasionale Vaardigheidsfonds |  |
-| National Technical Certificate (NTC) | Nasionale Tegniese Sertifikaat, NTS |  |
-| Network Operator Terminal (NOT) | Netwerkoperateursterminaal, NOT |  |
-| Networks Section | Netwerkseksie |  |
-| Newton's disc | Newton skyf |  |
-| Nicol prism | Nicol prisma |  |
-| Nicopress tool | Nicopress lasser |  |
-| OCR (optical character recognition) | OKH, optiese karakterherkenning |  |
-| OD (outer diameter) | BD, buitediameter |  |
-| ODB (output data bus) | ODB, UDB, uitsetdatabus |  |
-| OEP (old-equipment practice) | OTP, outoerusting-praktyk |  |
-| OFF position {switch} | AF-posisie, AF-stand |  |
-| OFF time | AF-tyd |  |
-| OH wire (overhead wire) | OH-draad, oorhoofse draad |  |
-| OHTS (oil-hardened tempered steel) | OVTS, olieverharde temperstaal |  |
-| OLE (optical-line equipment) | OLT, optieselyn-toerusting |  |
-| OMC (operating and maintenance centre) | BIS, bedryf-en-instandhoudingsentrum |  |
-| ON DEMAND service {priority mail} | OP AANVRAAG-diens |  |
-| ON time | AAN-tyd |  |
-| OPTIMERK {optical mark reader} | OPTIMERK |  |
-| OPY (own defined payments) | EBE, eie gedefinieerde betalings |  |
-| OR function | OF-funksie |  |
-| OR v. {logic technique} | OF |  |
-| OR-AND logic | OF-EN-logika |  |
-| ORRED {logic technique} | ge-OFTE |  |
-| OSTEX (overseas telex) | OSTEX, oorsese teleks |  |
-| Oops! button | Fout!-knoppie |  |
-| P (DP, protected distribution point) | DP, beveiligde distribusiepunt, B |  |
-| P wiper | P-kontakarm |  |
-| P wire {automatic telephone} | P-draad |  |
-| P-MOS {computer} | P-MOS |  |
-| P-type semiconductor | P-tipe halfgeleier |  |
-| P-wire conversion rele set | P-draadomsitrelestel |  |
-| P/F bit (poll/final bit) | P/E-bis, pols/eind-bis |  |
-| PA {software} | prosestoewyser |  |
-| PA-system (public-address system) | openbare luidspreekstelsel |  |
-| PABX (private automatic branch exchange) | POTS, privaat outomatiese taksentrale |  |
-| PAC (program address counter) | PAT, programadresteller |  |
-| PAD (primary address decoder) | PAD, primere adresdekodeerder |  |
-| PAID die | BETAAL-stempelblok |  |
-| PAM (pulse-amplitude modulation) | PAM, pulsamplitudemodulasie |  |
-| PAR (program address register) | PAR, programadresregister |  |
-| PAX (private automatic exchange) | POS, privaat outomatiese sentrale |  |
-| PBX (private branch exchange) | PTS, privaat taksentrale |  |
-| PC (personal computer) | PR, persoonlike rekenaar |  |
-| PC (program counter) {computer} | programteller |  |
-| PC board (printed-circuit board, printed-wiring board) | EK-bord, etsbord, etskringbord |  |
-| PC card (printed-circuit card) | EK-kaart, etskringkaart |  |
-| PC extender board | EK-verlengbord |  |
-| PC {in building trade} | PK |  |
-| PCD (pitch circle diameter) | SSDIAM, steeksirkeldiameter |  |
-| PCM system (pulse-code modulation system) | pulskodemodulasiestelsel, PKM-stelsel |  |
-| PD (potential difference) | PV, potensiaalverskil |  |
-| PD {software} | PKW |  |
-| PDP (protected distribution point) | BDP, beveiligde distribusiepunt |  |
-| PERSAL {personnel salary} | PERSAL |  |
-| PERT (program evaluation and review technique, program evaluation review technique) | PERT, |  |
-| PF (pitch fibre) | PV, pikvesel |  |
-| PFSK (pulse frequency-shift keying) | PFSS, pulsfrekwensieskuifsleuteling |  |
-| PIN diode (positive/intrinsic/negative diode) | PIN-diode, positief/intrinsiek/negatief-diode |  |
-| PIN membrane | PIN-membraan |  |
-| PIN touch {ATM} | PIN-sleutelplaat, PIN-raakplaat |  |
-| PLC (programmable logic controller) | PLK, programmeerbare logikakontrole |  |
-| PMBX (private manual branch exchange) | PHTS, privaat handtaksentrale |  |
-| PMTS (predetermined motion time system) | PMTS |  |
-| PMX (private manual exchange) | PHS, privaat handsentrale |  |
-| PNA (project network analysis) | PNA, projeknetwerkanalise |  |
-| PNP transistor | PNP-transistor |  |
-| PNPN sandwich | PNPN-stapel |  |
-| POINT OF ORIGIN signal (POO signal) | PUNT VAN OORSPRONG-sein, PVO-sein |  |
-| POP instruction {interrupt working} | STOOT-instruksie |  |
-| POR (program output register) | PUR, programuitgangregister |  |
-| POSBANK {PO Savings Bank} | POSBANK |  |
-| POSMED | POSMED |  |
-| POSTAT {postal statistics} | POSTAT |  |
-| POTENT {PO telephone engineering networks} | POTENT |  |
-| POWER ON/OFF switch {film projector} | KRAG AAN/AF-skakelaar |  |
-| POWER SWITCHED ON condition (READY TO OPERATE condition) | GEREED-toestand |  |
-| POWISMO {money orders} | POWISMO |  |
-| PREPARE FOR DIGITS signal | SYFERS VOLG-sein |  |
-| PRESS <acronym for PCM regenerator surveillance system> | PRESS |  |
-| PRESS TO DIAL key | DRUK VIR SKAKELING-knop |  |
-| PRF (pulse repetition frequency) | PHF, pulsherhaalfrekwensie |  |
-| PRINT signal {teleprinter} | DRUK-sein |  |
-| PRO SANO Medical Aid Scheme {for Coloureds} | PRO SANO Mediese Hulpskema |  |
-| PROCEED TO SELECT signal | BEGIN KIES-sein |  |
-| PROCEED TO SEND NUMERICALS signal {director system} | BEGIN NUMERIESE SYFERS SEND-sein |  |
-| PROCEED TO SEND signal | BEGIN SEND-sein |  |
-| PROM programmer {computer} | PROM-programmeerder |  |
-| PROMPT ALARM bit | SPOEDEISENDE ALARM-bis |  |
-| PRONTO {project for reporting on telephones out of order} | PRONTO |  |
-| PSTN (public switched telephone network) | PSTN, publieke skakeltelefoonnetwerk |  |
-| PVC-reinforced material (PVC-supported material) | PVC-versterkte materiaal |  |
-| Pawsey stub | Pawsey stomp |  |
-| Petersen coil | Petersen spoel |  |
-| Piezoelectrics {subject} | Piesoelektrika |  |
-| Pittsburgh lock | Pittsburgh sluitnaat |  |
-| Place Names Record | Pleknameregister |  |
-| Plastics {subject} | Plastika |  |
-| Post Office Act | Poswet |  |
-| Post Office Circular | Possirkulere |  |
-| Post Office Friendly Society | Poskantoorhulpvereniging |  |
-| Post Office Guide | Posgids |  |
-| Post Office Manual | Poskantoorhandboek |  |
-| Post Office Route | Poskantoorroete |  |
-| Post Office Savings Bank | Posspaarbank |  |
-| Post Office Service Act | Poskantoordienswet |  |
-| Post Office Service Act | Poskantoordienswet |  |
-| Post Office Vote | Poskantoorbegrotingspos |  |
-| Post and Telecommunications Worker's Association (POTWA) | POTWA, Pos- en Telekommunikasiewese |  |
-| Postage Stamp Advisory Committee | Posseeladvieskomitee |  |
-| Postal Inspectors Code | Voorskrif vir Posinspekteurs |  |
-| Postal Operating Instructions | Posbedryfinstruksies |  |
-| Postal Order Ready Reckoner | Posorderrekentafel |  |
-| Postal Order, Telegraph and Telephone Agency (POTTA) | Posorder- Telegraaf- en Telefoonagentskap, |  |
-| Postal and Telegraph Association of South Africa | Pos- en Telegraafvereniging van Suid-Afrika |  |
-| Postmaster General's Account | Posmeester-generaal se Rekening |  |
-| Postmaster General | Posmeester-generaal |  |
-| Powers punch machine | Powers ponsmasjien |  |
-| Preferential Procurement Framework Act {2/2000} | Wet op Raamwerk vir Voorkeurverkrygingsbeleid |  |
-| Provincial Gazette | Provinsiale Koerant |  |
-| Provincial Government Act | Wet op Plaaslike Bestuur |  |
-| Pr”ny brake | Pr”ny rem |  |
-| Public Accountants' and Auditors' Act | Wet op Openbare Rekenmeesters en Ouditeurs |  |
-| Public Debt Commissioner | Staatskuldkommissaris |  |
-| Public Finance Management Act {1/99} | Wet op Openbare Finansiele Bestuur |  |
-| Q factor | Q-faktor |  |
-| Q point (quiescent point) | Q-punt, ruspunt |  |
-| QAM (quadrature amplitude modulation) | KAM, kwadratuuramplitudemodulasie |  |
-| QIL (quad-in-line) | VG, viergelid |  |
-| QSMS (quality of service monitor system) | DGMS, diensgehaltemonitorstelsel |  |
-| RAM (random access memory) | RAM, willekeurigetoegang-geheue |  |
-| RAS (remote-access selector) | ATK, afstandstoegangkieser |  |
-| RATS (remote access and test system) | ATTS, afstandstoegang- en toetsstelsel |  |
-| RAX (rural automatic exchange) | PLOS, plattelandse outomatiese sentrale |  |
-| RC (Rockwell) | RC, Rockwell |  |
-| RC channel (rural carrier channel) | PD-kanaal, plattelandsedraerstelsel-kanaal |  |
-| RC combination | RC-kombinasie |  |
-| RC network | RC-netwerk |  |
-| RCRS (register coupling rele set) | RKRS, registerkoppelrelestel |  |
-| RCS (rural carrier system) | PDS, plattelandse draerstelsel |  |
-| RDF (receive directional filter) | ORF, ontvangrigfilter |  |
-| READ INTO STORAGE program | INLEES IN GEHEUE-program |  |
-| READY FOR SENDING (ROS) | GEREED OM TE SEND, GOTS |  |
-| RECEIVE NOT READY situation | NIE-ONTVANGGEREED-situasie |  |
-| RECEIVE ONLY test (RO test) | SLEGS ONTVANG-toets, SO-toets |  |
-| RECEIVED DATA interchange circuit | ONTVANGDE DATA-koppelvlakkring |  |
-| RECEIVED LINE SIGNAL detector (RLSD) | ONTVANGDE LYNSEIN-detektor, OLSD |  |
-| REJ (reject) | VWP, veryverp |  |
-| REJ packet format | VWP-pakkieformaat |  |
-| RELEASE BUSY button | VRYMAAK-knop |  |
-| RELEASE GUARD signal | VRYMAAKBEWAAK-sein |  |
-| REMOTE LOOP-BACK button | AFSTANDTERUGLUS-knop |  |
-| REMOTE TEST button | AFSTANDTOETS-knop |  |
-| REQUEST TO SEND (RTS) | VERSOEK OM TE SEND, VOTS |  |
-| RER (routiner equipment rack) | RTTR, roetinetoetsertoerustingraam |  |
-| RESET TO ZERO switch | TERUG NA ZERO-skakelaar |  |
-| RESET indication | TERUGSTEL-aanwysing |  |
-| RESET request | TERUGSTEL-versoek |  |
-| RESTART INDICATION state | HERAANWYSING-staat |  |
-| RESTART REQUEST state | HERAANSITVERSOEK-staat |  |
-| RESTART indication | HERAANSIT-aanwysing |  |
-| RESTART request | HERAANSIT-versoek |  |
-| RESTRAINT signal | STUIT-sein |  |
-| RFA equipment (ROUTE FAILURE announcing equipment) | RFA-toerusting, ROETE GEFAAL- |  |
-| RVQ (relative value qualification) | RWK, relatiewewaarde-kwalifikasie |  |
-| Railways Service telegram | Spoorwegdienstelegram |  |
-| Rand monetary area | Rand monetere gebied |  |
-| RawI bolt | Rawl bout |  |
-| RawI plug | Rawl prop |  |
-| Rayleigh disc | Raleigh skyf |  |
-| Redirection Section {mail-sorting} | Nasendseksie |  |
-| Reed-effect diode | Reed diode |  |
-| Refrigeration {subject) | Koelervakteorie |  |
-| Regional Repair Centre (RRC) | Streekherstelsentrum, SHS |  |
-| Regional Services Council | Streekdiensteraad |  |
-| Regional Services Councils Act | Wet op Streekdiensterade |  |
-| Road Traffic Act {29/89} | Padverkeerswet |  |
-| Rural Areas Act | Wet op Landelike Gebiede |  |
-| S (siemens) | siemens |  |
-| S (small) {garment size} | K, klein |  |
-| S (supervisory format) | T, toesigformaat |  |
-| S and T (subsistence and travelling expenses) | reis-en-verblyfkoste, R en V |  |
-| S effect (surface-charge effect) | oppervlakladingseffek |  |
-| S meter | S-meter |  |
-| S pole | S-paal |  |
-| S pulse lead | S-pulsleiding |  |
-| S pulse | S-puls |  |
-| S spring | S-veer |  |
-| S/L (strip and line) {information for exchange connection} | S/L, strook en lyn |  |
-| SAACE (SA Association of Consulting Engineers) | SAVRI, SA Vereniging van Raadgewende Ingenieurs |  |
-| SABM (set to asyachronous balanced mode) | SABM, stel in asinchrone balansmodus |  |
-| SACPE (South African Council for Professional Engineers) | SARPI, Suid-Afrikaanse Raad vir Professionele |  |
-| SAGOS {agriculture} | SAGOS |  |
-| SAME PAGE addressing | DIESELFDE BLADSY-aanspreking |  |
-| SANITAS Medical Scheme {for Asians} | SANITAS Medical Scheme |  |
-| SAPDA (The South African Philatelic Dealers Association) | SAFHA, Die Suid-Afrikaanse Filatelistiese |  |
-| SAR (special apparatus rack) | SAR, spesialeapparaat-raam |  |
-| SAR {computer} | BAR |  |
-| SARM (set to asynchronous response mode) | SAAM, stel in asinchrone antwoordmodus |  |
-| SART (special apparatus rack for testing) | SART, spesiale apparaatraam vir toetswerk |  |
-| SASU (semi-automatic switching unit) | SOSE, semi-outomatiese skakeleenheid |  |
-| SBT (SUBSCRIBER BUSY tone) | HBT, HUURDER BESET-toon |  |
-| SC (service channel) | DK, dienskanaal |  |
-| SCC (signal conversion circuit) | SOK, seinomsitkring |  |
-| SCC scan register (SSR) | SOK-aftasregister, SAR |  |
-| SCE (signal conversion electronics) {telephone} | seinomsitelektronika |  |
-| SCE (signal conversion element) {teephone} | seinomsitelement |  |
-| SCFM (subcarrier frequency-modulation) | FMSD, frekweksiemodulasie van die sekondere dragolf |  |
-| SCR (signal conversion rele) | seinomsitrele |  |
-| SCR (silicon controlled rectification device, silicon controlled rectifier) | BSG, beheerde silikongelykrigter |  |
-| SDC (street-distribution cabinet) | SDK, straatdistribusiekabinet |  |
-| SDR (Special Drawing Rights) | STR, Spesiale Trekkingsregte |  |
-| SEL modem | SEL-modem |  |
-| SELECT STANDBY | KIES NOODVERBINDING |  |
-| SELECT TENS GROUP decode | KIES TIENEGROEP-dekodering |  |
-| SELECT TRANSMIT FREQUENCY | KIES SENDFREKWENSIE |  |
-| SELECTOR RELEASED signal | KIESER VRY-sein |  |
-| SELECTOR SET signal | KIESER OPGESTEL-sein |  |
-| SEM (suspense engineering material) | lAM, ingenieursafwagmateriaal |  |
-| SEND BACKWARD-CHANNEL CARRiER | SEND TERUGKANAALDRAER |  |
-| SENDER TAKEN lamp | SENDER GENEEM-lamp |  |
-| SET ON indicator | STEL AAN-aanwyser |  |
-| SG insulator {single-groove insulator} | EG-isoIator, enkelgroefisolator |  |
-| SGDF (supergroup distribution frame) | supergroepdistribusieraam, SGDR |  |
-| SHCS (socket-head cap screw) | sokkopdopskroef |  |
-| SHF (superhigh frequency) | superhoe frekwensie, SHF |  |
-| SLC (subscriber-line circuit) | HLK, huurderlynkring |  |
-| SMD (surface-mounted device) | oppervlakgemonteerde toestet, OGT |  |
-| SOA (supply on arrival) | LBO, lewer by ontvangs |  |
-| SOA extract (SUPPLY ON ARRIVAL extract) | LBO-uittreksel, LEWER BY ONTVANGS-uittreksel |  |
-| SOC (state of call) | SVO, stand van oproep |  |
-| SOM (START OF MESSAGE) | BB, BEGIN VAN BERIG |  |
-| SOP (standard output power) | standaard uitset |  |
-| SPC (stored-program control) | IPB, interneprogrambeheer |  |
-| SPM (subscriber private meter) | HPT, huurder privaat teller |  |
-| SRW advance (suspense repayble-works advance) | ATW-voorskot, afwagvoorskot vir terugbetaalbare |  |
-| SRW works order (suspense repayable work works order, works order for suspense repayable work) | ATW- |  |
-| STA (store accumulator) {computer instruction} | STA, stoorakkumulator |  |
-| START OF MESSAGE signal | BEGIN VAN BERIG-sein |  |
-| START OF SELECTION signal | BEGIN VAN KIESING-sein |  |
-| START polanty | AANSIT-polariteit |  |
-| STD (Suspense Temporary Debit) | ADT, Afwag Tydelike Debiet |  |
-| STM (account statement) | STA, rekeningstaat |  |
-| STO (stop orders) | ATO, aftrekorders |  |
-| STOP ON FAULT condition | STOP OP FOUT-toestand |  |
-| STORE AND FORWARD message switching | BEWAAR EN AANSTUUR-berigskakeling |  |
-| SU (subscriber uniselector) | HD, huurdersdraaikieser |  |
-| SUB ON LINE lamp | HUURDER OP LYN-lamp |  |
-| SUBSCRIBER FAILS TO DIAL alarm {group selector} | HUURDER SKAKEL NIE-alarm |  |
-| SVC (switched virtual circuit) | SVK, geskakelde virtuele kring |  |
-| SWB (switchboard) | SKB, skakelbord |  |
-| Savings Bank deposit | Spaarbankinlae |  |
-| Savings Bank revenue | Spaarbankinkomste |  |
-| Savings Bank telegram | Spaarbanktelegram |  |
-| Savings Bank warrant | Spaarbankorder |  |
-| Savings Bank withdrawal | Spaarbank-opvraging |  |
-| Savings Bank | Spaarbank |  |
-| School of Consulting Engineering | Skool vir Raadgewende Ingenieurswese |  |
-| Searle's bar | Searle staaf |  |
-| Secraphone {trade name} | Secraphone |  |
-| Sectional Titles Act {95/1986} | Wet op Deeltitels |  |
-| Security and Contingency-Planning Section | Sekuriteit- en Gebeurlikheidsbeplanningseksie |  |
-| Seller's thread (standard thread [US]) {screws} | Seller draad, standaard skroefdraad |  |
-| Sentinel safety device | Sentinel veiligheidstoestel |  |
-| Servomex voltage limiter | Servomex spanningsbegrenser |  |
-| Shipper's Certification for Restricted Articles | Afsender se Sertifikaat vir Beperkingsartikels |  |
-| Skills Development Act {99/1998} | Wet op die Ontwikkeling van Vaardighede |  |
-| Skills Development Levies Act {9/1999} | Wet op Heffings vir die Ontwikkeling van Vaardighede |  |
-| Slimrack {carrier system} | Slimrack |  |
-| Society of Post Office Engineers | Vereniging van Poskantooringenieurs |  |
-| South African Advertising Research Foundation (SAARF) {marketing} | Suid-Afrikaanse |  |
-| South African Marketing Research Association (SAMRA) {marketing} | Suid-Afrikaanse Vereniging vir |  |
-| South African Post and Telecommunications Employees' Association | Suid-Afrikaanse Pos- en |  |
-| South African Postal Association | Suid Afrikaanse Posvereniging |  |
-| South African Qualifications Authority (SAQA) | Suid-Afrikaanse Kwalifikasie-owerheid, SAKO |  |
-| South African Qualifications Authority Act {55/1995} | Wet op Suid-Afrikaanse Kwalifikasie-owerheid |  |
-| South African Society of Marketers (SASM) {marketing} | Suid-Afrikaanse Vereniging vir Bemarkers, SAVB |  |
-| South African Telecommunication Association | Suid-Afrikaanse Telekommunikasievereniging |  |
-| Speed Services | Sneldienste |  |
-| Staff Management Board | Personeelbestuursraad |  |
-| Staff Relations Board | Personeelskakelraad |  |
-| Standard Industrial Classification (SIC) {marketing} | Standaard nywerheidsklassifikasie, SNK |  |
-| Standard Industrial Classification (SIC) | Standaardnywerheidsklassifikasie, SNK |  |
-| Statistics {subject} | Statistiek |  |
-| Stone bridge | Stone brug |  |
-| Student Engineer | Studentingenieur |  |
-| Student's t test {marketing} | Student se t-toets |  |
-| Student's t-test | Student se t-toets |  |
-| Subcycle {trade name} | Subcycle |  |
-| Sunday duty | Sondagdiens |  |
-| Sure-grip feeding system | Sure-grip voerstelsel |  |
-| Syncycle {trade name} | Syncycle |  |
-| T and PU circuit (test and plug-up circuit) | T-ST-kring, toets-en-toestopkring |  |
-| T and PU {instruction} | T and ST |  |
-| T block | T-blok |  |
-| T connection (tee connection) | T-verbinding |  |
-| T network | T-netwerk |  |
-| T pad {transmission} | T-lid |  |
-| T {tesla} | T, tesla |  |
-| T-shaped antenna | T-antenne |  |
-| T-slot cutter | T-gleuffrees |  |
-| TA credit card (transferred-account credit card) | TA-kredietkaart, oordragrekening-kredietkaart |  |
-| TAPE EXHAUSTED alarm {eg teleprinter} | BANDENT-alarm |  |
-| TAPE LOW alarm {eg teleprinter} | BAND MIN-alarm |  |
-| TAR (translator address register) | RAR, herleieradresregister |  |
-| TC (terminating circuit) | AK, afsluitkring |  |
-| TCO rele (transmission cut-off rele) | TA-rele, transmissieafsnyrele |  |
-| TCT (telex class of traffic marker) | TVK, teleksverkeerklasmerker |  |
-| TD (traffic drawing) | VT, verkeerstekening |  |
-| TD (tunnel diode) | TD, tonneldiode |  |
-| TDC position (top dead-centre position) | BDP-posisie, boonste dooie-puntposisie |  |
-| TDD (third-digit discrimination) | DSD, derdesyferdisriminasie |  |
-| TDM (time-division multiplexing) | TDM, tyddeelmultipleksering |  |
-| TDS (temporary digit store) | TSG, tydelike syfergeheue |  |
-| TEKEN {engineering drawings} | TEKEN |  |
-| TEM mode (transverse electric and magnetic mode) {waveguide} | dwars elektnese en magnetiese modus |  |
-| TEST BUSY signal | TOETS BESET-sein |  |
-| TEST FINISHED signal | TOETS KLAAR-sein |  |
-| TEST LINE SEIZED contact {routiner} | TOETSLYN IN BESLAG GENEEM-kontak |  |
-| TEST PATTERN PRESENT (TPP) | TOETSPATROON AANWESIG, TPA |  |
-| TIGHT TAPE switch | BAND STYF-skakelaar |  |
-| TLF (top-load line finder, TLLF) | TLLV, toplaslynvinder |  |
-| TM mode (transverse magnetic mode) {waveguide} | dwars magnetiese modus |  |
-| TMS (target market segment) | DMS, doelsegment |  |
-| TMS (transmission measuring set) | TMS, transmissiemeetstel |  |
-| TOR (translator output register) | HUR, herleieruitgangregister |  |
-| TOS (translator output selection) | RLK, herleieruitsetkiesing |  |
-| TP switch (triple-pole switch) | driepoolskakelaar, TP-skakelaar |  |
-| TPO (travelling post office) | RPK, reisende poskantoor |  |
-| TPP (training program present) | OPA, opleidingsprogram aanwesig |  |
-| TR (transfer register) | OR, oordraregister |  |
-| TR (translator) | HERL, herleier |  |
-| TRANSFER CALLS WAITING lamp | OORPLAASOPROEPE WAG-lamp |  |
-| TRANSLATOR HELD fault | HERLEIER GEHOU-fout |  |
-| TRANSMIT BACKWARD-CHANNEL LINE-SIGNAL | SEND TERUGKANAALLYNSEIN |  |
-| TRANSMITTED DATA interchange circuit | GESENDE DATA~koppelvIakkring |  |
-| TRANSVER {transport} | TRANSVER |  |
-| TRM (trunk-route map) | HLK, hooflynroetekaart |  |
-| TRT modem {type} | TRT-modern |  |
-| TTL integrated circuit | ge<ntegreerde TTL-kring |  |
-| Technical Instruction | Tegniese Instruksie |  |
-| Technical Training Note | Tegniese Opleidingsnota |  |
-| Telecommunications {subjec} | Telekommunikasie |  |
-| Telephone Service Authority (TSA) | Telefoondiensmagtiging, TDM |  |
-| Thematic Apperception Test (TAT) {marketing} | Tematiese Appersepsietoets, TAT |  |
-| Thurstone scale {marketing} | Thurstone skaal |  |
-| Thurstone scale | Thurstone skaal |  |
-| Trade Theory {subject} | Vakteorie |  |
-| U (unnumbered format) | O, ongenommerde formaat |  |
-| U test {marketing} | U-toets |  |
-| U-seating {sheet-metal work} | U-bedding |  |
-| U-test | U-toets |  |
-| UA (unnumbered acknowledge) | OE, ongenommerde erkenning |  |
-| UAX (unit automatic exchange) | EOS, eenheid outomatiese sentrale |  |
-| UIC (user identification code) | GlK, gebruikersidentifikasiekode |  |
-| UJT (unijunction, unijunction transistor) | EVT, eenvoegvlaktransistor |  |
-| UNABLE TO RAISE fault | KAN NIE DEURKOM NIE-fout |  |
-| UPS (uninterruptable power supply) | OKB, ononderbreekbare kragbron |  |
-| Unemployment Act | Werkloosheidsversekeringswet |  |
-| Unemployment Insurance Act | Werkloosheidsversekeringwet |  |
-| Uniskirting {trade name} | Uniskirting |  |
-| V-steady box {lathe} | V-teehouerkas |  |
-| VC (virtual circuit) | VK, virtuele kring |  |
-| VCO (voltage controlled oscillator) | SBO, spanningbeheerde ossillator |  |
-| VCR (video cassette recorder) | VKO, videokassetopnemer |  |
-| VDU (visual display unit) | VVE, visuele vertooneenheid |  |
-| VFT (voice-frequency telegraphy) | SFT, spraakfrekwensietelegrafie |  |
-| VFT circuit (voice-frequency telegraph circuit) | SFT-kring, spraakfrekwensietelegraafkring |  |
-| VIR (vulcanised india-rubber) {cable} | VR, gevulkaniseerde rubber |  |
-| Veitch diagram | Veitch diagram |  |
-| Verdan system | Verdan stelsel |  |
-| Vibroground {trade name} | Vibroground |  |
-| Vickers diamond pyramid number (VPN) | Vickers diamantpiramidenommer, VPN |  |
-| W (wood) | H, hout |  |
-| WAN (wide-area network) | WAN, wye-area-netwerk |  |
-| WYSIWYG {what you see is what you get} | WYSIWYG, jy kry wat jy sien |  |
-| Wage Act | Loonwet |  |
-| Wilcoxon signed rank test {marketing} | Wilcoxon betekende rangtoets |  |
-| Workmen's Compensation Act | Ongevallewet |  |
-| Workmen's Compensation Commissioner | Ongevallekommissaris |  |
-| XFD (transfers) | XFD, oorplasings |  |
-| Xaid {marketing} | Xaid |  |
-| Young's double slit {optics} | Young-dubbelspleet |  |
-| Z test {marketing} | Z-toets |  |
-| Z-test | Z-toets |  |
-| Zener-diode regulator | Zenerdiode-reelaar |  |
-| abandon {cable} | laat le, nie ophaal nie |  |
-| abandon {call} | laat vaar |  |
-| abandon {claim} | afstand doen van |  |
-| abandon {parcel} | prysgee |  |
-| abandoned parcel | prysgegewe pakket |  |
-| abandonment of duty without permission | diensverlating sonder toestemming |  |
-| abatement | vermindering |  |
-| abaxial adj | abaksiaal |  |
-| abbreviated address | verkorte adres |  |
-| abbreviated dialling | verkorte skakeling |  |
-| ability to influence | be<nvloedingsvermoe |  |
-| ability {eg authorisation} | bevoegdheid |  |
-| ability {that of which a person or machine is capable} | vermoe |  |
-| ability | bedrewenheid, bekwaamheid, geskooldheid |  |
-| ability | vermoe |  |
-| ablution caravan | waskaravaan |  |
-| abnormal body height {vehicle} | abnormale bakhoogte |  |
-| abnormal radiation | abnormale straling |  |
-| abnormal reflection (sporadic reflection) | abnormale refleksie |  |
-| abnormal work | abnormale werk |  |
-| abnormal-size uniform | abnormalegrootte-uniform |  |
-| abolish {eg post} | afskaf |  |
-| abort {computer} | laat vaar, staak |  |
-| abort | aborteer |  |
-| abortion | abortering |  |
-| abortive expenditure | vrugtelose uitgawe |  |
-| above threshold benefit | Bokant Drumpel voordeel, bokantdrumpel-voordeel |  |
-| above-the-line advertising | bo-die-lyn-reklame |  |
-| abrasion | afskuring, skuring |  |
-| abrasion | skuurplek |  |
-| abrasive cloth | skuurlap |  |
-| abrasive disc | skuurskyf |  |
-| abrasive grains (abrasive particles) | skuurkorrels |  |
-| abrasive hardness | skuurhardheid |  |
-| abrasive n. | skuurmiddel |  |
-| abrasive paper | skuurpapier |  |
-| abrasive particles (abrasive grains) | skuurkorrels |  |
-| abrasive-resistant steel | skuurbestande staal |  |
-| abridged form | verkorte vorm |  |
-| abridged report | verkorte verslag |  |
-| abridged symbol | verkorte simbool |  |
-| abrogation {convention} | opheffing (konvensie) |  |
-| abrupt-recovery diode | snelhersteldiode |  |
-| abscond | wegloop |  |
-| absence of earth | aardafwesigheid |  |
-| absence time | afwesigheidtyd |  |
-| absence without leave | afwesigheid sonder verlof |  |
-| absence-of-earth testing | aardafwegisheidstoetsing |  |
-| absolute delay | absolute vertraging |  |
-| absolute drift | absolute drif |  |
-| absolute error | absolute fout |  |
-| absolute galvanometer | absolute galvanometer |  |
-| absolute level | absolute peil |  |
-| absolute permittivity | absolute permittiwiteit |  |
-| absolute power level | absolute kragpeil |  |
-| absolute unit | absolute eenheid |  |
-| absolute zero | absolute sero |  |
-| absolute | absoluut |  |
-| absorb test key (automatic telephony} | absorbeertoetssleutel |  |
-| absorb {shock} | demp |  |
-| absorb | absorbeer |  |
-| absorbent material | absorbeermateriaal |  |
-| absorbent | absorbeermiddel |  |
-| absorber circuit | absorbeerkring |  |
-| absorber valve | absorbeerbuis |  |
-| absorber-circuit factor | absorbeerkringfaktor |  |
-| absorbing resistance | absorbeerweerstand |  |
-| absorbing screen | absorbeerskerm |  |
-| absorption coefficient | absorpsiekoeffisient |  |
-| absorption control | absorpsiebeheer |  |
-| absorption cross-section (effective area) {antenna} | nuttige oppervlakte |  |
-| absorption filter | absorpsiefilter |  |
-| absorption frequency meter | absorpsiefrekwensiemeter |  |
-| absorption indicator | absorpsieaanwyser |  |
-| absorption limiting frequency | absorpsiebegrensfrekwensie |  |
-| absorption modulation | absorpsiemodulasie |  |
-| absorption peak | absorpsiespits |  |
-| absorption point | absorpsiepunt |  |
-| absorption power indicator | absorpsiekragaanwyser |  |
-| absorption unit | absorpsie-eenheid |  |
-| absorption wave-trap | absorpsiegolfsperder |  |
-| absorption wavemeter | absorpsiegolfmeter |  |
-| absorption {eg shock} | demping |  |
-| absorption | absorbering, absorpsie |  |
-| absorptive attenuator (resistive attenuator) {waveguide} | absorbeerverswakker |  |
-| abstract book | uittrekselboek |  |
-| abstract | uittreksel |  |
-| abutment screw | stootskroef |  |
-| abutment | stootstuk |  |
-| ac (AC, alternating current) | ws, WS, wisselstroom |  |
-| ac mains (ac mains voltage) | ws-netspanning |  |
-| accelerate | versnel |  |
-| accelerated management training | versnelde bestuursopleiding |  |
-| accelerated-weathering unit | snelverweereenheid |  |
-| accelerating ability (accelerating power) | versnelvermoë |  |
-| accelerating electrode | versnelelektrode |  |
-| accelerating grid | versnelrooster |  |
-| accelerating tube | versnelbuis |  |
-| accelerating voltage | versnelspanning |  |
-| acceleration {electronics} | versnelling |  |
-| accelerator anode | versnelanode |  |
-| accelerator {electronics} | versneller |  |
-| accent lighting | aksentverligting |  |
-| accent printing {teleprinter} | aksentdruk |  |
-| accept {bill of exchange} | aksepteer |  |
-| accept | aanneem |  |
-| acceptable quality level (AQL) | aanvaarbare gehaltepeil, AGP |  |
-| acceptance angle | aannamehoek |  |
-| acceptance certificate | aanneemsertifikaat |  |
-| acceptance form {telegram} | aannamevorm |  |
-| acceptance note | aannemingsbrief |  |
-| acceptance of accounts | akseptering van rekenings |  |
-| acceptance of debit | debietaanvaarding |  |
-| acceptance standard | aanneemstandaard |  |
-| acceptance test {of equipment} | aanneemtoets |  |
-| acceptance test | aanneemtoets |  |
-| acceptance {also equipment} | aanname |  |
-| acceptance {bill of exchange} | akseptasie |  |
-| acceptance | aanvaarding |  |
-| accepted account | geaksepteerde rekening |  |
-| accepted in error | foutief aangeneem |  |
-| accepting office | aanneemkantoor |  |
-| accepting officer | aanneembeampte |  |
-| acceptor atom | akseptoratoom |  |
-| acceptor circuit {elec} | akseptorkring |  |
-| acceptor impurity {semiconductor} | akseptoronsuiwerheid |  |
-| acceptor {semiconductor} | aannemer |  |
-| access account number | toegangsrekeningnommer |  |
-| access account | toegangsrekening |  |
-| access agreement | toegangooreenkoms |  |
-| access block tag | toegangsblokstiffie |  |
-| access block | toegangsblok |  |
-| access box | toegangskas |  |
-| access change-over key | toegangsoorskakelsleutel |  |
-| access circuit | toegangskring |  |
-| access control | toegangsbeheer |  |
-| access device {Internet} | toegangsinstrument |  |
-| access digit | toegangsyfer |  |
-| access door {forklift} | toegangspaneel |  |
-| access equipment | toegangstoerusting |  |
-| access lead | toegangsleiding |  |
-| access link | toegangskakel |  |
-| access n. {also computer} | toegang |  |
-| access protocol {computer} | aksesprotokol, toegangsprotokol |  |
-| access rack | toegangsraam |  |
-| access repeater | toegangsherhaler |  |
-| access road | toegangspad |  |
-| access selector (access switch) {automatic telephony} | toegangskieser |  |
-| access time | aksesseertyd, toegangstyd |  |
-| access uniselector connecting key | verbindsleutel van toegangskieser |  |
-| access uniselector level | laag van toegangskieser |  |
-| access v. {computer} | aksesseer, toegang verkry |  |
-| access v. | raadpleeg |  |
-| access v. | toegang kry tot, aksesseer |  |
-| access v. | toegang verkry tot, aksesseer |  |
-| access {documents for perusal} | insae |  |
-| access-circuit rental | toegangskringhuur |  |
-| access-control relay | toegangsbeheerrelê |  |
-| access-control unit | toegangsbeheereenheid |  |
-| access | toegang |  |
-| accessibility | toeganklikheid |  |
-| accessible terminal | toeganklike aansluiter |  |
-| accessing skills | toeganklikheidsvaardighede |  |
-| accession to convention | toetreding tot konvensie |  |
-| accession {library} | aanwins (biblioteek) |  |
-| accession | toetreding |  |
-| accessories | bybehore |  |
-| accessory apparatus | byapparaat |  |
-| accessory equipment | bytoerusting |  |
-| accessory services | bydienste |  |
-| accessory | bybehoorsel |  |
-| accident prevention | ongelukvoorkoming |  |
-| accommodate | akkommodeer |  |
-| accommodation establishment | huisvestingsinrigting |  |
-| accommodation {according to Post Office Act} | herberg |  |
-| accommodation | akkommodasie, verblyf |  |
-| accompanied by | saam met, vergesel van |  |
-| accompany | vergesel |  |
-| account current (current account) | lopende rekening |  |
-| account for (bring into account) | in rekening bring, verantwoord |  |
-| account for | rekenskap gee van, verantwoord |  |
-| account order | rekeningbestelling |  |
-| account rendered | gelewerde rekening |  |
-| account-telegram service | rekeningtelegramdiens |  |
-| account | rekening |  |
-| accountability (liability) | aanspreeklikheid |  |
-| accountability {eg losses} | aanspreeklikheid |  |
-| accountability | rekenpligtigheid |  |
-| accountant's authority (AA) | rekenmeestersmagtiging, RM |  |
-| accountant's formula | rekenmeestersformule |  |
-| accountant | rekenmeester |  |
-| accounting (bookkeeping) | boekhouding |  |
-| accounting adjustment | rekeningaanpassing |  |
-| accounting arrangement | boekhoureeling |  |
-| accounting authority code | rekeningowerheidkode |  |
-| accounting authority identification code (AAIC) | rekeningowerheid-identifikasiekode, AAIC |  |
-| accounting date {job control system} | rekeningdatum |  |
-| accounting day | boekhoudag |  |
-| accounting division | rekeningafdeling |  |
-| accounting fees | boekhoukoste, rekeningkoste |  |
-| accounting machine (bookkeeping machine) | boekhoumasjien |  |
-| accounting office | rekeningkantoor |  |
-| accounting officer | rekenpligtige amptenaar |  |
-| accounting procedure | boekhouprosedure, rekeningkundige prosedure |  |
-| accounting system | boekhoustelsel |  |
-| accounting-machine operator | boekhoumasjienoperateur |  |
-| accounting-machine record | boekhourekord |  |
-| accounts officer | rekeningebeampte |  |
-| accredited representative | geakkrediteerde verteenwoordiger |  |
-| accrue (accumulate) {interest, leave} | oploop |  |
-| accrue to | toekom |  |
-| accrue to | toeval aan |  |
-| accrued charges | opgelope koste |  |
-| accrued interest (accumulated interest) | opgelope rente |  |
-| accumulate (accrue) {interest, leave} | oploop |  |
-| accumulate | akkumuleer, ophoop, versamel |  |
-| accumulated interest (accrued interest) | opgelope rente |  |
-| accumulation | akkumulasie, ophoping, versameling |  |
-| accumulator (accumulator cell, secondary cell, storage cell) | sekondere sel |  |
-| accumulator (secondary battery, storage battery) | akkumulator |  |
-| accumulator box | akkumulatorkas |  |
-| accumulator capacity | akkumulatorkapasiteit |  |
-| accumulator grid | akkumulatorrooster |  |
-| accumulator plate | akkumulatorplaat |  |
-| accumulator register {processor} | akkumuleerregister |  |
-| accuracy | akkuraatheid |  |
-| accurately balanced winding | noukeurig gebalanseerde wikkeling |  |
-| accuse {SA128E exchanges} | beskuldig |  |
-| acetate disk | asetaatskyf |  |
-| acetone | asetoon |  |
-| acetylene torch {welding} | asetileenbrander |  |
-| acetylene welding {method} | asetileensweising |  |
-| acetylene welding | asetileensweiswerk |  |
-| achieve | bereik |  |
-| achievement increment | prestasieverhoging |  |
-| acicular iron | naaldyster |  |
-| acid dipping | suurindoping |  |
-| acid flux | suursmeltmiddel, suurvloeimiddel |  |
-| acid spray | suursproeisel |  |
-| acid-proof (acid-resisting) | suurbestand, suurwerend |  |
-| acid-resistant covering | suurbestande bedekking |  |
-| acid-resistant platen | suurbestande rol |  |
-| acid-resisting paint | suurbestande verf |  |
-| acidic fumes | suurdampe |  |
-| acidimeter | asidimeter, suurmeter |  |
-| acidity | asiditeit, suurheid |  |
-| acidulated water | aangesuurde water |  |
-| acknowledge seizure {signal} | inbeslagneemerkenning |  |
-| acknowledge | erken |  |
-| acknowledged signalling code | erkenningseinkode |  |
-| acknowledgement card | erkenningskaart |  |
-| acknowledgement form | erkenningsvorm |  |
-| acknowledgement of deposit | erkenning van deposito |  |
-| acknowledgement of posting {eg parcel} | bewys van inlewering, inleweringsbewys |  |
-| acknowledgement of receipt | erkenning van ontvangs, ontvangserkenning |  |
-| aclinic line | magnetiese ewenaar |  |
-| acorn nut | akkermoer |  |
-| acorn tube | akkerbuis |  |
-| acoustic coupler | akoestiese koppelaar |  |
-| acoustic energy | akoestiese energie |  |
-| acoustic feedback | akoestiese terugkoppeling |  |
-| acoustic insulation | akoestiese isolasie |  |
-| acoustic pressure | akoestiese druk |  |
-| acoustic resonance | akoestiese resonansie |  |
-| acoustic shock | akoestiese skok |  |
-| acoustic speech power | akoestiese spraakkrag |  |
-| acoustic speech pressure | akoestiese spraakdruk |  |
-| acoustic treatment | akoestiese behandeling |  |
-| acoustic wave | akoestiese golf |  |
-| acoustic wave | klankgolf |  |
-| acoustic-reflection curve | akoestieserefleksie-kromme |  |
-| acoustic-shock absorber (acoustic-shock reducer) | akoestieseskok-demper |  |
-| acoustic-shock circuit | akoestieseskok-kring |  |
-| acoustic-shock rectifier | akoestieseskok-gelykrigter |  |
-| acoustics {eg of a hall} | akoestiek |  |
-| acoustics {subject} | akoestiek, geluidsleer |  |
-| acoustis impedance | akoestiese impedansie |  |
-| acousto-electric index | akoestoelektriese indeks |  |
-| acquire {data} | kry |  |
-| acquire {frequency counter} | kies |  |
-| acquisition time {frequency counter} | kiestyd |  |
-| acquisition {data} | verkryging |  |
-| acquisition {eg of satellite} | opsporing |  |
-| across corners {head of bolt or nut} | oorhoeks |  |
-| across-the-line starter (direct on-line starter, direct-on starter, direct-switching starter) | direkaansitter |  |
-| act of God | natuurkrag |  |
-| act of grace | gunsbewys |  |
-| act on instructions | in opdrag handel |  |
-| act on | inwerk op |  |
-| actinic screen | aktiniese skerm |  |
-| actinometer | aktinometer |  |
-| action date | aktiveerdatum |  |
-| action plan (plan of action) | aksieplan |  |
-| action plan | aksieplan |  |
-| action planning | aksiebeplanning |  |
-| activate | aktiveer |  |
-| activator | aktiveerder |  |
-| active HIGH | aktief HOOG |  |
-| active Low | aktiewe LAAG |  |
-| active antenna | aktiewe antenne |  |
-| active balance return loss | aktiewe balanseggoverswakking |  |
-| active component | aktiewe komponent |  |
-| active mass | aktiewe massa |  |
-| active material | aktiewe materiaal |  |
-| active network | aktiewe netwerk |  |
-| active part | aktiewe deel |  |
-| active region {logic technique} | aktiewe gebied |  |
-| active singing point {radio} | aktiewe fluitpunt |  |
-| active slope equaliser | aktiewe hellingeffenaar |  |
-| active substance | aktiewe stof |  |
-| active terminal {carrier system} | aktiewe eindpunt |  |
-| active to active | aktief na aktief |  |
-| active to inert | aktief na onaktief |  |
-| active transducer | aktiewe oordraer |  |
-| active-channel state | aktiewekanaal-staat |  |
-| activity chart {human resources} | aktiwiteitdiagram |  |
-| activity sampling (work sampling) | aktiwiteitsteekproefneming |  |
-| activity sampling | aktiwiteitsbemonstering |  |
-| activity | aktiwiteit |  |
-| acts and omissions | doen en late |  |
-| actual amplification voltage | werklike versterkingspanning |  |
-| actual current | werklike stroom |  |
-| actual level | werklike peil |  |
-| actual resistance | werklike weerstand |  |
-| actual time | werklike tyd |  |
-| actuarial calculation | aktuariele berekening |  |
-| actuarial investigation | aktuariele ondersoek |  |
-| actuarial service | aktuariele diens |  |
-| actuate | aktueer, werk |  |
-| actuating blade {reperforator} | werkstaaf |  |
-| actuating lever (operating lever) | werkhefboom |  |
-| actuating movement {eg meter} | werkmeganiek |  |
-| actuation {part of a mechanism} | aandrywing |  |
-| actuator | aktueerder |  |
-| acute angle {mathematics} | skerphoek |  |
-| acyclic {machine} | eenpolig, eenpool- |  |
-| acyclic | asiklies |  |
-| ad valorem | ad valorem, volgens waarde |  |
-| adapt | aanpas |  |
-| adaptability | aanpasbaarheid |  |
-| adaptation | adaptasie |  |
-| adapter blade {vehicle jack} | passtuk |  |
-| adapter panel | paspaneel |  |
-| adapter plate | pasplaat |  |
-| adapter tag | verbindstiffie |  |
-| adapter {between apparatuses} | aanpasser |  |
-| adapter {electricity} | pasprop |  |
-| adapter {general} | passtuk |  |
-| adapter-type flange | passtukflens |  |
-| adaptive mode | aanpasmodus |  |
-| add in-phase | infasig bytel |  |
-| add mode | optelmodus |  |
-| add {arithmetic} | optel |  |
-| add {eg frequencies} | bytel |  |
-| add-on conference | byvoegkonferensie |  |
-| add-on module | byvoegmodule |  |
-| add/subtract key | optel/aftrek-sleutel |  |
-| add/subtract logic | optel/aftrek-logika |  |
-| added mode {oscilloscope} | bytelmodus |  |
-| added resistance | bygevoegde weerstand |  |
-| addend | opteller |  |
-| addendum circle {gear} | addendumsirkel |  |
-| addendum {document} | addendum |  |
-| addendum {gear tooth} | addendum |  |
-| adder {electronics} | byteller |  |
-| adder {physical circuit} | optelkring, teller |  |
-| adder {punched-card machine} | opteller, teller |  |
-| adding machine | optelmasjien |  |
-| adding wheel (counter wheel) {punched-card machine} | telwiel |  |
-| addition {arithmetic} | optelling |  |
-| addition {eg frequencies} | bytelling |  |
-| addition | byvoeging, toevoeging |  |
-| additional agreement | addisionele ooreenkoms |  |
-| additional calculation | addisionele berekening |  |
-| additional charge | ekstra koste |  |
-| additional clause | bykomende klousule |  |
-| additional component logic {logic technique} | bykomponent |  |
-| additional contribution | addisionele bydrae |  |
-| additional duty {customs} | ekstra reg |  |
-| additional duty | bykomende diens |  |
-| additional jack {telephony} | byklink |  |
-| additional post | ekstra pos |  |
-| additional tax payment | belastingbybetaling |  |
-| additional work | bykomende werk |  |
-| additional | addisioneel, bykomend, ekstra |  |
-| additive adj | additief |  |
-| additive distortion (cumulative distortion) | kumulatiese vervorming |  |
-| additive flux | additiewe vloed |  |
-| additive multilingualism | toegevoegde veeltaligheid |  |
-| additive process {colour television} | additiewe proses |  |
-| address bus {computer} | adresbus |  |
-| address field | adresveld |  |
-| address label | adresetiket |  |
-| address n. | adres |  |
-| address particulars | adresbesonderhede |  |
-| address position {printer wheel} | verlangde stand |  |
-| address side | adreskant |  |
-| address v {also data processing - provide with an address} | adresseer |  |
-| address v {also electric circuit} | aanspreek |  |
-| address v. | toespreek |  |
-| address {application} | rig |  |
-| address-counter register | adrestelregister |  |
-| address-program store | adresprogramgeheue |  |
-| addressee | geadresseerde |  |
-| addressing machine (addressograph) | adresseermasjien |  |
-| addressing structure | adresseerstruktuur |  |
-| addressing wire | adresseerdraad |  |
-| addressograph stencil | adresstensil |  |
-| adhere to an agreement | by 'n ooreenkoms hou |  |
-| adhesion point (point of adhesion) | adhesiepunt |  |
-| adhesion {eg insulation tape} | kleefvermoe |  |
-| adhesive adj. | kleef-, plak- |  |
-| adhesive backing {label} | kleefrug |  |
-| adhesive band | kleefstrook |  |
-| adhesive cement | kleefsement |  |
-| adhesive dressing strip | kleefverbandstrokie |  |
-| adhesive form | plakvorm |  |
-| adhesive label (gummed label) | gegomde etiket, gometiket, plaketiket |  |
-| adhesive n. | kleefmiddel, kleefstof |  |
-| adhesive paste | kleefpasta |  |
-| adhesive plaster | hegpleister |  |
-| adhesive stamp | plakseel |  |
-| adhesive strip dressing | hegwonddekstrook |  |
-| adhesive tape (sticky tape) | kleefband |  |
-| adiabatic compression | adiabatiese kompressie |  |
-| adiactinic | adiaktinies |  |
-| adjacent administration | buuradministrasie |  |
-| adjacent angle (contigious angle) | aangrensende hoek |  |
-| adjacent cable | buurkabel |  |
-| adjacent channel | buurkanaal |  |
-| adjacent exchange {telephony} | buursentrale |  |
-| adjacent pair | buurpaar |  |
-| adjacent plot | aangrensende perseel |  |
-| adjacent pole {telephone line} | buurpaal |  |
-| adjacent pole | buurpool |  |
-| adjacent spring | buurveer, naasveer |  |
-| adjacent tag | buurstiffie |  |
-| adjacent-channel interference ratio | buurkanaalsteurverhouding |  |
-| adjacent-channel interference | buurkanaalsteuring |  |
-| adjacent-channel selectivity | buurkanaalselektiwiteit |  |
-| adjunct (attachment, fixture) | hegstuk |  |
-| adjust (adapt) | aanpas |  |
-| adjust {deficit} | aansuiwer |  |
-| adjust {equipment} | stel |  |
-| adjust {figures} | aanpas |  |
-| adjustability | stelbaarheid |  |
-| adjustable capacitor | stelbare kapasitor |  |
-| adjustable contact screw | stelbare kontakskroef |  |
-| adjustable contact | stelbare kontak |  |
-| adjustable cutter {plane} | stelbare beitel |  |
-| adjustable end stop | stelbare entstop |  |
-| adjustable hook | stelbare haak |  |
-| adjustable jig | stelbare setmaat |  |
-| adjustable network | stelbare netwerk |  |
-| adjustable pin | stelbare pen |  |
-| adjustable pointer {meter} | stelbare wyser |  |
-| adjustable prop | stelbare stut |  |
-| adjustable resistor | stelbare resistor |  |
-| adjustable spanner (adjustable wrench, shifting spanner) | stelbare sleutel |  |
-| adjustable theromstat | stelbare termostaat |  |
-| adjustable | stelbaar, verstelbaar |  |
-| adjuster | steller |  |
-| adjusting block | stelblok |  |
-| adjusting gauge | stelmaat |  |
-| adjusting gland | steldrukmoer |  |
-| adjusting nut | stelmoer |  |
-| adjusting ring | stelring |  |
-| adjusting rod | stelstang |  |
-| adjusting screw | stelskroef |  |
-| adjusting spring | stelveer |  |
-| adjusting strap {eg waistcoat} | stelband |  |
-| adjusting tool | stelgereedskapstuk, steller |  |
-| adjusting voucher | aanpasbewys |  |
-| adjusting-gland locknut | sluitmoer vir steldrukmoer |  |
-| adjusting-ring holder | setlringhouer |  |
-| adjusting-rod pillar | stelstandpilaar |  |
-| adjustment account | sluitrekening |  |
-| adjustment call | aanpassingsoproep |  |
-| adjustment chart | stelkaart |  |
-| adjustment instruction | stelinstruksie |  |
-| adjustment of contributions | aanpassing van bydraes |  |
-| adjustment of gain (gain adjustment) | winsstelling |  |
-| adjustment plate | stelplaat |  |
-| adjustment slip | aanpassingstrook |  |
-| adjustment time | steltyd |  |
-| adjustment voucher | aansuiweringsbewys |  |
-| adjustment {equipment} | stelling |  |
-| adjustment {shortage} | aansuiwering |  |
-| adjustment | aanpassing |  |
-| adjustment | verstelling |  |
-| administration order | administrasiebevel |  |
-| administration {of oath} | afneming, oplegging |  |
-| administration | administrasie |  |
-| administrative branch | administratiewe tak |  |
-| administrative conference | administratiewe konferensie |  |
-| administrative division | administratiewe afdeling |  |
-| administrative overhead charge | administratiewe bokoste |  |
-| admiralty chart | admiraliteitskaart |  |
-| admission valve | inlaatklep |  |
-| admittance {electrical} | admittansie |  |
-| admittance-unbalance bridge | admittansie-onbalansbrug |  |
-| advance copy | vooreksemplaar |  |
-| advance copy | vooruitgestuurde kopie |  |
-| advance n. | voorskot |  |
-| advance payment | vooruitbetaling |  |
-| advance preparation {personal call} | vooruitreëling |  |
-| advance print | voorafdruk |  |
-| advance sample | voormonster |  |
-| advance scale {spark distributor} | vervroegskaal |  |
-| advance scale | vervroegingskaal |  |
-| advance v {spark} | vervroeg |  |
-| advance v. {eg serial number} | aanskuif |  |
-| advance v. | voorskiet |  |
-| advanced network processor (ANP) | gevorderde netwerkprosesseerder, GNP |  |
-| adverse balance | nadelige saldo |  |
-| adverse line condition | ongunstige lyntoestand |  |
-| adverse report | ongunstige verslag |  |
-| advertisement die | reklamestempel |  |
-| advertisement plate | advertensieplaat |  |
-| advertisement slogan | reklameslagspreuk |  |
-| advertising contractor | reklamekontrakteur |  |
-| advertising matter | reklamestof |  |
-| advertising research | reklamenavorsing, reklameadvertering |  |
-| advertising {marketing} | reklameadvertering |  |
-| advertising {post} | advertering |  |
-| advertising | reklame |  |
-| advice form | adviesvorm |  |
-| advice n. | advies, raad |  |
-| advice note | adviesbrief |  |
-| advice of arrival | aankomsadvies |  |
-| advice of delivery card (AR card, avis de r,ception card) | afleweringsadvieskaart, AR-kaart |  |
-| advice of delivery | afleweringsadvies |  |
-| advice of embarkation | inskepingsadvies |  |
-| advice of entry | inskrywingsadvies |  |
-| advice of issue | uitreikingsadvies |  |
-| advice of loading | laaiadvies |  |
-| advice of non-delivery (non-delivery advice) | advies van nie-aflewering |  |
-| advice of parcel | pakketadvies |  |
-| advice of payment | advies van uitbetaling, uitbetalingsadvies |  |
-| advice of posting (posting advice) | posadvies |  |
-| advice of routing | roeteringsadvies |  |
-| advice of shipment | verskepingsadvies |  |
-| advice of transfer | oordragadvies |  |
-| advice of withdrawal | opvragingsadvies |  |
-| advice telegram | adviestelegram |  |
-| advice | advies |  |
-| advise | adviseer, raad gee |  |
-| advise | adviseer, raadgee |  |
-| advise | in kennis stel, meedeel, verwittig |  |
-| advisory capacity | adviserende hoedanigheid, raadgewende hoedanigheid |  |
-| advisory council | adviesraad |  |
-| advisory engineer | adviserende ingenieur, raadgewende ingenieur |  |
-| advisory note | adviesnota |  |
-| aeradio station | lugvaartradiostasie |  |
-| aeradio telegram | lugvaartradiotelegram |  |
-| aeradio | lugvaartradio |  |
-| aerial cable | bogrondse kabel |  |
-| aerial coax system | bogrondse koaksstelsel |  |
-| aerial conductor | bogrondse geleier |  |
-| aerial feed | bogrondse toevoer |  |
-| aerial line (overhead line) | oorhoofse lyn |  |
-| aerial postal communication | lugposverbinding |  |
-| aerial {obsolete term - SEE antenna} | antenne |  |
-| aerial-line construction (overhead-line construction) | oorhoofselyn-aanleg, oorhoofselyn-konstruksie |  |
-| aerodrome | vliegveld |  |
-| aerofoil axial fan | stroomblad aksiale waaier |  |
-| aerofoil blade {fan} | stroomblad |  |
-| aerogram | aerogram |  |
-| aeronautical fixed service | lugvaart vaste diens |  |
-| aeronautical fixed station | lugvaart vaste stasie |  |
-| aeronautical mobile service | lugvaart mobiele diens |  |
-| aeronautical radio-navigation service | lugvaartradionavigasiediens |  |
-| aeronautical service | lugvaardiens |  |
-| aeronautical station licence | lugvaarstasielisensie |  |
-| aeronautical station | lugvaarstasie |  |
-| affidavit | beedigde verklaring |  |
-| affiliate member | affiliaatlid |  |
-| affiliated subscriber {telephony} | geaffilieerde huurder |  |
-| affirmation {training} | selfbevestiging |  |
-| affix {stamp} | opplak |  |
-| affixing machine {stamps} | plakoutomaat |  |
-| affordable | bekostigbaar |  |
-| after-hours connection | na-ure-aansluiting |  |
-| after-hours service key (night-service key, night-switching key) | na-uresleutel |  |
-| after-hours service | diens na ure, na-urediens |  |
-| after-hours switching point | na-ureskakelpunt |  |
-| afterburning | nabranding |  |
-| aftercooler | nakoeler |  |
-| aftereffect phenomenon | nawerkverskynsel |  |
-| afterglow (persistence) | nagloei |  |
-| afterimage {data processing} | nabeeld |  |
-| against payment | teen betaling |  |
-| agate-roller spindle | agaatrollerspil |  |
-| age cohort | ouderdomsgroepering |  |
-| age limit | ouderdomsgrens |  |
-| age v. | verouder |  |
-| age-hardening | tydverharding |  |
-| ageing | veroudering |  |
-| agency exchange | agentsentrale |  |
-| agency shop n. | vakbondagentskap |  |
-| agency shop | vakbondagentskap |  |
-| agency | agentskantoor |  |
-| agenda | agenda, sakelys |  |
-| agent {chemistry} | agens |  |
-| agent's bag | agentsak |  |
-| agent | agent, verteenwoordiger |  |
-| agent | middel |  |
-| agglomerate cell | agglomeraatsel |  |
-| aggravating circumstances | verswarende omstandighede |  |
-| aggregate amount (total sum) | totale bedrag |  |
-| aggregate n {calculating machine} | totaal |  |
-| aggregate n {data} | samesteller |  |
-| aggregate n. {concrete} | aggregaat, toeslag |  |
-| aggregate signal | saamgestelde sein, totaalsein |  |
-| aggregate speed {TDM} | samestelspoed |  |
-| aggregated area | totale oppervlakte |  |
-| aggregator {TDM} | samesteller |  |
-| agonic line {magnetism} | agoniese lyn, agoon |  |
-| agree to | toestem tot |  |
-| agree with {mathematics} | ooreenstem met, strook met |  |
-| agreement card | ooreenkomskaart |  |
-| agreement firm | ooreenkomsfirma |  |
-| agreement period | ooreenkomstermyn |  |
-| agreement | ooreenkoms |  |
-| agricultural parcel post | landboupakketpos |  |
-| aid | hulpmiddel |  |
-| aiding currents | meestrome |  |
-| ailment | kwaal, ongesteldheid |  |
-| aim n. | mikpunt, doelwit |  |
-| aim v. | mik |  |
-| air alarm | lugalarm |  |
-| air balancing {air conditioning} | lugbalansering |  |
-| air birck | lugsteen |  |
-| air blast {explosion} | lugslag |  |
-| air blast | lugblaasstroom |  |
-| air bleed hole | luglaatgat |  |
-| air bleeder | luglater |  |
-| air block {cables} | lugversperring |  |
-| air bottle | lugbottel |  |
-| air brake | lugrem |  |
-| air bubble | lugblasie |  |
-| air capacitor | lugkapasitor |  |
-| air chambe | lugkamer |  |
-| air chuck | lugkloukop |  |
-| air cleaner (air filter) | lugfilter |  |
-| air column | lugkolom |  |
-| air compressor | lugkompressor |  |
-| air conditioner | lugversorger |  |
-| air conditioning | lugreeling, lugversorging |  |
-| air conditioning | lugversorging |  |
-| air container | lughouer |  |
-| air conveyance (air transport) | lugvervoer |  |
-| air core | lugkern |  |
-| air current | lugstroom |  |
-| air dam {motorcar} | lugdam |  |
-| air dessicator | lugdroer |  |
-| air dielectric | lugdielektrikum |  |
-| air diffuser | lugspreier |  |
-| air discharge | lugafvoer |  |
-| air duct | lugkanaal |  |
-| air engine {diesel-engine starting} | druklugenjin |  |
-| air failure | lugfaling |  |
-| air flotation system {PC-card drill} | lugflotteerstelsel |  |
-| air gap | lugspleet |  |
-| air grill | lugrooster |  |
-| air hardeing {steel} | lugverharding |  |
-| air hose | lugslang |  |
-| air insulation | lugisolasie |  |
-| air line | lugleiding, luglyn |  |
-| air n. | lug |  |
-| air nozzle | lugnossel |  |
-| air outlet | luguitlaat |  |
-| air parcel (air postal parcel) | lugpakket |  |
-| air parcel post | lugpakketpos |  |
-| air partner{ eg games shows on TV} | tuisvennoot |  |
-| air passage | lugkanaal |  |
-| air path | lugbaan |  |
-| air plant | luginstallasie |  |
-| air pressure | lugdruk |  |
-| air quantity | lughoeveelheid |  |
-| air rate | lugtarief |  |
-| air receiver (air vessel, receiver) {oil separator} | lugtenk |  |
-| air receiver | lughouer |  |
-| air regulator | lugreëlaar |  |
-| air route | lugroete |  |
-| air service | lugdiens |  |
-| air strangler | smoorder |  |
-| air supply | lugtoevoer |  |
-| air surcharge | lugheffing |  |
-| air throw {air conditioning} | lugblaasafstand |  |
-| air ticket | lugkaartjie |  |
-| air traffic | lugverkeer |  |
-| air transmission {mail} | lugversending |  |
-| air v. | lug |  |
-| air washer {air conditioning} | lugwasser |  |
-| air waybill | lug-vragbrief |  |
-| air-break switch | lugverbreekskakelaar |  |
-| air-cell battery | lugselbattery |  |
-| air-cell injection | lugselinspuiting |  |
-| air-conditioning apparatus | lugversorgapparaat |  |
-| air-conditioning plant | lugversorginstallasie |  |
-| air-conditioning unit | lugversorgeenheid |  |
-| air-conveyance charge (air-transportation charge) | lugvervoerkoste |  |
-| air-cooled air-conditioner | lugverkoelde lugversorger |  |
-| air-cooled | lugverkoel |  |
-| air-core cable | lugkernkabel |  |
-| air-core choke | lugkernsmoorspoel |  |
-| air-core coil | lugkernspoel |  |
-| air-core inductor | lugkerninduktor |  |
-| air-core transformer | lugkerntransformator |  |
-| air-depolarised primary cell | luggedepolariseerde primêre sel |  |
-| air-distribution system | lugverspreidingstelsel |  |
-| air-engine | lugenjin |  |
-| air-freight facilities | lugvragfasiliteite |  |
-| air-gap inductance | lugspleetinduktansie |  |
-| air-gap inductor | lugspleetinduktor |  |
-| air-gap lightning arrester | lugspleetblitsafleier |  |
-| air-gap protector | lugspleetafleier |  |
-| air-gap transformer | lugspleettransformator |  |
-| air-handling unit | lughanteereenheid |  |
-| air-hardening steel | lughardingstaal |  |
-| air-injection engine | luginspuitenjin |  |
-| air-intake louvre | luginlaathortjie |  |
-| air-intake | luginlaat |  |
-| air-line distance | reguitlynafstand |  |
-| air-line lubricator (in-line lubricating bottle, line lubricator) | druklugsmeerder |  |
-| air-line pressure | lugleidingdruk |  |
-| air-operated chuck | lugkloukop |  |
-| air-operated expanding mandrel | lugdrukuitdyspil |  |
-| air-operated toggle-action bench press | druklugskarnierbankpers |  |
-| air-parcel bill | lugpakketlys |  |
-| air-position indicator | lugposisieaanwyser |  |
-| air-pressure alarm system | lugdrukalarmstelsel |  |
-| air-pressure valve | lugdrukklep |  |
-| air-relief valve | lugontlasklep |  |
-| air-relief vent (air vent, atmospheric vent, relief vent, vent) | ontlugter |  |
-| air-space cable | lugisolasiekabel |  |
-| air-storage bottle | lugbottel |  |
-| air-supply pipe | lugtoevoerpyp |  |
-| air-to-air frequency response | lug-tot-lug-frekwensieweergawe |  |
-| air-volume control {apparatus} | lugvolumekontrole |  |
-| air-volume control | lugvolumebeheer |  |
-| air/acetylene heating set | lug/asetileen-verhitter |  |
-| air/fuel mixture | lug/brandstof-mengsel |  |
-| air/fuel ratio | lug/brandstof-verhouding |  |
-| air/oil mixture | lug/olie-mengsel |  |
-| air/oil separator | lug/olie-skeier |  |
-| aircraft antenna | vliegtuigantenne |  |
-| aircraft call sign | vliegtuigroepsein |  |
-| aircraft call | vliegtuigoproep |  |
-| aircraft station | vliegboordstasie, vliegtuigstasie |  |
-| aircraft-station licence | vliegtuigstasielisensie |  |
-| aircraft | vliegtuig |  |
-| airflow grill | lugvloeirooster |  |
-| airflow | lugvloeiing |  |
-| airless injection | lugvry inspuiting |  |
-| airless-injection engine | enjin met lugvry inspuiting |  |
-| airline (air-transport company) | lugredery, lugvaartmaatskappy |  |
-| airliner | lynvliegtuig, vliegtuig |  |
-| airlock | lugslot |  |
-| airmail account | lugposrekening |  |
-| airmail bag | lugpossak |  |
-| airmail boxes key {sorting machine} | lug-buspossleutel |  |
-| airmail correspondence | lugposkorrespondensie |  |
-| airmail delivery bill | lugposafleweringslys |  |
-| airmail dispatch | lugposversending |  |
-| airmail disposal sheet | lugposversendingstaat |  |
-| airmail distance | lugposafstand |  |
-| airmail label | lugposetiket |  |
-| airmail letter | lugposbrief |  |
-| airmail line | lugposlyn |  |
-| airmail packet | lugpospakkie |  |
-| airmail parcel service | lugpospakketdiens |  |
-| airmail postage rate (airmail rate) | lugpostarief |  |
-| airmail route | lugposroete |  |
-| airmail section | lugposseksie |  |
-| airmail service | lugposdiens |  |
-| airmail streets key {sorting machine} | lug-straatpostoets |  |
-| airmail surcharge | lugposheffing |  |
-| airmail traffic | lugposverkeer |  |
-| airmail | lugpos |  |
-| airport of loading | laailughawe |  |
-| airport of unloading | aflaailughawe |  |
-| airport | lughawe |  |
-| airspace | lugruim |  |
-| airstream | lugstroom |  |
-| airtight cap | lugdigte dop |  |
-| airtight | lugdig |  |
-| airways letter post | lugdiensbriefpos |  |
-| aisle | gang |  |
-| alarm and change-over panel | alarm-en-oorskakelpaneel |  |
-| alarm bell | alarmklok |  |
-| alarm busbar | alarmstam |  |
-| alarm circuit | alarmkring |  |
-| alarm classification block | alarmindelingsblok |  |
-| alarm cut-off key | alarmafsnysleutel |  |
-| alarm delay panel | alarmvertraagpaneel |  |
-| alarm display panel | alarmvertoonpaneel |  |
-| alarm extension | alarmverlenging |  |
-| alarm fuse | alarmsekering |  |
-| alarm integrator | alarmintegreerder |  |
-| alarm lamp | alarmlamp |  |
-| alarm rele set | alarmrelestel |  |
-| alarm relay | alarmrele |  |
-| alarm release | alarmvrymaking |  |
-| alarm seeker {teleprinter} | alarmsoeker |  |
-| alarm signal | alarmsein |  |
-| alarm spring assembly | alarmveersamestel |  |
-| alarm test key | alarmtoetssleutel |  |
-| alarm trip arm | alarmuitklinkarm |  |
-| alarm trunk unit | alarmhooflyneenheid |  |
-| alarm-clock service | wekdiens |  |
-| alarm-equipment rack | alarmtoerustingraam |  |
-| alarm-key lamp | alarmsleutellamp |  |
-| alarm-type fuse | alarmsekering |  |
-| alarm | alarm |  |
-| album continuation sheet {philately} | albumvervolgblad |  |
-| algorithm {computer} | algoritme |  |
-| aliasing distortion | oorvleuelvervorming |  |
-| aliasing factor {PCM} | aliaseerfout |  |
-| alienation | vervreemding |  |
-| align v. {wheels} | spoor |  |
-| align v. | in lyn bring, lynrig, rig |  |
-| align {eg equipment to signal pattern} | in ooreenstemming bring |  |
-| aligned slot | gerigte gleuf |  |
-| aligned-grid valve | rigroosterbuis |  |
-| alignment gauge | sporingmeter |  |
-| alignment mark (centre mark) {microfilm} | rigmerk |  |
-| alignment {wheels} | sporing |  |
-| alignment | instelling |  |
-| alignment | lynrigting, rigting |  |
-| alkali metal | alkalimetaal |  |
-| alkaline primary paint | alkaliese grondverf |  |
-| all comers system {labour relations} | ope stelsel |  |
-| all concerned | alle belanghebbendes, alle betrokkenes |  |
-| all space combination - should be ALL START combination | ALMAL AANSIT-kombinasie |  |
-| all-comers approach {human resources} | ope benadering |  |
-| all-geared headstock {lathe} | geratte vaste kop |  |
-| all-night service | heelnagdiens |  |
-| all-pass network | aldeurlaatnetwerk |  |
-| all-rounder n. | veelsydige persoon, veelsydige speler |  |
-| all-space control lever | alrusbeheerhefboom |  |
-| all-space signal | alrussein |  |
-| all-up service | alslugposdiens |  |
-| all-up {mail} | sonder ekstra posgeld |  |
-| all-wave antenna | algolfantenne |  |
-| all-wave radio | algolfradio |  |
-| all-wave receiver | algolfontvanger |  |
-| all-weather coat | alleweerjas |  |
-| all-zero word | alzerowoord |  |
-| allied equipment | verwante toerusting |  |
-| alligator clip (crocodile clip) | kaaimanklem |  |
-| allocate (allot) {also frequencies} | toewys |  |
-| allocate {quarters} | toeken |  |
-| allocate | allokeer |  |
-| allocated work | toegewese werk |  |
-| allocation (allotment) {also frequencies} | toewysing |  |
-| allocation of charge | toewysing van koste |  |
-| allocation scheme | toewysingskema |  |
-| alloter driving magnet | toewyseraandryfmagneet |  |
-| alloter fault | toewyserfout |  |
-| alloter interrupter spring | toewyseronderbrekerveer |  |
-| alloter relè set | toewyserreléstel |  |
-| alloter stepping circuit | toewyserstapkring |  |
-| alloter {also automatic telephone} | toewyser |  |
-| allowable error {marketing} | toelaatbare fout |  |
-| allowable error | toelaatbare fout |  |
-| allowable time {PNA} | toelaatbare tyd |  |
-| allowable variatioin | toelaatbare variasie |  |
-| allowance | toelae, toelaag |  |
-| allowed time | toegewese tyd |  |
-| alloy contact | legeringkontak, allooikontak |  |
-| alloy steel | legeringstaal, allooistaal |  |
-| alloy | legering, allooi |  |
-| alloyed junction diode | legeringvoegvlakdiode |  |
-| alloying action | allieerwerking, legeerwerking |  |
-| ally v. | verenig |  |
-| alni (aluminium nickel) | alni, aluminiumnikkel |  |
-| alnico (aluminium nickel cobalt) | alniko, aluminiumnikkelkobalt |  |
-| alnico generator | alnikogenerator |  |
-| alpha brass | alfageelkoper |  |
-| alpha coding | alfakodering |  |
-| alpha oscillation | alfaossillasie |  |
-| alpha particle | alfadeeltjie |  |
-| alpha ray | alfastraal |  |
-| alpha | alfa |  |
-| alphabetic sign | lettersein |  |
-| alphabetical index | alfabetiese indeks |  |
-| alphabetical order | alfabetiese orde, alfabetiese volgorde |  |
-| alphabetical routing code | alfaroeteerkode |  |
-| alphanumeric input | alfanumeriese inset |  |
-| alphanumeric mode | alfanumeriese modus |  |
-| alphanumerical punch machine | alfanumeriese ponsmasjien |  |
-| alphasearch {Telebank procedure} | alfasoek |  |
-| alterable | veranderbaar |  |
-| alteration of address (change of address) | adresverandering, verandering van adres |  |
-| alteration of alignment | eiendomslynverandering, rooilynverandering |  |
-| alteration of name | naamsverandering |  |
-| alteration | verandering, verbouing |  |
-| alternate digit inversion unit | al-om-die-ander-syfer-omkeereenheid, oorslaansyferomkeereenheid |  |
-| alternate digit inversion | al-om-die-ander-syfer-omkering, oorslaansyferomkering |  |
-| alternate half cycle | al-om-die-ander-halfsiklus |  |
-| alternate mark inversion (AMI) | al-om-die-ander-merk-omleiding, OMO, oorslaanmerkomkering |  |
-| alternate mark inversion circuit | al-om-die-ander-merk-omkeerkring, oorslaanmerkomkeerkring |  |
-| alternate mode {oscilloscope} | om-die-beurt-mods, wisselmodus |  |
-| alternate n. | plaasvervanger |  |
-| alternate n. | sekundus |  |
-| alternate operation | beurtwerking |  |
-| alternate v. | afwissel, wissel |  |
-| alternate voice/data telephone (AVD telephone, V/D telephone) | S/D-telefoon, spraak/data-telefoon |  |
-| alternate-channel interference | derdekanaalsteuring |  |
-| alternating component | wisselkomponent |  |
-| alternating magnetic field | wisselende magnetiese veld |  |
-| alternating quantity | wisselgrootheid |  |
-| alternating voltage | wisselspanning |  |
-| alternating-current bell | wisselstroomklokkie |  |
-| alternating-current generator | wisselstroomgenerator |  |
-| alternating-current mains | wisselstroomnet |  |
-| alternating-current pulsing | wisselstroompulsering |  |
-| alternating-current resistance | wisselstroomweerstand |  |
-| alternating-current ripple | wisselstroomrimpel |  |
-| alternating-current supply | wisselstroomtoevoer |  |
-| alternating-current unlock signal | wisselstroomontsluitsein |  |
-| alternation | wisseling |  |
-| alternative route | alternatiewe roete, ander roete |  |
-| alternative routing | alternatiewe roetering |  |
-| alternative-routing facility | alternatieweroeteringfasiliteit |  |
-| alternator excitation ring | alternatoropwekring |  |
-| alternator | alternator |  |
-| altimeter | altimeter, hoogtemeter |  |
-| altitude measurement {theodolite} | hoogtemeting |  |
-| alum trough | aluintrog |  |
-| aluminised screen | gealuminiseerde skerm, gealumineerde skerm |  |
-| aluminium alloy | aluminiumlegering, aluminiumallooi |  |
-| aluminium equal angle (aluminium equal angle section) | gelykbenige aluminiumprofiel |  |
-| aluminium oxide | aluminiumoksied |  |
-| aluminium paint | aluminiumverf |  |
-| aluminium sulphate | aluminiumsulfaat |  |
-| aluminium-base die-casting (aluminium die-casting) | aluminiumbasismatrysgieting, |  |
-| aluminium/polyehtylene laminate cable (APL cable) | aluminium/polietileen-lamelkabel, APL-kabel |  |
-| aluminium | aluminium |  |
-| amalgaline | amalgalien |  |
-| amalgam | amalgaam |  |
-| amalgamate | amalgameer |  |
-| amalgamation | amalgamasie, amalgamering |  |
-| amateur band {radio} | amateurband |  |
-| amateur radio station | amateurradiostasie |  |
-| amateur radio zone | amateurradiosone |  |
-| amateur service | amateurdiens |  |
-| amateur station licence | amateurstasielisensie |  |
-| amateur station | amateurstasie |  |
-| amateur's licence | amateurslisensie |  |
-| ambient illumination | omgewingsverligting |  |
-| ambient noise | omgewingsruis |  |
-| ambient relative humidity | relatiewe omgewingshumiditeit |  |
-| ambient temperature {of large space} | omgewingstemperatuur |  |
-| ambient temperature | omringende temperatuur |  |
-| ambiguity | dubbelsinnigheid |  |
-| amenability to discipline | vatbaarheid vir dissipline |  |
-| amend | wysig |  |
-| amending docket | wysigingsvorm |  |
-| amendment slip | wysigingstrook |  |
-| amendment | wysiging |  |
-| amenities fund | geriewefonds |  |
-| ammeter (ampere-meter) | ammeter, ampèremeter |  |
-| ammeter range key | ammeterstreksleutel |  |
-| ammeter shunt | ammetersjunt |  |
-| ammonal | ammonal |  |
-| ammonia gas | ammoniakgas |  |
-| ammonium chloride paste | ammoniumchloriedpasta |  |
-| ammonium chloride | ammoniumchloried |  |
-| amorphous carbon | amorfe koolstof |  |
-| amorphous glass | amorfe glas |  |
-| amortisation cost | amortisasiekoste |  |
-| amosite asbestos fibre | amosietasbesvesel |  |
-| amount due | verskuldigde bedrag |  |
-| amount outstanding | uitstaande bedrag |  |
-| amperage | stroomsterkte |  |
-| ampere-hour | ampère-uur |  |
-| ampere-turn | ampèrewinding |  |
-| ampere/turn gain | ampère/winding-wins |  |
-| ampere | ampère |  |
-| amphoteric substance | amfotere stof |  |
-| amplification factor | versterkfaktor |  |
-| amplification | versterking |  |
-| amplified line {telephone} | versterkte lyn |  |
-| amplifier calibration | versterkerkalibrering |  |
-| amplifier detector | versterkerdetektor |  |
-| amplifier efficiency | versterkerrendement |  |
-| amplifier handset | versterkerhandstuk |  |
-| amplifier input pad | versterkeringangslid |  |
-| amplifier noise | versterkerruis |  |
-| amplifier set | versterekstel |  |
-| amplifier | versterker |  |
-| amplify | versterk |  |
-| amplifying stage | versterktrap |  |
-| amplifying valve | versterkbuis |  |
-| amplitude assessor | amplitudebepaler |  |
-| amplitude bounce | amplitudeskommeling |  |
-| amplitude clipping | amplitude-afkapping |  |
-| amplitude discriminator | amplitudediskrimineerder |  |
-| amplitude distortion (fundamental component distortion) | amplitudevervorming |  |
-| amplitude gate (slicer) | amplitudehek |  |
-| amplitude limiter | amplitudebegrenser |  |
-| amplitude peak | amplitudepiek |  |
-| amplitude scaling {electronics} | amplitudeskaling |  |
-| amplitude variation | amplitudevariasie |  |
-| amplitude-distortion factor (fundamental component distortion factor) | amplitudevervormingsfaktor |  |
-| amplitude-modulated signal | amplitudegemoduleerde sein |  |
-| amplitude-modulated telephony | amplitudegemoduleerde telefonie |  |
-| amplitude-modulated wave | amplitudegemoduleerde golf |  |
-| amplitude-modulation monitor | amplitudemodulasiemonitor |  |
-| amplitude-modulation suppression ratio | amplitudemodulasie-onderdrukkingsverhouding |  |
-| amplitude/frequency distortion | amplitude/frekwensie-vervorming |  |
-| amplitude | amplitude |  |
-| anallatic lens | anallatiese lens |  |
-| analog computer | analoogrekenaar |  |
-| analog gate | analooghek |  |
-| analog generator | analooggenerator |  |
-| analogue (analog) | analoog |  |
-| analogy | analogie |  |
-| analyse v. | analiseer, ontleed |  |
-| analyse | analiseer, ontleed |  |
-| analysed statement | ontledingstaat |  |
-| analyser {chemistry} | analis |  |
-| analyser {eg optics} | analisator |  |
-| analyser {radio} | ontleder |  |
-| analyser | analiseerder, ontleder |  |
-| analysis column | ontledingskolom |  |
-| analysis count | analisetelling, ontledingstelling |  |
-| analysis meter {telephone calls} | ontleedteller |  |
-| analysis of covariance (ANCOVA) {marketing} | kovariansieontleding |  |
-| analysis of differences {marketing} | ontleding van verskille |  |
-| analysis of variance {marketing} | variansieontleding |  |
-| analysis schedule | ontledingstaat |  |
-| analysis sheet | ontledingstaat |  |
-| analysis | analise |  |
-| analysis | analise, ontleding |  |
-| analytic estimate | analitiese beraming |  |
-| analytical estimate {human resources} | analitiese raming, analitiese beraming |  |
-| analytical table | ontledingstabel |  |
-| anamorphic lens {projector} | anamorfiese lens |  |
-| anchor iron | ankeryster |  |
-| anchor pillar | ankerpilaar |  |
-| anchor pin (stay peg) | ankerpen |  |
-| anchor plate (stay plate) | ankerplaat |  |
-| anchor post (bench mark position) | ankerpos, normpos |  |
-| anchor ring | ankerring |  |
-| anchorage | ankering, verankering |  |
-| anchorage | ankerplek |  |
-| anchoring bracket | ankersteun |  |
-| anchoring cord | ankerkoord |  |
-| ancillary adj. (auxiliary, subsidiary) | hulp- |  |
-| ancillary answering equipment | hulpantwoordtoerusting |  |
-| ancillary circuit(auxiliary circuit) | hulpkring |  |
-| ancillary concentrator | hulpkonsentreerder |  |
-| ancillary conveyor | hulpvervoerder |  |
-| ancillary jack {telephony} | hulpklink |  |
-| ancillary work {human resources} | ondergeskikte werk |  |
-| and (AND) v. {logic technique} | EN, en |  |
-| anded (ANDED) {logic technique} | ge-ende, ge-ENDE |  |
-| anechoic chamber | eggolose kamer |  |
-| angle bracket | hoeksteun |  |
-| angle cutter | hoekfrees |  |
-| angle fitting | hoektoebehoorsel |  |
-| angle gauge | hoekmaat |  |
-| angle iron | hoekyster |  |
-| angle modulation | hoekmodulasie |  |
-| angle of bend | buighoek |  |
-| angle of crossing | kruisingshoek |  |
-| angle of declination | deklinasiehoek |  |
-| angle of deflection | defleksiehoek |  |
-| angle of deviation | afwykingshoek |  |
-| angle of dip (angle of inclination) {eg magnetic needle} | inklinasiehoek |  |
-| angle of dip (gradient angle) {general} | hellingshoek |  |
-| angle of elevation | elevasiehoek |  |
-| angle of fire {antenna} | righoek |  |
-| angle of flow {alternating current} | vloeihoek |  |
-| angle of incidence | invalshoek |  |
-| angle of lag (lag angle) | naloophoek |  |
-| angle of lead | voorloophoek |  |
-| angle of loss (loss angle) | verlieshoek |  |
-| angle of polarisation | polarisasiehoek |  |
-| angle of presentation {chisel} | snyhoek |  |
-| angle of radiation (radiation angle) | stralingshoek |  |
-| angle of reflection | kaatshoek, refleksiehoek |  |
-| angle of refraction | refraksiehoek |  |
-| angle of scattering | strooiingshoek |  |
-| angle of view {television} | kykhoek |  |
-| angle or repose {eg sand} | rushoek |  |
-| angle piece | hoekstuk |  |
-| angle plate | hoekplaat |  |
-| angle pole | hoekpaal |  |
-| angle pull | hoektrekkrag |  |
-| angle screwdriver | hoekskroewedraaier |  |
-| angle section {drawing} | hoekprofiel |  |
-| angle section {switchboard} | hoekseksie |  |
-| angle section | hoekyster |  |
-| angle standard | hoekpaal |  |
-| angle stay | hoekanker |  |
-| angle tracking | hoekvolging |  |
-| angle {of person} | gesigshoek |  |
-| angle-grinding jig | hoekslypsetapparaat, hoekslypsetmaat |  |
-| angle-poise lamp | standstellamp |  |
-| angle | hoek |  |
-| anglesite | anglesiet |  |
-| angstrom unit | angstromeenheid |  |
-| angular aperture {reflector} | hoekopening |  |
-| angular clearance | hoekvryruimte |  |
-| angular distance | hoekafstand |  |
-| angular frequency (radian frequency) | hoekfrekwensie |  |
-| angular indexing {distributor head} | hoekinstelling |  |
-| angular magnet | hoekmagneet |  |
-| angular movement | hoekbeweging |  |
-| angular position | hoekstand |  |
-| angular set | hoekset |  |
-| angular spacing {antenna} | hoekspasiering |  |
-| angular velocity | hoeksnelheid |  |
-| animation device {projector} | aanskuiwer |  |
-| anion | anioon |  |
-| anisotropic | anisotroop |  |
-| anneal | uitgloei |  |
-| annealed copper | uitgegloeide koper |  |
-| annex (annexe) | anneks, bygebou |  |
-| annex (annexe, annexure, appendix) | aanhangsel |  |
-| annex v. | toevoeg as bylae |  |
-| annual charge | jaarkoste |  |
-| annual consumption figure | jaarlikse verbruiksyfer |  |
-| annual leave | jaarlikse verlof |  |
-| annual report | jaarverslag |  |
-| annuity | jaargeld |  |
-| annular band grouping | groepering volgens ringgebiede |  |
-| annular component | ringvormige onderdeel |  |
-| annular magnet (ring-shaped magnet) | ringmagneet |  |
-| annular space | ringruimte |  |
-| annunciator (automatic exchange, fire alarm} | verklikker |  |
-| annunciator drop | verklikkerklap |  |
-| anode area | anodegebied |  |
-| anode battery | anodebattery |  |
-| anode breakdown voltage | anodedeurslagspanning |  |
-| anode characteristic curve | anodekenkromme |  |
-| anode choke | anodesmoorspoel |  |
-| anode converter | anodeomsetter |  |
-| anode current | anodestroom |  |
-| anode dissipation | anodedissipasie |  |
-| anode efficiency | anoderendement |  |
-| anode film | anodefilm |  |
-| anode grid | anoderooster |  |
-| anode keying | anodesleuteling |  |
-| anode load | anodelas |  |
-| anode power input | anode-inset |  |
-| anode resistance | anodeweerstand |  |
-| anode screen | anodeskerm |  |
-| anode segment | anodesegment |  |
-| anode sheath {gas discharge} | anodehulsel |  |
-| anode stopper | anodeonderdrukker |  |
-| anode tuned circuit (tuned-anode circuit) | ingestemde anodekring |  |
-| anode valve | anodebuis |  |
-| anode-bend detection | anodebuigingdeteksie, anodedeteksie |  |
-| anode-bend detector | anodedetektor |  |
-| anode-bend rectification (anode rectification) | anodegelykrigting |  |
-| anode-coupling circuit | anodekoppelkring |  |
-| anode-current swing | anodestroomswaai |  |
-| anode-decouling resistor | anodeontkoppelresistor |  |
-| anode-feed resistor (anode resistor) | anoderesistor |  |
-| anode-grid capacitance | anode/rooster-kapasitansie |  |
-| anode-supply voltage | anodevoerspanning |  |
-| anode/cathode voltage | anode/katode-spanning |  |
-| anode | anode |  |
-| anodic oxidation (anodic treatment, anodising) | anodisering |  |
-| anomalous dispersion | anomale dispersie, anomale spreiding |  |
-| anomalous displacement current | anomale verskuiwingstroom |  |
-| anomalous magnet | anomale magneet, volgpoolmagneet |  |
-| anomalous magnetisation | anomale magnetisering |  |
-| answer back v. {telegraphy} | terugantwoord |  |
-| answer meter pulse | antwoordtelpuns |  |
-| answer meter signal | antwoordtelsein |  |
-| answer plug | antwoordprop |  |
-| answer pulse | antwoordpuls |  |
-| answer signal | antwoordsein |  |
-| answer supervisory condition | antwoordtoesigtoestand |  |
-| answer supervisory lamp | antwoordtoesiglamp |  |
-| answer {eg question} | beantwoord |  |
-| answer {general} | antwoord |  |
-| answer-back alarm | terugantwoordalarm |  |
-| answer-back code | terugantwoordkode |  |
-| answer-back drum | terugantwoordtrommel |  |
-| answer-back logo | terugantwoordlogo |  |
-| answer-back n {telegraphy} | terugantwoord |  |
-| answer-back rundown | terugantwoordeenheidlooptyd |  |
-| answer-back trip cam | terugantwoordeenheidwerknok |  |
-| answer-back unit | terugantwoordeenheid |  |
-| answer-back ward {teleprinter} | kodeplaatjie |  |
-| answer-control circuit | antwoordbeheerkring |  |
-| answer-delay lamp | antwoordvertraaglamp |  |
-| answer-side ring connection | antwoordkantringverbinding |  |
-| answer-side ring key (ring answer key) | antwoordkantluisleutel |  |
-| answer/finish key | antwoord/klaar-sleutel |  |
-| answer/seizure ratio (ASR) | APV, antwoord/poging-verhouding |  |
-| answering condition | antwoordtoestand |  |
-| answering cord (back cord) | antwoordsnoer |  |
-| answering equipment | antwoordtoerusting |  |
-| answering extension | antwoordbylyn |  |
-| answering facility | antwoordfasiliteit |  |
-| answering jack (home jack) | antwoordklink |  |
-| answering key (answer key) | antwoordsleutel |  |
-| answering lamp | antwoordlamp |  |
-| answering multiple | antwoordmultipel |  |
-| answering service | antwoorddiens |  |
-| answering side (answer side) | antwoordkant |  |
-| antedate | terugdateer |  |
-| antenna ammeter | antenneammeter |  |
-| antenna array | rigantennenet |  |
-| antenna bay | antennestel |  |
-| antenna capacitance | antennekapasitansie |  |
-| antenna capacitor | antennekapasitor |  |
-| antenna centre | antennemiddelpunt |  |
-| antenna changeover switch | antenneoorskakelaar |  |
-| antenna circuit | antennekring |  |
-| antenna coupler | antennekoppelaar |  |
-| antenna coupling | antennekoppeling |  |
-| antenna current | antennestroom |  |
-| antenna curtain | antennegordyn |  |
-| antenna directivity | antennerigeffek |  |
-| antenna earthing switch | antenneaardingskakelaar |  |
-| antenna effect | antenne-effek |  |
-| antenna elelment | antenne-element |  |
-| antenna excitation | antenneopwekking |  |
-| antenna feed impedance | antennevoerimpedansie |  |
-| antenna feed-point impedance | antennevoerpuntimpedansie |  |
-| antenna feed | antennetoevoer |  |
-| antenna feeding point | antennevoerpunt |  |
-| antenna frame | antenneraam |  |
-| antenna gain | antennewins |  |
-| antenna height | antennehoogte |  |
-| antenna impedance | antenne-impedansie |  |
-| antenna inductance | antenne-induktansie |  |
-| antenna input impedance | antenne-ingangsimpedansie |  |
-| antenna insulation | antenne-isolasie |  |
-| antenna insulator | antenne-isolator |  |
-| antenna lead-in | antenne-inleidraad |  |
-| antenna loss | antenneverlies |  |
-| antenna mast | antennemas |  |
-| antenna matching | antenneaanpassing |  |
-| antenna of high directivity | fynrigantenne |  |
-| antenna radiation pattern | antennestralingspatroon |  |
-| antenna radiation resistance | antennestralingsweerstand |  |
-| antenna radiation | antennestraling |  |
-| antenna reactance | antennereaktansie |  |
-| antenna resistance | antenneweerstand |  |
-| antenna series capacitor | antenneseriekapasitor |  |
-| antenna socket | antennesok |  |
-| antenna spacing | antennespasiering |  |
-| antenna splitter | antennesplitser |  |
-| antenna system | antennestelsel |  |
-| antenna transformer | antennetransformator |  |
-| antenna tuner | antenne-instemmer |  |
-| antenna tuning | antenne-instemming |  |
-| antenna wavelength | antennegolflengte |  |
-| antenna-tuned circuit | antenne-ingestemde kring |  |
-| antenna-tuning capacitor | antenne-instemkapasitor |  |
-| antenna-tuning coil | intenne-instemspoel |  |
-| antenna-tuning inductance | antenne-insteminduktansie |  |
-| antenna-tuning unit (ATU) | antenne-instemeenheid, AIE |  |
-| antenna/earth capacitance | antenne/aarde-kapasitansie |  |
-| antenna | antenne |  |
-| anti-acring screen | oorvonkskerm |  |
-| anti-electrolysis covering | elektrolisewerende bedekking |  |
-| anti-erosie coating | erosiewerende laag |  |
-| anti-induction network | teeninduksienetwerk |  |
-| anti-interference antenna system | steuringwerende antennestelsel |  |
-| anti-set-off powder spray {printed matter} | antismetpoeiersproei |  |
-| anti-snakebite serum (antivenomous serum) | slangbytserum |  |
-| antiblowpipe safe | branderbestande brandkas |  |
-| antibounce pawl | wipperweerpal |  |
-| antibounce plate {spring set} | wipperweerplaat |  |
-| anticapacitance switch | teenkapasitansieskakelaar |  |
-| anticarburizing paint | teendopverhardingsverf |  |
-| antichafe device | skaafweertoestel |  |
-| antichatter spring | klapperdempveer |  |
-| anticipate | antisipeer |  |
-| anticipated saving | verwagte besparing |  |
-| anticlimbing device | klimversperring |  |
-| anticlockwise (counterclockwise) | teenkloksgewys |  |
-| anticlockwise end (counterclockwise end) | teenkloksgewyse ent |  |
-| anticlockwise polarised wave (counterclockwise polarised wave, left-hand polarised wave) | teenkloksgewys |  |
-| anticorona ring | antikoronaring |  |
-| anticorrosive adj. | korrosiewerend |  |
-| anticorrosive film (anticorrosive layer) | korrosiewerende laag |  |
-| anticorrosive finish | korrosiewerende afwerking |  |
-| anticreep device | kruipwerende toestel |  |
-| antidiffusing screen | teendiffusieskerm |  |
-| antidribble delivery tube | drupwerende leweringspyp |  |
-| antidribble delivery valve | drupwerende leweringsklep |  |
-| antidribble valve | drupwerende klep |  |
-| antifading antenna | deiningwerende antenne |  |
-| antifading device | deiningwerende toestel |  |
-| antifading frequency modulation | deiningwerende frekwensiemodulasie |  |
-| antifading phase modulation | deiningwerende fasemodulasie |  |
-| antifoaming additive | skuimweerbymiddel |  |
-| antifreeze plate (residual plate) {rele} | teenkleefplaat |  |
-| antifreeze | vriesweermiddel |  |
-| antifreezer | vriesweerder |  |
-| antifriction alloy | wrywingbestande legering, wrywingbestande allooi |  |
-| antijitter circuit | bibberweerkring |  |
-| antikickback device | terugskopweerder |  |
-| antilog amplifier | antilogversterker |  |
-| antilog table | antilogtabel |  |
-| antilogarithm | antilogaritme |  |
-| antimicrophonic valve | nie-mikrofoniese buis |  |
-| antimonial lead | antimoonlood |  |
-| antimony | antimoon |  |
-| antinode | teennodus |  |
-| antiphase (counterphase) | teenfase |  |
-| antipinprick public telephone | prikvaste openbare telefoon |  |
-| antireaction {radio} | teenterugkoppeling |  |
-| antiresonance circuit | teenresonansiekring |  |
-| antiresonance frequency | teenresonansiefrekwensie |  |
-| antiresonance | teenresonansie |  |
-| antiscuffing oil (ASO) | skuurwerende olie, SWO |  |
-| antiseptic emulsion | antiseptiese emulsie |  |
-| antisidetone coil | bytoondempspoel |  |
-| antisidetone device | bytoondemptoestel |  |
-| antisidetone induction coil (ASTIC) | bytoondempinduksiespoel, ASTIC |  |
-| antisinging devide | fluitdemper |  |
-| antisinging voice-operated device (vodas) | spraakfluitdemper, vodas |  |
-| antistatic system (static-eliminator system) | statiekweer-stelsel |  |
-| antistick roller | gladlooproller |  |
-| antisulphuric paint | swaelsuurwerende verf |  |
-| antitransmit/receive cell | send/ontvang-spersel |  |
-| antivibration mounting | trillingdempmontasie, trillingdempmontering |  |
-| anvil | aambeeld |  |
-| any changes {in legal documents} | alle veranderings |  |
-| aperiodic antenna | aperiodiese antenne |  |
-| aperiodic circuit | aperiodiese rking |  |
-| aperiodic galvanometer (dead-beat galvanometer) | aperiodiese galvanometer, kritiek gedempte |  |
-| aperiodic sound | aperiodiese klank |  |
-| aperiodic | aperiodies |  |
-| aperture (lens aperture) {photography} | lensopening |  |
-| aperture angle {antenna} | nuttigestraling-hoek |  |
-| aperture card | vensterkaart |  |
-| aperture {general} | opening |  |
-| aperture-card reader {microfilm} | vensterkaartleser |  |
-| apex inductor | toppuntinduktor |  |
-| apex plate | toppuntplaat |  |
-| apparatus aisle | apparaatgang |  |
-| apparatus bay | apparaatraam |  |
-| apparatus closet | apparaatkamertjie |  |
-| apparatus mounting | apparaatmontasie, apparaatmontering |  |
-| apparatus room | apparaatkamer |  |
-| apparatus shelf | apparaatrak |  |
-| apparatus | apparaat |  |
-| apparent power | skynkrag |  |
-| apparent radiation constant | skynbare stralingskonstante |  |
-| apparent resistance | skynweerstand |  |
-| apparent watts | skynbare watts |  |
-| appeal authority | appelgesag |  |
-| appliance | toestel |  |
-| applicant (eg for work) | aansoeker |  |
-| applicant {eg for leave} | aanvraer |  |
-| applicant {eg for work} | aansoeker |  |
-| applicant | aansoeker |  |
-| application (employment) | gebruik |  |
-| application design {computer} | toepassingsontwerp |  |
-| application for leave | aansoek om verlof |  |
-| application for transfer {eg account, staff} | aansoek om oorplasing |  |
-| application for transfer {person} | aansoek om verplasing |  |
-| application form | aansoekvorm |  |
-| application program | toepassingsprogram |  |
-| application programming | toepassingsprogrammering |  |
-| application system | toepassingstelsel |  |
-| application {eg paint} | aanwending |  |
-| application {eg rules and regulations} | toepassing |  |
-| application/agreement form | aansoek-en-ooreenkomsvorm |  |
-| application | aansoek |  |
-| application | aanwending, toepassing |  |
-| applications register | aansoekregister |  |
-| applie force | uitgeoefende krag |  |
-| applied electric field | aangelegde elektriese veld |  |
-| applied signal | aangelegde sein |  |
-| applied voltage | aangelegde spanning |  |
-| appliqu, circuit | appliekkring |  |
-| apply {cable sheath} | aanbring |  |
-| apply {eg for leave} | aansoek doen, aanvra |  |
-| apply {eg rules and regulations} | toepas |  |
-| apply {eg tension gauge} | hou |  |
-| apply {handbrake} | vastrek |  |
-| apply {mechanical power} | uitoefen |  |
-| apply {ointment/paint} | aanwend |  |
-| apply {voltage, standard} | aanle |  |
-| apply | gebruik |  |
-| apply | toepas |  |
-| appointee n. | aangestelde |  |
-| appointee | aangestelde |  |
-| appointment advice | afspraakadvies |  |
-| appointment approved | aanstelling goedgekeur |  |
-| appointment confirmed | aanstelling bekragtig |  |
-| appointment service (fixed-time service) {telephone service} | afspraakdiens |  |
-| appointment | aanstelling |  |
-| appointment | afspraak |  |
-| appointment | betrekking |  |
-| apportionment | toedeling |  |
-| appraise {performance} | beoordeel |  |
-| appreciation {galvanometer} | verskilgevoeligheid |  |
-| appreciation {of value} | appresiasie, waardevermeerdering |  |
-| appreciation | waardering |  |
-| apprentice | vakleerling |  |
-| apprenticeship period (pupilage) | leertyd |  |
-| approach n {eg cooling tower} | nadering |  |
-| appropriate licence | toepaslike lisensie |  |
-| appropriate v | bewillig |  |
-| appropriated sum | bewilligde bedrag |  |
-| appropriation account | appropriasierekening, winsverdelingrekening |  |
-| appropriation act | begrotingswet |  |
-| appropriation {amount} | bewilliging |  |
-| approximate date | benaderde datum, datum by benadering |  |
-| approximate v. | benader, by benadering bepaal |  |
-| approximately | by benadering, naastenby, ongeveer |  |
-| apron file | skortleer |  |
-| apron {eg concrete} | blad |  |
-| apron }eg switchboard} | skort |  |
-| aptitude test | aanlegtoets |  |
-| aqtenna transmission line | antennetransmissielyn |  |
-| aqueous-developed film | waterontwikkelde film |  |
-| aqueous-stripped dry-film polymer | watergestroopte droefilmpolimeer |  |
-| arbitrary abbreviation | arbitrere afkorting |  |
-| arbitrary address | arbitrere adres |  |
-| arbitrary phase-angle power relay | kragrele met willekeurige fasehoek |  |
-| arbitration award (arbitration ruling) | arbitrasiebeslissing |  |
-| arbitration | arbitrasie |  |
-| arbitrator | arbiter |  |
-| arbor press | draspilpers |  |
-| arbor support | draspilsteun |  |
-| arbor {machining} | draspil |  |
-| arc back v (backfire) {electricity} | terugslaan |  |
-| arc cathode | boogkatode |  |
-| arc discharge valve | boogontladingsbuis |  |
-| arc discharge | boogontlading |  |
-| arc drop | boogspanningval |  |
-| arc extinction coil | boogblusspoel |  |
-| arc gun | boogpistool |  |
-| arc horn (arcing horn, protective horn) | booghoring, isolatorhoring, oorslaghoring |  |
-| arc lamp | booglamp |  |
-| arc modulation | boogmodulasie |  |
-| arc n | boog |  |
-| arc rectifier | booggelykrigter |  |
-| arc thickness (circular thickness) | boogdikte |  |
-| arc transmitter | boogsender |  |
-| arc v (arc across, arc over, flash across, flash over, spark over) | oorslaan, oorvonk |  |
-| arc-back n (arcing-back, back-fire, back-firing) | terugslag, terugvonking |  |
-| arc-suppression coil | boogonderdrukspoel |  |
-| arc-through n {gas insulator} | deurvonking |  |
-| arc-welded frame | booggesweiste raam |  |
-| arc-welder's helmet | boogsweiserhelm |  |
-| arc-welding appliance | boogsweistoestel |  |
-| architect | argitek |  |
-| architectural drawing | argitekstekening |  |
-| architecture {computer} | bou, argitektuur |  |
-| architrave | kosynlys |  |
-| archive figures {job control system} | argiefsyfers |  |
-| archivist | argivaris |  |
-| arcing (arcing over, flashing, flash-over) {electricity} | boogvorming |  |
-| arcing face {arrester} | oorvonkvlak |  |
-| arcing ring | oorslagring, oorvonkring |  |
-| arcing space {arrester} | oorvonkruimte |  |
-| arcing-over voltage | oorvonkspannig |  |
-| arcing | boogvorming, oorvonking |  |
-| area (surface area) | oppervlakte |  |
-| area call {telephony} | gebiedsoproep |  |
-| area feeding | volumevoeding, vormvoeding |  |
-| area manager | areabestuurder |  |
-| area of operation | bedieningsgebied |  |
-| area of search | soekgebied |  |
-| area of survey {training} | ondersoekterrein |  |
-| area record | gebiedsrekord |  |
-| area subscriber | gebiedshuurder |  |
-| area-dependent exchange - SHOULD BE dependent-area exchange | afhanklikegebied-sentrale |  |
-| area-dependent subsciber - SHOULD BE dependent-area subscriber | afhanklikegebied-huurder |  |
-| area | gebied |  |
-| argent {heraldry} | wit, silwer |  |
-| argon arc welding | argonboogsweising |  |
-| argon gas | argongas |  |
-| argon | argon |  |
-| argument {also impedance} | argument |  |
-| arithmetic element (arithmetic unit) | rekenkundige element |  |
-| arithmetic unit {device} | rekeneenheid |  |
-| arm bolt | armbout |  |
-| arm n | arm |  |
-| arm pattern | armpatroon |  |
-| arm position | armposisie |  |
-| arm seat | armsaal |  |
-| arm strut | armstut |  |
-| arm v {eg program instructions, instrument, etc} | oorhaal |  |
-| armatue-lever forward stop | ankerhefboomvoorsto{ |  |
-| armature adjusting screw | ankerstelskroef |  |
-| armature assembly | ankersamestel |  |
-| armature backstop | ankeragterstop |  |
-| armature bearing pin | ankerdrapen |  |
-| armature bearing plate | ankerlaerplaat |  |
-| armature bearing | ankerlaer |  |
-| armature bender | ankerbuier |  |
-| armature carriage | ankerdraer |  |
-| armature clearance | ankervryruimte |  |
-| armature coil | ankerspoel |  |
-| armature core | ankerkern |  |
-| armature extension | ankerverlenging |  |
-| armature face | ankervlak |  |
-| armature lever | ankerhefboom |  |
-| armature lug | ankeroor |  |
-| armature pivot | ankerspil |  |
-| armature selector lever | ankerkieshefboom |  |
-| armature spider | ankerster |  |
-| armature spindle | ankerspil |  |
-| armature tension spring | ankerspanveer |  |
-| armature travel | ankerbeweegruimte, ankerslag |  |
-| armature winder | ankerwikkelaar |  |
-| armature-end flux | ankerentvloed |  |
-| armature-end slug {rele} | voorvertraaghuls |  |
-| armature-fixing screw | ankerhegskroef |  |
-| armature-holding bracket | ankerhousteun |  |
-| armature-lever backstop | ankerheffboomagterstop |  |
-| armature-restoring spring | ankeryterugstelveer |  |
-| armature-retaining plate | ankerkeerplaat |  |
-| armature-retaining screw | ankerkeerskroef |  |
-| armature-travel adjuster | ankerslagsteller |  |
-| armature | anker |  |
-| armband | armband |  |
-| armlet | armband |  |
-| armour plate | pantserplaat |  |
-| armour rod {electric feed} | pantserstaaf |  |
-| armour wird {cable} | pantserdraad |  |
-| armoured cable | gepantserde kabel |  |
-| armoured composite cable | gepantserde saamgestelde kabel |  |
-| armoured star quad cable | gepantserde stervierlingkabel |  |
-| armoured tube | gepantserde buis |  |
-| armouring tape | pantserband |  |
-| armouring {cable} | pantser, pantsering |  |
-| armpit | armholte |  |
-| army post office | militere poskantoor |  |
-| army postal service | militere posdiens |  |
-| arrange v (lay out) | rangskik, uitle |  |
-| arrange v {according to prescribed pattern} | inrig |  |
-| arrange v {eg telephone lines} | indeel |  |
-| arrangement (layout) | rangskikking, uitleg |  |
-| arrangement {according to prescribed pattern} | inrigting |  |
-| array factor {antenna} | rignetfaktor |  |
-| array frame | inrigtingsraam |  |
-| array oversize | inrigtingsoorgrootte |  |
-| array {antenna} | rignet |  |
-| array {memory} | inrigting |  |
-| array | skikking |  |
-| arrear contribution | agterstallige bydrae |  |
-| arrest {salary increment} | weerhou |  |
-| arrest {telegram} | terughou |  |
-| arrestance {air filter} | vangvermoe |  |
-| arrestance {filter} | terughouding |  |
-| arrester (protector) {lightning} | afleier |  |
-| arrester strip | afleierstrook |  |
-| arresting cam disc | russtandnokskyf, stuitnokskyf |  |
-| arresting disc {EMD selector} | russtandskyf |  |
-| arresting lever | teehouhefboom |  |
-| arresting spring {EMD selector} | russtandveer |  |
-| arrival charge | aankomskoste |  |
-| arrival current | aankomsstroom |  |
-| arrival curve | aankomskromme |  |
-| arrival platform | aankomsplatform |  |
-| arrival voltage | aankomsspanning |  |
-| arrow block {postage stamps} | pyltjieblok |  |
-| arrow | pyltjie |  |
-| arrowhead | pylpunt |  |
-| art director | kunsdirekteur |  |
-| art paper | kunspapier |  |
-| article (postal article) | posstuk |  |
-| article for abroad | stuk vir die buiteland |  |
-| articles of agreement | kontrakbepalings |  |
-| articles of association | statute |  |
-| articulated motor vehicle | geartikuleerde motorvoertuig |  |
-| articulation efficiency | artikulasierendement |  |
-| articulation reduction | artikulasieafname, artikulasievermindering |  |
-| articulation reference equivalent | artikulasievergelykingsekwivelent |  |
-| articulation | artikulasie |  |
-| artificial antenna (dummy antenna) | kunsantenne |  |
-| artificial attenuation | kunsmatige attenuasie, kunsmatige verswakking |  |
-| artificial busying {telephony} | kunsmatige besetting |  |
-| artificial cable (cable simulator) | gesimuleerde kabel |  |
-| artificial capacitance | kunsmatige kapasitansie |  |
-| artificial dielectric {antenna} | kunsdielektrikum |  |
-| artificial ear | kunsoor |  |
-| artificial light | kunslig |  |
-| artificial lighting | kunsmatige verligting, kunsmatige beligting |  |
-| artificial line box | kunslynkas |  |
-| artificial line {telephony} | gesimuleerde lyn |  |
-| artificial load | kunslas, kunsmatige las |  |
-| artificial magnet | kunsmagneet |  |
-| artificial mouth | kunsmond |  |
-| artificial noise | kunsmatige ruis |  |
-| artificial respiration | kunsmatige asemhaling |  |
-| artificial resuscitation {first aid} | kunsmatige bybringing |  |
-| artificial termination | kunsmatige afsluiting |  |
-| artificial traffic equipment (ATE) | kunsmatigeverkeer-toerusting., KVT |  |
-| artificial traffic | kunsmatige verkeer |  |
-| artificial voice | kunsstem |  |
-| artificial-silk braiding | kunssyomvlegting |  |
-| artillery frank {philately} | artilleriefrank |  |
-| artisan | ambagsman |  |
-| artist's brush | penseel |  |
-| artwork {publication} | kunstenaarswerk, kunswerk, tekenwerk |  |
-| as an exception | by wyse van uitsondering |  |
-| as-built plan | klaarbouplan |  |
-| asbestos cement (AC) | asbessement, AS |  |
-| asbestos fibre | asbesvesel |  |
-| asbestos gauntlet | asbeskaphandskoen |  |
-| asbestos pipe | asbespyp |  |
-| asbestos wool | asbeswol |  |
-| asbestos-cement sheet (AC-sheet) | AS-plaat, asbessementplaat |  |
-| ascending order | stygende orde |  |
-| ascending path | stygende baan |  |
-| ascending register | stygende register |  |
-| ash pit | asput |  |
-| aside stock | opsyvoorraad |  |
-| aslant | skuins |  |
-| aspect ratio {air-conditioning channel} | afmetingsverhouding |  |
-| aspect ratio {picture tube} | beeldverhouding |  |
-| aspect | aspek |  |
-| asphalt sheeting | asfaltplaat, asfaltvel |  |
-| aspiration | aspirasie, strewe |  |
-| aspire (strive) | strewe |  |
-| assay charge | essaieerkoste |  |
-| assembe v. {data transmission} | saamstel |  |
-| assemble v. | inmekaarsit, monteer |  |
-| assemble | monteer |  |
-| assembler listing {computer} | saamstellerlys |  |
-| assembler {computer} | saamsteller |  |
-| assembly drawing | samesteltekening |  |
-| assembly fit | monteerpassing |  |
-| assembly language program {computer} | saamsteltaalprogram |  |
-| assembly work {human resources} | monteerwerk |  |
-| assembly {data transmission} | samestelling |  |
-| assembly-line operator | monteerbaanwerker |  |
-| assembly | samestel |  |
-| assess {eg damage} | vasstel |  |
-| assess {marketing} | beoordeel |  |
-| assess {taxation/merit} | aanslaan |  |
-| assess {value} | takseer |  |
-| assess | takseer, beoordeel |  |
-| assessed value | getakseerde waarde |  |
-| assessing officer | aanslagbeampte |  |
-| assessment centre {marketing} | takseersentrum |  |
-| assessment centre | takseersentrum |  |
-| assessment figure - SHOULD BE development assessment figure | uitbreidingsyfer |  |
-| assessment form {foreign parcels} | aanslagvorm |  |
-| assessment rates | eiendomsbelasting |  |
-| assessment {tax} | aanslag |  |
-| assessment-centre technique | evalueersentrumtegniek |  |
-| assessment | beoordeling, bepaling |  |
-| assessor {eg lincompex} | bepaler |  |
-| assessor | assessor |  |
-| asset record | baterekord |  |
-| asset | bate |  |
-| assets and liabilities | bates en laste |  |
-| assign {estate} | afstaan |  |
-| assign {frequencies} | aanwys |  |
-| assign {post-related quarters} | toewys |  |
-| assignee | gevolmagtigde |  |
-| assignment meeting {human resources} | opdragvergadering |  |
-| assignment {human resources} | opdrag |  |
-| assist {eg of battery potentials} | meewerk |  |
-| assistance (help, aid) | bystand |  |
-| assistance call {PABX} | bystandsoproep |  |
-| assistance call | hulpoproep |  |
-| assistance circuit (assist circuit, record circuit) | bystandkring |  |
-| assistance code | hulpkode |  |
-| assistance traffic | hulpverkeer |  |
-| assistance | hulp |  |
-| assize {mass meter} | yk |  |
-| associate member | assosiaatlid |  |
-| associate n. | assosiaat |  |
-| associate v. | assosieer |  |
-| associated access rack | verbonde toegangsraam |  |
-| associated alloter | bybehorende toewyser |  |
-| associated contact | bybehorende kontak |  |
-| associated equipment | bybehorende toerusting |  |
-| associated leg {of a pair} | bybehorende draad |  |
-| associated reference junction | verbonde vergelykingskoppellyn |  |
-| associated relay | bybehorende rele |  |
-| associations measurement {human resources} | assosiasiemeting |  |
-| associations measurement {marketing} | assosiasiemeting |  |
-| assume {also duty} | aanvaar |  |
-| assume {mathematics} | aanneem |  |
-| assumption of duty | diensaanvaarding |  |
-| assumption | aanname |  |
-| assurance {life} | versekering |  |
-| assured backup {data transmission} | versekerde dekking |  |
-| astable (free-running) | astabiel |  |
-| astable multi (astable multivibrator, free-running multi, free-running multivibrator) | astabiele multivibrator, |  |
-| astatic coil | astatiese spoel |  |
-| astatic galvanometer | astatiese galvanometer |  |
-| astatic needle | astatiese naald |  |
-| asterisk | asterisk, sterretjie |  |
-| astigmatism | astigmatisme |  |
-| asymmetric-sideband transmission (vestigial-sideband transmission) | asimmetriesesyband-transmissie |  |
-| asymmetrical deflection | asimmetriese defleksie |  |
-| asymmetrical distortion | asimmetriese vervorming |  |
-| asymmetrical element | asimmetriese element |  |
-| asymmetrical hybrid coil | asimmetriese differensiaalspoel |  |
-| asymmetrical network (dissymetrical network) | asimmetriese netwerk |  |
-| asymmetrical operation | asimmetriese werking |  |
-| asymmetrical varistor | asimmetriese varistor |  |
-| asymmetrical wave | asimmetriese golf |  |
-| asymptotoc | asimptoties |  |
-| asynchonous multiplex | asinchrone multipleks |  |
-| asynchrobous rotary gap {radio} | asinchrone draaigaping |  |
-| asynchronism | asinchronisme |  |
-| asynchronous motor | asinchrone motor |  |
-| asynchronous | asinchroon |  |
-| asynmux transmitter | asynmux-sender |  |
-| at death {on death} | by afsterwe |  |
-| at discretion | na goeddunke, na goedvinde |  |
-| at maturity | op die vervaldag |  |
-| at monthly intervals | met maandelikse tussenpose |  |
-| at own risk | op eie risiko |  |
-| at owner's risk | op eienaarsrisiko, op risiko van die eienaar |  |
-| at par (par) | op pari, teen pari |  |
-| at par (par) | teen pari |  |
-| at regular intervals | met vaste tussenpose |  |
-| at rest period {telegraphy} | rusperiode |  |
-| at right angles to | haaks op |  |
-| at short notice | met kort kennis |  |
-| at the close of business | by afsluiting van besigheid |  |
-| atmosphere {unit} | atmosfeer |  |
-| atmospheric absorption | atmosferiese absorpsie |  |
-| atmospheric air | atmosferiese lug |  |
-| atmospheric discharge | atmosferiese ontlading |  |
-| atmospheric duct | atmosferiese kanaal |  |
-| atmospheric noise | atmosferiese ruis |  |
-| atmospheric pressure | atmosferiese druk |  |
-| atmospheric radio wave (indirect wave) | gereflekteerde golf, ruimtegolf |  |
-| atmospheric refraction | atmosferiese refraksie |  |
-| atmospheric {engine} | atmosferies |  |
-| atmospherics (static, static noise, statics) | atmosferiese steurings |  |
-| atom | atoom |  |
-| atomic binding | atoombinding |  |
-| atomic bond | atoombinding |  |
-| atomic hydrogen welding | atoomwaterstofsweiswerk |  |
-| atomic nucleus | atoomkern |  |
-| atomic structure | atoomstruktuur |  |
-| atomic theory | atoomteorie |  |
-| atomic weight | atoomgewig |  |
-| atomiser | verstuiwer |  |
-| attached-contact diagram | vastekontak-diagram |  |
-| attached | verbonde |  |
-| attaching to {eg a salary scale to a grade} | verbonde aan |  |
-| attachment charge | aanhegkoste |  |
-| attachment | hegstuk |  |
-| attach, case {thin and hard} | dokumentetas |  |
-| attack signal | voorloopsien |  |
-| attack slip | voorloopstrook |  |
-| attack time {compandor} | saamdruktyd |  |
-| attend on {in building trade} | hulp verleen aan |  |
-| attendance book (attendance register) | presensieboek, presensieregister |  |
-| attendance list {list of names} | presensielys |  |
-| attendance sheet | presensielys |  |
-| attendance time {human resources} | aanwesigheidtyd, kloktyd |  |
-| attendant's cabinet | bedienerskabinet |  |
-| attendant's console | bedienerskonsole |  |
-| attendant's desk | bedienersbank |  |
-| attendant's telephone | bedienerstelefoon |  |
-| attended public telephone | toesig openbare telefoon |  |
-| attention time {human resources} | aandagtyd |  |
-| attenuate | verswak |  |
-| attenuation characteristic (attenuation characteristic curve) | verswakkingskenkromme |  |
-| attenuation characteristic | verswakkingseienskap |  |
-| attenuation coefficient | verswakkingskoeffisient |  |
-| attenuation compensator | verswakkingskompenseerder |  |
-| attenuation constant | verswakkingskonstante |  |
-| attenuation equaliser | verswakkingseffenaar |  |
-| attenuation factor | verswakkingsfaktor |  |
-| attenuation measurement | verswakkingsmeting |  |
-| attenuation network | verswakkingsnetwerk |  |
-| attenuation pad (attenuator pad) | verswaklid |  |
-| attenuation peak | verswakkingspiek |  |
-| attenuation ratio | verswakkingsverhouding |  |
-| attenuation run | verswakkingstoetsreeks |  |
-| attenuation/frequency characteristic curve | verswakking/frekwensie-kenkromme |  |
-| attenuation/frequency distortion | verswakking/frekwensie-vervorming |  |
-| attenuation/frequency run | verswakking/frekwensie-toetsreeks |  |
-| attenuation/frequency slope | verswakking/frekwensie-helling |  |
-| attenuation | attenuasie, verswakking |  |
-| attenuator unit | verswakeenheid |  |
-| attenuator | verswakker |  |
-| attest {signature} | attesteer |  |
-| attic {space between ceiling and roof} | solder |  |
-| attic | solderkamer |  |
-| attitude rating {human resources} | houdingsbeoordeling |  |
-| attitude ratings {marketing} | houdingsbeoordeling |  |
-| attitude | houding |  |
-| attorney-and-own-client scale | prokureur-en-eie-klient-skaal |  |
-| attraction (operation) {rele} | werking |  |
-| attraction time (operate lag, operating time) {rele} | werktyd |  |
-| attraction | aantrekking |  |
-| attractive force (force of attraction) | aantrekkingskrag |  |
-| attractor fly {artificial fly} | lokvlieg |  |
-| attractor pattern {fly-fishing} | lokpatroon |  |
-| auction list (vendue roll) | vendurol, vendusielys, vendusierol |  |
-| audib le frequency | hoorbare frekwensie |  |
-| audibility | hoorbaarheid |  |
-| audible alarm | hoorbare alarm |  |
-| audible beat note | hoorbare swewingstoon |  |
-| audible coded signal | hoorbare kodesein |  |
-| audible detection {eg tones} | hoorbare waarneming |  |
-| audible indicator | hoorbare aanduier |  |
-| audible noise | hoorbare ruis |  |
-| audible range {eg of a siren} | hoorafstand |  |
-| audible range | hoorstrek |  |
-| audible signal | hoorbare sein |  |
-| audible sound wave | hoorbare geluidgolf |  |
-| audible tone | hoorbare toon |  |
-| audible warning signal | hoorbare waarskusein |  |
-| audio amplifier | oudioversterker |  |
-| audio channel | oudiokanaal |  |
-| audio combiner {conference system} | oudiokombineerder |  |
-| audio component | oudiokomponent |  |
-| audio cycle | oudiosiklus |  |
-| audio frequency | oudiofrekwensie |  |
-| audio information | oudio-inligting |  |
-| audio modulation | oudiomodulasie |  |
-| audio noise signal | oudioruissein |  |
-| audio oscillator | oudio-ossillator |  |
-| audio output socket | oudio-uitgangsok |  |
-| audio output | oudio-uitset |  |
-| audio pad | oudiolid |  |
-| audio power amplifier | oudiokragversterker |  |
-| audio range | oudiostrek |  |
-| audio transformer | oudiotransformator |  |
-| audio wave | oudiogolf |  |
-| audio-frequency amplification | oudiofrekwensieversterking |  |
-| audio-frequency amplifier | oudiofrekwensieversterker |  |
-| audio-frequency bridge | oudiofrekwensiebrug |  |
-| audio-frequency choke | oudiofrekwensiesmoorspoel |  |
-| audio-frequency harmonic distortion | oudiobofrekwensievervorming |  |
-| audio-frequency oscillator | oudiofrekwensieossillator |  |
-| audio-frequency peak limiter | oudiofrekwensietopbegrenser |  |
-| audio-frequency range | oudiofrekwensiestrek |  |
-| audio-frequency transformer | oudiofrekwensietransformator |  |
-| audio-modulating frequency | oudiomoduleerfrekwensie |  |
-| audio-visual aid | oudiovisuele hulpmiddel |  |
-| audio-voltage amplifier | oudiospanningversterker |  |
-| audiometer | oudiometer |  |
-| audion | oudion |  |
-| audit n. | oudit, ouditering |  |
-| audit office | ouditkantoor |  |
-| audit query | ouditnavraag |  |
-| audit section | ouditseksie |  |
-| audit v. | ouditeer |  |
-| auditor | ouditeur |  |
-| augend | opteltal |  |
-| auger bit | awegaarboor |  |
-| auger | awegaar |  |
-| aural transmitter | klanksender |  |
-| auroral belt | auroragordel |  |
-| auroral path | aurorabaan |  |
-| auroral zone | aurorasone |  |
-| austenite | austiniet, oustiniet |  |
-| authenticate {document} | waarmerk |  |
-| authentication measure {Private Bank} | bekragtigingsmaatreel |  |
-| authenticity of signature | egtheid van handtekening |  |
-| author's correction | outeurskorreksie |  |
-| authorisation form | magtigingsvorm |  |
-| authorisation of appointment | aanstellingsmagtiging |  |
-| authorisation | goedkeuring, magtiging |  |
-| authorisation | magtiging |  |
-| authorise | goedkeur, magtig |  |
-| authorised abbreviation | goedgekeurde afkorting |  |
-| authorised agent | gemagtigde agent |  |
-| authorised deputy | gevolmagtigde plaasvervanger |  |
-| authorised enclosure | geoorloofde insluiting |  |
-| authorised ex officio | ampshalwe gemagtig |  |
-| authorised language | goedgekeurde taal |  |
-| authorised n. | gemagtigde |  |
-| authorised salary scale | goedgekeurde salarisskaal |  |
-| authorised signatory | tekengemagtigde, gemagtigde ondertekenaar |  |
-| authorising office | magtigingskantoor |  |
-| authorities register | magtigingsregister |  |
-| authority card | magtigingskaart |  |
-| authority for payment | magtiging vir uitbetaling |  |
-| authority to sign (signing powers) {cheque} | tekenbevoegdheid, tekenmagtiging |  |
-| authority to sign | tekenmagtiging |  |
-| authority | bevoegdheid, gesag, mag |  |
-| authority | gesag |  |
-| authority | magtiging |  |
-| authority | owerheid |  |
-| auto circuit | outokring |  |
-| auto equipment (automatic exchange equipment) | outosentraletoerusting, outotoerusting |  |
-| auto exchange (automatic exchange) | outomatiese sentrale, outosentrale |  |
-| auto power control unit | outomatiese kragbeheereenheid |  |
-| auto-baud | outo-baud |  |
-| auto-control unit | outobeheereenheid |  |
-| auto-equalising modem | selfeffenmodem |  |
-| auto-exchange maintenance | outosentrale-instandhouding |  |
-| auto/auto rele ser (auto-to-auto rele set) | outo/outo-relestel |  |
-| auto/manual exchange | outo/hand-sentrale |  |
-| auto/manual rele set (auto-to-manual rele set) | outo/hand-relestel |  |
-| auto/manual switch | outo/hand-skakelaar |  |
-| auto/manual traffic | outo/hand-verkeer |  |
-| autodyne (endodyne) {radio} | outodine |  |
-| autodyne oscillator | outodine-ossillator |  |
-| autodyne reception | outodine-ontvangs |  |
-| autogenous welding | outogene sweising |  |
-| autohold (automatic hold) | outohou, outomatiese hou, outomatiese houfasiliteit |  |
-| automate | outomatiseer |  |
-| automated store checkouts {marketing} | geoutomatiseerde betaalpunte |  |
-| automatic alarm | outomatiese alarm |  |
-| automatic band switching | outomatiese bandskakeling |  |
-| automatic bearing measurement {radio} | outomatiese peilingmeting |  |
-| automatic break magnet | outomatiese verbreekmagneet |  |
-| automatic brightness control {action} | outomatiese helderheidsbeheer |  |
-| automatic brightness control {instrument} | outomatiese helderheidskontrole |  |
-| automatic calling equipment | outomatiese oproeptoerusting |  |
-| automatic changeover | outomatiese oorskakeling |  |
-| automatic chrome control {process} | outomatiese chromabeheer, outomatiese chromareeling |  |
-| automatic chrome control | outomatiese chromakontrole |  |
-| automatic clearing (automatic release) {telephony} | outomatiese vrymaking |  |
-| automatic closing valve | outomatiese sluitklep |  |
-| automatic concentrator | outomatiese konsentreerder |  |
-| automatic correction | outomatiese korreksie |  |
-| automatic cutout | outomatiese uitskakelaar |  |
-| automatic dialler | outomatiese skakeltoestel |  |
-| automatic direction finder | outomatiese rigtingsoeker |  |
-| automatic elevation measurement | outomatiese elevasiemeting |  |
-| automatic equipment | outomatiese toerusting |  |
-| automatic error correction | outomatiese foutkorreksie |  |
-| automatic error detection | outomatiese foutdekteksie, outomatiese foutspeuring |  |
-| automatic exchange system | outomatiese sentralestelsel |  |
-| automatic expenditure | outomatiese uitgawe |  |
-| automatic fee recording unit | outomatiese kosteregistreereenheid |  |
-| automatic fee recording | outomatiese kosteregistrasie |  |
-| automatic fire alarm | outomatiese brandalarm |  |
-| automatic frequency control | outomatiese frekwensiebeheer |  |
-| automatic grid bias | outomatiese roostervoorspanning |  |
-| automatic hunting {telephony} | outomatiese soeking |  |
-| automatic interaction detection (AID) {human resources} | outomatiese interaksievasstelling |  |
-| automatic interaction detection (AID) {marketing} | outomatiese interaksievasstelling |  |
-| automatic level hunting | outomatiese laagsoeking |  |
-| automatic modulation control | outomatiese modulasiebeheer |  |
-| automatic numbering transmitter {telegrpahy} | outomatiese nommersender |  |
-| automatic party line | outomatiese partylyn |  |
-| automatic pilot control | outomatiese loodsbeheer |  |
-| automatic power-control unit | outomatiese kragbeheereenheid |  |
-| automatic queueing of calls | outomatiese tou van oproepe |  |
-| automatic radio monitor | outomatiese radiomonitor |  |
-| automatic range measurement | outomatiese afstandmeting |  |
-| automatic recall of operator | outomatiese terugroep van operateur |  |
-| automatic regulator | outomatiese reelaar |  |
-| automatic reperforator | outomatiese herperforeerder |  |
-| automatic repetition system | outomatiese herhaalstelsel |  |
-| automatic retransmission | outomatiese hertransmissie |  |
-| automatic retransmitter | outomatiese hersender |  |
-| automatic reversal {tape} | outomatiese omstelling |  |
-| automatic rewind facility | outomatiese terugwenfasiliteit |  |
-| automatic rewind type {rope starter} | selfterugwentipe |  |
-| automatic ringing signal | outomatiese luisein |  |
-| automatic rotary stepping | outomatiese draaistapaandrywing, outomatiese draaistapping |  |
-| automatic routiner | outomatiese roetiner, outomatiese roetinetoetser |  |
-| automatic routing | outomatiese roetering |  |
-| automatic selector {automatic telephone} | outomatiese kieser |  |
-| automatic self-check | outomatiese selfkontrole |  |
-| automatic signalling | outomatiese seining |  |
-| automatic start | outomatiese aansittting |  |
-| automatic stop | outomatiese stop |  |
-| automatic switch | outomatiese skakelaar |  |
-| automatic switching system | outomatiese skakelstelsel |  |
-| automatic tandem working | outomatiese tandemwerking |  |
-| automatic tape transmission | outomatiese bandtransmissie |  |
-| automatic telegraph switching | outomatiese telegraafskakeling |  |
-| automatic telegraphy | outomatiese telegrafie |  |
-| automatic telephone system | outomatiese telefoonstelsel |  |
-| automatic telephone | outomatiese telefoon |  |
-| automatic telephony | outomatiese telefonie |  |
-| automatic tracking | outomatiese volging |  |
-| automatic traffic recorder | outomatiese verkeersregistreerder |  |
-| automatic transfer | outomatiese oorplasing |  |
-| automatic transrector | outomatiese transrektor |  |
-| automatic tuning control {action} | outomatiese instembeheer |  |
-| automatic tuning control {instrument} | outomatiese instemkontrole |  |
-| automatic tuning | outomatiese instemming |  |
-| automatic unit | outomatiese eenheid |  |
-| automatic voltage regulator (AVR) | outomatiese spanningsreeleer, OSR |  |
-| automatic volume control (AVC) | outomatiese volumebeheer, OVB |  |
-| automatic volume regulation (AVR) | outomatiese volumestrekreeling, OVR |  |
-| automatic volume-range regulator | outomatiese volumestrekreelaar |  |
-| automatic working | outomatiese werking |  |
-| automatic-charging rectifier | outomatieselaai-gelykrigter |  |
-| automatic-charging transrector | selflaaitransrektor |  |
-| automatic-exchange area | outomatiesesentrale-gebied |  |
-| automatic-selector train (automatic-switch train) | outomatiesekieser-reeks |  |
-| automatically switched circuit | outomaties geskakelde verbinding |  |
-| automation | outomatisering |  |
-| automotive-type lock | motortipe slot |  |
-| autoranging facility | outostrekkiesing |  |
-| autoranging {multimeter} | outostrekkiesing |  |
-| autorepeating key | outoherhaalsleutel |  |
-| autostart trip mechanism {telegraphy} | outomatiese aansitmeganisme |  |
-| autostepping | outomatiese stapaandrywing, outomatiese stapping |  |
-| autotransformer | outotransformator |  |
-| autotune receiver | outo-instemontvanger |  |
-| auxiliary apparatus | hulpapparaat |  |
-| auxiliary arc | hulpboog |  |
-| auxiliary armature stud {selector} | hulpankerbuffer, hulpankerkussing |  |
-| auxiliary band filter | hulpbandfilter |  |
-| auxiliary cam | hulpnok |  |
-| auxiliary capacitor box | hulpkapasitorkas |  |
-| auxiliary capacitor | hulpkapasitor |  |
-| auxiliary change-over assembly | hulpoorskakelsamestel |  |
-| auxiliary channel | hulpkanaal |  |
-| auxiliary connecting link (auxiliary link) {PABX} | hulpverbindskakel |  |
-| auxiliary control | hulpbeheer |  |
-| auxiliary cord circuit | hulpsnoerkring |  |
-| auxiliary director | hulpdirektor |  |
-| auxiliary duty | hulpdiens |  |
-| auxiliary electrode | hulpelektrode |  |
-| auxiliary function | hulpfunksie |  |
-| auxiliary gap | hulpspleet |  |
-| auxiliary interface | hulpkoppelvlak |  |
-| auxiliary joint | hulplas |  |
-| auxiliary key | hulpsleutel |  |
-| auxiliary line connector | hulplynverbinder |  |
-| auxiliary line finder | hulplynvinder |  |
-| auxiliary line | hulplyn |  |
-| auxiliary link | hulpverbinding |  |
-| auxiliary make assembly | hulpsluitsamestel |  |
-| auxiliary office | hulpkantoor |  |
-| auxiliary oscillator | hulpossillator |  |
-| auxiliary pole (commutating pole, compole, interpole) | hulppool |  |
-| auxiliary pole (return pole) {MU selector} | hulppool |  |
-| auxiliary position | hulppunt |  |
-| auxiliary radio channel | hulpradiokanaal |  |
-| auxiliary relay | hulprele |  |
-| auxiliary repeater station | hulpversterkerstasie |  |
-| auxiliary route | hulproete |  |
-| auxiliary selector | hulpkieser |  |
-| auxiliary service | hulpdiens |  |
-| auxiliary shelf | hulprak |  |
-| auxiliary spring | hulpveer |  |
-| auxiliary system {microwave working} | waakstelsel |  |
-| auxiliary transmission | hulptransmissie |  |
-| auxiliary winding | hulpwikkeling |  |
-| availability {telephone} | toeganklikheid |  |
-| availability | beskikbaarheid |  |
-| available conversion gain | beskikbare omsettingsversterking |  |
-| avalanche breakdown | lawinedeurslag |  |
-| avalanche condition | lawinetoestand |  |
-| avalanche n. | lawine |  |
-| avalanche region {diode} | lawinegebied |  |
-| avalanche v. | lawineer |  |
-| average (mean) adj. | gemiddeld |  |
-| average average | gemiddelde gemiddelde |  |
-| average deviation | gemiddelde afwyking |  |
-| average distance | gemiddelde afstand |  |
-| average expense | gemiddelde onkoste |  |
-| average holding time | gemiddelde houtyd |  |
-| average maximum | gemiddelde maksimum |  |
-| average normal time | gemiddelde normale tyd |  |
-| average power output | gemiddelde uitset |  |
-| average rate | gemiddelde tempo |  |
-| average reading | gemiddelde lesing |  |
-| average time value | gemiddelde tydwaarde |  |
-| average traffic intensity {telephone} | gemiddelde verkeersintensiteit |  |
-| average traffic | gemiddelde verkeer |  |
-| average v. | gemiddelde bepaal |  |
-| average value (mean value) | gemiddelde waarde |  |
-| average-reading meter circuit | gemiddeldelesing-meterkring |  |
-| averaging {TV colour signal} | gemiddeldehandhawing |  |
-| averaging | gemiddeldebepaling |  |
-| avis de r,ception card (advice of delivery card, AR card) | afleweringsadvieskaart, AR-kaart |  |
-| avoidable delay | vermybare vertraging |  |
-| avometer | avometer |  |
-| awaiting delivery | in afwagting van aflewering |  |
-| award n. | toekenning |  |
-| award v. | toeken |  |
-| awards committee | toekenningskomitee |  |
-| awareness (consciousness) | bewustheid |  |
-| away-from-home allowance | uitwoontoelae |  |
-| awl | els |  |
-| axial advance {helix} | asvooruitbeweging |  |
-| axial cutting position | assnyposisie |  |
-| axial fan (axial-flow fan) | aksiale waaier |  |
-| axial load | aksiale belasting, aksiale las |  |
-| axial-armature relay | asankerrele |  |
-| axial-flow compressor | aksiale kompressor |  |
-| axion | aksioon |  |
-| axis | as, aslyn |  |
-| axle shaft (half shalf, side shaft) | halfas |  |
-| axle | as |  |
-| azimuth angle | asimuthoek |  |
-| azimuth | asimut |  |
-| azure | blou |  |
-| b leg (b wire) | b-draad |  |
-| babbit metal | babbitmetaal |  |
-| babble {telephone} | gebabbel |  |
-| bac gear {lathe} | vertraagrat, vertragingsrat |  |
-| back acter and loader | voorlaaier-slootgrawer |  |
-| back cap | agterdop |  |
-| back clamp | rugklamp |  |
-| back copy | ou eksemplaar |  |
-| back door {machine cover} | agterste deur |  |
-| back electromotive force (back emf, counter electromotive force) | teen elektromotoriese krag, teen-emk |  |
-| back face {fork of forklift} | rugkant |  |
-| back feeding | terugvoeding |  |
-| back frame | rugraam |  |
-| back gauge {eg cutting die, drawing die, etc} | agterleier |  |
-| back interest | agterstallige rente |  |
-| back lining {book} | rugvoering |  |
-| back lobe {antenna} | agterlob |  |
-| back magnetisation | teenmagnetisering |  |
-| back office | verwerkingkantoor |  |
-| back plate {eg injection moulding} | steunplaat, agterplaat |  |
-| back plate {general} | agterplaat, rugplaat |  |
-| back plate | rugplaat |  |
-| back porch {signal} | agterstoep |  |
-| back post | agterleipen |  |
-| back rail | agterleier |  |
-| back rake | agterhelling |  |
-| back rest | rugleuning |  |
-| back stay | agteranker |  |
-| back stiffener {book} | rugverstywer |  |
-| back support {general} | rugsteun |  |
-| back to back | rug aan rug |  |
-| back voltage - SHOULD BE reverse voltage | teenspanning |  |
-| back {eg dress} | agterpant |  |
-| back {fly press} | rug |  |
-| back-end cable capacity | agterkantkabelparetal |  |
-| back-end cable | agterkantkabel |  |
-| back-hoe bucket | trekskop |  |
-| back-kick | truspanning |  |
-| back-magnetise | teenmagnetiseer |  |
-| back-out process {computer} | onttrekproses |  |
-| back-plate lampholder (batten holder, batten lampholder) | platvoetlamphouer |  |
-| back-plate locking device | rugplaatsluittoestel |  |
-| back-scatter ionospheric sounding | ionosfeerpeiling met terugstrooiing |  |
-| back-scattering | terugstrooiing |  |
-| back-seat v. {multiport valve} | sluit op agterbedding |  |
-| back-space switch {teleprinter} | terugspasieerskakelaar |  |
-| back-space switch | terugskuifskakelaar |  |
-| back-stamping | rugstempeling |  |
-| back-sticth v. | terugstik |  |
-| back-to-front loss | agter/voor-verlies |  |
-| back | agterkant, rugkant |  |
-| backboard | monteerbord |  |
-| backboard | rugbord |  |
-| backbone farm-line route (farm-line backbone) | plaaslynstamroete |  |
-| backbone pair | stampaar |  |
-| backbone plant | stamtoerusting |  |
-| backbone route | stamroete |  |
-| backbone | stam |  |
-| backed-off tooth | agterafgeskuinste tand |  |
-| backfill tamper | terugvulstamper |  |
-| backfill | terugvulling |  |
-| backfilling (padding) | beskermvulling, terugvulling |  |
-| backfilling blade | terugvulskaar |  |
-| backfire n. | terugploffing |  |
-| backfire v. | terugplof |  |
-| background density {TV} | agtergronddigtheid |  |
-| background noise | agtergrondruis |  |
-| background papers (supporting papers) | stawende dokumente |  |
-| background | agtergrond |  |
-| backing button | versterkknoop |  |
-| backing piece | steunstuk |  |
-| backing plate (base plate. supporting plate, support plate) | steunplaat |  |
-| backing plate {filing drawer} | keerplaat |  |
-| backing sheet {duplicator machine} | tikblad |  |
-| backing spring | steunveer |  |
-| backing-off control {valve tester} | terugstelkontrole |  |
-| backing-plate runner {filing drawer} | keerplaatleier |  |
-| backlash (backward lash) | terugslag |  |
-| backlash (lost motion) | dooiegang |  |
-| backslash | agteroor skuinsstreep, tru skuinsstreep |  |
-| backspacing facility | terugspasieerfasiliteit |  |
-| backstop adjuster | agterstopsteller |  |
-| backstop adjuster | ruskontaksteller |  |
-| backstop bender {telegraphy} | ruskontakbuier |  |
-| backstop extension {BTS} | instaanbylyn |  |
-| backstop lever | agterstophefboom |  |
-| backstop pawl | agterstoppal |  |
-| backstop {also rele} | agterstop |  |
-| backstop {telegraphy} | ruskontak |  |
-| backstrap bolt | rugklembout |  |
-| backstrap | rugklem |  |
-| backtracking {administration} | terugroetering |  |
-| backup disk | dekskyf, rugsteunskyf |  |
-| backup facility {data transmission} | dekfasiliteit, rugsteunfasiliteit |  |
-| backup line {datatransmission} | deklyn, rugsteunlyn |  |
-| backup protection | dekbeveiliging, rugsteunbeveiliging |  |
-| backup roller {scribe saw} | steunroller |  |
-| backup system | dekstelsel, rugsteunstelsel |  |
-| backward AFC | terug-OFB |  |
-| backward bias (reverse bias) | teenvoorspanning |  |
-| backward blocking signal | terugblokkeersein |  |
-| backward blocking | terugblokkering |  |
-| backward busying {automatic telephone} | agterwaartse besetting |  |
-| backward channel ready | terugkanaal gereed |  |
-| backward channel | terugkanaal |  |
-| backward direction | trurigting |  |
-| backward hold {automatic telephone} | trubesethouding |  |
-| backward holding earth | truhouaarde |  |
-| backward lash (backlash) | terugslag |  |
-| backward loss | truverlies |  |
-| backward marking | trumerking |  |
-| backward release signal | truvrymaaksein |  |
-| backward resistance | truweerstand |  |
-| backward signalling | truseining |  |
-| backward through supervision | agterwaartse deurkontrole |  |
-| backward tracing {of a call} | terugsporing |  |
-| backward wave | terugloopgolf |  |
-| backward-acknowledge signal | terugerkenningsein |  |
-| backward-acting mechanism (reverse-acting mechanism) {uniselector} | trekmeganisme |  |
-| backward-acting mechanism {uniselector} | trekmeganisme |  |
-| backward-acting regulator | agterwaartse reelaar |  |
-| backward-bladed fan | rugbladwaaier |  |
-| backward-channel data receive | terugkanaaldataontvangs |  |
-| backward-channel data send | terugkanaaldatasend |  |
-| backward-channel line-signal detector | terugkanaallynseindetektor |  |
-| backward-channel receive data (received backward-channel data) | terugkanaalontvangdata |  |
-| backward-channel receive mode | terugkanaalontvangmodus |  |
-| backward-channel signal-quality detector | terugkanaalseingehaltedetektor |  |
-| backward-channel transmit data (transmitted backward-channel data) | terugkanaalsenddata |  |
-| backward-curved fan | teruggeboebladwaaier |  |
-| backward-direction signal | trusein |  |
-| backward-path signal | terugbaansein |  |
-| backward-transfer signal | terugoorplaassein |  |
-| backward-wave oscillator | terugloopgolfossillator |  |
-| backward-wave tube | terugloopgolfbuis |  |
-| backwash n. | terugspoeling |  |
-| backwash v. | terugspoel |  |
-| bad (no good) | onaanvaarbaar |  |
-| bad debt | oninbare skuld, slegte skuld |  |
-| bad {signal, equipment, etc} | sleg |  |
-| baffle (baffle board) {sound reproduction} | skot |  |
-| baffle plate (retaining plate) | skotplaat |  |
-| baffle | skot |  |
-| bag elevator | sakhyser |  |
-| bag frame | sakraam |  |
-| bag hanger | sakhanger |  |
-| bag holder | sakhouer |  |
-| bag label | saketiket |  |
-| bag off v. {mail} | sak |  |
-| bag rack | sakrak |  |
-| bag rail | sakreling |  |
-| bag rent | sakhuur |  |
-| bag room | sakkamer |  |
-| bag-opening and stamping table | sakoopmaak-en-stempeltafel |  |
-| bag-opening press | sakoopmaakrak |  |
-| bag-opening scissors | kropsker, saksker |  |
-| bag-opening table | sakoopmaaktafel |  |
-| bail roll {typewriter} | rollerskaalroller |  |
-| bail | beuel |  |
-| bakelite base | bakelietvoetstuk |  |
-| bakelite moulding | bakelietgietstuk |  |
-| bakelite | bakeliet |  |
-| bakkie (LDT, LDV, light delivery truck, light delivery van, light delivery vehicle, pick-up) | bakkie, LAW, ligte |  |
-| balance brought forward | saldo oorgebring |  |
-| balance carried forward | saldo oorgedra |  |
-| balance cock {movement} | onrustong |  |
-| balance coil | balanseerspoel |  |
-| balance due | verskuldigde saldo |  |
-| balance filter | balanseerfilter |  |
-| balance in hand (balance on hand, cash balance) | saldo voorhande |  |
-| balance isolating coil | balanseerafsonderspoel |  |
-| balance n. {accounting} | saldo |  |
-| balance n. {movement} | onrus |  |
-| balance n. | balans |  |
-| balance network | balanseernetwerk |  |
-| balance out {voltage} | balanseer |  |
-| balance outness {submarine cable} | onbalans |  |
-| balance panel | balanspaneel |  |
-| balance repeating coil (balancing repeating coil) | balanseeroordraspoel |  |
-| balance return loss | balanseggoverswakking |  |
-| balance roller {eg clockwork} | onrusroller |  |
-| balance sheet | balansstaat |  |
-| balance spring (hairspring) {watch} | balansveer, haarveer, onrusveer |  |
-| balance staff {eg clockwork} | onrusstaaf |  |
-| balance v. | balanseer |  |
-| balance weight | balanseergewig |  |
-| balance wheel {eg clockwork} | onrus |  |
-| balance-to-unbalance transformer (balun) | simmetreertransformator |  |
-| balanced Adcock direction finder | gebalanseerde Adcock rigtingsoeker |  |
-| balanced T network | gebalanseerde T-netwerk |  |
-| balanced T section | gebalanseerde T-vak |  |
-| balanced and symmetrical | gebalanseer en simmetries |  |
-| balanced armature | gebalanseerde anker |  |
-| balanced bridge circuit | gebalanseerde brugkring |  |
-| balanced cable | gebalanseerde kabel |  |
-| balanced circuit | gebalanseerde kring |  |
-| balanced component | gebalanseerde komponent |  |
-| balanced discriminator | gebalanseerde diskrimineerder |  |
-| balanced frame antenna | gebalanseerde raamantenne |  |
-| balanced impulsing path | gebalanseerde impulsbaan |  |
-| balanced inductor | gebalanseerde induktor |  |
-| balanced joint | gebalanseerde las |  |
-| balanced load {cable} | gebalanseerde belasting |  |
-| balanced loop | gebalanseerde lus |  |
-| balanced mixer {waveguide} | gebalanseerde menger |  |
-| balanced pad | gebalanseerde lid |  |
-| balanced quadripole | gebalanseerde vierpool |  |
-| balanced tone circuit | gebalanseerde toonkring |  |
-| balanced transverse unbalance | gebalanseerde dwarsonbalans |  |
-| balanced-armature receiver {telephone} | gebalanseerdeanker-gehoorstuk |  |
-| balancer | balanseerder |  |
-| balancing capacitance | balanseerkapasitansie |  |
-| balancing capacitor | balanseerkapasitor |  |
-| balancing impedance | balanseerimpedansie |  |
-| balancing inductance | balanseerinduktansie |  |
-| balancing joint (doped joint) | balanseerlas |  |
-| balancing network (impedance simulating network) | balanseernetwerk |  |
-| balancing phantom balance coil | balanseerfantoombalansspoel |  |
-| balancing schedule {cable jointing} | balanseerstaat |  |
-| balancing sheet {cable jointing} | balanseerblad |  |
-| balancing test {cable jointing} | balanseertoets |  |
-| balancing weight | balanseergewig |  |
-| balancing | balansering |  |
-| balans | balance |  |
-| balata lining | balatavoering |  |
-| ball bearing (ball race) | koeellaer |  |
-| ball castor {eg letter-sorting press} | rolkoeel |  |
-| ball centre {lathe} | balsenter |  |
-| ball chain | kraleketting |  |
-| ball holder | koeelhouer |  |
-| ball n. | bal, bol, koeel |  |
-| ball race {of ball bearing} | koeelring |  |
-| ball screw (bearing-ball screw) | balskroef |  |
-| ball valve (float-operated valve, float valve) | vlotterklep |  |
-| ball valve | koeelklep |  |
-| ball-bearing bracket | koeellaarsteun |  |
-| ball-pane hammer | bolpenhamer |  |
-| ball-pane sledge hammer | bolpenvoorhamer |  |
-| ballast bridge | ballasbrug |  |
-| ballast lamp | ballaslamp |  |
-| ballast resistor (barretter) | ballasresistor |  |
-| ballast tube | ballasbuis |  |
-| ballast | ballas |  |
-| ballistic galvanometer | ballistiese galvanometer |  |
-| ballistic kick {capacitor} | ballistiese swaai |  |
-| balloon v. {conductors in cable} | uitbol |  |
-| ballot paper | stembrief |  |
-| ballpoint pen | balpuntpen |  |
-| banana plug | bananaprop |  |
-| banana socket | bananasok |  |
-| band articulation | bandartikulasie |  |
-| band clamp | bandklamp |  |
-| band displacement {radio} | bandverskuiwing |  |
-| band occupancy test | bandbesettingstoets |  |
-| band pulley (belt pulley, pulley) {power transmission} | bandkatrol |  |
-| band selector | bandselektor |  |
-| band spread {radio} | bandspreiding |  |
-| band switch | bandskakelaar |  |
-| band {also waves} | band |  |
-| band-elimination filter (band-rejection filter, band-stop filter) | bandsperfilter |  |
-| band-it tool | hoepelbinder |  |
-| band-limit v. {signal} | bandbegrens |  |
-| band-pass cell | banddeurlaatsel |  |
-| band-pass circuit | banddeurlaatkring |  |
-| band-pass coupling | banddeurlaatkoppeling |  |
-| band-pass filter | banddeurlaatfilter |  |
-| band-pass/low-pass analogy | banddeurlaat/onderdeurlaat-analogie |  |
-| band-switch control | bandskakelkontrole |  |
-| band-type safety guard | bandbeskermskut |  |
-| bandage | verband |  |
-| bandsaw blade | bandsaaglem |  |
-| bandwidth characteristic curve | bandbreedte-kenkromme |  |
-| bandwidth-limiting filter | bandbreedtebegrensfilter |  |
-| bandwidth | bandbreedte |  |
-| banister brush | stofborsel |  |
-| banjo lubricator | banjosmeerder |  |
-| bank arc | bankboog |  |
-| bank assembly | banksamestel |  |
-| bank charges | bankkoste |  |
-| bank cleaner | bankskoonmaker |  |
-| bank collar | bankkraag |  |
-| bank commission | bankkommissie |  |
-| bank contact face | bankkontakvlak |  |
-| bank contact | bankkontak |  |
-| bank continuity | bankkontinu<teit |  |
-| bank deposit | bankdeposito, bankinlae |  |
-| bank draft | bankwissel |  |
-| bank drawing powers (drawing powers) | banktrekkingsmagte, trekkingsmagte |  |
-| bank guarantee | bankwaarborg |  |
-| bank lug | bankoor |  |
-| bank multiple {automatic telephone} | bankmultipel |  |
-| bank n. {also automatic telephone} | bank |  |
-| bank n. {items} | groep, span |  |
-| bank outlet | bankuitgang |  |
-| bank rate | bankkoers |  |
-| bank rod | bankstaaf |  |
-| bank spanner | banksleutel |  |
-| bank statement | bankstaat |  |
-| bank tester {automatic telephone} | banktoetser |  |
-| bank v. | bank |  |
-| bank-clamping plate | bankklampplaat |  |
-| bank-continuity tester | bankkontinu<teitstoetser |  |
-| bank-fixing screw | bankhegskroef |  |
-| bank-wound | bankbewikkel |  |
-| bankbook | bankboekie |  |
-| banker's cheque | bankierstjek |  |
-| banker-type envelope | bankkoevert |  |
-| banker | bankier |  |
-| banking account | bankrekening |  |
-| banking facilities | bankfasiliteite |  |
-| banking stop {movement} | swaaistuiter |  |
-| banknote | banknoot |  |
-| bar amplitude | streepamplitude |  |
-| bar carrier {lathe} | staafdraer |  |
-| bar chart (bar diagram) | staafdiagram, staafkaart |  |
-| bar chart {marketing} | staafvoorstelling, staafdiagram |  |
-| bar chart | histogram, staatgrafiek |  |
-| bar chart | staafdiagram, staafgrafiek |  |
-| bar code {marketing} | staafkode |  |
-| bar code | staafkode, strepieskode |  |
-| bar code | strepieskode |  |
-| bar diameter | staafdiameter |  |
-| bar feed {lathe} | staaftoevoer |  |
-| bar generator | staafgenerator |  |
-| bar magnet (straight magnet) | staafmagneet |  |
-| bar n. {crossbar system} | stang |  |
-| bar n. {eg teleprinter keyboard} | tabelleerder |  |
-| bar n. {loop for hook or button} | trens |  |
-| bar n. {part of code printed on letter at coding desk} | strepie |  |
-| bar n. {stamps} | strook |  |
-| bar operation {lathe} | staafwerking |  |
-| bar pattern | streeppatroon |  |
-| bar signal | streepsein |  |
-| bar stock | staafmateriaal |  |
-| bar tack n. {clothing} | balkhegsel |  |
-| bar v. {eg access} | sper |  |
-| bar v. | met balksteek afwerk |  |
-| bar waveform | streepgolfvorm |  |
-| bar winding | staafwikkeling |  |
-| bar-and-post transformer (crossbar transformer) {waveguide} | T-omvormer |  |
-| barb {eg barbed wire} | doring |  |
-| barb {feather of artificial fly} | baard |  |
-| barb | stekel |  |
-| barbed tape | doringband |  |
-| barbed wire | doringdraad |  |
-| bare conductor | kaal geleier |  |
-| bare tinned copper wire (BTC wire) | kaal vertinde koperdraad, KTK-draad |  |
-| bare wire (open wire) | kaal draad |  |
-| bargain in bad faith | te kwader trou beding |  |
-| bargain in good faith | te goeder trou beding |  |
-| bargain v. | beding |  |
-| bargaining power {human resources} | bedingingsmag |  |
-| bargaining unit | bedingingseenheid |  |
-| barium nitrate | bariumnitraat |  |
-| barium oxide | bariumoksied |  |
-| barium platinocyanide | bariumplatinosianied |  |
-| barometer | barometer |  |
-| barometric pressure | barometerdruk |  |
-| barred access | gesperde toegang, versperde toegang |  |
-| barred code {automatic telephone} | gesperde kode |  |
-| barred extension | gesperde bylyn |  |
-| barred level {automatic telephone} | gesperde laag |  |
-| barred-trunk service | hooflynsperdiens |  |
-| barrel (bush) {switchboard} | klinkbus |  |
-| barrel bridge | trommelbrug |  |
-| barrel circuit (bush circuit) {switchboard} | klinkbuskring |  |
-| barrel diameter {eg cable drum} | trommeldiameter |  |
-| barrel diameter {winch} | trommeldiameter |  |
-| barrel distortion | vatvervorming |  |
-| barrel lock {tailstock} | kokerslot |  |
-| barrel nickel plating | vatvernikkeling |  |
-| barrel nipple | rompnippel |  |
-| barrel nut | kokermoer |  |
-| barrel screw {time meter} | trommelskroef |  |
-| barrel type | hol tipe |  |
-| barrel winding (drum winding) | trommelwikkeling |  |
-| barrel {tailstock} | koker |  |
-| barrel-plated | trommelgeplateer |  |
-| barrel-type pen holder | hol pensteel |  |
-| barrel | loop |  |
-| barrel | vat |  |
-| barretter valve | ballasresistorbuis |  |
-| barrier bracket {on security fence} | versperringsteun |  |
-| barrier cream | beskermroom |  |
-| barrier diode | sperdiode |  |
-| barrier frequency | sperfrekwensie |  |
-| barrier joint {electricity} | sperlas |  |
-| barrier layer {transistor} | sperlaag |  |
-| barrier potential {semiconductor} | sperpotensiaal |  |
-| barrier {eg salary scales} | slagboom |  |
-| barrier {in cable} | versperring |  |
-| barrier | keerbalk |  |
-| barring signal | spersein |  |
-| barring | sperring |  |
-| barrow (hand-truck) | stootwaentjie |  |
-| base (radix) {also numbering system} | grondtal, radiks |  |
-| base bias resistor | basisvoorspanningsresistor |  |
-| base block | voetblok |  |
-| base casting | voetgietstuk |  |
-| base circle | grondsirkel |  |
-| base circuit | basiskring |  |
-| base clipper {radio} | onderwegsnyer |  |
-| base current | basisstroom |  |
-| base density | basisdigtheid |  |
-| base line | basislyn |  |
-| base n. {clothing, shoulder strap} | basis |  |
-| base n. {clothing, where mitre starts} | beginpunt |  |
-| base pan | opvangpan |  |
-| base plate (bed plate, foundation plate) | fondamentplaat |  |
-| base ring | onderste ring |  |
-| base slide | fondamentslee, voetstukslee |  |
-| base station | basisstasie |  |
-| base {brush spring, transistor} | basis |  |
-| base-line extension | basislynverlenging |  |
-| base-line stabiliser | basislynstabiliseerder |  |
-| base/collector resistance | basis/kollektor-weerstand |  |
-| base/emitter junction | basis/emittor-voegvlak |  |
-| base/emitter voltage | basis/emittor-spanning |  |
-| base | voet |  |
-| base | voetstuk |  |
-| baseband amplifier | basisbandversterker |  |
-| baseband-level control | basisbandpeilbeheer |  |
-| baseband-switching bay | basisbandskakelraam |  |
-| baseband | basisband |  |
-| baseboard | monteerplank |  |
-| basement | kelderverdieping |  |
-| basic adjustment | basiese instelling |  |
-| basic colour | grondkleur |  |
-| basic dimension {matching} | basiese afmeting |  |
-| basic distance | basisafstand |  |
-| basic electronics {unit} | basiese elektroniek |  |
-| basic equaliser | basiese effenaar |  |
-| basic estimate | basiese raming |  |
-| basic estimating rate | basiese ramingstarief |  |
-| basic group | basiese groep |  |
-| basic labour charge | basiese arbeidskoste |  |
-| basic multiple {automatic telephone} | basiese multipel |  |
-| basic noise ratio (BNR) {microwave systems} | basiese ruisverhouding, BRV |  |
-| basic noise | basiese ruis |  |
-| basic path attenuation | basiese baanverswakking |  |
-| basic postage rate | basiese postarief |  |
-| basic price | basiese prys |  |
-| basic principle | grondbeginsel |  |
-| basic rate | basiese tarief |  |
-| basic route | basiese roete |  |
-| basic salary | basiese salaris |  |
-| basic supergroup | basiese supergroep |  |
-| basic time {human resources} | basiese tyd |  |
-| basic trunking diagram (BTD) | basiese baandiagram, BBD |  |
-| basic wage rate | basiese loontarief |  |
-| basic wave | basiese golf |  |
-| basic-estimate form | basieseraming-vorm |  |
-| basic-motion time study {human resources} | basiesebeweging-tydstudie |  |
-| basic-rate estimate | basiesetarief-raming, grondtarief-raming |  |
-| basis for rating (basis for assessment) {human resources} | aanslagbasis |  |
-| basis of consolidation | konsolidasiegrondslag |  |
-| basis of salary recognition (salary recognition basis) | salariserkenningsgrondslag |  |
-| basket coil | korfspoel |  |
-| basket filter {eg air conditioning} | korffilter |  |
-| basket winding | korfwikkeling |  |
-| bass broom | basbesem |  |
-| bass reflex | basrefleks |  |
-| bastard file | bastervyl |  |
-| basting thread | rygdraad, ryggaring |  |
-| batch certificate | lotsertifikaat |  |
-| batch header {job control system} | bundelhoof |  |
-| batch mode (BAT mode) | bundelmodus, BAT-modus |  |
-| batch n. {computer} | bundel, groep |  |
-| batch n. {telegram} | reeks |  |
-| batch n. | lot |  |
-| batch oven | lotoond |  |
-| batch purification | lotsuiwering |  |
-| batch v. {computer} | bundel |  |
-| batch v. {for inspection} | verdeel in lotte |  |
-| batch v. | opmaak in lotte |  |
-| batch-processing | bundelverwerking |  |
-| batching clerk (batching officer) | bundelklerk, opmaakklerk |  |
-| bath v. {typewriter} | dompel |  |
-| bathroom telephone | badkamertelefoon |  |
-| batonnet potatoes | aartappelskyfies |  |
-| batten (rail) {under table-top} | lat |  |
-| batten board {notice board} | plankbord |  |
-| batten holder (back-plate lampholder, batten lampholder) | platvoetlamphouer |  |
-| batten | lat |  |
-| battery acid | batterysuur |  |
-| battery attendant | batteryoppasser |  |
-| battery box | batterykas |  |
-| battery capacity | batterykapasiteit |  |
-| battery charger | batterylaaier |  |
-| battery common | gemeenskaplike batteryaansluiting |  |
-| battery dialling | batteryskakeling |  |
-| battery drain | batterydreinering |  |
-| battery eliminator | batteryvervanger |  |
-| battery feed (battery supply) | batterytoevoer |  |
-| battery fluid | batteryvloeistof |  |
-| battery housing | batteryhulsel |  |
-| battery jack | batteryklink |  |
-| battery jar | batteryfles |  |
-| battery lead {wire} | batteryleiding |  |
-| battery link | batteryskakel |  |
-| battery loop | batterylus |  |
-| battery lug | battery-oor |  |
-| battery pack | batterypak |  |
-| battery plug | batteryprop |  |
-| battery pulsing | batterypulsering |  |
-| battery rack | batteryrak |  |
-| battery reserve | batteryreserwe |  |
-| battery reversal | batteryomkering |  |
-| battery reverser | batteryomsteller |  |
-| battery room | batterykamer |  |
-| battery run | batteryleidingloop |  |
-| battery selection relay | batterykiesrele |  |
-| battery supply | batterykragbron |  |
-| battery terminal | batteryaansluiter |  |
-| battery testing | batterytoetsing |  |
-| battery-charging machine | batterylaaimasjien |  |
-| battery-driven ringer | batteryroeper |  |
-| battery-driven | battery-, batteryaangedrewe |  |
-| battery-operated klaxon | batteryklaxon |  |
-| battery-operated receiver | batteryontvanger |  |
-| battery-tested reference junction | batterygetoetste vergelykingskoppellyn |  |
-| battery-testing selector | batterytoetskieser |  |
-| battery | battery |  |
-| batwing (super-turnstile radiating element) {antenna} | vlerk |  |
-| batwing {antenna} | vlerk |  |
-| baud (Bd) | baud, Bd |  |
-| baud rate | baudtempo |  |
-| baud speed | baudspoed |  |
-| baulk | balk |  |
-| bauxite | bauxiet |  |
-| bay (suite) {rack} | stel |  |
-| bay guard-rail | raamskermreling |  |
-| bay {carrier system} | raam |  |
-| bayonet cap {incandescent lamp} | bajonetdop |  |
-| bayonet catch | bajonetsluiting |  |
-| bayonet joint | bajonetkoppeling |  |
-| bayonet socket | bajonetsok |  |
-| bayonet-cap lamp | bajonetlamp |  |
-| bayside (rackside) | raamkant |  |
-| bayside power-panel | raamkantkragpaneel |  |
-| bayside rear cover | raamagterskerm |  |
-| bcd (binary-coded decimal) | bkd, biner gekodeerde desimaal |  |
-| be in a neutral state (float) {logic} | in 'n neutrale staat wees |  |
-| beach piece {submarine cable} | strandstuk |  |
-| beacon signal | bakensein |  |
-| beacon transmitter | bakensender |  |
-| beacon | baken |  |
-| bead (core) {matrix} | kern |  |
-| bead line {sheet-metal work} | kraallyn |  |
-| bead | kraal |  |
-| beading allowance {sheet-metal work} | kraaltoelating |  |
-| beading {sheet-metal work, process} | kraalwerk |  |
-| beading {sheet-metal work} | kraal |  |
-| beam angle | bundelhoek |  |
-| beam antenna (directed antenna, directional antenna) | gerigte antenne, rigantenne |  |
-| beam axis {antenna} | bundellaslyn |  |
-| beam clearance | bundelvryruimte |  |
-| beam compasses (trammels) | stokpasser |  |
-| beam current {cathode-ray tube} | bundelstroom |  |
-| beam deflection | bundeldefleksie |  |
-| beam direction | bundelrigting |  |
-| beam divergence | bundeluiteenloping |  |
-| beam of energy (energy beam) | energiebundel |  |
-| beam of light | ligbundel, ligstraal |  |
-| beam power | bundelvermoë |  |
-| beam production {electrons} | bundelproduksie |  |
-| beam shape | bundelvorm |  |
-| beam slewing {eg antenna} | bundelswaaiing |  |
-| beam source (source of beam) | bundelbron |  |
-| beam switching | bundelskakeling |  |
-| beam tetrode | bundeltetrode |  |
-| beam transadmittance | bundeltransadmittansie |  |
-| beam transmission (directional transmission) | bundeltransmissie |  |
-| beam transmitter (directional transmitter) | bundelsender |  |
-| beam valve | bundelbuis |  |
-| beam width {antenna} | bundelbreedte |  |
-| beam {light} | straal |  |
-| beam {radio} | bundel |  |
-| beam {scale} | juk |  |
-| beam-current characteristic curve | bundelstroomkenkromme |  |
-| beam-current modulation | bundelstroommodulasie |  |
-| beam-deflection tube | bundeldefleksiebuis |  |
-| beam-forming electrode | bundelvormelektrode |  |
-| beam-forming plate | bundelvormplaat |  |
-| beam-loading admittance | bundellasadmittansie |  |
-| beam-operating cam {sheet-metal work} | balknok |  |
-| beam-splitting plate | bundelsplitplaat |  |
-| beam-type letter scale | juktipe brieweskaal |  |
-| beam | balk |  |
-| beamed (directional, directive) | gerig, rig- |  |
-| beamed aerial system | rigantennestelsel |  |
-| bear debit | debiet dra |  |
-| bearer channel (vehicle channel) | draerkanaal |  |
-| bearer channel | drakanaal |  |
-| bearer circuit | draverbinding |  |
-| bearer | drafasiliteit |  |
-| bearer | toonder |  |
-| bearing accuracy | peilingnoukeurigheid |  |
-| bearing block access | drablokholte |  |
-| bearing block {into which bearing is fitter} | laerblok |  |
-| bearing block | drablok |  |
-| bearing bracket {eg for meter} | drasteun |  |
-| bearing bracket | laersteun |  |
-| bearing bush | laerbus |  |
-| bearing calibration {of direction finder} | peilingskalibrering |  |
-| bearing cap {eg big end} | laerkap |  |
-| bearing cap | laerdop |  |
-| bearing case (bearing casing, bearing housing) | laerhulsel |  |
-| bearing correction | peilingskorreksie |  |
-| bearing inner race (bearing inner ring, inner race, inner ring) | laerbinnering |  |
-| bearing inner race (inner race) | laerbinnebaan |  |
-| bearing lever | drahefboom |  |
-| bearing lock ring | laersluitring |  |
-| bearing pin | drapen |  |
-| bearing pin | laerpen |  |
-| bearing point (point of bearing) | drapunt |  |
-| bearing race (race) | laerring |  |
-| bearing scraper | laerskraper |  |
-| bearing screw {selector} | draskroef |  |
-| bearing slide {milling machine} | draslee |  |
-| bearing spacer tube | laerspasieerbuis |  |
-| bearing spindle | draspil |  |
-| bearing step | laerpot |  |
-| bearing surface (flank face) {gear tooth} | dravlak |  |
-| bearing surface {general} | dravlak |  |
-| bearing surface | laervlak |  |
-| bearing voltage | peilspanning |  |
-| bearing yoke | drajuk |  |
-| bearing {radio} | peiling |  |
-| bearing-and-sense switch | peil-en-oordbepaalskakelaar |  |
-| bearing-clamp plate | laerklampplaat |  |
-| bearing-friction loss | laerwrywingsverlies |  |
-| bearing-plate screw | laerplaatskroef |  |
-| bearing | laer |  |
-| beat frequency (heterodyne frequency) | heterodinefrekwensie, swewingsfrekwensie |  |
-| beat frequency | swewingsfrekwensie |  |
-| beat interference (heterodyne interference) | heterodinesteuring, swewingsteuring |  |
-| beat interference | swewingsteuring |  |
-| beat n. {frequency} | swewing |  |
-| beat note | swewingstoon |  |
-| beat out {eg panel beating} | uitklop |  |
-| beat reception (heterodyne reception) | heterodineontvangs, swewingsontvangs |  |
-| beat reception | swewingsontvangs |  |
-| beat v. | saamsweef |  |
-| beat v. | sweef |  |
-| beat-frequency oscillator (frequency-change oscillator, heterodyne oscillator) | heterodineossillator, |  |
-| beat-frequency receiver | swewingsontvanger |  |
-| beating together {frequency} | saamswewing |  |
-| beaver-tail beam {antenna} | bewerstertbundel |  |
-| become prescribed {claim} | verjaar |  |
-| bed in {eg in concrete} | vassit |  |
-| bed knife {brush chipper} | beddinglem |  |
-| bed n. {also lathe} | bed |  |
-| bed stop | bedstop |  |
-| bed v. (bed in) {eg bearing} | pasmaak |  |
-| bed v. | inbed |  |
-| bed-plate casting | fondamentplaatgietstuk |  |
-| bed/chair combination | slaapstoel |  |
-| bedway {lathe} | bedbaan |  |
-| bedwiper | bedveer |  |
-| beehive lamp | byekorflamp |  |
-| beep tone | bieptoon |  |
-| beep | biep |  |
-| beeper | bieper |  |
-| beeswax | byewas |  |
-| before look {data processing} | voorafbeeld |  |
-| before maturity | voor die vervaldag |  |
-| beginning of tape (BOT) | bandbegin |  |
-| beginning-of-message signal | berigbeginsein |  |
-| beginning-of-text signal | teksbeginsein |  |
-| behaviour rating {psychological testing} | gedragsbeoordeling |  |
-| behaviour {also electricity} | gedrag |  |
-| behavioural research {marketing} | gedragsnavorsing |  |
-| bell armature | klokanker |  |
-| bell assembly | kloksamestel |  |
-| bell circuit | klokkring |  |
-| bell coil | klokspoel |  |
-| bell connection | klokverbinding |  |
-| bell connector | klokverbinder |  |
-| bell contact | klokkontak |  |
-| bell cord | kloksnoer |  |
-| bell cover | klokdop |  |
-| bell cut-off key | klokafsnysleutel |  |
-| bell dome | klokkoepel |  |
-| bell gong | klokghong |  |
-| bell out | oopsper |  |
-| bell permanent magnet | permanente klokmagneet |  |
-| bell push | klokknoppie |  |
-| bell set | klokkietoestel |  |
-| bell signal | kloksein |  |
-| bell transfer button {extension} | klokoorplaasknop |  |
-| bell wiring | klokbedrading |  |
-| bell-mouthed pipe | klokbekpyp |  |
-| bell-shaped magnet (bell-shape magnet) | klokvormige magneet |  |
-| bell-switching set | klokskakeltoestel |  |
-| bell-tinkling suppression | klokrinkelonderdrukking |  |
-| bell | klok |  |
-| bell | klokkie |  |
-| bellcrank fulcrum | kniehefboomdraaipunt |  |
-| bellcrank lifting collar | kniehefboomligkraag |  |
-| bellcrank lifting lever | kniehefboomligter |  |
-| bellcrank | kniehefboom |  |
-| belled end | klokent |  |
-| bellows pocket {clothing} | konsertinatipe sak |  |
-| bellows | blaasbalk |  |
-| below-the-line advertising {marketing} | verskuilde reklame, verkoopspromosietegnieke |  |
-| belt conveyor (conveyor belt) | vervoerband |  |
-| belt drive | bandaandrywing |  |
-| belt drum | bandtrommel |  |
-| belt guard | bandskut |  |
-| belt idler (idler, idler roller) {conveyor belt} | loslooproller, losloper |  |
-| belt loop | gordellissie, gordellussie |  |
-| belt perch | bandbeuel |  |
-| belt shipper | bandoorsitter |  |
-| belt tension | bandspanning |  |
-| belt-and-braces approach | belt-en-kruisbandebenadering |  |
-| belt-driven | band-, bandaangedrewe |  |
-| belt-tightener bracket | bandspansteun |  |
-| belt-tightener lever | bandspanhefboom |  |
-| belt-tracking mechanism | bandleimeganisme |  |
-| belt | gordel |  |
-| belt | streek |  |
-| belted components | kettingkomponente |  |
-| bench grinder | bankslypmasjien |  |
-| bench shop | bankwinkel |  |
-| bench vice (vice) | bankskroef, skroef |  |
-| benchmark post | normpos |  |
-| bend in {sheet-metal work} | inbuig |  |
-| bend line {sheet-metal work} | buiglyn |  |
-| bend n. {pipe} | buigstuk |  |
-| bend n. {waveguide} | buiging |  |
-| bend v. | buig |  |
-| bender | buier |  |
-| bending brake (bending machine) | buigmasjien |  |
-| bending brake {sheet-metal work} | buigpers |  |
-| bending moment | buigmoment |  |
-| bending roller {sheet-metal work} | buigroller |  |
-| bending tool | buier |  |
-| beneficiary | begunstigde, bevoordeelde |  |
-| benefit society | bystandsvereniging |  |
-| benevolent fund | liefdadigheidsfonds |  |
-| bent duck-bill pliers | krom eendbektang |  |
-| bent spanner | kromneksleutel |  |
-| bent tinsnips | krom bliksker |  |
-| bent-in folder {eg sheet-metal work} | ingebuigde omslag |  |
-| bent-nose pliers | kromneustang |  |
-| bentone grease (bentonite grease) | bentonietghries |  |
-| beryllium {element} | berillium |  |
-| beryllium {mineral} | beril |  |
-| best conduct directive | bestegedrag-direktief |  |
-| best successive years | gunstigste opeenvolgende jare |  |
-| beta oscillation | betaossillasie |  |
-| beta particle | betadeeltjie |  |
-| beta ray | betastraal |  |
-| bevel gauge | swaaihaak |  |
-| bevel gear (bevel wheel) | keelrat, koniese rat |  |
-| bevel pinion | keelkleinrat |  |
-| bevel protractor | verstekhaak |  |
-| bevel scraper ring {diesel engine} | afgeskuinste skraapring |  |
-| bevel | afskuins |  |
-| bevelled scriber | afgeskuinste kraspen |  |
-| bezel | gleufring |  |
-| bias battery (biasing battery) | voorspanningsbattery |  |
-| bias binding (binding) {clothing} | skuinsband |  |
-| bias bypass capacitor | voorspanningsomloopkapasitor |  |
-| bias circuit | voorspanningskring |  |
-| bias coil | voorspanningspoel |  |
-| bias corrector | voorspanningsteller |  |
-| bias current {transistor} | voorstroom |  |
-| bias decoupling capacitor | voorspanningsontkoppelkapasitor |  |
-| bias detector | voorspanningsdetektor |  |
-| bias distortion | asimmetriese vervorming |  |
-| bias jack | voorspanningklink |  |
-| bias lever | voorspanningshefboom |  |
-| bias modulation | voorspanningsmodulasie |  |
-| bias n. | voorspanning |  |
-| bias potentiometer | voorspanningspotensiometer |  |
-| bias resistance | voorspanningsweerstand |  |
-| bias resistor | voorspanningresistor |  |
-| bias rheostat | voorspanningsreostaat |  |
-| bias supply | voorspanningsbron |  |
-| bias supply | voorspanningslewering |  |
-| bias v. | voorspan |  |
-| bias voltage | voorspanning |  |
-| bias winding | voormagnetiseerwikkeling |  |
-| bias-adjusting lever | voorspanningstelhefboom |  |
-| bias-adjustment plate | voorspanningstelplaat |  |
-| bias-arm stop | voorspanningsarmstop |  |
-| bias-random sample | sydigkansige steekproef |  |
-| biasing screw | voorspanningskroef |  |
-| biasing spring | voorspanningsveer |  |
-| biasing unit | voorspanningweerstand |  |
-| bicarbonate of soda | koeksoda, natriumbikarbonaat |  |
-| bichromate cell | bichromaatsel |  |
-| bick iron | speerstaak |  |
-| biconditional n. {logic} | ekwivalensiebinding |  |
-| biconical antenna | dubbelkeelantenne |  |
-| bicycle (cycle) | fiets |  |
-| bicycle allowance (cycle allowance) | fietstoelae |  |
-| bicycle shelter (cycle shelter) | fietsafdak |  |
-| bidding member {agri-trade} | bieende lid |  |
-| bidirectional antenna | tweerigtingsantenne |  |
-| bidirectional data bus | tweerigtingdatabus |  |
-| bidirectional pulses {alternate pulse inversion} | bipolariteitspulse, bipolere pulse |  |
-| bifilar winding | bifilere wikkeling |  |
-| bifilar | bifiler |  |
-| bifurcated magnet | vurkmagneet |  |
-| bifurcated pawl spring | vurkpalveer |  |
-| big-end bearing | grootkoplaer |  |
-| bilateral antenna | tweesydige antenne |  |
-| bilateral tolerance | tweesydige toleransie |  |
-| bilingual test | tweetaligheidstoets |  |
-| bill hook | kapmes |  |
-| bill of duty {customs} | belastingbrief |  |
-| bill of entry | inklaringsbrief |  |
-| bill of exchange | wissel |  |
-| bill of export | uitvoerbrief |  |
-| bill of lading | ladingsbrief, seevragbrief |  |
-| bill of lading | vragbrief |  |
-| bill of quantities | hoeveelheidslys |  |
-| billing (invoicing) | fakturering |  |
-| billing account | kosterekening |  |
-| billing arrangements {international data organisation} | rekeningreelings |  |
-| billing {Saponet} | kostebepaling |  |
-| bimetal strip | bimetaalstrook |  |
-| bimotional line finder | hefdraailynvinder |  |
-| bin {LSM} | vakkie |  |
-| bin {sorting machine} | bak |  |
-| bin-sort (sort to bin) | na bak sorteer |  |
-| binary code | binere kode |  |
-| binary counter | binere teller |  |
-| binary digit | binere syfer |  |
-| binary divider | binere deler |  |
-| binary impulse | binere impuls |  |
-| binary number system | binere talstelsel |  |
-| binary number | binere getal |  |
-| binary octal number | binere oktale getal |  |
-| binary state | binere staat, binere toestand |  |
-| binaural effect | binourale effek |  |
-| binaural | binouraal, dubbelorig, tweeoor- |  |
-| bind in | inbind |  |
-| bind {eg selector} | klem |  |
-| bind | bind |  |
-| binder's tape {book} | bindersband |  |
-| binder | binder |  |
-| binding contract {eg book} | bindkontrak |  |
-| binding costs {eg book} | bindkoste |  |
-| binding edge {eg book} | bindrand |  |
-| binding post (screw post) | bindskroef |  |
-| binding screw | klemskroef |  |
-| binding wire | binddraad |  |
-| binoculars (field glasses) | verkyker |  |
-| binomial adj. | binomiaal |  |
-| binomial corner {waveguide} | binomiale elmboog |  |
-| binomial coupler | binomiale koppelaar |  |
-| binomial n. {mathematics} | binoom |  |
-| binomial twist (step twist <US>) {waveguide} | binomiale draaistuk |  |
-| biotechnology (ergonomics) {human resources} | biotegnologie, ergonomie |  |
-| biphase current | tweefasige stroom |  |
-| bipolar (double pole) | bipoler, tweepolig, tweepool- |  |
-| bipolar antenna | bipolere antenne |  |
-| bipolar motor | tweepoolmotor |  |
-| biquinary code | bikwinere kode |  |
-| biseal self bonding tape (self-bonding tape) | alkantbindband |  |
-| bisect | halveer |  |
-| bismuth | bismut |  |
-| bistable adj. {eg flip-flop} | bistabiel |  |
-| bistable adj. {general} | bistabiel |  |
-| bistable multi (bistable multivibrator, flip-flop) | bistabiele multivibrator, bistabiele wipkring |  |
-| bistable store | bistabiele geheue, wipkringgeheue |  |
-| bistable switch | bistabiele skakelaar |  |
-| bistable trigger circuit (stable trigger circuit, toggle) | bistabiele snellerkring |  |
-| bit interleaving | bistussenvoeging |  |
-| bit interval | bisinterval |  |
-| bit map | biskaart |  |
-| bit parallel code | bisparallelkode |  |
-| bit rate | bistempo |  |
-| bit separator | bisskeier |  |
-| bit series code | bisseriekode |  |
-| bit stream | bisstroom |  |
-| bit {computer technology} | bis |  |
-| bit {key} | baard |  |
-| bit {soldering iron} | kop |  |
-| bit-by-bit comparator | bis-vir-bis-vergelyker |  |
-| bit/s (bits per second) | bis/s, bisse per sekonde |  |
-| bit | boorpunt |  |
-| bitumen compound | bitumenmengsel |  |
-| bitumen | bitumen |  |
-| bituminous paint | bitumenverf |  |
-| bituminous wax tape | bitumenwasband |  |
-| bivariate analysis {marketing} | bivariante ontleding, tweeveranderlike ontleding |  |
-| black heat | swarthitte |  |
-| black lead n. (graphite) | grafiet |  |
-| black level | swartpeil |  |
-| black machine-article {mail sorting} | swart masjienstuk |  |
-| black selenium | swart seleen |  |
-| black signal {facsimile apparatus} | swartsein |  |
-| black steel | swart staal |  |
-| black-and-white copy (monochrome copy) {phototelegraphy} | monochroomkopie |  |
-| black-and-white reception | swart-en-witontvangs |  |
-| black-lead v. | grafitiseer |  |
-| black-level datum | swartpeilvlak |  |
-| black-level shift | swartpeilverskuiwing |  |
-| black-out pulse (blanking pulse) | onderdrukpuls |  |
-| black-out signal (blanking signal) | onderdruksein |  |
-| black-to-peak-white level | swart-tot-topwit-peil |  |
-| blackband ore | swartystererts |  |
-| blackheart process {casting} | swartkernproses |  |
-| blackness efficiency (dust-spot efficiency) {according to dust-spot test} | filtreerdoeltreffendheid |  |
-| blacksmith welding {method} | smidsweising |  |
-| blacksmith welding | smidsweiswerk |  |
-| blacksmith's anvil | smidsaambeeld |  |
-| blacksmith's vice | smidskroef |  |
-| blacksmithing | grofsmidwerk |  |
-| bladder accumulator {hydraulic system} | sakakkumulator |  |
-| blade connector | lemverbinder |  |
-| blade cut-off guillotine | lemafsnyguillotine |  |
-| blade terminal block | lemaansluitblok, lemaansluiterblok |  |
-| blade {bending machine} | drukblad |  |
-| blade {cylinder-type key} | blad |  |
-| blade {key} | blad |  |
-| blade {knife, fan} | lem |  |
-| bladed impeller | bladstuwer |  |
-| blading {eg in turbine} | bladsamestel |  |
-| blank card (unpunched card) | blanko kaart, skoon kaart |  |
-| blank column | blanko kolom, skoon kolom |  |
-| blank contour | profielvorm |  |
-| blank document | blanko dokument, blanko stuk |  |
-| blank form | oningevulde vorm |  |
-| blank holder pad | profielhouerkussing |  |
-| blank holder | profielhouer |  |
-| blank key | ru-sleutel |  |
-| blank n. {coin} | muntskyf |  |
-| blank n. {with die} | profiel |  |
-| blank n. | blanko, ru-stuk |  |
-| blank plan | blanko plan |  |
-| blank plate | blanko plaat |  |
-| blank tape | blanko band |  |
-| blank type | blanko letter |  |
-| blank v. {oscilloscope} | onderdruk |  |
-| blank v. {telegram serial number} | blanko |  |
-| blank v. {with cutting die} | profiel sny |  |
-| blank {trainee} | geheuestilstand, geheuefloute |  |
-| blank-column detection {punched card} | skoonkolomdeteksie |  |
-| blank-off | afdig |  |
-| blanked flyback | onderdrukte terugslag |  |
-| blanket rating | sambreelaanslag |  |
-| blanketing frequency | sluierfrekwensie |  |
-| blanking control {oscillography} | onderdrukkingsbeheer |  |
-| blanking control | onderdrukkingskontrole |  |
-| blanking die (blank-through die) | profielsnyblok |  |
-| blanking interval | onderdrukinterval |  |
-| blanking level | onderdrukpeil |  |
-| blanking punch | profielpons |  |
-| blanking station (blank-through station) | profielsnypunt, profielsnystasie |  |
-| blanking {transmission} | onderdrukking |  |
-| blanking {with cutting die} | profielsnywerk |  |
-| blasphemous language | godslasterlike taal |  |
-| blast cleaner | skoonstraler |  |
-| blast furnace | hoogoond |  |
-| blast tank | straaltenk |  |
-| blast v. {explosives} | skiet |  |
-| blaster {explosives} | skieter |  |
-| blasting (blasting operation, blasting work) | skietwerk |  |
-| blasting explosive (blasting material, explosive) | springstof |  |
-| blasting gelatine | springgelatien |  |
-| blasting gun {sandblasting} | straler |  |
-| blasting mat | skietmat |  |
-| blasting permit | skietpermit |  |
-| blasting-cartridge fuse | springpatroonlont |  |
-| bleached calico | gebleikte kaliko |  |
-| bleed rate | bloeitempo, luglaattempo |  |
-| bleed v. {brakes} | bloei |  |
-| bleed v. {high voltage in component} | bloei |  |
-| bleed v. {liquid} | tap |  |
-| bleed variation {eg cooling system} | beheerde aftapping |  |
-| bleed {extension of printed image to edge of paper} | bloei |  |
-| bleed-off unit {gas} | luglaateenheid |  |
-| bleed-off unit {liquid} | aftapeenheid |  |
-| bleeder current | bloeistroom |  |
-| bleeder resistor | aflaatresistor |  |
-| bleeder tube | bloeibuis, luglaatbuis |  |
-| bleeder valve | bloeiklep, luglaatklep |  |
-| bleep v. {radio-paging equipment} | roep |  |
-| bleeper {radio-paging equipment} | blieper |  |
-| blende | blende |  |
-| blind bundle {faced-up letter bundle with top envelope faced down so that no address is visible} | blinde |  |
-| blind cover | blinde deksel |  |
-| blind hole | blinde gat |  |
-| blind n. | blinder, blinding |  |
-| blind operating {telephone exchange} | blinde bediening |  |
-| blind operator | blinde operateur |  |
-| blind pension | pensioen vir blindes |  |
-| blind spot {eg in motor vehicle} | blinde kol |  |
-| blind traffic | blinde verkeer |  |
-| blind-felled {clothing} | blindgestik |  |
-| blinking | flikkering |  |
-| blip n. (pip) | lyntjie, stip |  |
-| blip n. {oscilloscope trace} | afwyking |  |
-| blister bar (cementation bar) | sementeerstaaf |  |
-| blister {material} | blasie |  |
-| block (clich,, printing block, cut) {plate engraved, cast or moulded for printing} | blok |  |
-| block (disable) | sper |  |
-| block (pulley, pulley block) | katrol |  |
-| block and tackle | katrolstel |  |
-| block authority | groepmagtiging |  |
-| block diagram | blokdiagram |  |
-| block distribution point {cables} | blokdistribusiepunt |  |
-| block distribution | blokdistribusie |  |
-| block feed | blokvoeding |  |
-| block filter (blocking filter, stop filter) | sperfilter |  |
-| block forecast {eg underground cable planning} | blokvooruitskatting |  |
-| block in {drawing} | ru skets |  |
-| block joint | blokkeerlas |  |
-| block letter | blokletter |  |
-| block letters | drukskrif |  |
-| block lift n. {spring set} | vasteveerligting |  |
-| block n. (pulley) | katrol |  |
-| block n. | blok |  |
-| block of capacitors (capacitor block) | kapasitorblok |  |
-| block of four {stamps} | vierstuk |  |
-| block policy | blokpolis |  |
-| block schematic | bloktekening |  |
-| block v. {drawing} | blok |  |
-| block v. | afsluit, blokkeer, versper |  |
-| block-check | blokkontrole |  |
-| block-grant system {subsidies} | bloktoekenningstelsel |  |
-| block-numbering system | bloknommerstelsel |  |
-| block-time working {data transmission} | bloktydwerking |  |
-| blocked grid keying | geblokkeerde roostersleuteling |  |
-| blocked-in square {drawing} | ru gesketste vierkant |  |
-| blocking attenuation | blokkeerverswakking |  |
-| blocking capacitor (stopping capacitor) | sperkapasitor |  |
-| blocking crank | blokkeerkruk |  |
-| blocking diode | blokkeerdiode |  |
-| blocking frequency | blokkeerfrekwensie |  |
-| blocking key | blokkeersleutel |  |
-| blocking lamp | blokkeerlamp |  |
-| blocking oscillator | blokkeerossillator |  |
-| blocking period | blokkeerperiode |  |
-| blocking phase | sperfase |  |
-| blocking rate | blokkeertempo |  |
-| blocking relay | blokkeerrele |  |
-| blocking signal | blokkeersein |  |
-| blocking suffix signal | blokkeeragtersein |  |
-| blocking | blokkering, versperring |  |
-| blood cherry red | kersiebloedrooi |  |
-| bloom {steel} | voorblok |  |
-| bloom {steel} | wolf |  |
-| blooming {eg rubber sleeve} | uitslag |  |
-| blotter | vloeiblok |  |
-| blotting paper | kladpapier, vloeipapier |  |
-| blouse | bloes |  |
-| blow n. {eg hammer} | slag |  |
-| blow v. {lamp} | uitbrand |  |
-| blow-down {water treatment} | uitloop |  |
-| blow-in {marketing material} | los insetsel |  |
-| blower | blaser |  |
-| blowhole | gasholte |  |
-| blowing {plaster} | skiet |  |
-| blowlamp | blaaslamp |  |
-| blown cable (blown-up cable) | oopgebarste kabel |  |
-| blown fuse | gesmelte sekering |  |
-| blowpipe (blowtorch, torch) | brander |  |
-| blowpipe | blaaspyp |  |
-| blue collar worker | produksiewerker, handwerker, handearbeider, blouboordjiewerker |  |
-| blue glow {eg in mercury-arc rectifier} | blou glimming |  |
-| blue-collar worker | bloukraagwerker, oorpakwerker |  |
-| blue-light cell | blouligsel |  |
-| blue-pencil line | bloupotloodstreep |  |
-| blueprint | bloudruk |  |
-| blueprint | bloudruk, blouligdruk |  |
-| blueprinting machine | bloudrukmasjien |  |
-| bluffed edge {clothing, eg collar} | ongestikte rand |  |
-| blunt v. | afstomp |  |
-| blunting n. | afstomping |  |
-| blurred {eg photograph, phototelegram} | dof |  |
-| blurring | smeereffek |  |
-| board of management | bestuursraad |  |
-| board of survey {stores} | goederekeurraad, keurraad |  |
-| board v. | medies laat aftree |  |
-| boatswain's chair (bosun's chair) | bootsmanstoel |  |
-| bob (weight) | pendulegewig |  |
-| bobbin bolt | bobynbout |  |
-| bobbin isolator | bobynisolator |  |
-| bobbin | bobyn |  |
-| bodkin (pigsticker) | ryg-els |  |
-| body assembly | rompsamestel |  |
-| body capacitance | liggaamskapasitansie |  |
-| body clamping strap | rompklampband |  |
-| body clearance {drill bit} | vry vlak |  |
-| body copy (copy) | tekskopie |  |
-| body corporate (corporate body) | liggaam met regspersoonlikheid, regspersoon |  |
-| body front plate | rompvoorplaat |  |
-| body height {vehicle} | bakhoogte |  |
-| body shirt | lyfhemp |  |
-| body {drill bit} | romp |  |
-| body {of a form} | hoofdeel |  |
-| body {of a letter or document} | teks |  |
-| body {vehicle} | bak |  |
-| body {vernier callipers} | graderingsteel |  |
-| bogie (truck <US>) {eg semi-trailer} | wielstel |  |
-| boil off {eg impurities} | afkook |  |
-| boiled linseed oil | gaar lynolie |  |
-| boiler snap | ketelsnapper |  |
-| bold type | vet drukletter |  |
-| bold-face entry | vetbeeldinskrywing |  |
-| bold-type entry | vetdrukinskrywing |  |
-| bolometer mount | bolometerkop |  |
-| bolometer | bolometer |  |
-| bolster chisel | steenbeitel |  |
-| bolster | steunblok |  |
-| bolt cutter | boutsnyer |  |
-| bolt n. {key} | grendel |  |
-| bolt n. | bout |  |
-| bolt on | vasbout |  |
-| bolt v. | bout, vasbout |  |
-| bolt-firing gun | boutskieter |  |
-| bolt-setting tool (cartridge tool, explosive fastener gun, fastening tool) | skiethamer |  |
-| bolted flange | vasgeboute flens |  |
-| bombardment | bombardement |  |
-| bona fide holiday | bona fide-vakansie |  |
-| bond cubicle | deurverbindingskabinet |  |
-| bond n. {agent} | bindmiddel |  |
-| bond n. {building, financial} | verband |  |
-| bond n. {electricity} | deurverbinder |  |
-| bond n. {result of process both chemical and mechanical} | binding |  |
-| bond n. | verbandstuk |  |
-| bond strength (interlaminar strength) | bindingsterkte |  |
-| bond v. {chemical, mechanical} | bind |  |
-| bond v. {electricity} | deurverbind |  |
-| bond-test apparatus | bindingtoetsapparaat |  |
-| bonded paper | bindpapier |  |
-| bonded warehouse | doeanepakhuis |  |
-| bonded wheel | gebinde wiel, saamgebinde wiel |  |
-| bonding clamp | deurverbindklamp |  |
-| bonding strip | deurverbindstrook |  |
-| bonding {electricity} | deurverbinding |  |
-| bone mass density scan | beenmassadigtheidsondersoek, beenmassadigtheidskandering |  |
-| boning rod | korrelstok |  |
-| bonus system | bonusstelsel |  |
-| bonus | bonus |  |
-| book audit | boekoudit |  |
-| book entry | boekinskrywing |  |
-| book of account | boekhouboek, rekeningboek |  |
-| book of instructions | instruksieboek |  |
-| book of postage stamps | posseëlboekie |  |
-| book packet n. | boekpakkie |  |
-| book record | boekrekord |  |
-| book {call} | bespreek |  |
-| book-and-correspondence rack | boek-en-briewerak |  |
-| book-post | boekpos |  |
-| book | boek, inskryf |  |
-| bookbinder's cloth | boekbindersdoek |  |
-| bookcase | boekkas |  |
-| booking position | besprekingspunt |  |
-| booking time | bespreektyd |  |
-| bookkeeping | boekhou |  |
-| boom guide roller | armleiroller |  |
-| boom head {break-down van} | armkop |  |
-| boom hoist | armkraan |  |
-| boom sprayer {agriculture} | balkspuit |  |
-| boom {crane} | arm |  |
-| boom {eg across a road} | sperboom |  |
-| boom {excavator} | hoofarm |  |
-| boom {microphone} | hangstok |  |
-| boomerang kid | boemerangkind, terugkeerkind |  |
-| boomerang member | boemeranglid, terugkeerlid |  |
-| boost n. (boosting) {brake} | aanjaging, versterking |  |
-| boost n. (boosting, supercharging) {engine} | aanjaging |  |
-| boost n. {electricity} | aanjaging |  |
-| boost rectifier | aanjagelykrigter |  |
-| boost v. (supercharge) {engine} | aanja |  |
-| boost v. {eg brake} | aanja, versterk |  |
-| boost v. {electricity} | aanja |  |
-| boost-charge (quick-charge) {battery} | snellaai |  |
-| booster (supercharger) {engine} | aanjaer |  |
-| booster amplifier | aanjaversterker |  |
-| booster battery | aanjabattery |  |
-| booster charge | aanjalading |  |
-| booster compressor | aanjakompressor |  |
-| booster injection {medical} | opvolginspuiting, skraaginspuiting |  |
-| booster metering | aanjatelling |  |
-| booster set | aanjatoestel |  |
-| booster station | aanjastasie |  |
-| booster transformer | aanjatransformator |  |
-| booster voltage | aanjaspanning |  |
-| booster {brake} | aanjaer, versterker |  |
-| booster {electricity} | aanjaer |  |
-| boot v. {computer} | selflaai |  |
-| booth (cabinet) {telephone} | hokkie |  |
-| bootstrap circuit | selfhelpkring |  |
-| bootstrap effect | selfhelpeffek |  |
-| bootstrap loader {computer} | selflaaier |  |
-| bootstrap program | selflaaiprogram |  |
-| bootstrap source follower | selfhelpbronopvolger |  |
-| bootstrap {bootstrap program} | selfhelp |  |
-| boracic acid (boric acid) | boorsuur |  |
-| boracic lint | boorverbandlinne |  |
-| boracic-acid lotion (boracic-acid solution) | boorsuuroplossing, boorwater |  |
-| borax | boraks |  |
-| border line | grenslyn |  |
-| border v. {eg space on form} | omrand |  |
-| bore (bore out) | boor, uitboor |  |
-| bore adaptor bush | boringpasbus |  |
-| bore cutter | uitboorbeitel |  |
-| bore n. | boring |  |
-| boring bar | boorstaaf, uitboorstaaf |  |
-| boring button | boorknoppie |  |
-| boring cut {with chain saw} | uitboorsnit |  |
-| boring cutter | uitboorbeitel |  |
-| boring head | uitboorkop |  |
-| boring machine (drilling machine) | boormasjien |  |
-| boring rod | boorstaaf |  |
-| boring tool {lathe} | boorbeitel |  |
-| boring {with chain saw} | uitboor |  |
-| bornite | borniet |  |
-| boron | boor |  |
-| borosilicate glass | boorsilikaatglas |  |
-| borough | borough |  |
-| borrow n. | lening |  |
-| borrow v. | leen |  |
-| boss (hub) | naaf |  |
-| boss | verdikking |  |
-| bossing mallet | bosseleerhamer |  |
-| both dates inclusive | albei datums ingesluit, met inbegrip van albei datums |  |
-| bothway calling | tweerigtingroep |  |
-| bothway circuit | tweerigtingkring |  |
-| bothway exchange line | tweerigtingsentralelyn |  |
-| bothway interprimary circuit | interprimere tweerigtingkring |  |
-| bothway junction | tweerigtingkoppellyn |  |
-| bothway magneto circuit | tweerigtingmagnetokring |  |
-| bothway rele set | tweerigtingrelestel |  |
-| bothway ringing | tweerigtinglui |  |
-| bothway signalling facility | tweerigtingseinfasiliteit |  |
-| bothway signalling | tweerigtingseining |  |
-| bothway suspension {telephone service} | algehele opskorting |  |
-| bothway trunk | tweerigtinghooflyn |  |
-| bothway working | tweerigtingwerking |  |
-| bothway-trunk multiple | tweerigtinghooflynmultipel |  |
-| bottleneck | bottelnek, knelpunt |  |
-| bottom copy | onderste kopie |  |
-| bottom diameter (root diameter) {eg gear} | worteldiameter |  |
-| bottom diameter {eg gear} | worteldiameter |  |
-| bottom n. {also mathematics} | onder |  |
-| bottom n. {clothing, eg fly} | onderpunt |  |
-| bottom n. {clothing, eg of hem} | vourand |  |
-| bottom n. {transistor} | bodem |  |
-| bottom outside corner | onderste buitehoek |  |
-| bottom plate | bodemplaat |  |
-| bottom rake | bodemhelling |  |
-| bottom-line responsibility | drempelverantwoordelikheid |  |
-| bottom-line responsibility | uiteindelike verantwoordelikheid |  |
-| bottomed state {transistor} | bodemtoestand |  |
-| bottoming tap (plug tap) | boomsnytap |  |
-| bottoming {radio} | bodembegrensing |  |
-| boucherisation | boucherisering |  |
-| boule {also crystal} | boule |  |
-| bounce n. {eg contact} | wippering |  |
-| bounce suppressor (debouncer) | wipperingonderdrukker |  |
-| bounce suppressor | wipperingonderdrukker |  |
-| bounce v. {eg contact} | wipper |  |
-| bound in | ingebind |  |
-| bound joint | bindlas |  |
-| bound-in wire | ingebinde draad |  |
-| boundary condition | grenstoestand |  |
-| boundary condition | grensvoorwaarde |  |
-| boundary line | grenslyn |  |
-| boundary quads | grensvierlinge |  |
-| boundary | grens |  |
-| boutique | boetiek, boutique |  |
-| bow n. {ship} | boeg |  |
-| bow n. {spring} | buig |  |
-| bow saw (frame saw, span saw) | spansaag |  |
-| bow-saw blade | boogsaaglem, spansaaglem |  |
-| bow-shaped toggle spring | boogvormige swikveer |  |
-| bowed spring | boogveer |  |
-| bowl vent passage | bakontluggang |  |
-| box clearance (box collection) {mail} | busligting |  |
-| box cluster {postal delivery} | busgroep |  |
-| box exchange | kabinetsentrale |  |
-| box file | leerkissie |  |
-| box formation {cable lacing} | blokvorm |  |
-| box jig | kassetmaat |  |
-| box joint jaw {nail puller} | gleufbek |  |
-| box joint {pliers} | gleufkoppeling |  |
-| box lobby {post office} | buslokaal |  |
-| box mail | buspos |  |
-| box pleat {clothing} | vierkantige plooi |  |
-| box rent | bushuur |  |
-| box sextant eyepiece | doossekstantoogstuk |  |
-| box sextant | doossekstant |  |
-| box socket block | kissokblok |  |
-| box spanner | soksleutel |  |
-| box tack n. {clothing} | vierkantstiksel |  |
-| box {for completion of form} | blokkie |  |
-| box-tacked {clothing} | in die vierkant gestik |  |
-| box-type negative plate | doosnegatiefplaat |  |
-| boxed section | ingeslote gedeelte |  |
-| boxing (shuttering) | bekisting |  |
-| boxwood dowel | bukshouttap |  |
-| boxwood dresser | bukshoutklophamer |  |
-| boxwood folding rule | bukshoutvoumeetstok |  |
-| brace n. (drill brace, hand brace) | omslag |  |
-| brace n. | verspanner, verspanstuk |  |
-| brace n. | verspanstuk |  |
-| brace v. | verspan |  |
-| brachypolar magnet | kortpoolmagneet |  |
-| bracing board | verspanstuk |  |
-| bracing strap | verspanband |  |
-| bracing | verspanning |  |
-| bracket clamp | beuelklamp |  |
-| bracket n. {selector} | beuel |  |
-| bracket n. | steun |  |
-| bracket spacer | steunspasieerder |  |
-| bracket v. {frequency} | afbaken |  |
-| bradawl | spykerels |  |
-| braid n. (braiding) | omvlegsel, vlegsel |  |
-| braid n. | galon |  |
-| braid v. {eg cable} | omvleg |  |
-| braided cable | omvlegte kabel |  |
-| braided square tube (square braided tube) {battery} | gevlegte vierkantbuis |  |
-| braided weatherproof wire | omvlegte weerbestande draad |  |
-| brainstorming session | dinkskrum |  |
-| brainstorming | dinkskrum, ideeberaad |  |
-| brake actuator | remwerker |  |
-| brake block | remblok |  |
-| brake circuit | rembaan |  |
-| brake cylinder | remsilinder |  |
-| brake disc | remskyf |  |
-| brake drum | remtrommel |  |
-| brake fluid | remvloeistof |  |
-| brake lever (braking lever) | remhefboom |  |
-| brake lining | remsool, remvoering |  |
-| brake magnet | remmagneet |  |
-| brake pad | remkussing |  |
-| brake power {BW} | remdrywing |  |
-| brake shoe | remskoen |  |
-| brake thermal efficiency | rem termiese rendement |  |
-| brake tube | rempyp |  |
-| brake-block arm | remblokarm |  |
-| brake-spring pliers | remveertang |  |
-| brake | rem |  |
-| branch address | takadres |  |
-| branch amplifier | aftakversterker |  |
-| branch box | aftakkas |  |
-| branch cable | takkabel |  |
-| branch chipper (brush chipper) | takkerwer |  |
-| branch cutter | taksnyer |  |
-| branch exchange | taksentrale |  |
-| branch fuse | aftaksekering |  |
-| branch instruction {programming} | vertakinstruksie |  |
-| branch jack | aftakklink |  |
-| branch line | taklyn |  |
-| branch n. | tak |  |
-| branch of service | dienstak |  |
-| branch office | takkantoor |  |
-| branch point (node) | aftakpunt |  |
-| branch route | aftakroete, takroete |  |
-| branch runway | takkanaal |  |
-| branch v. | aftak |  |
-| branch | tak |  |
-| branching filter | aftakfilter |  |
-| branching loss | aftakverlies |  |
-| branching multiple (parallel multiple) | parallel multipel |  |
-| branching network {eg antenna} | aftaknetwerk |  |
-| branching off | aftakking |  |
-| branding iron | brandyster |  |
-| branding | brandmerk |  |
-| brass bobbin | geelkoperbobyn |  |
-| brass boss | geelkopernaaf |  |
-| brass brush | geelkoperborsel |  |
-| brass corner | geelkoperhoekie |  |
-| brass folding rule | geelkopervoumeetstok |  |
-| brass label | geelkoperetiket |  |
-| brass n. {bearing} | laerhelfte |  |
-| brass nail | geelkoperspyker |  |
-| brass pin | geelkoperpen |  |
-| brass plate | geelkoperplaat |  |
-| brass segmental baffle | geelkoper-segmentskot |  |
-| brass sphere | geelkopersfeer |  |
-| brass wire | geelkoperdraad |  |
-| brass-lined | geelkopergevoer, met geelkopervoering |  |
-| brass | geelkoper |  |
-| braze | braseer, sweissoldeer |  |
-| brazier | konfoor |  |
-| brazing hearth | braseerherd, sweissoldeerherd |  |
-| brazing solder | brasseersoldeersel, sweissoldeersel |  |
-| brazing | braseerwerk, sweissoldeerwerk |  |
-| brazing | brasering, sweissoldering |  |
-| breach of contract | kontrakbreuk |  |
-| breach of contract | kontrakbreuk |  |
-| breach of security | sekerheidsbreuk |  |
-| breadboard n. (patch board) | flansbord |  |
-| breadboard n. | plankmodel |  |
-| break bulk {shipping} | begin aflaai |  |
-| break circuit | verbreekkring |  |
-| break contact | verbreekkontak |  |
-| break down {eg figures} | ontleed |  |
-| break down {insulation} | deurslaan |  |
-| break down {oil film} | breek |  |
-| break down | onklaar raak |  |
-| break elongation {rubber jointing sleeve} | breekverlenging |  |
-| break impulse | verbreekimpuls |  |
-| break in service | diensonderbreking, onderbreking in diens |  |
-| break in v. (cut in, enter) {call} | insny |  |
-| break in v. {file} | inwerk |  |
-| break jack | verbreekklink |  |
-| break link | verbreekskakel |  |
-| break localisation | breukopsporing |  |
-| break n. {condenser} | breekvlak |  |
-| break n. {eg circuit, contact} | verbreking |  |
-| break n. {eg of arm} | breuk |  |
-| break n. {laminated wood} | las |  |
-| break n. | breekplek |  |
-| break n. | pouse |  |
-| break period {contact} | verbrekingsduur, verbrekingsperiode |  |
-| break pulse | verbreekpuls |  |
-| break signal | skeisein |  |
-| break spring set | verbreekveerstel |  |
-| break spring | verbreekveer |  |
-| break standby power plant | kragbron met oorskakelonderbreking |  |
-| break test | breektoets |  |
-| break time-out period | verbreekafteltyd |  |
-| break v. (disconnect) {circuit, contact} | verbreek |  |
-| break-and-make contact | verbreek-en-sluitkontak |  |
-| break-before-make contact | verbreek-voor-sluit-kontak |  |
-| break-even condition | eweningstoestand |  |
-| break-even distance (Saponet) | kostedrempelafstand |  |
-| break-even point | gelykbreekpunt |  |
-| break-in facility (cut-in facility) {PABX} | insnyfasiliteit |  |
-| break-in n. (listening through) | luister tussen pouses |  |
-| break-in n. | insnyding |  |
-| break-jack plug | verbreekklinkprop |  |
-| break-out force {bucket excavator} | losbreekkrag |  |
-| break-type heat coil | verbreekhittespoel |  |
-| break-type standby machine | onderbreektipe gereedheidsmasjien |  |
-| break/make ratio {contact} | verbreek/sluit-verhouding |  |
-| breakage | brekasie |  |
-| breakdown (failure) | onderbreking |  |
-| breakdown point | deurslagpunt |  |
-| breakdown saw | voorsaag |  |
-| breakdown staff | onderbrekingspersoneel |  |
-| breakdown voltage (disruptive voltage) | deurslagspanning |  |
-| breakdown {figures} | ontleding |  |
-| breakdown | onklaarraking |  |
-| breaker (demolition hammer, demolition tool, paving breaker, road ripper) | korsbreker |  |
-| breaking capacity (rupturing capacity) {circuit breaker, switch} | verbreekaanslag |  |
-| breaking load | breeklas |  |
-| breaking strength | breeksterkte |  |
-| breaking stress | breekspanning |  |
-| breakpoint {computer} | breekpunt |  |
-| breakthrough voltage {elec} | deurbreekspanning |  |
-| breast drill | borsboor |  |
-| breast hand drill | handborsboor |  |
-| breast pocket | borssak |  |
-| breastplate transmitter | borsmikrofoon |  |
-| breather cap | asemerdop |  |
-| breather | asemer, asempyp |  |
-| breathing hole | asemgat |  |
-| breechblock | sluitblok |  |
-| brick jointer | voegyster |  |
-| brick trowel | messeltroffel |  |
-| brickforce | steenmuurwapening |  |
-| bricklayer's hammer | steenhamer |  |
-| brickwork | baksteenwerk |  |
-| bridge capacitor | brugkapasitor |  |
-| bridge circuit | brugkring |  |
-| bridge duplex | brugdupleks |  |
-| bridge feedback | brugterugkoppeling |  |
-| bridge megger | brugmegger |  |
-| bridge network (lattice, lattice network) | kruisnetwerk |  |
-| bridge plate | brugplaat |  |
-| bridge rectifier | bruggelykrigter |  |
-| bridge stabilised oscillator | bruggestabiliseerde ossillator |  |
-| bridge test | brugtoets |  |
-| bridge-connected unit | brugverbinde eenheid |  |
-| bridge-control cord circuit | brugbeheerde snoerkring |  |
-| bridge-control switchboard | brugbeheerde skakelbord |  |
-| bridge-meg testing set | brugmegtoetsstel |  |
-| bridge-test set | brugtoetsstel |  |
-| bridge/bridge feedback | brug/brug-terugkoppeling |  |
-| bridge/series feedback | brug/serie-terugkoppeling |  |
-| bridge/shunt feedback | brug/sjunt-terugkoppeling |  |
-| bridge | brug |  |
-| bridged T network | oorbrugde T-netwerk |  |
-| bridging apparatus | oorbrugapparaat |  |
-| bridging capacitor | oorbrugkapasitor |  |
-| bridging coil | oorbrugspoel |  |
-| bridging course | oorbrugkursus |  |
-| bridging filter | oorbrugfilter |  |
-| bridging jack | oorbrugklink |  |
-| bridging loss | oorbrugverlies |  |
-| bridging pin | oorbrugpen |  |
-| bridging plug | oorbrugprop |  |
-| bridging wiper | oorbrugkontakarm |  |
-| bridle screw | beuelhegskroef |  |
-| bridle wire | aanvoerdraad |  |
-| bridle {clothing, eg lapel} | versterking |  |
-| bridle {movement} | balans |  |
-| brief n. {eg to printer} | opdrag |  |
-| briefcase {usually soft, opens at top} | aktetas |  |
-| bright light | helder lig, skerp lig |  |
-| bright red heat | helderrooihitte |  |
-| bright red | helder rooi |  |
-| bright yellow | helder geel |  |
-| bright {tea, wine, beer} | helder |  |
-| bright-galvanized finish | blinkgegalvaniseerde afwerking |  |
-| brightness (brilliance) | helderheid |  |
-| brightness characteristic | helderheidskenmerk |  |
-| brightness control (brilliance control) {knob} | helderheidskontrole |  |
-| brightness control (brilliance control) {process} | helderheidsbeheer |  |
-| brightness of trace (trace brightness) | spoorhelderheid |  |
-| brightness ratio | helderheidsverhouding |  |
-| brightness transfer | helderheidsoordrag |  |
-| brilliance modulation | helderheidsmodulasie |  |
-| brimistor | brimistor |  |
-| bring into account (bring to account) | verantwoord |  |
-| bristle sweep brush | haarpypborsel |  |
-| brittle | bros |  |
-| broach | profielruimer |  |
-| broaching | profielruiming, profielruimwerk |  |
-| broad dimension {waveguide} | bree afmeting |  |
-| broad fault localisation | bree foutopsporing |  |
-| broad tuning | bree instemming |  |
-| broad-band crystal filter | breebandkristalfilter |  |
-| broad-band lattice crystal filter | breebandkruiskristalfilter |  |
-| broad-band noise signal | breebandruissein |  |
-| broad-band speech channel | breebandspraakkanaal |  |
-| broad-bandpass filter | breebanddeurlaatfilter |  |
-| broadcast band | uitsaaiband |  |
-| broadcast call | uitsendoproep |  |
-| broadcast carrier system | uitsaaidraerstelsel |  |
-| broadcast circuit {telex} | uitsendkring |  |
-| broadcast combiner | uitsendkombineerder |  |
-| broadcast education | radio-opvoeding |  |
-| broadcast n. | uitsending |  |
-| broadcast pair | uitsaaipaar |  |
-| broadcast physical | uitsaaistamlyn |  |
-| broadcast rack {telex} | uitsendrak |  |
-| broadcast reléing | heruitsending |  |
-| broadcast system | uitsaaistelsel |  |
-| broadcast telegraph system | uitsendtelegraafstelsel |  |
-| broadcast v. {telex} | uitsend |  |
-| broadcast v. | uitsaai |  |
-| broadcaster | uitsaaier |  |
-| broadcasting fee | uitsaaigeld |  |
-| broadcasting service | uitsaaidiens |  |
-| broadcasting station (broadcast station) | uitsaaistasie |  |
-| broadcasting studio | uitsaai-ateljee |  |
-| broadcasting-station licence | uitsaaistasielisensie |  |
-| broadside array {antenna} | dwarsrignet |  |
-| broadside loading {logic} | parallel laaiing |  |
-| brochantite | brochantiet |  |
-| broken period | gebroke termyn |  |
-| broker {eg insurance} | makelaar |  |
-| brokering call {telephony} | wisseloproep |  |
-| brokering facility {telephony} | wisselskakelfasiliteit |  |
-| brokering system {PABX} | wisselskakelstelsel |  |
-| brokering {telephony} | wisselskakeling |  |
-| bromide paper | bromiedpapier |  |
-| bromide | bromied, bromide |  |
-| bronze backing {bearing} | bronsrugstuk |  |
-| bronze finishing | bronsafwerking |  |
-| bronze wire | bronsdraad |  |
-| bronze-fitted pump | bronsstuwerpomp |  |
-| bronze | brons |  |
-| brought forward {bookkeeping} | oorgebring |  |
-| brown ore | bruinerts |  |
-| browse {animal} | takkies en blare vreet |  |
-| brush arm | borselarm |  |
-| brush assembly | borselsamestel |  |
-| brush box compartment | borselkaskompartement |  |
-| brush box | borselkas |  |
-| brush carrier {synchroscope} | borseldraer |  |
-| brush contact | borselkontak |  |
-| brush cutter (powered brush cutter) | kragsens, ruigtesnyer |  |
-| brush feed (feed brush) | voerborsel |  |
-| brush friction | borselwrywing |  |
-| brush gear | borselgerei |  |
-| brush holder | borselhouer |  |
-| brush lag | borselnaloop |  |
-| brush lead | borselleiding |  |
-| brush lead | borselvoorloop |  |
-| brush pigtail | borselstert |  |
-| brush rocker | borseltuimelaar |  |
-| brush track | borselbaan |  |
-| brush {elec equipment} | borsel |  |
-| brush-friction loss | borselwrywingsverlies |  |
-| brush-holder spring | borselhouerveer |  |
-| brush-lifting gear | borselligter |  |
-| bubble memory (magnetic-bubble memory) | borrelgeheue |  |
-| bubble {eg spirit level} | lugbel |  |
-| bubble | blasie |  |
-| bucket elevator | bakhyser |  |
-| bucket line | bakkieslyn |  |
-| bucket piston (bucket plunger) {waveguide} | baksuier |  |
-| bucket {trencher} | skop |  |
-| bucking v. {with chain saw} | wiegsaag |  |
-| buckle n. {clothing} | gespe |  |
-| buckle n. {eg plate, wheel} | baktrekking |  |
-| buckle n. {spring} | beuel |  |
-| buckle v. {eg plate, wheel} | bak trek |  |
-| buckle v. {spring} | vasbeuel |  |
-| buckle v. | vasgespe |  |
-| buddy aid | makkerhulp |  |
-| buddy aid | makkerhulp |  |
-| buddy system | makkerstelsel |  |
-| budget control | begrotingsbeheer |  |
-| budget n. | begroting |  |
-| budget system | begrotingstelsel |  |
-| budget v. | begroot |  |
-| budget year | begrotingsjaar |  |
-| budgeted figures | begrotingsyfers |  |
-| budwood | ogieshout, okuleerhout |  |
-| buff adj. | dofgeel |  |
-| buff n. | poetser |  |
-| buff v. {eg painting} | fynskuur |  |
-| buff v. | poets |  |
-| buffer amplifier | bufferversterker |  |
-| buffer battery | bufferbattery |  |
-| buffer block | bufferblok |  |
-| buffer capacitor | bufferkapasitor |  |
-| buffer gate | bufferhek |  |
-| buffer relay | bufferrele |  |
-| buffer spring | bufferveer |  |
-| buffer stacker {LSM} | bufferstapelaar |  |
-| buffer stage | buffertrap |  |
-| buffer store | buffergeheue |  |
-| buffer tuning-capacitor | bufferinstemkapasitor |  |
-| buffer-amplifier stage | bufferversterkertrap |  |
-| buffer-block clearance | bufferblokvryruimte |  |
-| buffer-doubler | bufferverdubbelaar |  |
-| buffer-storage principle | buffergeheuebeginsel |  |
-| buffer | buffer |  |
-| buffered contact spring | gebufferde kontakveer |  |
-| buffered spring | gebufferde veer |  |
-| buffing soap | poetsseep |  |
-| buffing wheel | fynskuurwiel |  |
-| buffing wheel | poetswiel |  |
-| build out {cable, network} | uitbou |  |
-| build up {eg call} | opbou |  |
-| building block {eg electricity apparatus} | bou-element |  |
-| building block | boublok, bouplaat |  |
-| building complex | gebouekompleks |  |
-| building distribution box | geboudistribusiekas |  |
-| building line | bougrens, boulyn |  |
-| building module | boumodule, boumoduul |  |
-| building plan | bouplan |  |
-| building wiring | geboubedrading |  |
-| building-out capacitor | uitboukapasitor |  |
-| building-out network | uitbounetwerk |  |
-| building-out unit | uitboueenheid |  |
-| building-up time (build-up time, rise time, transition time) {radio} | opboutyd, stygtyd |  |
-| built-in noise source | ingeboude ruisbron |  |
-| built-in pedal | ingeboude pedaal |  |
-| built-in resistor | ingeboude resistor |  |
-| built-in stranded support wire | ingeboude stringsteundraad |  |
-| built-in switching facility | ingeboude skakelfasiliteit |  |
-| built-up area | beboude gebied |  |
-| built-up edge {lathe bit} | opgeboude snykant |  |
-| buitelug-reklame | outdoor advertising |  |
-| bulb (envelope) {incandescent lamp, valve} | omhulsel |  |
-| bulb brilliance | gloeilamphelderheid |  |
-| bulb {eg thermometer} | bol |  |
-| bulb | gloeilamp |  |
-| bulbous joint | bolvormige las |  |
-| bulk call | massaoproep |  |
-| bulk data | grootmaatdata |  |
-| bulk dispatch | grootmaatversending |  |
-| bulk divert {cable} | grootskaalse omleiding |  |
-| bulk docket {eg telephone exchange} | veelfoutvorm |  |
-| bulk fault docket | meerfoutvorm |  |
-| bulk lifetime {semiconductor} | massalewensduur |  |
-| bulk order | grootmaatbestelling |  |
-| bulk posting | grootmaatinlewering |  |
-| bulk production | grootmaatproduksie |  |
-| bulk provision | grootmaatvoorsiening |  |
-| bulk queue | ophooptou |  |
-| bulk release | grootskaalse beskikbaarstelling |  |
-| bulk stock | grootmaatvoorraad |  |
-| bulk storage {computer} | grootmaatgeheue |  |
-| bulk treatment | grootmaatbehandeling |  |
-| bulk-effect diode | geheeleffekdiode |  |
-| bulkhead light | skotlig |  |
-| bulkhead {mail kiosk} | hangplafon |  |
-| bulkhead-type fitting | skotmontasie |  |
-| bulkhead | skot |  |
-| bulking {eg of rele sets} | saamgroepering |  |
-| bulky parcel | lywige pakket |  |
-| bull gear | hoofdryfrat |  |
-| bull's-eye condenser {lens} | platbolkondensor |  |
-| bull's-eye indicator (eyeball indicator) | oogaanwyser |  |
-| bulldog timber connector | boelbytplaat |  |
-| bulldozer | stootskraper |  |
-| bulldozing speed {utility trencher} | gelykstootspoed |  |
-| bullet {printing} | kol |  |
-| bullet {typesetting} | kol |  |
-| bullet-head nail | koeelkopspyker |  |
-| bullet | nommerhuls |  |
-| bulletin of verification (verification note) | bevestigingsbrief |  |
-| bulletin | bulletin |  |
-| bullion fringes | boeljonfraiings |  |
-| bump test | stamptoets |  |
-| bump v. {waveguide} | duik |  |
-| bumper spike {eg chain saw} | bufferpen, keerpen |  |
-| bunch v. {contact} | saamsluit |  |
-| bunch v. | bondel |  |
-| bunched cables | kabelbondel |  |
-| buncher | bondelmodulator |  |
-| bunching angle | bondelhoek |  |
-| bunching contact set | saamsluitkontakstel |  |
-| bunching parameter | bondelparameter |  |
-| bunching time {contact} | saamsluittyd |  |
-| bunching {electrons} | bondelvorming |  |
-| bundle analysis {mail} | bondelontleding |  |
-| bundle label (facing slip) | bondeletiket |  |
-| bundle n. | bondel |  |
-| bundle of newspapers | bondel nuusblaaie |  |
-| bundle off | afbondel |  |
-| bundle v. | bondel |  |
-| bundling machine | bondelmasjien |  |
-| bunion | knokkel |  |
-| bunsen burner | bunsenbrander |  |
-| buoy rope | boeitou |  |
-| buoy | boei |  |
-| buoying the end {submarine cable} | puntbeboeiing |  |
-| burden | las |  |
-| burglar alarm | inbraakalarm |  |
-| burglar screen | dieweskerm |  |
-| burglar-proofing | diefwering |  |
-| burial order | begrafnisorder |  |
-| buried cable | begraafde kabel |  |
-| buried copper wire | begraafde koperdraad |  |
-| buried joint | begraafde las |  |
-| buried type {eg loading-coil pot} | begrawetipe |  |
-| burn (lead burn) | loodsweis |  |
-| burn jelly | brandwondjellie |  |
-| burn v. {accumulator plates} | vassmelt |  |
-| burn-in test | inbrandtoets |  |
-| burn-out | uitbranding |  |
-| burner | brander |  |
-| burning n. {grind stone} | brand |  |
-| burning voltage (maintaining voltage) {gas-filled valve} | glimspanning |  |
-| burnisher (burnishing tool) | bruineerder |  |
-| burnishing file | bruineervyl |  |
-| burnt steel | verbrande staal |  |
-| burr groove | baardgroef |  |
-| burr n. {metal} | baard, braam |  |
-| burr n. {wood} | knoets |  |
-| burr side | baardkant |  |
-| burr v. (deburr) {metal} | afbaard |  |
-| burr v. | braam |  |
-| bursar | beurshouer |  |
-| burst event {PNA} | vertakgebeurtenis |  |
-| burst of radiation (radiation burst) | stralingsuitbarsting |  |
-| burst of tone (tone burst) | toonsarsie |  |
-| burst {colour} | sarsie |  |
-| burst-locked oscillator | sarsiegeslote ossillator |  |
-| bursting disc | barsskyf |  |
-| bus (busbar) | geleistam |  |
-| bus {computer} | bus |  |
-| bus-coupler switch | geleistamkoppelskakelaar |  |
-| busbar chamber | geleistamkamer |  |
-| busbar connection | geleistamverbinding |  |
-| busbar coupler | geleistamkoppelaar |  |
-| busbar fastening | geleistambevestiging, geleistamhegter |  |
-| busbar material | geleistammateriaal |  |
-| busbar sectionalising switch (bus-section switch) | geleistamskeiskakelaar |  |
-| busbar transformer | geleistamtransformator |  |
-| busbar voltage | geleistamspanning |  |
-| bush cutting | boskap |  |
-| bush n. | bus |  |
-| bush summit | bosberaad |  |
-| bushing insulator | deurvoerisolator |  |
-| bushing | busse |  |
-| busied circuit | besetgemaakte kring |  |
-| busied equipment | besette toerusting |  |
-| busied selector | besette kieser |  |
-| business card | besigheidskaartjie |  |
-| business description | besigheidsbeskrywing |  |
-| business hours (hours of business) | openbare diensure |  |
-| business mail | besigheidspos |  |
-| business mailing | besigheidposreklame, sakeposreklame |  |
-| business premises | besigheidsperseel |  |
-| business reply service (BRS) | besigheidsantwoorddiens, BAD |  |
-| business service | besigheidsdiens |  |
-| business subcriber {telephone} | besigheidshuurder |  |
-| business telephone | besigheidstelefoon |  |
-| business-reply card | besigheidsantwoordkaart |  |
-| business-reply telegram | besigheidsantwoordtelegram |  |
-| bussing {computers} | buswerking |  |
-| bust n. {measurement} | bors |  |
-| busy adj. (engaged) {telephone} | beset |  |
-| busy code | besetkode |  |
-| busy condition | besettoestand |  |
-| busy earth | besetaarde |  |
-| busy flag | besetvlaggie |  |
-| busy flash | besetflits |  |
-| busy hour | druk uur |  |
-| busy influence | besetinvloed |  |
-| busy key | besetsleutel |  |
-| busy lamp (engaged lamp) | besetlamp |  |
-| busy line (engaged line) | besette lyn |  |
-| busy out (make busy) | beset maak |  |
-| busy out | buite gebruik stel |  |
-| busy signal (engaged signal) | besetsein |  |
-| busy test (engaged test) | besettoets |  |
-| busy v. (engage) {telephone} | beset |  |
-| busy v. | besig hou |  |
-| busy-back jack | besetklink |  |
-| busy-book entry | besetboekinskrywing |  |
-| busy-flash signal | besetflitssein |  |
-| busy-hold circuit | besethoukring |  |
-| busy-hour load | drukuurlas |  |
-| busy-hour traffic | drukuurverkeer |  |
-| busy-test relay | besettoetsrele |  |
-| busy-tone cycle | besettoonsiklus |  |
-| busy-tone earth | besettoonaarde |  |
-| busy-tone period | besettoonduur |  |
-| busying peg | besetpen |  |
-| busying plug | besetprop |  |
-| busying strip | besetstrook |  |
-| busying | besetmaking |  |
-| butt (stop pin) | stoppen |  |
-| butt hinge | deurskarnier |  |
-| butt joint | stuiklas |  |
-| butt n. (butt end) {cable} | stuikent |  |
-| butt n. (butt-end) | dik ent |  |
-| butt n. {circuit} | stuik |  |
-| butt n. {compactor} | stampkop |  |
-| butt v. {cable} | afbind |  |
-| butt weld | stuiksweislas |  |
-| butt welder | stuiksweiser |  |
-| butterfly joint | vleuellas |  |
-| butterfly nut (wing nut) | vleuelmoer |  |
-| buttinsky | toetshandtelefoon |  |
-| button catch {clothing} | knoopstrook |  |
-| button die (button-die nut) | verstelbare snymoer |  |
-| button die | ronde draadsnyblok |  |
-| button fly {clothing} | toeknoopgulp |  |
-| button key | knopsleutel |  |
-| button rivet | platrondekopklinknael |  |
-| button rod {bulb} | knopstaaf |  |
-| button top {on plan telephone} | knoptop |  |
-| button {computer} | knoppie |  |
-| button {woodwork} | hegblokkie |  |
-| button-and-earth connection | knopie-en-aardverbinding |  |
-| button | knop |  |
-| button | sentreerbus |  |
-| buttonhole gimp {clothing} | knoopsgatgimp |  |
-| buttress thread (trapezoidal thread) {screw} | saagdraad, trapesiumdraad |  |
-| buying intention survey {marketing} | aankoopvoornemeopname |  |
-| buying intention survey | aankoopvoornemeopname |  |
-| buying power (purchasing power) | koopkrag |  |
-| buzz | gons |  |
-| buzzer key | gonsersleutel |  |
-| buzzer signal | gonssein |  |
-| buzzer test | gonstoets |  |
-| buzzer | gonser |  |
-| buzzing sound | gonsgeluid |  |
-| by airmail | per lugpos |  |
-| by first post | met die eerste pos |  |
-| by hand | met die hand, per hand |  |
-| by return of post | per kerende pos |  |
-| by telegraph | per telegraaf, telegrafies |  |
-| by telephone | per telefoon, telefonies |  |
-| by-path system | ombaanstelsel |  |
-| bypass capacitor | omloopkapasitor |  |
-| bypass circuit | omloopkring |  |
-| bypass damper | omloopdemper |  |
-| bypass filter | omloopfilter |  |
-| bypass flame {gas welder} | omlooppypvlam |  |
-| bypass n. | omloop |  |
-| bypass oil filter | omloopoliefilter |  |
-| bypass tube | omlooppyp |  |
-| bypass v. | omloop, omtak, oorbrug |  |
-| bypass valve | omloopklep |  |
-| byte {computer} | greep |  |
-| c (cent) | c, sent |  |
-| cab (cabin) | kajuit |  |
-| cab call line | taxiroeplyn |  |
-| cab-tyre flex | bandrubbersnoer |  |
-| cab | kap |  |
-| cabin (cab) | kajuit |  |
-| cabinet (cubicle) {power equipment} | hokkie, kabinet |  |
-| cabinet connection schedule | kabinetverbindingstaat |  |
-| cabinet rasp file | kabinetrasper |  |
-| cabinet scraper | soetskraper |  |
-| cable access point | kabeltoegangspunt |  |
-| cable account | kabelrekening |  |
-| cable and distribution works | kabel- en distribusiewerke |  |
-| cable area | kabelgebied |  |
-| cable armouring | kabelpantser |  |
-| cable balancing | kabelbalansering |  |
-| cable bender | kabelbuier |  |
-| cable box | kabelkas |  |
-| cable bracket (cable support) | kabelsteun |  |
-| cable buoy | kabelboei |  |
-| cable capacitance | kabelkapasitansie |  |
-| cable capacity | kabelparetal |  |
-| cable carrier n. (cable rack, run, runway) | kabelrak |  |
-| cable carrier n. | kabeldraer |  |
-| cable cart (jointer's cart) | lasserskar |  |
-| cable changeover | kabelverwisseling |  |
-| cable channel (cable duct) | kabelkanaal |  |
-| cable chase | kabelgroef |  |
-| cable chute (cable trough) | kabelgeut |  |
-| cable clamp (cable cleat) | kabelklamp |  |
-| cable clip | kabelklem |  |
-| cable code | kabelkode |  |
-| cable coil (cable roll) | kabelrol |  |
-| cable compound | kabelmengsel |  |
-| cable conductor | kabelgeleier |  |
-| cable conduit | kabelleipyp |  |
-| cable congestion | kabeloorlaaiing |  |
-| cable connection | kabelverbinding |  |
-| cable connector | kabelverbinder |  |
-| cable construction (cabling) | kabelaanleg |  |
-| cable contactor {compressed-air alarm system} | kabelkontaktor |  |
-| cable core | kabelkern |  |
-| cable corrosion | kabelkorrosie |  |
-| cable covering | kabelbekleding |  |
-| cable creepage | kabelkruiping |  |
-| cable cut-out | kabeluitskakeling |  |
-| cable distribution | kabeldistribusie |  |
-| cable divert | kabelherindeling |  |
-| cable divert | kabelomleiding |  |
-| cable drum | kabeltol |  |
-| cable duplex | kabeldupleks |  |
-| cable echo | kabeleggo |  |
-| cable end | kabelent |  |
-| cable entrance | kabelingang |  |
-| cable fault | kabelfout |  |
-| cable feed | kabelvoeding |  |
-| cable fittings | kabeltoebehore |  |
-| cable form | kabelvorm |  |
-| cable grease (cable lubricant) | kabelsmeermiddel |  |
-| cable grip | grypkous |  |
-| cable guide | kabelleier |  |
-| cable hanger | kabelhanger |  |
-| cable harness | kabelharnas |  |
-| cable house | kabelhuis |  |
-| cable identification probe | kabelpaarsoeker |  |
-| cable inlet gland | kabelingangdrukstuk |  |
-| cable joint | kabellas |  |
-| cable jointer's mate | kabellassershulp |  |
-| cable jointer's probe (cable-joint probe, cable-pair probe) | kabelpaarsoeker |  |
-| cable jointer's test set | kabellasserstoetstoestel |  |
-| cable jointer | kabellasser |  |
-| cable jointing | kabellaswerk |  |
-| cable junction | kabelaansluiting |  |
-| cable layer | kabelleer |  |
-| cable layout | kabeluitleg |  |
-| cable lead | kabelleiding |  |
-| cable length | kabellengte |  |
-| cable line | kabellyn |  |
-| cable locator | kabelsoeker |  |
-| cable loop | kabellus |  |
-| cable loss | kabelverlies |  |
-| cable lug | kabeloor |  |
-| cable maintenance | kabelinstandhouding |  |
-| cable make-up | kabelopbou |  |
-| cable manhole | kabelmangat |  |
-| cable marker | kabelmerker |  |
-| cable matching coil | kabelaanpasspoel |  |
-| cable matching | kabelaanpassing |  |
-| cable n. | kabel |  |
-| cable network | kabelnetwerk |  |
-| cable pair | kabelpaar |  |
-| cable pin | kabelpen |  |
-| cable plumbing | toelood van kabels |  |
-| cable power switch | kabelkragskakelaar |  |
-| cable probe (probe) {cables} | paarsoeker, sondeerder |  |
-| cable project | kabelprojek |  |
-| cable pulley | kabelkatrol |  |
-| cable rack | kabelrak |  |
-| cable rearrangement | kabelherindeling |  |
-| cable record | kabelrekord |  |
-| cable reel | kabelkleintol |  |
-| cable relay | kabelrele |  |
-| cable relief | kabelverligting |  |
-| cable repair | kabelherstelling |  |
-| cable ring | kabelring |  |
-| cable roller | kabelroller |  |
-| cable route | kabelroete |  |
-| cable run | kabelloop |  |
-| cable schematic plan | kabel skematiese plan, skematiese kabelplan |  |
-| cable scheme | kabelskema |  |
-| cable shaft | kabelskag |  |
-| cable sheath | kabelomhulsel |  |
-| cable size | kabelgrootte |  |
-| cable sleeve | kabelhuls |  |
-| cable specification | kabelspesifikasie |  |
-| cable splice | kabelsplitslas |  |
-| cable staff | kabelpersoneel |  |
-| cable stopper (stopper) | kabelstopper |  |
-| cable strand | kabelstring |  |
-| cable stripper knife | kabelstroopmes |  |
-| cable stripper | kabelstroper |  |
-| cable stub | kabelstomp |  |
-| cable subway | kabeltonnel |  |
-| cable support rack | kabelsteunrak |  |
-| cable system | kabelstelsel |  |
-| cable tail | kabelstert |  |
-| cable telephone system | kabeltelefoonstelsel |  |
-| cable television | kabeltelevisie |  |
-| cable tension | kabelspanning |  |
-| cable terminal | kabeleindpunt |  |
-| cable termination | kabelafhegting |  |
-| cable testing | kabeltoetsing |  |
-| cable thimble | kabelkous |  |
-| cable tray | kabelbak |  |
-| cable trench | kabelvoor |  |
-| cable v. | bekabel |  |
-| cable vault | kabelkelder |  |
-| cable wagon | kabelwa |  |
-| cable wax | kabelwas |  |
-| cable waxing | kabelbewassing |  |
-| cable wire | kabeldraad |  |
-| cable yarn | kabelgaring |  |
-| cable-armouring machine | kabelpantsermasjien |  |
-| cable-assignment record | kabeltoewysingrekord |  |
-| cable-attenuation | kabelverswakking |  |
-| cable-availability schedule | kabelbeskikbaarheidslys |  |
-| cable-branching point | kabelaftakpunt |  |
-| cable-code direct printer | direkte drukker vir kabelkode |  |
-| cable-code transmitter | kabelkodesender |  |
-| cable-coupling sleeve | kabelkoppelhuls |  |
-| cable-distribution box | kabeldistribusiekas |  |
-| cable-distribution point | kabeldistribusiepunt |  |
-| cable-drum barrel (drum barrel) | tolsilinder |  |
-| cable-drum batten | kabeltolstrook |  |
-| cable-drum lifting jack | kabeltoldomkrag |  |
-| cable-drum trailer (cable trailer) | kabelsleepwa |  |
-| cable-hauling gear | kabeltrektoerusting |  |
-| cable-joint mould | kabellasgietvorm |  |
-| cable-jointing staff | kabellaspersoneel |  |
-| cable-junction box | kabelaansluitkas |  |
-| cable-laying cost | kabelaanlegkoste |  |
-| cable-laying ship (cable ship) | kabelskip |  |
-| cable-layout schedule | kabeluitlegstaat |  |
-| cable-repair ship | kabelherstelskip |  |
-| cable-running list | kabellooplys |  |
-| cable-runway drawing | kabellooptekening |  |
-| cable-sleeve expanding tool | kabelhulsuitdyer |  |
-| cable-suspension clamp | kabelhangklamp |  |
-| cable-suspension ring | kabelhangring |  |
-| cable-swaging tool | kabelsmeesaal |  |
-| cable-terminating section | kabeleindvak |  |
-| cable-test sheet | kabeltoetsblad |  |
-| cable-turning section {manual switchboard} | kabeldraaiseksie |  |
-| cablegram | kabelgram |  |
-| cableway {building wiring} | kabelbaan |  |
-| cableway | kabelspoor, sweefspoor |  |
-| cabling schedule | bekabelingstaat |  |
-| cabling {process} | bekabeling |  |
-| cabling-screen connection | kabelskermverbinding |  |
-| cabochon n. | cabochon |  |
-| cadence | kadans |  |
-| cadmium cell | kadmiumsel |  |
-| cadmium copper | kadmiumkoper |  |
-| cadmium test | kadmiumtoets |  |
-| cadmium tungstate | kadmiumwolframaat |  |
-| cadmium-copper binder | kadmiumkoperbinder |  |
-| cadmium-copper wire | kadmiumkoperdraad |  |
-| cadmium | kadmium |  |
-| caesium (cesium) | sesium |  |
-| cage n. {Returned Letter Section} | hok |  |
-| cage officer {sorting section} | hokbeampte |  |
-| cage {forklift} | hok |  |
-| calamine lotion | kalamynwasmiddel |  |
-| calamine | galmei, kalamyn |  |
-| calcinate v. (calcine) | kalsineer |  |
-| calcine n. | kalsien |  |
-| calcite | kalsiet |  |
-| calcium carbide | kalsiumkarbied |  |
-| calcium chloride | kalsiumchloried |  |
-| calcium oxide | kalsiumoksied |  |
-| calcium tungstate | kalsiumwolframaat |  |
-| calculate | bereken |  |
-| calculated delay | berekende vertraging |  |
-| calculated freight charge | berekende vragkoste |  |
-| calculated judgement {human resources} | berekende oordeel |  |
-| calculated judgement {marketing} | berekende oordeel |  |
-| calculated value | berekende waarde |  |
-| calculating machine (calculator) | rekenmasjien |  |
-| calculating machine | rekenmasjien, optelmasjien |  |
-| calculation | berekening |  |
-| calculator | sakrekenaar |  |
-| calculus | kalkulus |  |
-| calendar quarter | kalenderkwartaal |  |
-| calendar year | kalenderjaar |  |
-| calendar | almanak, kalender |  |
-| calibrate {accuracy} | kalibreer |  |
-| calibrate {adjustment to variable} | instel |  |
-| calibrate {compare with eg laboratory standard} | yk |  |
-| calibrate {inscribing of graduations} | kalibreer |  |
-| calibrated attenuator | gekalibreerde verswakker |  |
-| calibrated disc | gekalibreerde skyf |  |
-| calibrated gauge | gekalibreerde maat |  |
-| calibrated graticule | gekalibreerde graadnet |  |
-| calibrating reference | kalibreerverwysing |  |
-| calibrating resistor | kalibreerresistor |  |
-| calibration chart | kalibreerkaart |  |
-| calibration control | kalibreerkontrole |  |
-| calibration frequency | kalibreerfrekwensie |  |
-| calibration {accuracy} | kalibrering |  |
-| calibrator | kalibrator, kalibreerder |  |
-| calico polishing mop | kalikopoetsdweil |  |
-| caliper gauge | speermaat |  |
-| caliper jaw | passerkaak |  |
-| caliper {paper} | dikte |  |
-| calipers | meetpasser |  |
-| call account | daggeldrekening, aanvraagrekening |  |
-| call alarm lamp | oproepalarmlamp |  |
-| call attempt | oproeppoging |  |
-| call bell | roepklokkie |  |
-| call bid (Saponet) | oproepaanvraag |  |
-| call button {telephone} | roepknop |  |
-| call card | oproepkaart |  |
-| call charge | oproepkoste |  |
-| call circuit (calling circuit, calling line) | roepkring |  |
-| call collision | oproepbotsing |  |
-| call cord | roepsnoer |  |
-| call count | oproeptelling |  |
-| call device | roeptoestel |  |
-| call diversion (call forwarding) | oproepomleiding |  |
-| call fee | oproepgeld |  |
-| call finder | oproepvinder |  |
-| call for (claim, collect) {eg letter} | afhaal |  |
-| call for {file} | opvra |  |
-| call in storage | oproep in bewaring |  |
-| call indicator | oproepaanwyser |  |
-| call information | oproepinligting |  |
-| call key | roepsleutel |  |
-| call letters | roepletters |  |
-| call orbiting | oproepwenteling |  |
-| call out {eg for duty} | ontbied |  |
-| call pick-up {EBX} | oproepskaking |  |
-| call pick-up | oproepoorname |  |
-| call pilot lamp | roepkliklamp |  |
-| call progress {Saponet} | oproepvordering |  |
-| call queuing circuit | oproeptoukring |  |
-| call queuing system | oproeptoustelsel |  |
-| call queuing | oproepbeurtafwagting |  |
-| call registration light {in lift} | roeplig |  |
-| call set-up packet | oproepopstel-pakkie |  |
-| call storage | oproepbewaring |  |
-| call storer | oproepbewaarder |  |
-| call supervisor bell | opsigterroepklokkie |  |
-| call supervisor key | opsigterroepsleutel |  |
-| call supervisor lamp | opsigterroeplamp |  |
-| call supervisory lamp (call supy) | oproeptoesiglamp |  |
-| call ticket | oproepkaartjie |  |
-| call timer | gesprekduurmeter |  |
-| call-acceptance signal | oproepaanvaardingsein |  |
-| call-back facility {PABX} | terugroepfasiliteit |  |
-| call-back n. {telegram service} | terugoproep |  |
-| call-bell system | roepklokkiestelsel |  |
-| call-cancel key | oproepkanselleersleutel |  |
-| call-count meter (call meter, call-register meter, message register) | oproepteller |  |
-| call-count record (traffic record) {telephone} | verkeersrekord |  |
-| call-down equipment {numbering equipment} | uitroeptoerusting |  |
-| call-duration charge | oproepduurkoste |  |
-| call-duration indication | oproepduuraanwysing |  |
-| cal	l-forward mode | oproepaanstuurmodus |  |
-| cal	l-indicator position {switchboard} | oproepaanwyserpunt |  |
-| cal	l-information logging service | oproepinligtingregistrasie |  |
-| cal	l-logging clock | oproeplogklok |  |
-| cal	l-out duty | uitroepdiens |  |
-| cal	l-processing program | oproepverwerkprogram |  |
-| cal	l-progress signal | oproepvorderingsein |  |
-| cal	l-record journal (CRJ) | oproeprekordjoernaal, ORJ |  |
-| cal	l-request circuit | oproepversoekkring |  |
-| cal	l-request packet | oproepversoekpakkie |  |
-| cal	l-side ring conductor | roepkantringgeleier |  |
-| cal	l-side ring key | roepkantluisleutel |  |
-| cal	l-side tip conductor | roepkantpuntgeleier |  |
-| cal	l-state facility counting {PABX} | fasiliteitgebruiktelling |  |
-| cal	l-storer jack | oproepbewaarklink |  |
-| cal	l-storing equipment | oproepbewaartoerusting |  |
-| cal	l-through test | deurskakeltoets |  |
-| cal	l-timer circuit | oproepduurmeetkring |  |
-| cal	l-user data field | oproepgebruikerdataveld |  |
-| cal	l/clear lamp | roep/vrymaak-lamp |  |
-| cal	l | oproep |  |
-| cal	lability {Saponet} | oproepbaarheid |  |
-| cal	lable note | dagnota |  |
-| cal	led exchange | opgeroepte sentrale |  |
-| cal	led extension | opgeroepte bylyn |  |
-| cal	led party (called subscriber, callee) | opgeroepte |  |
-| cal	led party busy (callee engaged) | opgeroepte beset |  |
-| cal	led party clear {signal} | opgeroepte vry |  |
-| cal	led party held (called subscriber held) | vaspen van opgeroepte |  |
-| cal	led-party release (called-subscriber release) | vrymaking deur opgeroepte |  |
-| cal	led-subscriber-answer pick-up {automatic telephone} | tewerkstelling na antwoordsein |  |
-| cal	led-subscriber-held alarm {telephone} | vaspenalarm |  |
-| cal	ler (calling party, calling subscriber) | oproeper |  |
-| cal	ling alarm | roepalarm |  |
-| cal	ling and exchange line identification | roep- en sentralelynidentifikasie |  |
-| cal	ling button | roepknop |  |
-| cal	ling code | roepkode |  |
-| cal	ling cord (front cord) | roepsnoer |  |
-| cal	ling device | roeptoestel |  |
-| cal	ling earth | roepaarde |  |
-| cal	ling end | roepent |  |
-| cal	ling equipment | roeptoerusting |  |
-| cal	ling exchange | roepsentrale |  |
-| cal	ling extension | roepbylyn |  |
-| cal	ling indicator {switchboard} | roepaanwyser |  |
-| cal	ling key | roepsleutel |  |
-| cal	ling lamp | roeplamp |  |
-| cal	ling loop | roeplus |  |
-| cal	ling operator | roepoperateur |  |
-| cal	ling plug | roepprop |  |
-| cal	ling position | roeppunt |  |
-| cal	ling rate {number per unit of time} | oproepsyfer |  |
-| cal	ling rate | oproeptempo |  |
-| cal	ling relay | roeprele |  |
-| cal	ling side | roepkant |  |
-| cal	ling signal (call sign, call signal) | roepsein |  |
-| cal	ling signal lock-out | roepseinuitsluiting |  |
-| cal	ling station | roepstasie |  |
-| cal	ling user | roepgebruiker |  |
-| cal	ling wave | roepgolf |  |
-| calling wire | roepdraad |  |
-| calling-in form | opeisvorm |  |
-| calling-lamp display | roeplampvertoning |  |
-| calling-line identification | roeplynidentifikasie |  |
-| calling-party release (calling-subscriber release) | vrymaking deur oproeper |  |
-| callmaker | oproepmaker |  |
-| calomel electrode | kalomelelektrode |  |
-| calorie | kalorie |  |
-| calorimetry | kalorimetrie |  |
-| cam action | nokwerking |  |
-| cam and lug | nok en oor |  |
-| cam arm | nokarm |  |
-| cam detent | nokstuiter |  |
-| cam disc | nokskyf |  |
-| cam face (cam surface) | nokvlak |  |
-| cam flank | nokflank |  |
-| cam follower | nokvolger |  |
-| cam groove | nokgroef |  |
-| cam lever | nokhefboom |  |
-| cam lobe | nokneus |  |
-| cam locator | noklokaliseerder |  |
-| cam lock {lathe} | noksluiter |  |
-| cam lock | nokslot |  |
-| cam ratchet | nokpalrat |  |
-| cam roller | nokroller |  |
-| cam sleeve | nokhuls |  |
-| cam spring | nokveer |  |
-| cam thrust washer | nokdrukwaster |  |
-| cam tongue | noktong |  |
-| cam track | nokbaan |  |
-| cam unit | nokeenheid |  |
-| cam-controlled contact pile | nokbeheerde kontakstapel |  |
-| cam-feed pinion | nokvoerkleinrat |  |
-| cam-lever pivot | nokhefboomspil |  |
-| cam-lock line {lathe} | noksluitlyn |  |
-| cam-lock nose {lathe} | noksluitneus |  |
-| cam-lock spindle {lathe} | noksluitspil |  |
-| cam-lock stud {lathe} | noksluittapbout |  |
-| cam-locking {lathe} | noksluiting |  |
-| cam-operated air valve | nokgewerkte lugklep |  |
-| cam-operated contact | nokgewerkte kontak |  |
-| cam-operating pawl | nokwerkpal |  |
-| cam-positioning bracket | nokposisioneersteun |  |
-| cam-release lever | nokloshefboom |  |
-| cam-retention pawl | nokkeerpal |  |
-| cam-sleeve roller | nokhulsroller |  |
-| cam-spring bender | nokveerbuier |  |
-| cam-spring set | nokveerstel |  |
-| cam-unit casting | nokeenheidgietstuk |  |
-| cam | nok |  |
-| camber {road} | ronding |  |
-| camber {spring} | kromming |  |
-| camber | wielvlug |  |
-| cambric washer | kamerdoekwaster |  |
-| came clear while localising (CWL) | reggekom tydens opsporing, RTO |  |
-| camel-hair brush | kameelhaarkwassie |  |
-| camera alignment mark {reprographic process} | kamerarigmerk |  |
-| camera channel | kamerakanaal |  |
-| camera ready | kameragereed, kameraklaar |  |
-| camera tube {television} | kamerabuis |  |
-| camp allowance | kamptoelae |  |
-| camp attendant | kampoppasser |  |
-| camp dixie | kampkastrol |  |
-| camp latrine | kamplatrine |  |
-| camp on (park) {eg on line} | vertoef |  |
-| camp on busy (camp on busy line) | op besette lyn vertoef |  |
-| camp on busy | vertoef op beset |  |
-| camp on line {automatic trunk exchange} | op 'n lyn vertoef |  |
-| camp stool | kampstoel |  |
-| camp table | veldtafel |  |
-| camp-on key | vertoefsleutel |  |
-| camp-on queuing | vertoeftoustaan |  |
-| camp-on-busy facility (camp-on facility) | vertoeffasiliteit |  |
-| camp-stretcher | veldbed, voubed |  |
-| campus recruiting day | werkgewersdag |  |
-| camshaft spanner | nokassleutel |  |
-| camshaft | nokas |  |
-| cancel key | kanselleersleutel |  |
-| cancel {stamp} | afstempel, rojeer |  |
-| cancel | kanselleer |  |
-| cancellation advice | kanselleringsadvies |  |
-| cancellation-of-message signal | berigkanselleersein |  |
-| cancellation-stamp impression | rojeerstempelafdruk |  |
-| canceller | rojeerder |  |
-| cancelling ink | rojeerink |  |
-| cancelling machine | rojeermasjien |  |
-| candidate | kandidaat |  |
-| candle lamp | kerslamp |  |
-| candle power | kerskrag |  |
-| candlestick {telephone} | kandelaar |  |
-| canister {for cable} | dop |  |
-| canister | kan |  |
-| cannibalise | kannibaliseer |  |
-| cannon pillar {movement} | kanonpilaar |  |
-| canolle knife | canolle-mes |  |
-| canonical correlation {marketing} | kanoniese korrelasie |  |
-| canonical correlation | kanoniese korrelasie |  |
-| canopy | kap |  |
-| cant backwards | agteroor kantel |  |
-| cantop earth | kantop-aarde |  |
-| cantop protector | kantop-afleier |  |
-| canvas bag | seilsak |  |
-| canvas hose | seilslang |  |
-| canvas sling | seildraband |  |
-| canvas | seil |  |
-| cap (top cap) {electron tube} | kap |  |
-| cap badge | petkenteken |  |
-| cap connection {valve tester} | dopverbinding |  |
-| cap end | afsluitdop |  |
-| cap | dop |  |
-| capability bit | vermoebis |  |
-| capability test | vermoetoets |  |
-| capability | bekwaamheid |  |
-| capability | vermoe |  |
-| capability | vermoe |  |
-| capacitance and clear {test} | kapasitansie en skoon |  |
-| capacitance balance | kapasitansiebalans |  |
-| capacitance balancing | kapasitansiebalansering |  |
-| capacitance bridge | kapasitansiebrug |  |
-| capacitance coupling (RC coupling, resistance) | RC-koppeling, weerstand, kapasitansie-koppeling |  |
-| capacitance deviation | kapasitansieafwyking |  |
-| capacitance earth (counterpoise, counterpoise earth) | teenwigaarde |  |
-| capacitance key | kapasitansiesleutel |  |
-| capacitance kick (capacity kick) | kapasitansieskop, kapasitansie-uitslag |  |
-| capacitance magnifier (capacity magnifier) | kapasitansievergroter |  |
-| capacitance meter | kapasitansiemeter |  |
-| capacitance storage | kapasitansiebewaring |  |
-| capacitance test | kapasitansietoets |  |
-| capacitance unbalance | kapasitansie-onbalans |  |
-| capacitance unit | kapasitansie-eenheid |  |
-| capacitance {eg of capacitor} | kapasitansie |  |
-| capacitance-coupled amplifier | kapasitief gekoppelde versterker |  |
-| capacitance-unbalance bridge | kapasitansie-onbalansbrug |  |
-| capacitance/impedance bridge | kapasitansie/impedansie-brug |  |
-| capacitance/inductance constant (LC constant) | kapasitansie/induktansie-konstante, LC-konstante |  |
-| capacitive circuit | kapasitiewe kring |  |
-| capacitive coupling | kapasitiewe koppeling |  |
-| capacitive discharge | kapasitiewe ontlading |  |
-| capacitive iris {waveguide} | kapasitiewe iris |  |
-| capacitive load | kapasitiewe belasting |  |
-| capacitive post {waveguide} | kapasitiewe pen |  |
-| capacitive reactance | kapasitiewe reaktansie |  |
-| capacitive reaction (capacitive regeneration) | kapasitiewe terugkoppeling |  |
-| capacitive tuning | kapasitiewe instemming |  |
-| capacitive-branch current | kapasitiewetak-stroom |  |
-| capacitive | kapasitief |  |
-| capacitor block (block of capacitors) | kapasitorblok |  |
-| capacitor box {two-motion selector} | kapasitorkas |  |
-| capacitor charge | kapasitorlading |  |
-| capacitor circuit | kapasitorkring |  |
-| capacitor coupling | kapasitorkoppeling |  |
-| capacitor discharge metering | kapasitorontlaaitelling |  |
-| capacitor discharge | kapasitorontlading |  |
-| capacitor impulse | kapasitorimpuls |  |
-| capacitor leakage | kapasitorlek |  |
-| capacitor microphone (capacitor transmitter) | kapasitormikrofoon |  |
-| capacitor reactance | kapasitorreaktansie |  |
-| capacitor surge | kapasitorstuwing |  |
-| capacitor vane | kapasitorplaat |  |
-| capacitor-and-clear test | kapasitor-en-skoon-toets |  |
-| capacitor-input filter | kapasitoringangfilter |  |
-| capacitor-kick test | kapasitorskoptoets |  |
-| capacitor-mounting strap | kapasitormonteerstrop |  |
-| capacitor-start motor | kapasitoraansitmotor |  |
-| capacitor/impedance bridge | kapasitor/impedansie-brug |  |
-| capacitor/inductor filter | kapasitor/induktor-filter |  |
-| capacitor/resistor filter (RC filter) | kapasitor/resistor-filter, RC-filter |  |
-| capacity (power) {eg lifting power} | kapasiteit, vermoe |  |
-| capacity <also see CAPACITANCE> | kapasitansie |  |
-| capacity correction factor {cooling coil} | vermoekorreksiefaktor |  |
-| capacity deviation | kapasitansieafwyking |  |
-| capacity for stowage (loading space) | laairuimte |  |
-| capacity modulator {gas compressor} | leweringsreelaar |  |
-| capacity of work | arbeidsvermoe |  |
-| capacity tolerance | kapasitansietoleransie |  |
-| capacity unbalance bridge | kapasitansie-onbalansbrug |  |
-| capacity {accounting machine} | rekengrens |  |
-| capacity {cables} | kapasiteit |  |
-| capacity {eg telephone exchange} | lynetal |  |
-| capacity {filing cabinet} | liasseerruimte |  |
-| capacity {in the sense of storage space usually expressed in cubic metres} | ruimte |  |
-| capacity {number of pairs in cables} | paretal |  |
-| capacity {of a battery cell usually expressed in Ah} | kapasiteit |  |
-| capacity {person} | hoedanigheid |  |
-| capacity {that can contain something expressed in l/t etc eg a tank/ship} | inhoud |  |
-| capacity | hoedanigheid |  |
-| cape chisel | ritsbeitel |  |
-| cape {clothing} | mantel |  |
-| capillary action | kapillere werking |  |
-| capillary electrometer | kapillere elektrometer |  |
-| capital equipment | kapitaaltoerusting |  |
-| capital estimates (estimates of capital expenditure) | kapitaalbegroting |  |
-| capital expenditure (capital outlay) | kapitaalbesteding, kapitaaluitgawe |  |
-| capital risk | kapitaalrisiko |  |
-| capital value | kapitaalwaarde |  |
-| capital works | kapitaalwerke |  |
-| capital | hoofletter |  |
-| capital | hoofstad |  |
-| capped fuse (capped safety fuse) | doppielont |  |
-| capstan handwheel (pilot handwheel) {lathe} | speekwiel |  |
-| capstan head | knewelkop |  |
-| capstan lathe (turret lathe) | rewolwerdraaibank, toringdraaibank |  |
-| capstan saddle | toringkopsaal |  |
-| capstan slide {lathe} | toringslee |  |
-| capstan turret | toring |  |
-| capstan-headed screw | knewelskroef |  |
-| capsule receiver | kapsulegehoorstuk |  |
-| capsule transmitter | kapsulemikrofoon |  |
-| capsule {also telephone} | kapsule |  |
-| captive fixing device | vanghegter |  |
-| captive insurance | gebonde versekering |  |
-| captive screw | geankerde skroef |  |
-| capture effect | vangeffek |  |
-| capture lamp | inbeslagneemlamp |  |
-| capture range | vangstrek |  |
-| capture v. {Telebank card} | insluk |  |
-| capture v. {data} | vasle |  |
-| capture v. | in beslag neem |  |
-| captured card {Telebank} | ingeslukte kaart |  |
-| capturing equipment | vasletoerusting |  |
-| car radio | motorradio |  |
-| caravan | karavaan, woonwa |  |
-| carbide chip breaker | karbiedsnyselbreker |  |
-| carbide-tipped drill bit | karbiedpuntboor |  |
-| carbide-tipped tool | karbiedpuntbeitel |  |
-| carbon (carbon block) | koolblok |  |
-| carbon (carbon electrode) {electricity} | koolelektrode |  |
-| carbon arc welding | koolboogsweising |  |
-| carbon arrester | koolstofafleier |  |
-| carbon brush | koolborsel |  |
-| carbon copy | koolkopie |  |
-| carbon deposit | koolaanpaksel |  |
-| carbon dioxide | koolstofdioksied |  |
-| carbon drill | koolstaalboor |  |
-| carbon dust | koolpoeier |  |
-| carbon filament | koolgloeidraad |  |
-| carbon film resistor | koolfilmresistor |  |
-| carbon granule | koolkorreltjie |  |
-| carbon lamp | kooldraadlamp |  |
-| carbon monoxide | koolstofmonoksied |  |
-| carbon paper | koolpapier |  |
-| carbon particle | kooldeeltjie |  |
-| carbon pick-up | koolstofaanwassing |  |
-| carbon potentiometer | koolpotensiometer |  |
-| carbon protector | koolafleier |  |
-| carbon resistor | koolresistor |  |
-| carbon ring | koolring |  |
-| carbon steel | koolstaal |  |
-| carbon tetrachloride | koolstoftetrachloried |  |
-| carbon tool steel | koolgereedskapstaal |  |
-| carbon {element} | koolstof |  |
-| carbon {general} | kool |  |
-| carbon-backed paper (carbonised paper) | koolrugpapier |  |
-| carbon-block gauge | koolblokmaat |  |
-| carbon-filament lamp (carbon incandescent lamp) | kooldraadlamp |  |
-| carbon-free alloy | koolstofvry legering |  |
-| carbon-granule transmitter (carbon microphone, carbon transmitter) | koolmikrofoon |  |
-| carbon-impregnated paper | koolge<mpregneerde papier |  |
-| carbon-pile regulator | koolsuilreelaar |  |
-| carbon-pile voltage regulator | koolsuilspanningsreelaar |  |
-| carbonate | karbonaat |  |
-| carbonic acid | koolsuur |  |
-| carbonised oil | gekarboniseerde olie |  |
-| carbonising flame | karboniseervlam |  |
-| carbonless paper | koollose papier |  |
-| carborundum grinder | karborundumslyper |  |
-| carborundum wheel | karborundumwiel |  |
-| carborundum | karborundum |  |
-| carburettor | vergasser |  |
-| carburise | inkool, karbureer |  |
-| carcass {also tyre} | karkas, romp |  |
-| carcinotron | karsinotron |  |
-| card carrier | kaarthouer |  |
-| card clip | kaartklem |  |
-| card compressor (card support) {card drawer} | kaartstut |  |
-| card count | kaarttelling |  |
-| card counter (card-counting device) | kaartteller |  |
-| card design | kaartontwerp |  |
-| card dialler | kaartskakeltoestel |  |
-| card feed | kaartvoerder |  |
-| card file | kaartleer |  |
-| card filing cabinet | kaartkabinet |  |
-| card filing library | kartoteek |  |
-| card frame | kaartsubraam |  |
-| card index | kaartindeks |  |
-| card jam | kaartknoop |  |
-| card magazine | kaartmagasyn |  |
-| card print | kaartafdruk |  |
-| card stacker {punched-card machine} | kaartstapelaar |  |
-| card {eg microwave} | kaart |  |
-| card-index system | kaartindeksstelsel |  |
-| card-retaining spring | kaarthouveer |  |
-| cardboard backing | kartonrug |  |
-| cardboard box | kartondoos |  |
-| cardboard | karton |  |
-| cardinal number | hoofgetal, kardinaalgetal |  |
-| cardioid diagram (heart-shaped diagram) | hartvormige diagram, kardio<ede diagram |  |
-| cardioid n. | kardio<ed |  |
-| cardioid reception (heart-shape reception) | hartvormige ontvangs, kardio<ede ontvangs |  |
-| cardphone | kaartfoon |  |
-| care of | per adres |  |
-| career consultation | loopbaankonsultasie |  |
-| career levelling | loopbaanafplatting |  |
-| career support system | loopbaanondersteuningstelsel |  |
-| caretaker's requisites n. | opsigtersbenodigdhede |  |
-| caretaker | opsigter |  |
-| carousel (voltage adapter, voltage adjustment switch) | spanningskrans |  |
-| carpenter's brace | timmermansomslag |  |
-| carpenter's drill | timmermansboor |  |
-| carpenter's saw | timmermansaag |  |
-| carpentry | timmerwerk |  |
-| carpet backing | tapytruglaag |  |
-| carpet boom {forklift} | matbalk |  |
-| carpet flex | tapytsnoer |  |
-| carpet | tapyt |  |
-| carport | motoroordak |  |
-| carriage assembly {two-motion selector} | wasamestel |  |
-| carriage bell catch plate | waklokvangplaat |  |
-| carriage bolt (cup square-neck bolt) | balkbout |  |
-| carriage cross-head clutch | wakruiskopkoppelaar |  |
-| carriage end-plate | wa-entplaat |  |
-| carriage feed {mechanism in teleprinter} | wa-aanskuiwer |  |
-| carriage feed {teleprinter} | wa-aanskuiwing |  |
-| carriage forward | vrag te betaal |  |
-| carriage latch | waknip |  |
-| carriage return {computer} | reeleinde |  |
-| carriage return {teleprinter} | wa-terugloop |  |
-| carriage spanner {eg teleprinter} | wasleutel |  |
-| carriage travel {eg printer, typewriter} | wa-slag |  |
-| carriage {eg lathe, typewriter} | wa |  |
-| carriage {eg relè} | draer |  |
-| carriage-adjusting screw {relè} | draerstelskroef |  |
-| carriage-feed lever {teleprinter} | wa-aanskuifhefboom |  |
-| carriage-return control lever | wa-terugloopbeheerhefboom |  |
-| carriage-return key | wa-terugloopsleutel |  |
-| carriage-return spring | wa-terugloopveer |  |
-| carriage-support bar | wasteunstaaf |  |
-| carried forward {bookkeeping} | oorgedra |  |
-| carried load | gedraagde las |  |
-| carried-over fault | oorgedraagde fout |  |
-| carrier (dog, driving dog) {eg lathe} | meenemer |  |
-| carrier amplifier | draerversterker |  |
-| carrier arm | draerarm |  |
-| carrier bag | drasak |  |
-| carrier broadcast channel | uitsaaidraerkanaal |  |
-| carrier bypass filter | draeromloopfilter |  |
-| carrier cable | draerstelselkabel |  |
-| carrier channel | draerkanaal |  |
-| carrier compression | draerkomprimering |  |
-| carrier control station | draerstelselbeheerstasie |  |
-| carrier current telegraphy (carrier telegraphy) | draertelegrafie |  |
-| carrier current | draerstroom |  |
-| carrier double arm | draerdubbelarm |  |
-| carrier drift (carrier-frequency drift) | draerfrekwensiedwaling |  |
-| carrier element | draerelement |  |
-| carrier equipment | draertoerusting |  |
-| carrier exploitation | draereksploitasie |  |
-| carrier failure | draerfaling |  |
-| carrier fault | draerfout |  |
-| carrier filter | draerfilter |  |
-| carrier frequency | draerfrekwensie |  |
-| carrier generating equipment | draeropwektoerusting |  |
-| carrier generator | draergenerator |  |
-| carrier glass flat {reader/printer} | draerruit |  |
-| carrier hybrid | draerdifferensiaal |  |
-| carrier input | draerinset |  |
-| carrier installation | draerstelselinstallering |  |
-| carrier leak | draerlek |  |
-| carrier level indicator | draerpeilaanwyser |  |
-| carrier level | draerpeil |  |
-| carrier link | draerverbinding |  |
-| carrier maintenance | draerstelselinstandhouding |  |
-| carrier noise level | draerruispeil |  |
-| carrier noise | draerruis |  |
-| carrier oscillation | draerossillasie |  |
-| carrier output | draeruitset |  |
-| carrier reintroduction | draerherinvoering |  |
-| carrier repeater | draerherhaler |  |
-| carrier ringer (carrier system ringer, ringer convertor, ringing convertor) | roepomsetter |  |
-| carrier room | draerkamer |  |
-| carrier route | draerroete |  |
-| carrier shift | draerverskuiwing |  |
-| carrier signal | draersein |  |
-| carrier station | draerstasie |  |
-| carrier stop filter | draersperfilter |  |
-| carrier subscriber | draerhuurder |  |
-| carrier supply | draerbron |  |
-| carrier suppression | draeronderdrukking |  |
-| carrier switch system | draerskakelstelsel |  |
-| carrier synchronisation | draersinchronisasie |  |
-| carrier synchronisation | draersinchronisering |  |
-| carrier system | draerstelsel |  |
-| carrier tap choke coil | draertapsmoorspoel |  |
-| carrier telegraph circuit | draertelegraafkring |  |
-| carrier telegraph system | draertelegraafstelsel |  |
-| carrier telephone channel | draertelefoonkanaal |  |
-| carrier telephone system | draertelefoonstelsel |  |
-| carrier telephony | draertelefonie |  |
-| carrier terminal equipment | draereindpunttoerusting |  |
-| carrier terminal station | draereindstasie |  |
-| carrier transit speed {pneumatic tube system} | houerspoed |  |
-| carrier transmission | draertransmissie |  |
-| carrier transposed system | kruisingstelsel vir drawerking |  |
-| carrier transposed wires | draadkruising vir draerwerking |  |
-| carrier transposition system | draerkruisingstelsel |  |
-| carrier transposition | draerkruising |  |
-| carrier trunk circuit | draerhooflynkring |  |
-| carrier trunk route | draerstelselhooflynroete |  |
-| carrier tube {lathe} | drapyp |  |
-| carrier vector | draervektor |  |
-| carrier voltage | draerspanning |  |
-| carrier wave | draergolf |  |
-| carrier web {labels for computer} | drastrook |  |
-| carrier working | draerwerking |  |
-| carrier {also filing unit} | draer |  |
-| carrier {cables} | rak |  |
-| carrier {microfilm} | kleefraam |  |
-| carrier-blocking network | draerblokkeernetwerk |  |
-| carrier-circuit transposition | draerkringkruising |  |
-| carrier-fault extract | uittreksel van draerfoute |  |
-| carrier-frequency deviation | draerfrekwensiedeviasie |  |
-| carrier-frequency oscillator (CFO) | draerfrekwensieossillator, DFO |  |
-| carrier-frequency pulse | draerfrekwensiepuls |  |
-| carrier-frequency stability | draerfrekwensiestabiliteit |  |
-| carrier-input level | draerinsetpeil |  |
-| carrier-isolating choke coil | draerafsondersmoorspoel |  |
-| carrier-on-cable system | kabel-draerstelsel |  |
-| carrier-repeater station | draerherhaalstasie |  |
-| carrier-station staff | draerstasiepersoneel |  |
-| carrier-supply amplifier | draerbronversterker |  |
-| carrier-system amplifier | draerstelselversterker |  |
-| carrier-system terminal | draerstelseleindpunt |  |
-| carrier-to-noise ratio | draer/ruis-verhouding |  |
-| carrier-type pole | draerroetepaal |  |
-| carrier-wave envelope | draergolfomhulling |  |
-| carrier | draer |  |
-| carrier | houer |  |
-| carry bit | oordrabis |  |
-| carry electrode | oordra-elektrode |  |
-| carry forward {accounting} | oordra |  |
-| carry n. {arithmetic operation} | oordrag |  |
-| carry out {instructions} | nakom, uitvoer |  |
-| carry up {wall} | optrek |  |
-| carry v. (carry over) {arithmetic operation, electric fault} | oordra |  |
-| carry-forward balance | oordrasaldo |  |
-| carry-over fault | oordrafout |  |
-| carry-over provision | oordragsvoorsiening |  |
-| carry-over total | oordratotaal |  |
-| carry-over works | oordrawerke |  |
-| carrying capacity (load capacity) | dravermoë |  |
-| carrying case {instruments} | tas |  |
-| carrying wheel {forklift} | drawiel, stutwiel |  |
-| cartage order | karwei-order |  |
-| cartage | karweikoste, vervoerkoste |  |
-| cartage | vervoer |  |
-| carton {container} | karton |  |
-| carton | karton |  |
-| cartoon test {marketing} | tekenprenttoets |  |
-| cartoon test | tekenprenttoets |  |
-| cartridge fuse | patroonsekering, smeltpatroon |  |
-| cartridge wrapper | patroonomhulsel |  |
-| cartridge | patroon |  |
-| cascade amplification | kaskadeversterking |  |
-| cascade amplifier | kaskadeversterker |  |
-| cascade capacitor | kaskadekapasitor |  |
-| cascade connection | kaskadeverbinding |  |
-| cascade converter | kaskadeomsetter |  |
-| cascade doubler | kaskadeverdubbelaar |  |
-| cascade quadrupler | kaskadeverviervoudiger |  |
-| cascade v. | kaskadeer |  |
-| cascode amplifier | kaskodeversterker |  |
-| case (casing, housing) | hulsel, omhulsel |  |
-| case shift {teleprinter} | kasverskuiwing |  |
-| case under review | onderhawige geval |  |
-| case-fixing screw | dophegskroef |  |
-| case-harden | dopverhard |  |
-| case-hardened steel | dopverharde staal |  |
-| case-shift inserter | kasskuifinvoeger |  |
-| case-shift rack | kasskuifstandtang |  |
-| case | dop |  |
-| case | geval |  |
-| case | kas |  |
-| case | kis |  |
-| case | tas |  |
-| cash account | kasrekening |  |
-| cash advance | kontantvoorskot |  |
-| cash balance | kassaldo, kontantsaldo |  |
-| cash bowl | geldbakkie |  |
-| cash box | geldkissie, geldtrommel |  |
-| cash collection | kontantvordering |  |
-| cash drawer | geldlaai |  |
-| cash float | kaskontant, kleingeld |  |
-| cash in hand | kontant voorhande |  |
-| cash list {pay clerk} | kontantlys |  |
-| cash n. | kontant |  |
-| cash on delivery (COD) | kontant by aflewering, KBA |  |
-| cash payment | kontantbetaling |  |
-| cash register | kasregister |  |
-| cash reserve | kontantreserwe |  |
-| cash shortage | kastekort |  |
-| cash slip | kontantstrokie |  |
-| cash surplus | kasoorskot |  |
-| cash tray | geldbord |  |
-| cash turnover | geldomset, kontantomset |  |
-| cash up v. {eg at end of day} | kontant afsluit |  |
-| cash v. {eg money order} | wissel |  |
-| cash-book | kasboek |  |
-| cash-on-delivery service (COD service) | kontant-by-aflewering-diens, KBA-diens |  |
-| cash-register impression | kasregisterafdruk |  |
-| cash-register reading | kasregisterlesing |  |
-| cash-up n. | kontantafsluiting |  |
-| cashier | kassier |  |
-| casing cradle {eg boring machine} | voeringdraraam |  |
-| casing n. {eg in cylinder} | voering |  |
-| casing n. {tyre} | romp |  |
-| cassette | kasset |  |
-| cassiterite | kassiteriet |  |
-| cast aluminium | gietaluminium |  |
-| cast housing | gegote hulsel |  |
-| cast iron (CI) | gietyster, GIY |  |
-| cast safety guard | gietbeskermskut |  |
-| cast steel | gietstaal |  |
-| cast v. {bookkeeping} | optel |  |
-| cast v. {concrete slab} | gooi |  |
-| cast v. {vote} | uitbring |  |
-| cast v. | giet |  |
-| cast-iron alloy | gietysterlegering |  |
-| cast-iron base | gietystervoetstuk |  |
-| cast-iron conduit | gietysterleipyp |  |
-| cast-iron joint | gietysterlasstuk |  |
-| cast-iron pipe | gietysterpyp |  |
-| casting error {bookkeeping} | optelfout |  |
-| casting vote | beslissende stem |  |
-| casting | gietsel, gietstuk |  |
-| casting | gietwerk |  |
-| castle nut | kroonmoer |  |
-| casual labourer | los arbeider |  |
-| casual transport permit | toevallige vervoerpermit |  |
-| cat ladder | katleer |  |
-| cat's whisker (whisker) | katsnor |  |
-| catalogue n. | katalogus |  |
-| catalogue number | katalogusnommer |  |
-| catalogue price (catalogue rate) | katalogusprys |  |
-| catalogue v. | katalogiseer |  |
-| catch plate {lathe} | meeneemplaat |  |
-| catch plate | vangplaat |  |
-| catch {automatic transmitter} | grendel |  |
-| catcher {microwave} | vanger |  |
-| catching diode (clamping diode) | vaspendiode |  |
-| catchweight | voetstootse massa |  |
-| catchword | kustode, volgwoord |  |
-| catchword | lemma, trefwoord |  |
-| category | kategorie |  |
-| catenary wire | dradraad, kettingdraad |  |
-| cathion (cation) | katioon |  |
-| cathode base pin | katodevoetpen |  |
-| cathode beam | katodebundel |  |
-| cathode bias | katodevoorspanning |  |
-| cathode bypass capacitor | katodeomloopkapasitor |  |
-| cathode coupling | katodekoppeling |  |
-| cathode current | katodestroom |  |
-| cathode fall | katodeval |  |
-| cathode follower regulator | katodevolgerreëlaar |  |
-| cathode follower | katodevolger |  |
-| cathode glow | katodeglim |  |
-| cathode keying {radiotelegraphy} | katodesleuteling |  |
-| cathode layer | katodelaag |  |
-| cathode loading | katodebelasting |  |
-| cathode mercury | katodekwik |  |
-| cathode modulation | katodemodulasie |  |
-| cathode potential (cathode voltage) | katodespanning |  |
-| cathode pulse modulation | katodepulsmodulasie |  |
-| cathode ray | katodestraal |  |
-| cathode sheath | katodeomhulsel |  |
-| cathode spot | katodekol |  |
-| cathode sputtering | katodeverstuiwing |  |
-| cathode terminal | katodestiffie |  |
-| cathode-coupled amplifier | katodegekoppelde versterker, versterker met katodekoppeling |  |
-| cathode-follower circuit | katodevolgerkring |  |
-| cathode-glow lamp | katodeglimlamp |  |
-| cathode-heating time | katodeverhittyd |  |
-| cathode-lead inductance | induktansie van katodeleiding |  |
-| cathode-ray direction-finder | katodestraalrigtingpeiler |  |
-| cathode-ray oscilloscope (CRO) | katodestraalossilloskoop, KSO |  |
-| cathode-ray tube display | katodestraalbeeld |  |
-| cathode-ray tube indicator | katodestraalbuiswyser |  |
-| cathode-ray tube | katodestraalbuis |  |
-| cathode-ray tuning indicator (electric eye, magic eye) | instemoog |  |
-| cathode/auto bias | katode/outo-voorspanning |  |
-| cathode | katode |  |
-| cathodic bombardment | katodiese bombardement |  |
-| cathodic evaporation | katodiese verdamping |  |
-| cathodic protection {electrolysis of cables} | katodiese beskerming |  |
-| catsuit | kattepak |  |
-| catwalk | brugvoetpaadjie |  |
-| catwalk | looplys |  |
-| caulk | kalfater |  |
-| caulked earthenware pipe | gekalfaterde erdepyp |  |
-| caulker tool (caulking iron, caulking tool) | kalfaatyster |  |
-| caulking compound | kalfaatmengsel, kalfaatsel |  |
-| caulking joint | kalfaatlas |  |
-| caulking pincers | kalfaatknyptang |  |
-| caulking yarn | kalfaatgaring |  |
-| caulking | kalfaatwerk, kalfatering |  |
-| causal technique {marketing} | oorsaaklike tegniek |  |
-| causal technique | oorsaaklike tegniek |  |
-| cause field | oorsaakveld |  |
-| caustic paint remover | byt-verfverwyderaar |  |
-| caution payment | voorsorgbetaling |  |
-| caution plate | waarskuwingsplaat |  |
-| cavitation | holtevorming, kavitasie |  |
-| cavity (resonant cavity) | resonansieholte |  |
-| cavity filter | holtefilter |  |
-| cavity frequency meter | holtefrekwensiemeter |  |
-| cavity magnetron | holtemagnetron |  |
-| cavity resonance | holteresonansie |  |
-| cavity wavemeter | holtegolfmeter |  |
-| cavity {eg defect} | holte |  |
-| cavity-coupled filter | holtegekoppelde filter |  |
-| cavity | gietruimte |  |
-| ceasing date | staakdatum |  |
-| ceasing docket | staakmagtiging |  |
-| cede | sedeer |  |
-| ceiling bonus | maksimum bonus |  |
-| ceiling hook | plafonhaak |  |
-| ceiling loft (loft) | solder |  |
-| ceiling rod | plafonstaaf |  |
-| ceiling rose | plafonroset |  |
-| ceiling void | plafonruimte |  |
-| cell amplification | selversterking |  |
-| cell cover | seldeksel |  |
-| cell {also air filter} | sel |  |
-| cell-captive insurer | gebondedeel-versekeraar |  |
-| cellophane paper | sellofaanpapier |  |
-| cellular rubber (foam rubber, rubber foam, rubber sponge, sponge rubber) | skuimrubber, sponsrubber |  |
-| celluloid adj. | sellulo<ed |  |
-| celluloid n. | sellulo<ed |  |
-| cellulose acetate film | selluloseasetaatvlies |  |
-| cellulose acetate | selluloseasetaat |  |
-| cellulose tape | selluloseband |  |
-| cement duct | sementkanaal |  |
-| cement kettle | sementketel |  |
-| cement mortar | sementdagha, sementmortel |  |
-| cement n. | sement |  |
-| cement screed | sementvlaklaag |  |
-| cement v.{eg plastic} | vasplak |  |
-| cementation bar (blister bar) | sementeerstaaf |  |
-| cementation | sementering |  |
-| cementite | sementiet |  |
-| censorship | sensuur |  |
-| centering tool | sentreerbeitel |  |
-| centering | sentrering |  |
-| centimetre (cm) | sentimeter, cm |  |
-| centimetric wave | sentimetergolf |  |
-| centiminute | sentiminuut |  |
-| centra! tendency {marketing} | sentrale neiging |  |
-| central administration | sentrale administrasie |  |
-| central authority | sentrale gesag |  |
-| central automatic call-billing equipment (ZAGE) | sentrale outomatiese oproepdebiteertoerusting, ZAGE |  |
-| central battery | sentrale battery |  |
-| central control position | sentrale beheerpunt |  |
-| central director | sentrale direktor |  |
-| central electrode | middelelektrode |  |
-| central executive committee | sentrale uitvoerende komitee |  |
-| central frequency | middelfrekwensie |  |
-| central heating | sentrale verwarming |  |
-| central limit theorem | sentralelimiet-stelling |  |
-| central limit theory {marketing} | sentralelimietstelling |  |
-| central management system (CMS) | SBS, sentrale beheerstelsel |  |
-| central member | middeldeel |  |
-| central merit committee | sentrale merietekomitee |  |
-| central monitoring position | sentrale monitorpunt |  |
-| central processing unit (CPU) | sentrale verwerkeenheid, SVE |  |
-| central promotion committee | sentrale bevorderingskomitee |  |
-| central telegraph office | sentrale telegraafkantoor |  |
-| central trend | kerntendens, sentrale tendens |  |
-| central word processor | sentrale woordverwerker |  |
-| central-battery exchange system (central-battery system) | sentralebattery-stelsel |  |
-| central-battery exchange | sentralebattery-sentrale |  |
-| central-battery feed | sentralebattery-toevoer |  |
-| central-battery signalling | sentralebattery-seining |  |
-| central-battery supply | sentralebattery-voeding |  |
-| central-battery switchboard | sentralebattery-skakelbord |  |
-| central-battery telephone | sentralebattery-telefoon |  |
-| central-battery working | sentralebattery-werking |  |
-| centralisation | sentralisering |  |
-| centralised grading | gesentraliseerde gradering |  |
-| centralised power distribution | gesentraliseerde kragverdeling |  |
-| centralised service observation | gesentraliseerde dienswaarneming |  |
-| centre back {clothing} | middel agter |  |
-| centre bank | middelbank |  |
-| centre bush | senterbus |  |
-| centre conductor | middelgeleier |  |
-| centre contact | middelkontak |  |
-| centre distance {gears} | hartafstand |  |
-| centre drill | senterboor |  |
-| centre extension | middelverlenging |  |
-| centre finder | middelpuntsoeker |  |
-| centre frequency | middelfrekwensie |  |
-| centre gauge | sentermaat |  |
-| centre height | senterhoogte |  |
-| centre hole | sentergat |  |
-| centre lathe | senterdraaibank |  |
-| centre layer | middellaag |  |
-| centre limb | middelbeen |  |
-| centre line (line of centres) | hartlyn |  |
-| centre n. (CR) {drawing} | hartafstand, HA |  |
-| centre n. {eg lathe} | senter |  |
-| centre n. {general} | middelpunt |  |
-| centre n. | sentrum |  |
-| centre of curvature | krommingsmiddelpunt |  |
-| centre of distribution | distribusiepunt |  |
-| centre of gravity | swaartepunt |  |
-| centre point (mid-point) | middelpunt |  |
-| centre punch | senterpons |  |
-| centre spindle {movement} | minuutspil |  |
-| centre string {cable} | middelstring |  |
-| centre tap | middeltap |  |
-| centre tapping | middeltapping |  |
-| centre to centre | senter tot senter |  |
-| centre v. | sentreer |  |
-| centre wheel {movement} | minuutrat |  |
-| centre zero | middelzero |  |
-| centre-back seam {clothing} | middelagternaat |  |
-| centre-fed antenna | middelgevoerde antenne |  |
-| centre-feeding | middelvoeding |  |
-| centre-hole speed | sentergatspoed |  |
-| centre-hole tape | sentergatband |  |
-| centre-line-average parameter | hartlyngemiddeldeparameter |  |
-| centre-piece | senterstuk |  |
-| centre-point working | middelaftakwerking |  |
-| centre-stable relay | middelstandrelé |  |
-| centre-tapped filament winding | middeltapgloeidraadwikkeling |  |
-| centre-tapped repeating coil | middeltapoordraspoel |  |
-| centre-tapped resistor | middeltapresistor |  |
-| centre-tapped secondary winding | sekondére wikkeling met middeltap |  |
-| centre-to-centre spacing | hartafstand, senter-tot-senter-spasiering |  |
-| centre-zero galvanometer | middelzerogalvanometer |  |
-| centre-zero instrument | middelzero-instrument |  |
-| centre-zero meter | middelzerometer |  |
-| centreless grinding | senterlose slypwerk |  |
-| centrifugal clutch | sentrifugale koppelaar |  |
-| centrifugal compressor | sentrifugale kompressor |  |
-| centrifugal fan | sentrifugale waaier |  |
-| centrifugal force | middelpuntvliedende krag |  |
-| centrifugal governor | sentrifugale reelaar |  |
-| centrifugal switch | sentrifugale skakelaar |  |
-| centring control {eg television} | sentreerkontrole |  |
-| centring | sentrering |  |
-| centripetal force | middelpuntsoekende krag |  |
-| ceramic capacitor | keramiekkapasitor |  |
-| ceramic case | keramiekkoker |  |
-| ceramic disc | keramiekskyf |  |
-| ceramic material | keramiekmateriaal |  |
-| ceramic package | keramiekhouer |  |
-| ceramic sleeve | keramiekhuls |  |
-| ceramic-tipped tool | keramiekpuntbeitel |  |
-| cerium | serium |  |
-| certificate account | sertifikaatrekening |  |
-| certificate of balance | saldosertifikaat |  |
-| certificate of commendation | aanprysingsertifikaat |  |
-| certificate of handing-over | oorhandigingsertifikaat |  |
-| certificate of indisposition | sertifikaat van ongesteldheid |  |
-| certificate of issue {money order} | sertifikaat van uitreiking |  |
-| certificate of issue | uitreikingsbewys |  |
-| certificate of origin | sertifikaat van herkoms |  |
-| certificate of posting {registered article} | bewys van inlewering, inleweringsbewys |  |
-| certificate of proficiency (proficiency certificate) | bevoegdheidsertifikaat |  |
-| certificate of service | dienssertifikaat |  |
-| certificate of service | dienssertifikaat |  |
-| certificate of voyage | seereissertifikaat |  |
-| certificate {eg of membership} | bewys, sertifikaat |  |
-| certification stamp | sertifiseerstempel |  |
-| certified account | gesertifiseerde rekening |  |
-| certified copy | gewaarmerkte kopie |  |
-| certified correct | gesertifiseer korrek |  |
-| certified engineer | gediplomeerde ingenieur |  |
-| certified mail | gesertifiseerde pos |  |
-| certified print | gewaarmerkte afdruk |  |
-| certified-mail service | gesertifiseerdepos-diens |  |
-| certify | sertifiseer, verklaar |  |
-| certify | waarmerk |  |
-| cerusite | serusiet |  |
-| cessation of service | staking van diens |  |
-| ch (channel) | knl, kanaal |  |
-| chad chute | ponsselvalgeut |  |
-| chad collector | ponsselbak |  |
-| chad layer | ponssellaag |  |
-| chad shaft | ponsselas |  |
-| chad | ponssel |  |
-| chadless perforation | ponssellose perforering |  |
-| chafe | skaaf |  |
-| chafer | skawer |  |
-| chain finger {LSM} | kettingvinger |  |
-| chain fracture | kettingbreuk |  |
-| chain hoist | kettinghyser |  |
-| chain of contacts | kontakreeks |  |
-| chain of reles | relereeks |  |
-| chain pulley | kettingkatrol |  |
-| chain set | kettingstel |  |
-| chain wheel | kettingrat |  |
-| chain-dotted graph | streep-en-stippel-grafiek |  |
-| chain | ketting |  |
-| chalcopyrite | chalkopiriet |  |
-| chalk-surfaced paper | krytvlakpapier |  |
-| challenge phrase (challenge question) {telephone banking} | daagfrase, daagvraag |  |
-| chamber box | kabelputverdeelkas |  |
-| chamber construction | kabelputbouwerk |  |
-| chamber diagram | kabelputdiagram |  |
-| chamber ladder | kelderleer |  |
-| chamber {cables} | kabelput |  |
-| chamfer n. | afkanting |  |
-| chamfer v. | afkant |  |
-| chamfer-head screw | skuinskopskroef |  |
-| chamfered bolts | afgekante boute |  |
-| chamfering tool | afkantbeitel |  |
-| chamois leather | seemsleer |  |
-| chanelling {made of iron or plastic} | kanaal |  |
-| change gear (change wheel) | wisselrat |  |
-| change lever | wisselhefboom |  |
-| change of incumbency | verandering van ampsbekleer |  |
-| change of residence | woningsverandering |  |
-| change of signature {eg of a child} | verandering in handtekening |  |
-| change of status | statusverandering, verandering van status |  |
-| change of subscriber | verandering van huurder |  |
-| change-speed lever | spoedwisselhefboom |  |
-| change | verandering |  |
-| change | verwissel |  |
-| changed number (C/N) | veranderde nommer, V/N |  |
-| changed-number interception | oproeponderskepping by nommerverandering |  |
-| changeover allowance | oorskakeltoelating |  |
-| changeover bracket | oorskakelbeuel |  |
-| changeover circuit | oorskakelkring |  |
-| changeover contact unit | oorskakelkontakeenheid |  |
-| changeover contact | oorskakelkontak |  |
-| changeover key | oorskakelsleutel |  |
-| changeover relay | oorskakelrele |  |
-| changeover spring set | oorskakelveerstel |  |
-| changeover spring | oorskakelveer |  |
-| changeover switch | oorskakelaar |  |
-| changeover time | oorskakeltyd |  |
-| changeover time | oorskakeltyd |  |
-| changeover type | oorskakeltipe |  |
-| changeover | oorskakeling |  |
-| channel bandwidth | kanaalbandbreedte |  |
-| channel bay | kanaalraam |  |
-| channel bayside | kanaalraamkant |  |
-| channel bias | kanaalvoorspanning |  |
-| channel branching | kanaalverdeling |  |
-| channel capacity | kanaalvermoe |  |
-| channel distortion | kanaalvervorming |  |
-| channel dropping | kanaalaftakking |  |
-| channel equaliser | kanaaleffenaar |  |
-| channel equivalent | kanaalekwivalent |  |
-| channel filter | kanaalfilter |  |
-| channel group | kanaalgroep |  |
-| channel hybrid | kanaaldifferensiaal |  |
-| channel iron | U-yster |  |
-| channel jig | U-yster-setmaat |  |
-| channel marker | kanaalmerker |  |
-| channel pair | kanaalpaar |  |
-| channel panel | kanaalpaneel |  |
-| channel receive filter | kanaalontvangfilter |  |
-| channel spectrum | kanaalspektrum |  |
-| channel supergroup | kanaalsupergroep |  |
-| channel translating equipment | kanaalomsittoerusting |  |
-| channel translation stage | kanaalomsittrap |  |
-| channel transmit filter | kanaalsendfilter |  |
-| channel width | kanaalbreedte |  |
-| channel-access equipment | kanaaltoegangstoerusting |  |
-| channel-access repeater | kanaaltoegangsherhaler |  |
-| channel-and-leaf jig | kanaal-en-platystersetmaat |  |
-| channel-carrier oscillator | kanaaldraerossillator |  |
-| channel-carrier supply | kanaaldraerbron |  |
-| channel-combining differential | kanaalkombineerdifferensiaal |  |
-| channel-combining | kanaalkombinering |  |
-| channel-condition alarm | kanaaltoestandalarm |  |
-| channel-dropping repeater | kanaalaftakversterker |  |
-| channel-testing equipment | kanaaltoetstoerusting |  |
-| channel-to-gate junction | kanaal/hek-voegvlak |  |
-| channel-type shelf | kanaaltipe rak |  |
-| channelling equipment | kanaaltoerusting |  |
-| channelling pin {cable joint} | oophoupen |  |
-| channelling | kanalisering |  |
-| channellised transmitter | gekanaliseerde sender |  |
-| char | verkool |  |
-| character counter | karakterteller |  |
-| character framing | karakterraming |  |
-| character selection {teleprinter} | karakterkeuse |  |
-| character sequence | karakterreeks |  |
-| character space | karakterspasie |  |
-| character {also in telegram} | karakter |  |
-| character {speech} | toonkleur |  |
-| characteristic <correct English term - characteristic curve> | kenkromme |  |
-| characteristic band {vocal sounds} | kenband |  |
-| characteristic distortion | kenvervorming |  |
-| characteristic frequency | kenfrekwensie |  |
-| characteristic impedance (surge impedance) | kenimpedansie |  |
-| characteristic impedance | kenimpedansie |  |
-| characteristic instant of modulation | kenmerkende modulasietydstip |  |
-| characteristic instant of restitution | kenmerkende weergawetydstip |  |
-| characteristic instant | kentydstip |  |
-| characteristic resistance | kenmerkende weerstand |  |
-| characteristic signal | kensein |  |
-| characteristic wave impedance | kengolfimpedansie |  |
-| characteristic | eienskap, kenmerk |  |
-| charcoal | houtskool |  |
-| charge carrier | ladingdraer |  |
-| charge density | ladingsdigtheid |  |
-| charge due | koste verskuldig |  |
-| charge image {television} | ladingsbeeld |  |
-| charge n. {air-conditioning system} | inhoud |  |
-| charge n. {electricity} | lading |  |
-| charge n. | klag |  |
-| charge n. | koste |  |
-| charge out {eg cost} | uitboek |  |
-| charge out {eg overflow work} | uitbestee |  |
-| charge pay | toesigbesoldiging |  |
-| charge period | kostetyd |  |
-| charge rate (charging rate) | laaitempo |  |
-| charge sheet | klagstaat |  |
-| charge slip | kostelys |  |
-| charge stepping relê {ND} | kostestaprelê |  |
-| charge table {VTI process} | verandertabel |  |
-| charge to | debiteer teen |  |
-| charge v. {account} | debiteer |  |
-| charge v. {eg coolant} | vul |  |
-| charge v. {electricity} | laai |  |
-| charge v. {franking machine} | stel |  |
-| charge v. | hef, vorder, vra |  |
-| charge-out rate {eg cost} | uitboektarief |  |
-| charge-out rate {eg overflow work} | uitbestedingtarief |  |
-| charge-pay claim | toesigbesoldigingeis |  |
-| charge-storage diode | ladingbewaardiode, ladingstoordiode |  |
-| charge-transfer device (CTD) | ladingoordragtoestel, LOT |  |
-| charge/discharge cycle | laai/ontlaai-siklus |  |
-| charge/discharge power scheme | laai/ontlaai-kragskema |  |
-| chargeable duration | betaalbare tydsduur |  |
-| chargeable time | betaalbare tyd |  |
-| chargeable-time clock | gesprekduurklok |  |
-| chargeable-time indicator | gesprekduurmeter |  |
-| charged body {electricity} | gelaaide liggaam |  |
-| chargeman (gang chargeman) | spanvoorman |  |
-| charger | laaier |  |
-| charging air pressure | laailugdruk |  |
-| charging bell | laai-afsluittregter |  |
-| charging board | laaibord |  |
-| charging current | laaistroom |  |
-| charging gauge | vulmeter |  |
-| charging hose | vulslang |  |
-| charging interval | laaitussenpoos |  |
-| charging machine | laaimasjien |  |
-| charging of costs | kosteberekening |  |
-| charging panel | laaipaneel |  |
-| charging period | laaityd |  |
-| charging point | laaipunt |  |
-| charging rectifier | laaigelykrigter |  |
-| charging step | kostetrap |  |
-| charging stick | laaistok |  |
-| charging supply | laaitoevoer |  |
-| charging time {battery} | laaityd |  |
-| charging valve | vulklep |  |
-| charging voltage | laaispanning |  |
-| charging | laai, laaiing |  |
-| chariot rail | papierwaspoor |  |
-| chariot | papierwa |  |
-| charitable institution | liefdadigheidsinrigting |  |
-| charity postage stamp | liefdadigheidsposseel |  |
-| charity sticker | liefdadigheidsplakker |  |
-| chart-comparison unit | kaartvergelykingseenheid |  |
-| chart | kaart |  |
-| chart | kaart |  |
-| chart | tabel |  |
-| charter n. {eg university} | oktrooi |  |
-| charwoman | skoonmaakster, skropvrou |  |
-| chase cover | groefdeksel |  |
-| chase | groef |  |
-| chaser {eg screw thread} | nasnytap |  |
-| chasing machine | muurgleufmasjien |  |
-| chasing {eg screw thread} | nasnywerk |  |
-| chassis (mounting plate) | monteerplaat |  |
-| chassis/cab | onderstel-kajuit |  |
-| chassis | onderstel |  |
-| chatter mark | klappermerk |  |
-| chattering {rele contacts} | klappering |  |
-| check card {for coding desk of LSM} | kontrolekaart |  |
-| check clerk | kontroleklerk |  |
-| check digit {accounts} | toetssyfer |  |
-| check list | kontrolelys |  |
-| check meter | kontroleteller |  |
-| check n. | kontrole |  |
-| check number {telegram} | kontrolenommer |  |
-| check rod | keerstang |  |
-| check sheet | kontroleblad |  |
-| check sheet | kontroleblad |  |
-| check study (control study) | kontrolestudie |  |
-| check sum {computer} | kontrolesom |  |
-| check time {human resources} | kontroletyd |  |
-| check total {calculating machine} | kontroletotaal |  |
-| check v. {computer box} | merk |  |
-| check v. | keer |  |
-| check v. | kontroleer, nagaan |  |
-| check valve | keerklep |  |
-| check word {telegram} | kontrolewoord |  |
-| check-card machine | kontrolekaartmasjien |  |
-| check-off facility {labour relations} | afmerkfasiliteit |  |
-| check-off facility | afmerkfasiliteit |  |
-| checkbox | merkblokkie |  |
-| checker | kontroleerder |  |
-| checking device (detent) | stuiter |  |
-| checking method | kontroleermetode |  |
-| checking officer | kontrolebeampte |  |
-| checkout (paypoint, till) | betaalpunt |  |
-| checkpoint | kontrolepunt |  |
-| checkup | roetineondersoek |  |
-| cheese (cheese antenna) | kaasantenne |  |
-| cheese cloth | kaasdoek |  |
-| cheese head {bolt} | dikkop |  |
-| cheese nut | dikkopmoer |  |
-| cheese-dish telephone | kaasbaktelefoon |  |
-| cheese-dish type instrument | kaasbaktipe toestel |  |
-| cheese-head screw | dikkopskroef |  |
-| cheese | kaasreflektor |  |
-| chemical action | chemiese werking |  |
-| chemical compound | chemiese verbinding |  |
-| chemical corrosion | chemiese korrosie |  |
-| chemical dosing | chemikalietoediening |  |
-| chemical energy | chemiese energie |  |
-| chemical equaliser | chemiese effenaar |  |
-| chemical equation | chemiese vergelyking |  |
-| chemical fumes | chemiese dampe |  |
-| chemical milling | chemiese patroonvreting |  |
-| chemical reaction | chemiese reaksie |  |
-| chemical soundness {fabric} | chemiese gaafheid |  |
-| chemical symbol | chemiese simbool |  |
-| chemiluminescence | chemiluminessensie |  |
-| cheque deposit | tjekdeposito |  |
-| cheque-writing and signing machine | tjekuitskryf-en-tekenmasjien |  |
-| cheque | tjek |  |
-| chequered plate (tread plate) | geruite plaat, ruitjiesplaat |  |
-| cherry-red | kersierooi |  |
-| cheshire label | cheshire-etiket |  |
-| chevron | chevron |  |
-| chi-square test {marketing} | chi-kwadraattoets |  |
-| chi-square test | chi-kwadraattoets |  |
-| chief/secretary service (secretarial intercept) | sekretariele onderskepping |  |
-| chill | kilgietvorm, verkiller |  |
-| chilled iron | kilyster |  |
-| chilled water | kilwater |  |
-| chilled-water coil | kilwaterkronkel |  |
-| chilled-water cooling coil | kilwaterkoelkronkel |  |
-| chilled-water generator | kilwatergenerator |  |
-| chiller (water chiller) | waterkiller |  |
-| chilling | verkilling |  |
-| chip breaker {lathe} | snyselbreker |  |
-| chip clearance {also drill} | snyselverwydering |  |
-| chip extraction {planing machine} | kruluitsuiging |  |
-| chip guard | snyselskerm |  |
-| chip n. {machinery/drilling} | boorsel |  |
-| chip n. {metal cutting} | snysel |  |
-| chip n. {planing machine} | krul |  |
-| chip n. {semiconductor} | tjip |  |
-| chip n. {tool} | skaar |  |
-| chip pan (chip tray) {metal cutting} | snyselpan |  |
-| chip plane | tjipvlak |  |
-| chipper {potatoes} | skyfiemaker |  |
-| chipping unit {branch cutter} | kerfeenheid |  |
-| chirp {radio} | tjirp |  |
-| chisel bit | beitelboorpunt |  |
-| chisel point | beitelpunt |  |
-| chisel steel | beitelstaal |  |
-| chisel-edged steel | beitelsneestaal |  |
-| chisel-shaped | beitelvormig |  |
-| chisel | beitel |  |
-| chloride indicator | chloriedindikator |  |
-| chlorinated naphthalene | chloornaftaleen |  |
-| chlorine | chloor |  |
-| chlorodyne | chlorodien |  |
-| chloroquine | chloorkin |  |
-| chocked position {cable drum} | vaswigposisie |  |
-| choice situation | keursituasie |  |
-| choice | keuse |  |
-| choke connector | smoorverbinder |  |
-| choke coupling | smoorspoelkoppeling |  |
-| choke input filter | smoorspoelingangsfilter |  |
-| choke modulation | smoorspoelmodulasie |  |
-| choke n. (choke coil, retardation coil) | smoorspoel |  |
-| choke n. {motor-car} | smoorder, smoorklep |  |
-| choke n. {motor} | smoorder |  |
-| choke n. {waveguide} | smoorstuk |  |
-| choke plunger | smoorplunjer |  |
-| choke v. | smoor |  |
-| choke valve | smoorklep |  |
-| choke-coupled amplifier | smoorspoelgekoppelde versterker |  |
-| chop v. {oscilloscope} | kap |  |
-| chopped mode {oscilloscope} | kapmodus |  |
-| chopped-strand mat | snipperstringmat |  |
-| chopper amplifier | kapversterker |  |
-| chopper amplifier | opknapversterker |  |
-| chopper bar (writing bar, writing blade, writing edge) | skryfstaaf |  |
-| chopper circuit | kapkring |  |
-| chopper {radiotelegraphy} | toonwiel |  |
-| chopper | draaiskakelaar, onderbreker |  |
-| chopper | kapper |  |
-| chord {geometry} | koord |  |
-| chordal addendum (corrected addendum) | koordkophoogte |  |
-| chordal pitch (chord pitch) | koordsteek |  |
-| chordal thickness | koorddikte |  |
-| christian name <see - first name > | voornaam |  |
-| chroma circuit | chromakring |  |
-| chroma control {device} | chromakontrole |  |
-| chroma control | chromabeheer |  |
-| chroma output | chroma-uitset |  |
-| chromalin | kleurpoef |  |
-| chromatic aberration | chromatiese aberrasie |  |
-| chromaticity | chromatisiteit |  |
-| chromating | chromatering |  |
-| chrome hide (chrome leather) | chroomleer |  |
-| chrome steel | chroomstaal |  |
-| chromic acid | chroomsuur |  |
-| chrominance angle | chrominansiehoek |  |
-| chrominance component | chrominansiekomponent |  |
-| chrominance phase error | chrominansiefasefout |  |
-| chrominance random noise | chrominansie toevallige ruis |  |
-| chromium flash | chroomfilm |  |
-| chromium-plated | verchroom |  |
-| chromography | chromografie |  |
-| chronic illness benefit | chroniesesiekte-voordeel, Chroniese Siekte-voordeel |  |
-| chronocycle graph | tydsiklusgrafiek |  |
-| chronological order | chronologiese volgorde |  |
-| chronopher | tydsender |  |
-| chuck dog (chuck jaw) | kloukopklou |  |
-| chuck face | kloukopvoorvlak |  |
-| chuck work | kloukopwerk |  |
-| chuck {drill, lathe, etc} | kloukop |  |
-| chuck {pneumatic tool} | boorhouer |  |
-| chucking plate | klouplaat |  |
-| chucking reamer | kloukopruimer |  |
-| chute (trough) {cable} | geut |  |
-| chute extension | valgeutverlengstuk |  |
-| chute {coin box} | valgeut |  |
-| cinema media research {marketing} | teatermedianavorsing |  |
-| cinematographic film {television} | kinematografiese film |  |
-| cinematography | kinematografie |  |
-| circard (circuit card) | kringkaart |  |
-| circle | sirkel |  |
-| circlip pliers | borgringtang |  |
-| circlip | borgring |  |
-| circuit arrangement | verbindinginrigting |  |
-| circuit behaviour | kringgedrag |  |
-| circuit breaker (current breaker) | kringbreker, stroombreker |  |
-| circuit change {telephony} | lynverandering |  |
-| circuit change | kringverandering |  |
-| circuit component | kringkomponent |  |
-| circuit description (circuit explanatory) | kringbeskrywing |  |
-| circuit design | kringontwerp |  |
-| circuit designation | kringbenaming, kringdesignasie |  |
-| circuit diagram | kringdiagram |  |
-| circuit down time (circuit outage) | kringmanktyd |  |
-| circuit element | kringdeel, kringelement |  |
-| circuit equivalent {of telephone line} | verbindingekwivalent |  |
-| circuit equivalent | kringekwivalent |  |
-| circuit fault | kringfout |  |
-| circuit kilometre distance | kringkilometerafstand, verbindingkilometerafstand |  |
-| circuit matching | kringaanpassing |  |
-| circuit noise | kringruis |  |
-| circuit number | kringnommer |  |
-| circuit operation | kringwerking |  |
-| circuit quantity | kringtal |  |
-| circuit record | kringrekord |  |
-| circuit release {telephone} | kringvrymaking |  |
-| circuit report | kringverslag |  |
-| circuit schematic | skematiese kringdiagram |  |
-| circuit selector {AVO meter} | kringkieser |  |
-| circuit self-induction | kringselfinduksie |  |
-| circuit serial number | kringreeksnommer |  |
-| circuit switching | kringskakeling |  |
-| circuit template | kringpatroon |  |
-| circuit usage | kringbenutting |  |
-| circuit {telecommunication} | kring |  |
-| circuit-breaker switch | stroombreekskakelaar |  |
-| circuit-occupancy time | kringbesettyd |  |
-| circuit-releasing current {rele} | kringafvalstroom |  |
-| circuit-releasing time {rele circuit} | kringafvaltyd |  |
-| circuit-saturating current | kringversadigingstroom |  |
-| circuit-switched circuit | kringgeskakelde kring |  |
-| circuit | sirkel |  |
-| circuital magnetisation (solenoidal magnetisation) | soleno<ede magnetisering |  |
-| circuitous route | ompad, omweg |  |
-| circuitry | kringwerk |  |
-| circular boundary | sirkelvormige grens |  |
-| circular cutter | ronde snybeitel |  |
-| circular letter | rondskrywe |  |
-| circular magnetic wave | sirkelvormige magnetiese golf |  |
-| circular magnetisation | sirkelvormige magnetisering |  |
-| circular mallet | sirkelvormige klophamer |  |
-| circular minute | omsendminuut |  |
-| circular pattern | sirkelpatroon |  |
-| circular pitch (circumferential pitch) {tooth pitch} | sirkelsteek |  |
-| circular rotating force | draaiende krag |  |
-| circular route | sirkelroete |  |
-| circular saw | sirkelsaag |  |
-| circular scan | sirkelaftasting |  |
-| circular ticket | rondreiskaartjie |  |
-| circular tour | rondreis |  |
-| circular warrant | reisbetaalorder |  |
-| circular waveguide | ronde golfleier |  |
-| circular-form cutter | rondeprofielsnyer |  |
-| circular | omsendbrief, sirkulêre |  |
-| circularly polarised wave | sirkelvormig gepolariseerde golf |  |
-| circulate | sirkuleer |  |
-| circulating current | sirkulasiestroom |  |
-| circulation branch | sorteertak |  |
-| circulation copy | sirkulasie-eksemplaar |  |
-| circulation guide | sirkulasiegids |  |
-| circulation list {also newspaper} | sirkulasielys |  |
-| circulation position | distribusiepunt |  |
-| circulation register | sirkulasieregister |  |
-| circulation table | sirkulasietafel |  |
-| circulation {mail} | sirkulasie |  |
-| circulation {money} | omloop |  |
-| circulator | sirkuleerder |  |
-| circulatory earth current | sirkulerende aardstroom |  |
-| circumference | omtrek |  |
-| circumferential speed | omtrekspoed |  |
-| circumscribed figure {mathematics} | omgeskrewe figuur |  |
-| circumstances beyond one's control | omstandighede buite jou beheer |  |
-| cistern | spoelwaterbak |  |
-| citizen band | burgerband |  |
-| city council | stadsraad |  |
-| civic centre | burgersentrum |  |
-| civic development | stadsontwikkeling |  |
-| civic particulars {market research} | burgerlike besonderhede |  |
-| civil action (civil proceedings) | siviele geding, siviele saak |  |
-| civil aviation | burgerlugvaart |  |
-| civil engineer | siviele ingenieur |  |
-| civil engineering | siviele ingenieurswese |  |
-| civil pension | siviele pensioen |  |
-| civil servant (public servant) | staatsamptenaar |  |
-| cladding layer | deklaag |  |
-| cladding region | bekledingslaag |  |
-| claim for compensation | eis om skadevergoeding |  |
-| claim n. | aanspraak |  |
-| claim n. | eis, vordering |  |
-| claim to promotion | aanspraak op bevordering |  |
-| claim v. {amount} | verantwoord |  |
-| claim v. | aanspraak maak op |  |
-| claim v. | eis, vorder |  |
-| claimant | eiser |  |
-| claims purposes | eisdoeleindes |  |
-| clamdigger {clothing} | sakbroek |  |
-| clamp bar {milling} | klampstaaf |  |
-| clamp block | klampblok |  |
-| clamp jaws | klampkloue |  |
-| clamp n. | klamp |  |
-| clamp n. | vaspenner |  |
-| clamp spring | klampveer |  |
-| clamp stud {milling} | klamptapbout |  |
-| clamp toe {body and frame straightener} | klamptoon |  |
-| clamp v. {eg output} | vaspen |  |
-| clamp v. | vasklamp |  |
-| clamp-adjusting screw | klampstelskroef |  |
-| clamp-bolt head | klampboutkop |  |
-| clamp-fixing screw | klamphegskroef |  |
-| clamped joint {eg wood} | klampvoeg |  |
-| clamped joint | klamplas |  |
-| clamped square wave | vasgepende vierkantgolf |  |
-| clamper circuit | vaspenkring |  |
-| clamper {waveforms} | vaspenner |  |
-| clamper | klamper |  |
-| clamping beam {sheet-metal work} | klampbalk |  |
-| clamping block | klampblok |  |
-| clamping bolt | klampbout |  |
-| clamping bush | klampbus |  |
-| clamping collar | klampkraag |  |
-| clamping disc | klampskyf |  |
-| clamping dog | klampklou |  |
-| clamping lever | klamphefboom |  |
-| clamping nut (clamp nut) {eg milling} | klampmoer |  |
-| clamping plate (clamp plate) | klampplaat |  |
-| clamping screw | klampskroef |  |
-| clamping strap | klampband |  |
-| clamping washer | klampwaster |  |
-| clapper box | wipbeitelhouer |  |
-| clarifier {eg radio} | klaarder |  |
-| class n. | klas |  |
-| class of service | diensklas |  |
-| class of service | klas diens |  |
-| class of subscriber | klas huurder |  |
-| class v. | klas, klassifiseer |  |
-| class-A modulation | klas A-modulasie |  |
-| class-A valve operation | klas A-buiswerking |  |
-| class-B modulation | klas B-modulasie |  |
-| class-of-traffic bus (CTB) | verkeerklasbus, VKB |  |
-| classification of bearings | peilingsklassifikasie |  |
-| classification of posts | posteklassifikasie |  |
-| classification | indeling, klassifikasie, klassifisering |  |
-| classified directory | geklassifiseerde gids |  |
-| classify | indeel, klassifiseer |  |
-| classify | indeel, klassifiseer |  |
-| clattering noise | gekletter |  |
-| clause {eg of draft bill or regulation} | klousule |  |
-| claw clutch (jaw clutch) | kloukoppelaar |  |
-| claw hammer | klouhamer |  |
-| claw-grip washer | klouwaster |  |
-| clay conduit | kleileipyp |  |
-| clay digger (digger) | kleigrawer |  |
-| clay-band ore | klei-ystererts |  |
-| clean bill of lading | skoon vragbrief |  |
-| clean receipt (unqualified receipt) | onvoorwaardelike ontvangbewys |  |
-| clean receipt | skoon kwitansie |  |
-| clean resistance {filter} | skoon weerstand |  |
-| clean trace {oscilloscope} | skerp spoor, skoon spoor |  |
-| clean up {eg frequency band} | skoonmaak |  |
-| clean {microwave circuit} | ruisvry |  |
-| clean-up work {human resources} | opruimwerk |  |
-| cleaner | skoonmaker |  |
-| cleaning agent | skoonmaakmiddel |  |
-| cleaning allowance | skoonmaaktoelae |  |
-| cleaning dish | skoonmaakbakkie |  |
-| cleaning fluid | skoonmaakvloeistof |  |
-| cleaning gear | skoonmaakgereedskap |  |
-| cleaning-up rele (trimmer rele, trimming rele) | fynstelrele |  |
-| clear adj. (disengaged) | onbeset, vry |  |
-| clear adj. {eg line, punched card machine} | skoon |  |
-| clear back | terugvrymaak |  |
-| clear button (restore button) | herstelknoppie |  |
-| clear button {coding desk of LSM} | leegmaakknop |  |
-| clear code | herstelkode |  |
-| clear confirmation {dialling} | vrymaakbevestiging |  |
-| clear dimensions | vry afmetings |  |
-| clear down {eg teleprinter} | afskakel |  |
-| clear down {eg telex} | afskakel |  |
-| clear down {line connection} | vrymaak |  |
-| clear for trunks lamp | hooflynruimlamp |  |
-| clear forward | heenvrymaak |  |
-| clear into {information} | oorplaas na |  |
-| clear key | vrymaaksleutel |  |
-| clear line | maak lyn skoon |  |
-| clear loop | skoon lus |  |
-| clear n. (clear indication) | onbesetaanwysing |  |
-| clear of faults | defekvry |  |
-| clear run-through | foutvry toetsloop |  |
-| clear state | terugsteltoestand |  |
-| clear trunk | hooflyn sonder tussenstasies |  |
-| clear v. {amount from account} | verwyder |  |
-| clear v. {call} | afhandel |  |
-| clear v. {circuit} | vrymaak |  |
-| clear v. {coin box, letter box} | lig |  |
-| clear v. {eg elements of memory} | terugstel |  |
-| clear v. {eg site for building work, whole memory} | skoonmaak |  |
-| clear-back recognition time | terugvryherkenningstyd |  |
-| clear-back signal | terugvrysein |  |
-| clear-confirmation packet {Saponet} | heraansitbevestiging-pakkie |  |
-| clear-down flick | vrymaakflik |  |
-| clear-for-trunk facility | hooflynruimfasiliteit |  |
-| clear-forward signal | heenvrysein |  |
-| clear-the-line telegram | ruimtelegram |  |
-| clearance (clearing) {eg customs} | klaring |  |
-| clearance advice | herstellingsadvies |  |
-| clearance angle (front clearance, relief angle) | vryruimtehoek |  |
-| clearance fee | klaringsgeld |  |
-| clearance fit | vry passing |  |
-| clearance gauge | vryruimtemaat |  |
-| clearance hole {leather punch} | afvoergat |  |
-| clearance hole | vrypasgat |  |
-| clearance list {PO box} | ligtingslys |  |
-| clearance period {cheque} | verrekeningstyd |  |
-| clearance report | herstellingsrapport |  |
-| clearance voucher | klaringsbewys |  |
-| clearance {also tools} | vry ruimte |  |
-| clearance {faults} | herstelling |  |
-| clearance {of wires above the ground} | vry hoogte |  |
-| clearance {posting box} | ligting |  |
-| clearance | kwyting |  |
-| clearance | tussenruimte |  |
-| clearing alarm | aflui-alarm |  |
-| clearing bank | klaringsbank |  |
-| clearing call-progress signal | vrymakende oproepvorderingsein |  |
-| clearing depot {imported goods} | inklaringsdepot |  |
-| clearing house | klaringskantoor |  |
-| clearing indicator | vrymaakaanwyser |  |
-| clearing key | vrymaaksleutel |  |
-| clearing lamp {letter bin of LSM} | liglamp |  |
-| clearing office | klaringskantoor |  |
-| clearing officer {post} | ligtingsbeampte |  |
-| clearing period {accountancy} | verrekeningstydperk |  |
-| clearing relay | vrymaakrele |  |
-| clearing saw {chain saw} | skoonmaaksaag |  |
-| clearing signal (clear signal) {telegraphy} | klaarsein |  |
-| clearing signal (clear signal) {telephone} | vrymaaksein |  |
-| clearing {line connection} | vrymaking |  |
-| clearing {post} | ligting |  |
-| clearing-cause field | vrymaakoorsaakveld |  |
-| cleat (clip) v. | vasklem |  |
-| cleat (clip) | klem |  |
-| cleat bender (cleat bending machine) | omvourandbuigmasjien |  |
-| cleat edge {sheet-metal work} | omvourand |  |
-| cleat type | klemtipe |  |
-| cleating | vasklemming |  |
-| clenching joint | ombuiglas |  |
-| clerical assistance | klerklike hulp |  |
-| clerical assistant | klerklike assistent |  |
-| clerical duty | klerklike diens |  |
-| clerical error | klerklike fout, skryffout |  |
-| clerical procedure | klerklike prosedure |  |
-| clerical section | klerklike seksie |  |
-| clerical work | klerklike werk |  |
-| clerk in charge | klerk in beheer |  |
-| clerk of works | werkeklerk |  |
-| clerk | klerk |  |
-| clevis | vurk |  |
-| click n. & v. | klik |  |
-| click spring | klikveer |  |
-| click test | kliktoets |  |
-| click-click tone | klik-kliktoon |  |
-| client zone | klientsone |  |
-| climatic allowance | klimaatstoelae |  |
-| climatic conditions | klimaatstoestande |  |
-| climatic test chamber | klimaattoetskamer |  |
-| climb milling (down-cut milling) | klimfreeswerk |  |
-| climbing iron | klimyster |  |
-| clinch {also clothing, eg eyes} | omklink |  |
-| clinch {lead seal} | toedruk |  |
-| clinical entry criteria | kliniese toetreemaatstawwe |  |
-| clinical thermometer | kliniese termometer |  |
-| clip holder | klemhouer |  |
-| clip in | inhaak, inknip |  |
-| clip n. {pipe} | beuel |  |
-| clip position (dead sector) {facsimile} | klemposisie |  |
-| clip stalk | klemsteel |  |
-| clip v. {pipe} | vasbeuel |  |
-| clip v. {signal} | afkap |  |
-| clip-ended cord | klem-entsnoer |  |
-| clip-on cover {cable cut-out} | knipdop |  |
-| clipboard | klembord |  |
-| clipped pulse | afgekapte puls |  |
-| clipped speech | afgekapte spraak |  |
-| clipper {radio} | aftopper, bowegsnyer |  |
-| clipping {signal} | afkapping |  |
-| clock control | klokkontrole |  |
-| clock edge {logic} | klokrand |  |
-| clock extraction | klokonttrekking |  |
-| clock in {pulse technique} | inklok |  |
-| clock mechanism | klokmeganisme |  |
-| clock n. | horlosie |  |
-| clock n. | klok |  |
-| clock oil | klokolie |  |
-| clock out {pulse technique} | uitklok |  |
-| clock pulse | klokpuls |  |
-| clock rate | kloktempo |  |
-| clock smoother | klokafvlakker |  |
-| clock spring | klokveer |  |
-| clock state | klokstaat |  |
-| clock v. {gate} | klokbeheer |  |
-| clock v. | klok |  |
-| clock-in time | inkloktyd |  |
-| clock-out time | uitkloktyd |  |
-| clock-rate divider | kloktempoverdeler |  |
-| clock-type meter | kloktipe teller |  |
-| clocking information | klokinligting |  |
-| clocking | klok |  |
-| clocking | klokbeheerde hekking |  |
-| clockwise end {eg cable} | kloksgewyse ent |  |
-| clockwise polarised wave (right-hand polarised wave) | kloksgewys gepolariseerde golf |  |
-| clockwise | kloksgewys |  |
-| clockwork mechanism | uurwerkmeganisme |  |
-| clogged {eg felt washer} | aangepak |  |
-| clogged | verstop |  |
-| close (make) {contacts} | sluit |  |
-| close coupling | vaste koppeling |  |
-| close fit (screw thread) | nou toleransie |  |
-| close fit | nou passing |  |
-| close {account} | afsluit, sluit |  |
-| close {office, post} | sluit |  |
-| close-coiled spring | digkronkelveer |  |
-| close-coupled | direk gekoppel |  |
-| close-fitting | noupassend |  |
-| close-meshed screen {eg fan} | kleinmaasskut |  |
-| close-meshed screen | kleinmaassif |  |
-| closed area | geslote gebied |  |
-| closed armouring | geslote pantsering |  |
-| closed book {Savings Bank} | afgesluite boek |  |
-| closed cable grip (closed hauling-grip) | toe grypkous |  |
-| closed core | geslote kern |  |
-| closed cycle | geslote siklus, toe siklus |  |
-| closed dart {clothing} | toe pylnaat |  |
-| closed magnetic circuit | geslote magnetiese kring |  |
-| closed mail (closed mails) | geslote pos |  |
-| closed month {job control system} | toe maand |  |
-| closed numbering scheme | geslote nommerstelsel |  |
-| closed shop agreement | geslotegeledere-ooreenkoms |  |
-| closed shop | geslote geledere |  |
-| closed user group | geslote gebruikergroep |  |
-| closed-circuit armature | anker met geslote wikkeling |  |
-| closed-circuit impedance | toekringimpedansie |  |
-| closed-circuit television | toekringtelevisie |  |
-| closed-circuit working | toekringwerking |  |
-| closed-circuit | geslote kring, toe kring |  |
-| closed-core transformer | transformator met geslote kern |  |
-| closed-cup flash point {flammable liquid} | toehouer-flitspunt |  |
-| closed-cup test | toebakkie-toets, toebeker-toets |  |
-| closely spaced antennas | dig opgestelde antennes |  |
-| closer sleeve {cable jointing} | sluitkoker |  |
-| closing balance | eindsaldo |  |
-| closing bracket | sluithakie |  |
-| closing date {account} | sluitingsdag |  |
-| closing flag | afsluitmerker |  |
-| closing handle | sluithandvatsel |  |
-| closing of business | sluiting van besigheid |  |
-| closing stock | eindvoorraad |  |
-| closing time | sluitingstyd |  |
-| closing time | sluitingstyd |  |
-| closing warrant | sluitingsbetaalorder |  |
-| closing wheel {sheet-metal wire reinforcement} | sluitwiel |  |
-| closing-down procedure {cash register} | afsluitprosedure |  |
-| cloth duster | stoflap |  |
-| cloth stamping pad (cloth stamp pad) | doekstempelkussing |  |
-| clout nail | grootkopspyker |  |
-| clove hitch | kniehalterslag, maswerkslag |  |
-| clover-leaf antenna | klawerantenne |  |
-| club card | klubkaart |  |
-| club counterfoil | klubteenblad |  |
-| clusler analysis {marketing} | bondelontleding, trosontleding |  |
-| clusler sampling {marketing} | bondelsteekproeftrekking, trossteekproeftrekking |  |
-| cluster analysis {training} | bondelontleding |  |
-| cluster boxes {postal delivery} | groepbusse |  |
-| cluster gear | veelrat |  |
-| cluster sampling {human resources} | bondelsteekproeftrekking, trossteekproeftrekking |  |
-| cluster terminal {carriers and data} | groepeindpunt |  |
-| cluster unit {subscribers} | troseenheid |  |
-| clutch adjustment screw | koppelaarstelskroef |  |
-| clutch disc | koppelaarplaat, koppelaarskyf |  |
-| clutch dog | koppelaarklou |  |
-| clutch drum | koppelaartrommel |  |
-| clutch gear | koppelrat |  |
-| clutch head | koppelaarkop |  |
-| clutch key | koppelaarspy |  |
-| clutch latch | koppelaarknip |  |
-| clutch lining | koppelaarvoering |  |
-| clutch magnet | koppelaarmagneet |  |
-| clutch member | koppelaardeel |  |
-| clutch pencil | drukpotlood |  |
-| clutch pressure nut | koppelaardrukmoer |  |
-| clutch rod | koppelaarstang |  |
-| clutch spring | koppelaarveer |  |
-| clutch spur gear | koppelaarreguittandrat |  |
-| clutch stop plate | koppelaarstuitplaat |  |
-| clutch stop | koppelaarstuiter |  |
-| clutch surface | koppelaarvlak |  |
-| clutch-driving spring | koppelaardryfveer |  |
-| clutch-drum boss | koppelaartrommelnaaf |  |
-| clutch-shifter yoke | koppelaarskuifjuk |  |
-| clutch | koppelaar |  |
-| cnf (conjunctive normal form) | knv, konjunktiewe normaalvorm |  |
-| co-channel interference | ko-kanaalsteuring |  |
-| co-located exchange | saamgelee sentrale |  |
-| co-located | saamgeplaaste, saamliggende |  |
-| co-opt | ko”pteer |  |
-| co-ordinate | ko”rdinaat |  |
-| co-ordination | ko”rdinasie, ko”rdinering |  |
-| co-signatory n. | mede-ondertekenaar |  |
-| co-signature (counter-signature) | mede-ondertekening |  |
-| coach screw | boutkophoutskroef |  |
-| coach v. | afrig |  |
-| coach-screw spanner | spoorskroefsleutel |  |
-| coaching account | passasiersdiensrekening |  |
-| coaching {human resources} | afrigting |  |
-| coaching | afrigting |  |
-| coal gas | steenkoolgas |  |
-| coal tar | koolteer, steenkoolteer |  |
-| coalesce | koaliseer |  |
-| coarse attenuator switch | grofverswakkerskakelaar |  |
-| coarse divider {Wandel und Golterman Pegelmesser} | grofstelskakelaar |  |
-| coarse file (rough file) | growwe vyl |  |
-| coarse gears | growwe ratte |  |
-| coarse scanning | growwe aftasting |  |
-| coarse setting range | growwe instelgebied |  |
-| coarse-cut feed {lathe} | growwe toevoer |  |
-| coarse-grain wheel | grofkorrelslypwiel |  |
-| coarse-pitch blade {saw} | growwesteeklem |  |
-| coast station | kusstasie |  |
-| coast-station licence | kusstasielisensie |  |
-| coastal rate | kustarief |  |
-| coastal refraction | kusrefraksie |  |
-| coastal route | kusroete |  |
-| coastal service | kusdiens |  |
-| coastwise shipment | kusverskeping |  |
-| coastwise | kuslangs |  |
-| coat grip | kleeflaag |  |
-| coat n. (coating) {eg carbon} | aanpaksel |  |
-| coat n. (coating) {eg paint} | laag |  |
-| coat n. (coating, covering) | bedekking |  |
-| coat of arms | wapen |  |
-| coated cathode | bedekte katode |  |
-| coated fabric {clothing} | bestrykte materiaal |  |
-| coated paper | bestrykte papier |  |
-| coax-to-waveguide transformer | koaksialekabel-na-golfleier-omvormer |  |
-| coax-to-waveguide transition | koaksialekabel-na-golfleier-oorgangstuk |  |
-| coaxial antenna (quarter-wave skirt dipole, sleeve dipole) | koaksiale antenne |  |
-| coaxial cable | koaksiale kabel |  |
-| coaxial choke | koaksiale smoorspoel |  |
-| coaxial circuit | koaksiale kring |  |
-| coaxial matching unit | koaksiale aanpaseenheid |  |
-| coaxial outrigger | koaksiale uithouer |  |
-| coaxial pair | koaksiale paar |  |
-| coaxial plug | koaksiale prop |  |
-| coaxial supergroup | koaksiale supergroep |  |
-| coaxial-cable plug | koaksialekabel-prop |  |
-| coaxial-cable termination | koaksialekabel-afhegting |  |
-| coaxial-cavity resonator | koaksialeholte-resonator |  |
-| coaxial-line tube {microwave} | koaksialelynbuis |  |
-| coaxial-stub tuner | koaksialestomp-instemmer |  |
-| cobalt iron | kobaltyster |  |
-| cobalt steel | kobaltstaal |  |
-| cock {of a scale} | tong |  |
-| cock | kraan |  |
-| cocoon silk | kokonsy |  |
-| code bar {teleprinter} | kodestaaf |  |
-| code call | koderoep |  |
-| code check | kodekontrole |  |
-| code conversion {into another code} | kode-omsetting |  |
-| code converter | kode-omsetter |  |
-| code digit | kodesyfer |  |
-| code element | kode-element |  |
-| code impulse train | kode-impulsreeks |  |
-| code letter | kodeletter |  |
-| code n. | kode |  |
-| code of conduct {marketing} | gedragskode |  |
-| code of conduct | gedragskode |  |
-| code of practice | gebruikskode |  |
-| code point | kodepunt |  |
-| code printer {LSM} | kodedrukker |  |
-| code ring | kodelui |  |
-| code selector level | kodekieserlaag |  |
-| code selector | kodekieser |  |
-| code sequence | kodereeks |  |
-| code set-up {teleprinter} | kodeopstelling |  |
-| code time | kodetyd |  |
-| code translation {to letters and figures} | kodeherleiding |  |
-| code transparent {eg transmission signal} | kode-ongebonde |  |
-| code v. (encode) | kodeer |  |
-| code-bar extension {teleprinter} | kodestaafverlengstuk |  |
-| code-bar guide {teleprinter} | kodestaafleier |  |
-| code-digit transmission | kodesyferoorsending |  |
-| code-operating lever | kodehefboom |  |
-| code-request packet | kodeversoekpakkie |  |
-| code-ringing facility | kodeluifasiliteit |  |
-| code-ringing signal | kodeluisein |  |
-| code-ringing system | kodeluistelsel |  |
-| code-switching | koderuiling |  |
-| codec (coder-decoder) | kodeerder-dekodeerder, kodek |  |
-| coded pulse signalling | kodepulsseining |  |
-| coded signal | kodesein |  |
-| coder driver gate | kodeerderdryfhek |  |
-| coder driver valve | kodeerderdryfbuis |  |
-| coder | kodeerder |  |
-| codification | kodifisering |  |
-| coding desk {sorting machine} | kodeerpunt |  |
-| coding {marketing} | kodering |  |
-| coding | kodering |  |
-| coding | kodering |  |
-| coefficient of amplification | versterkingskoëffisiënt |  |
-| coefficient of coupling | koppelkoëffisiënt |  |
-| coefficient of diffusion | strooiingskoëffisiënt |  |
-| coefficient of directivity {antenna} | rigkoëffisiënt |  |
-| coefficient of dissociation | dissosiasiekoëffisiënt |  |
-| coefficient of expansion | uitsettingskoëffisiënt |  |
-| coefficient of magnetisation | magnetiseerkoëffisiënt |  |
-| coefficient of non-linear distortion | vervormingsfaktor |  |
-| coefficient of resistance | weerstandskoëffisiënt |  |
-| coefficient of rigidity | styfheidskoëffisiënt |  |
-| coefficient of variation {marketing} | variasiekoëffisiënt |  |
-| coefficient | koëffisiënt |  |
-| coercive force {magnetism} | dwingkrag, koërsitiewe krag |  |
-| cog (cog wheel) | kamrat |  |
-| coherence | koherensie |  |
-| coherent oscillator | koherente ossillator |  |
-| coil assembly | spoelsamestel |  |
-| coil cheek | spoelwang |  |
-| coil core | spoelkern |  |
-| coil form | spoelvorm |  |
-| coil guide | spoelleier |  |
-| coil jacket | spoelmantel |  |
-| coil loading | spoelbelasting |  |
-| coil n. {eg cable} | winding |  |
-| coil n. {electricity} | spoel |  |
-| coil n. {wire} | rol |  |
-| coil neutralisation (inductive neutralisation) | induksieneutralisasie |  |
-| coil nut | spoelmoer |  |
-| coil pitch | spoelsteek |  |
-| coil rack | spoelraam |  |
-| coil resistance | spoelweerstand |  |
-| coil section (loading section) | belastingvak |  |
-| coil size (coil-unit size) | kronkeleenheidgrootte |  |
-| coil spacing | spoelspasiëring |  |
-| coil specification | spoelspesifikasie |  |
-| coil spring | kronkelveer |  |
-| coil stamp | rolseël |  |
-| coil tag | spoelstiffie |  |
-| coil v. | oprol |  |
-| coil-fixing screw | spoelhegskroef |  |
-| coil-loaded cable | spoelbelaste kabel |  |
-| coil-loaded circuit | spoelbelaste kring |  |
-| coil-retaining clip | spoelhouklem |  |
-| coil-spring clutch | kronkelveerkoppelaar |  |
-| coil-winding machine | spoelwikkelmasjien |  |
-| coiled cord | kronkelsnoer |  |
-| coiled cord | spiraalsnoer |  |
-| coiled starter rope | opgerolde aansittou |  |
-| coin box (coin collector) | muntbus |  |
-| coin checking | muntkontrolering |  |
-| coin chute {eg coin telephone} | muntgleuf |  |
-| coin chute | muntgeut |  |
-| coin container | munthouer |  |
-| coin pulse | muntpuls |  |
-| coin slot | muntgleuf |  |
-| coin sluice | muntsluis |  |
-| coin trap | muntval |  |
-| coin validation | muntbekragtiging |  |
-| coin validator | muntbekragtiger |  |
-| coin-box clearance list | muntbusligtingslys |  |
-| coin-box collections | muntbusontvangste |  |
-| coin-box collector | muntbusligter |  |
-| coin-box container | muntbushouer |  |
-| coin-collecting equipment | muntontvangtoerusting |  |
-| coin-counting machine | munttelmasjien |  |
-| coin-deposit aperture | muntgleuf |  |
-| coin-detector unit | muntdetektoreenheid |  |
-| coin-return aperture | muntterugkeeropening |  |
-| coin-return slot | muntteruggleuf |  |
-| coin-slot control (slot control) | gleufkontrole |  |
-| coin-telephone relê set (CTRS, payphone relê set) | muntfoonrelêstel, MFRS |  |
-| coinage | muntstelsel |  |
-| coincidence chain | saamvalketting |  |
-| coincidence gate {radio} | saamvalhek |  |
-| coincident signal elements | saamvallende seinelemente |  |
-| coinphone | muntfoon |  |
-| coir mattress | klapperhaarmatras |  |
-| cold call {marketing} | blinde besoek |  |
-| cold calling {marketing} | blinde werwing |  |
-| cold calling {telephone marketing} | koue skakeling |  |
-| cold cathode | koue katode |  |
-| cold chisel | koubeitel |  |
-| cold dog | kilpakkie, vriespakkie |  |
-| cold joint | koue las |  |
-| cold light | koue lig |  |
-| cold list {marketing} | koue lys, blindelys |  |
-| cold set | kouskerphamer |  |
-| cold short | koudbros |  |
-| cold shortness | koudbrosheid |  |
-| cold start | koue begin |  |
-| cold switching | koudskakeling |  |
-| cold test n. {eg oil} | koudtoets |  |
-| cold test v. {eg oil} | koudtoets |  |
-| cold-bending {sheet-metal work} | koudbuiging |  |
-| cold-cathode valve | kouekatodebuis |  |
-| cold-formed lip channel | koudgevormde lipkanaal |  |
-| cold-light system | koueligstelsel |  |
-| cold-rolled steel (CRS) | koud gewalste staal, KWS |  |
-| cold-setting resin | koudstolhars |  |
-| cold-starting diesel engine | koudaansitdieselenjin |  |
-| cold-water glue (cold-water miscible glue) | kouewater-lym |  |
-| colinear (collinear) | kolineer |  |
-| collapse {waves} | wegval |  |
-| collapsible tap | invousnytap |  |
-| collapsing load | kniklas, swiglas |  |
-| collar band {clothing} | kraagband |  |
-| collar canvas {clothing} | kraagseildoek |  |
-| collar nut | kraagmoer |  |
-| collar stand {clothing} | kraagstaandeel |  |
-| collar | kraag |  |
-| collate {eg loose pages, telegram} | kollasioneer |  |
-| collate {punched-card machine} | insorteer |  |
-| collation | insortering, kollasionering |  |
-| collator | kollator |  |
-| collect account | kollekteerrekening |  |
-| collect call (reversed-charge call) | kollekteeroproep |  |
-| collect service | kollekteerdiens |  |
-| collect {savings books for audit} | inneem |  |
-| collect-spool clutch | opwenspoelkoppelaar, tellerobservasiedrukker |  |
-| collect | insamel, invorder, kollekteer |  |
-| collect | versamel |  |
-| collecting administration | invorderingsadministrasie |  |
-| collecting country | invorderingsland |  |
-| collecting office {gentex} | versamelkantoor |  |
-| collecting office | invorderingskantoor |  |
-| collecting officer | invorderingsbeampte |  |
-| collecting point {private post-office box} | afhaalpunt |  |
-| collection book | invorderingsboek |  |
-| collection fee | invorderingsgeld |  |
-| collection list | kollektelys |  |
-| collection point {gentex} | versamelpunt |  |
-| collection serial number | invorderingsreeksnommer |  |
-| collective action | kollektiewe optrede |  |
-| collective bag | gesamentlike sak |  |
-| collective bargaining | kollektiewe bedinging |  |
-| collective dispatch note | gesamentlike versendingsbrief |  |
-| collective envelope | gesamentlike koevert |  |
-| collective releasing time | saamgestelde afvaltyd |  |
-| collective scheme | gesamentlike skema |  |
-| collective-call-number line group | gesamentlike soekgroep |  |
-| collectively | gesamentlik |  |
-| collector current | kollektorstroom |  |
-| collector disc | kollektorskyf, sleepskyf |  |
-| collector junction | kollektorvoegvlak |  |
-| collector load | kollektorlas |  |
-| collector ring | sleepring |  |
-| collector shoe | kollektorskoen |  |
-| collector spring | kollektorveer |  |
-| collector voltage | kollektorspanning |  |
-| collector {coin box} | ligter |  |
-| collector/base feedback | kollektor/basis-terugkoppeling |  |
-| collector/base junction | kollektor/basis-voegvlak |  |
-| collector/base resistance | kollektor/basis-weerstand |  |
-| collector | kollektor |  |
-| collet | klemkraag |  |
-| collimated light beam | gekollimeerde ligstraal |  |
-| collinear array | kolineere rignet |  |
-| collision frequency | botsfrekwensie |  |
-| collision | botsing |  |
-| colloidal cell | kollo<dale sel |  |
-| colloidal graphite suspension | kollo<dalegrafiet-suspensie |  |
-| colloidal graphite | kollo<dale grafiet |  |
-| colloidal molybdenum disulphide | kollo<dale molibdeensulfied |  |
-| colloidal | kollo<daal |  |
-| collusion | samespanning |  |
-| colour bar {television} | kleurstrook |  |
-| colour changeling | kleurveranderde seel |  |
-| colour code | kleurkode |  |
-| colour drive | kleurdrywing |  |
-| colour fidelity | kleurgetrouheid |  |
-| colour floating | kleurineenvloeiing |  |
-| colour guide {tempering} | kleuraanduiding |  |
-| colour perception | kleurwaarneming |  |
-| colour picture | kleurbeeld |  |
-| colour printing | kleurdruk |  |
-| colour proof | kleurdrukproef |  |
-| colour response | kleurweergawe |  |
-| colour sensation | kleurindruk |  |
-| colour separation {printing} | kleurskeiding |  |
-| colour separation | kleurskeiding |  |
-| colour slide | kleurskyfie |  |
-| colour television | kleurtelevisie |  |
-| colour trial | proefkleurdruk |  |
-| colour wash | kleurkalk |  |
-| colour-corrected lens | kleurgekorrigeerde lens |  |
-| colour-difference signal | kleurverskilsein |  |
-| colour-light signal | kleurligsein |  |
-| colour-reference burst signal | kleurvergelyksarsiesein |  |
-| colour-rendering quality | kleurweergawegehalte |  |
-| colour-trial proof {stamps} | kleurproef |  |
-| coloured border | gekleurde rand |  |
-| coloured cotton | gekleurde katoendraad |  |
-| coloured glass | gekleurde glas |  |
-| coloured identification thread | kleurkendraad |  |
-| coloured lamp signal | kleurlampsein |  |
-| coloured tab | kleurstrokie |  |
-| coloured tracer thread | gekleurde kendraad |  |
-| colourfastness to washing {clothing} | kleurvastheid teen was, waskleurvastheid |  |
-| column feed {teleprinter character} | kolomaanskuiwing |  |
-| column selector | kolomkieser |  |
-| column | kolom |  |
-| coma | koma |  |
-| comb bar {teleprinter} | kamstaaf |  |
-| comb brush | kamborsel |  |
-| comb plate | kamplaat |  |
-| comb rack | kamrak |  |
-| comb-plate lug | kamplaatoor |  |
-| combination bar {teleprinter} | kombinasiestaaf |  |
-| combination blanking and drawing die | saamgestelde profielsny-en-vormblok |  |
-| combination calipers | kombinasiepasser |  |
-| combination saw blade {circular saw} | kombinasiesaaglem |  |
-| combination setting {teleprinter} | kombinasiestand |  |
-| combination setup {teleprinter} | kombinasie-opstelling |  |
-| combination spanner | kombinasiesleutel |  |
-| combination square | kombinasiewinkelhaak |  |
-| combination | kombinasie |  |
-| combined carbon | gebonde koolstof |  |
-| combined charge | gesamentlike koste |  |
-| combined distribution frame | saamgestelde distribusieraam |  |
-| combined mail | gemengde pos |  |
-| combined resistance | gesamentlike weerstand |  |
-| combined tunnel and side stake {sheet-metal work} | saamgestelde tonnel- en systaak |  |
-| combiner call {telex} | kombineeroproep |  |
-| combiner circuit | kombineerderkring |  |
-| combiner jack | kombineerderklink |  |
-| combiner strap {on pole arms} | koppelband |  |
-| combiner unit | kombineereenheid |  |
-| combiner | kombineerder |  |
-| combining amplifier | kombineerversterker |  |
-| combining equipment | kombineertoerusting |  |
-| combining hybrid | kombineerdifferensiaal |  |
-| combining panel | kombineerpaneel |  |
-| combining/separating hybrid | kombineer/verdeel-differensiaaltransformator |  |
-| combustion chamber | verbrandingskamer |  |
-| combustion motor | verbrandingsmotor |  |
-| combustion | verbranding |  |
-| come into circuit | inskakel |  |
-| come into force | in werking tree, van krag word |  |
-| comeback {training} | negatiewe terugvoer |  |
-| comfort consideration | geriefsoorweging |  |
-| comfort zone | geriefsone |  |
-| command communication | bevelkommunikasie |  |
-| command frame | bevelraam |  |
-| command {also computer} | bevel |  |
-| command-word register {hardware} | bevelwoordregister |  |
-| commemorative cover {philately} | gedenkkoevert |  |
-| commemorative stamp | gedenkseël |  |
-| commencing salary | aanvangsalaris, beginsalaris |  |
-| commendation | aanprysing |  |
-| commercial account | handelsrekening |  |
-| commercial collect telegram | handelskollekteertelegram |  |
-| commercial compressed air | handelsdruklug |  |
-| commercial container {hamper} | handelshouer |  |
-| commercial expenses | kommersiële koste |  |
-| commercial marketing research {marketing} | kommersiële bemarkingsnavorsing |  |
-| commercial marketing research | kommersiële bemarkingnavorsing |  |
-| commercial paper | handelstuk |  |
-| commercial post office | kommersiële poskantoor |  |
-| commercial postal agency | kommersiële posagentskap |  |
-| commercial product | handelsproduk |  |
-| commercial representative | handelsverteenwoordiger |  |
-| commercial service centre | kommersiële dienssentrum |  |
-| commercial service | handelsdiens |  |
-| commercial small packet | handelskleinpakkie |  |
-| commercial value | handelswaarde |  |
-| commercial-paper rate | handelstuktarief |  |
-| commercially dry {clothing} | kommersieel droog |  |
-| commission n. | kommissie |  |
-| commission v. {by client} | in gebruik neem |  |
-| commission v. {by supplier} | in gebruik stel |  |
-| commissioner of oaths | kommissaris van ede |  |
-| commissioning document | ingebruikstellingdokument |  |
-| commissioning | ingebruikneming |  |
-| commissioning | ingebruikstelling |  |
-| commit {funds} | verbind |  |
-| commitment procedure | verbintenisprosedure |  |
-| commitment to {human resources} | ingesteldheid op |  |
-| commitment {fund} | verbintenis |  |
-| commitment | verpligting |  |
-| commitments statement | staat van verbintenisse |  |
-| committed amount | verbonde bedrag |  |
-| committee of enquiry | komitee van ondersoek |  |
-| commodities | handelsartikels, kommoditeite |  |
-| common answering | gemeenskaplike antwoording, gemeenskaplike beantwoording |  |
-| common battery | gemeenskaplike battery |  |
-| common branch (mutual branch) | gemeenskaplike tak |  |
-| common busbar | gemeenskaplike geleistam |  |
-| common calling device | gemeenskaplike roeptoestel |  |
-| common control | gemeenskaplike beheer |  |
-| common director | gemeenskaplike direktor, gemeenskaplike rigter |  |
-| common driving motor | gemeenskaplike dryfmotor |  |
-| common earth | gemeenskaplike aarde |  |
-| common equipment | gemeenskaplike toerusting |  |
-| common factor | gemeenskaplike faktor |  |
-| common factor | gemene deler |  |
-| common information highway | gemeenskaplike inligtingshoofweg |  |
-| common logarithm | gewone logaritme |  |
-| common n. | gemeenskaplike verbinding |  |
-| common negative | gemeenskaplike negatief |  |
-| common return | gemeenskaplike terugbaan |  |
-| common services {also automatic telephone} | gemeenskaplike dienste |  |
-| common signalling battery | gemeenskaplike seinbattery |  |
-| common start circuit | gemeenskaplike aansitkring |  |
-| common switching equipment | gemeenskaplike skakeltoerusting |  |
-| common trunk {automatic telephone} | gemeenskaplike baan |  |
-| common user | gemeenskaplike gebruiker |  |
-| common v. {telecommunication} | gemeenskaplik verbind, saamverbind |  |
-| common-base amplifier | gemeenskaplikebasis-versterker |  |
-| common-base circuit | gemeenskaplikebasis-kring |  |
-| common-base configuration | gemeenskaplikebasis-konfigurasie |  |
-| common-base connection | gemeenskaplikebasis-verbinding |  |
-| common-battery exchange | gemeenskaplikebattery-sentrale |  |
-| common-battery supply | gemeenskaplikebattery-voeding |  |
-| common-battery switchboard | gemeenskaplikebattery-skakelbord |  |
-| common-battery system | gemeenskaplikebattery-stelsel |  |
-| common-collector amplifier | gemeenskaplikekollektor-versterker |  |
-| common-collector circuit | gemeenskaplikekollektor-kring |  |
-| common-collector connection | gemeenskaplikekollektor-verbinding |  |
-| common-control route selector | gemeenskaplikebeheer-roetekieser |  |
-| common-control system | gemeenskaplikebeheer-stelsel |  |
-| common-emitter amplifier | gemeenskaplike-emittorversterker |  |
-| common-emitter circuit | gemeenskaplike-emittorkring |  |
-| common-emitter connection | gemeenskaplike-emittorverbinding |  |
-| common-functions unit | gemeenskaplikefunksie-eenheid |  |
-| common-impedance bridge | gemeenskaplike-impedansiebrug |  |
-| common-impedance coupling | gemeenskaplike-impedansiekoppeling |  |
-| common-mode rejection | gemeenskaplikemodus-verwerping |  |
-| common-services unit | gemeenskaplikediens-eenheid |  |
-| common-source amplifier | gemeenskaplikebron-versterker |  |
-| commoning terminal | saamverbindpunt |  |
-| communal antenna | gemeenskaplike antenne |  |
-| communicate crossband {radio} | kruisband kommunikeer |  |
-| communication band | kommunikasieband |  |
-| communication method | kommunikasiemetode |  |
-| communication methods {marketing} | kommunikasiemetodes |  |
-| communication network | kommunikasienetwerk |  |
-| communication processor | kommunikasieverwerker |  |
-| communication sequence controller | kommunikasiereeksbeheerder |  |
-| communication | berig, mededeling |  |
-| communication | kommunikasie |  |
-| communication | kommunikasie |  |
-| communications system analyser | kommunikasiestelselontleder |  |
-| community of interest {eg between exchanges} | gemeenskaplikheid |  |
-| community of interest | belangegemeenskap, belangegroep |  |
-| community of interest | gemeenskaplike belang |  |
-| commutating capacitor | kommuteerkapasitor |  |
-| commutating diode | kommutasiediode |  |
-| commutating frequency | kommuteerfrekwensie |  |
-| commutation interval | kommutasie-interval |  |
-| commutation {allowance, pension} | omsetting |  |
-| commutation {electricity} | kommutering |  |
-| commutation | kommutasie |  |
-| commutator bar (commutator segment) | kommutatorsegment |  |
-| commutator drum | kommutatortrommel |  |
-| commutator lug (commutator riser) | kommutatoroor |  |
-| commutator motor | kommutatormotor |  |
-| commutator ripple frequency | kommutatorrimpelfrekwensie |  |
-| commutator ripple | kommutatorrimpel |  |
-| commutator | kommutator |  |
-| commuted allowance | omgesette toelae, vaste toelae |  |
-| commuted overtime | omgesette oortyd, vaste oortyd |  |
-| companding | kompandering |  |
-| compandor | kompandor |  |
-| compandored channel | gekompandeerde kanaal |  |
-| companion unit | bybehorende eenheid |  |
-| comparative estimate | vergelykende raming, vergelykende beraming |  |
-| comparative resistance | vergelykende weerstand |  |
-| comparative statement | vergelykende staat |  |
-| comparator circuit | vergelykerkring |  |
-| comparator gate | vergelykerhek |  |
-| comparator | vergelyker |  |
-| comparatory signal | vergelykingsein |  |
-| comparison datum | vergelykingsverwysing |  |
-| comparison pilot (reference pilot) | vergelykingsloods |  |
-| compartment box | kompartementkas |  |
-| compartment conveyor {LSM} | skotvervoerband |  |
-| compartment | kompartement, vak |  |
-| compass needle | kompasnaald |  |
-| compass point | windstreek |  |
-| compass saw (piercing saw) | steeksaag |  |
-| compass | kompas |  |
-| compassionate reasons | menslikheidsredes |  |
-| compatibility {also television} | aanpasbaarheid |  |
-| compatible colour television | aanpaskleurtelevisie |  |
-| compatible {mathematics} | nie-strydig |  |
-| compatible | aanpasbaar |  |
-| compendium of equivalents | kompendium van ekwivalente |  |
-| compendium | kompendium |  |
-| compensate {electricity} | kompenseer |  |
-| compensate | kompenseer, skadeloos stel, vergoed |  |
-| compensated loading | gekompenseerde belasting |  |
-| compensated semiconductor | gekompenseerde halfgeleier |  |
-| compensated terminal loading | gekompenseerde eindbelasting |  |
-| compensated volume control | gekompenseerde volumebeheer |  |
-| compensated-loop direction finder | rigtingsoeker met gekompenseerde lus |  |
-| compensating battery | kompenseerbattery |  |
-| compensating charge (trickle charge) | sypellading |  |
-| compensating circuit (compensation circuit) | kompenseerkring |  |
-| compensating coil | kompenseerspoel |  |
-| compensating current | kompenseerstroom |  |
-| compensating error | kompenseerfout |  |
-| compensating jet | kompenseerstraler |  |
-| compensating magnet | kompenseermagneet |  |
-| compensating network | kompenseernetwerk |  |
-| compensating resistance | kompenseerweerstand |  |
-| compensating roller | kompenseerroller |  |
-| compensating spring | kompenseerveer |  |
-| compensating transformer | kompenseertransformator |  |
-| compensating voltage | kompenseerspanning |  |
-| compensating wave | kompenseergolf |  |
-| compensating weight | kompenseergewig |  |
-| compensating well | kompenseerput |  |
-| compensating winding | kompenseerwikkeling |  |
-| compensation theorem | kompensasiestelling |  |
-| compensation voucher | vergoedingsbewys |  |
-| compensation {electricity} | kompensasie |  |
-| compensation {workmen's compensation} | skadeloosstelling |  |
-| compensation | kompensasie, skadeloosstelling, skadevergoeding |  |
-| compensation | vergoeding, skadeloosstelling |  |
-| compensator | kompenseerder |  |
-| compensatory rest allowance {human resources} | kompenserende rustoelating |  |
-| competence | bevoegdheid |  |
-| competent authority | bevoegde owerheid |  |
-| competent official (qualified official) | bevoegde amptenaar |  |
-| competitive edge | mededingende voorsprong |  |
-| competitive price | konkurrerende prys, mededingende prys |  |
-| compile {computer} | kompileer |  |
-| compile | opstel, saamstel |  |
-| compile | saamstel |  |
-| compiler {eg of examination paper, didactics} | opsteller |  |
-| compiler | kompileerder |  |
-| compiling routine {computer} | kompileerroetine |  |
-| complaint register | klagteboek |  |
-| complaint | klagte |  |
-| complaints operator | klagteoperateur |  |
-| complement laws {mathematics} | komplementwette |  |
-| complement | komplement |  |
-| complementary addition | komplementere optelling |  |
-| complementary charge | aanvullende koste |  |
-| complementary colour | komplementere kleur |  |
-| complementary equaliser | aanvullende effenaar |  |
-| complementary fee | aanvullende geld |  |
-| complementary metal-oxide semiconductor (CMOS) | CMOS, komplementere-metaaloksiedhalfgeleier |  |
-| complementary subtraction | komplementere aftrekking |  |
-| complementary symmetry | komplementere simmetrie |  |
-| complementary {mathematics} | komplementer |  |
-| complementary-to-twelve stepping feature | komplementer-tot-twaalf-stapeienskap |  |
-| complementary | aanvullend |  |
-| complementer | komplementeerder |  |
-| complete (fill in) {form} | invul, voltooi |  |
-| complete multiple | volledige multipel |  |
-| complete rand | volle rand |  |
-| complete unit | volledige eenheid |  |
-| complete {apprenticeship period} | uitdien |  |
-| complete {call} | afhandel |  |
-| complete {circuit, work} | voltooi |  |
-| complete {connection} | tot stand bring |  |
-| complete {course} | deurloop |  |
-| complete {order} | uitvoer |  |
-| complete {partially filled-in form} | voltooi |  |
-| complete {task, job} | deurvoer, volvoer |  |
-| completion advice | voltooiingsadvies |  |
-| completion report | voltooiingsverslag |  |
-| complex admittance {electricity} | komplekse admittansie |  |
-| complex refractive index | komplekse refraksie-indeks |  |
-| complex relative permittivity | komplekse relatiewe permittiwiteit |  |
-| complex tone | komplekse toon |  |
-| complex wave | komplekse golf |  |
-| compliance officer | nakomingsbeampte, voldoeningsbeampte |  |
-| compliance {acoustics} | soepelheid |  |
-| comply with {instructions} | nakom |  |
-| comply {with a request} | voldoen |  |
-| compoboard | kompobord |  |
-| component (part) | onderdeel |  |
-| component activity {PNA} | komponentaktiwiteit |  |
-| component evaluation | komponentevaluering |  |
-| component harmonics | komponentbofrekwensies |  |
-| component jig | komponenthouer |  |
-| component noise | komponentruis |  |
-| component parts {also clothing} | samestellende dele |  |
-| component sentence {logic} | komponentsin |  |
-| component side {PC board} | komponentkant |  |
-| component {chemistry} | bestanddeel |  |
-| component {general} | komponent |  |
-| composite attenuation | saamgestelde verswakking |  |
-| composite cable | kompokabel, komposisiekabel |  |
-| composite circuit | saamgestelde verbinding |  |
-| composite controlling voltage | saamgestelde beheerspanning |  |
-| composite gain {electronics} | saamgestelde wins |  |
-| composite lines | saamgestelde lyne |  |
-| composite mapping | saamgestelde kartering |  |
-| composite picture signal | saamgestelde beeldsein |  |
-| composite power transistor | saamgestelde kragtransistor |  |
-| composite sheet {stamps} | saamgestelde vel |  |
-| composite star-quad cable | kompo-stervierlingkabel |  |
-| composition | samestelling |  |
-| composition | samestelling |  |
-| compound <deprecated term - use hostel> | kampong <afgekeurde term - gebruik hostel> |  |
-| compound box {cables} | mengselkas |  |
-| compound die | saamgestelde blok |  |
-| compound gear train | saamgestelde ratstel |  |
-| compound gearing | saamgestelde ratwerk |  |
-| compound generator (compound-wound generator) | serie/parallel-generator |  |
-| compound indexing {dividing head} | saamgestelde instelling |  |
-| compound interest | saamgestelde rente |  |
-| compound magnet (laminated magnet) | lamelmagneet |  |
-| compound motor (compound-wound motor) | serie/parallel-motor |  |
-| compound n. {chemistry} | verbinding |  |
-| compound prefix | saamgestelde voorsein |  |
-| compound signal | saamgestelde sein |  |
-| compound slide {eg lathe} | saamgestelde slee |  |
-| compound train of gears | saamgestelde ratstel |  |
-| compound transistor | saamgestelde transistor |  |
-| compound v. {cable} | mengselbehandel |  |
-| compound v. | meng |  |
-| compound v. | saamstel |  |
-| compound winding | serie/parallel-wikkeling |  |
-| compounded annually {interest} | jaarliks saamgestel |  |
-| compounded idler (compound idler) | saamgestelde tussenrat |  |
-| compounded jute yarn | behandelde jutegaring |  |
-| compounded serving | behandelde bekleding |  |
-| compounded tape | behandelde band |  |
-| comprehension | begrip |  |
-| comprehensive plan | omvattende plan |  |
-| compress n. | saamdrukker |  |
-| compress v. {frequency band} | komprimeer |  |
-| compress v. | saamdruk, saampers |  |
-| compressed air | druklug |  |
-| compressed cotton-wool | saamgeperste watte |  |
-| compressed gas | saamgeperste gas |  |
-| compressed graphite | saamgeperste grafiet |  |
-| compressed wool | saamgeperste wol |  |
-| compressed-air station | druklugstasie |  |
-| compression efficiency | kompressierendement |  |
-| compression gland | drukstuk |  |
-| compression heat coil | kompressiehittespoel |  |
-| compression ignition | kompressieontsteking |  |
-| compression nut | drukmoer |  |
-| compression pressure | kompressiedruk |  |
-| compression ratio | kompressieverhouding |  |
-| compression spring | kompressieveer |  |
-| compression stroke | kompressieslag |  |
-| compression tool {sleeve jointing} | perstang |  |
-| compression wave | kompressiegolf |  |
-| compression {eg engine} | kompressie |  |
-| compression/refrigeration cycle | kompressie/verkoeling-siklus |  |
-| compression | saamdrukking |  |
-| compressive force | drukkrag |  |
-| compressive strength | druksterkte |  |
-| compressor plate (support plate) {card drawer} | stutplaat |  |
-| compressor unit | kompressoreenheid |  |
-| compressor | kompressor |  |
-| compromise balance | kompromisbalans |  |
-| compromise equaliser | kompromiseffenaar |  |
-| compromise n. | kompromis |  |
-| compromise network | kompromisnetwerk |  |
-| compromise settlement | kompromisvereffening |  |
-| compromise v. | 'n kompromis aangaan, skik |  |
-| comptroller | komptroleur |  |
-| compulsory S pole | verpligte S-paal |  |
-| compulsory liquidation | verpligte likwidasie |  |
-| compulsory postage | verpligte posgeld |  |
-| compulsory prepayment | verpligte vooruitbetaling |  |
-| compulsory registration | verpligte registrasie |  |
-| computation sheet | berekeningsblad |  |
-| computation | berekening |  |
-| compute | bereken |  |
-| computer floor <deprecated term - see raised floor> | vals vloer |  |
-| computer literacy | rekenaargeletterdheid |  |
-| computer operator | rekenaaroperateur |  |
-| computer output microfilm (COM) | rekenaaruitvoermikrofilm, RUM |  |
-| computer program {marketing} | rekenaarprogram |  |
-| computer program | rekenaarprogram |  |
-| computer record | rekenaarrekord |  |
-| computer technique | rekenaartegniek |  |
-| computer voucher | rekenaarbewys |  |
-| computer-assisted telephone interviewing (CATI) | rekenaarondersteunde telefoononderhoudvoering |  |
-| computer-based solution | rekenaargebaseerde oplossing, rekenaaroplossing |  |
-| computer | rekenaar |  |
-| computing services | rekendienste |  |
-| computing spectrum analyser | rekenspektrumontleder |  |
-| concave inspection mirror | konkawe inspeksiespieël |  |
-| concealed {also clothing} | versteek |  |
-| concentrated sulphuric acid | gekonsentreerde swaelsuur |  |
-| concentration key | konsentrasiesleutel |  |
-| concentration position | konsentrasiepunt |  |
-| concentration | konsentrasie |  |
-| concentrator | konsentreerder |  |
-| concentric cable | konsentriese kabel |  |
-| concentric circles | konsentriese sirkels |  |
-| concentric conductor | konsentriese geleier |  |
-| concentric feeder | konsentriese voerder |  |
-| concentric groove | konsentriese groef |  |
-| concentric twin-cable | konsentriese tweelingkabel |  |
-| concentricity | konsentrisiteit |  |
-| concern | besorgdheid |  |
-| concession certificate | konsessiesertifikaat |  |
-| concession rate | konsessietarief |  |
-| concession {eg Railways} | konsessie |  |
-| concession | toegewing |  |
-| concessionaire (concessionary, concessionnaire) | konsessiehouer, konsessionaris |  |
-| conciliation board | versoeningsraad |  |
-| concise description | beknopte beskrywing |  |
-| conclude {agreement} | sluit |  |
-| concluding remarks | slotopmerkings |  |
-| conclusion | afsluiting |  |
-| concrete cabinet | betonhokkie |  |
-| concrete evidence | konkrete getuienis |  |
-| concrete footing | betonfondament, betonvoet, betonvoetstuk |  |
-| concrete foundation | betonfondament, betonfondasie |  |
-| concrete grinder | betonslyper |  |
-| concrete mixer | betonmenger |  |
-| concrete n. | beton |  |
-| concrete pipe | betonpyp |  |
-| concrete pole | betonpaal |  |
-| concrete slab | betonblad |  |
-| concrete v. | betonneer |  |
-| concurrence test | saamvaltoets |  |
-| concurrency {computer} | gelyktydigheid |  |
-| condemn | afkeur |  |
-| condensate tray | kondensaatpan |  |
-| condensate | kondensaat |  |
-| condensed keyboard | verkleinde sleutelbord |  |
-| condenser air baffle | kondensatorlugskot |  |
-| condenser coil | kondensatorkronkel |  |
-| condenser lens | kondensorlens |  |
-| condenser system {textile} | kondensorstelsel |  |
-| condenser unit {air conditioner} | kondenseereenheid |  |
-| condenser yarn {textile} | kondensorgaring |  |
-| condenser {lens} | kondensor |  |
-| condenser {steam and gas} | kondensator |  |
-| condensing coil | kondenseerkronkel |  |
-| condensing pressure | kondenseerdruk |  |
-| condensing temperature | kondenseertemperatuur |  |
-| condition code {computer} | toestandkode |  |
-| condition flag {computer} | toestandmerker |  |
-| condition n. | toestand |  |
-| condition n. | voorwaarde |  |
-| condition of appointment | aanstellingsvoorwaarde |  |
-| condition of employment | diensvoorwaarde |  |
-| condition v. {air} | versorg |  |
-| condition v. {data lines} | verbeter |  |
-| condition v. | kondisioneer |  |
-| condition v. | voorberei |  |
-| conditional jump (conditional transfer of control) | voorwaardelike sprong |  |
-| conditional jump {programming} | voorwaardelike sprong |  |
-| conditional probability {marketing} | voorwaardelike waarskynlikheid |  |
-| conditional probability | voorwaardelike waarskynlikheid |  |
-| conditional probability | voorwaardelike waarskynlikheid |  |
-| conditioned air {air conditioning} | versorgde lug |  |
-| conditioner {electronic signals} | kondisioneerder |  |
-| conditions of acceptance | aanneemvoorwaardes |  |
-| conditions of appointment | aanstellingsvoorwaardes |  |
-| conditions of employment | diensvoorwaardes |  |
-| conditions of employment | diensvoorwaardes |  |
-| conditions of obtaining | verkrygingsvoorwaardes |  |
-| conditions of procurement {goods} | verkrygingsvoorwaardes |  |
-| conductance component | konduktansiekomponent |  |
-| conductance unbalance | konduktansie-onbalans |  |
-| conductance | konduktansie |  |
-| conducting direction | geleirigting |  |
-| conducting film | geleifilm |  |
-| conducting layer | geleilaag |  |
-| conducting part | geleideel |  |
-| conducting path | geleibaan |  |
-| conducting wire | geleidraad |  |
-| conduction angle | geleihoek |  |
-| conduction band | geleiband |  |
-| conduction current | geleistroom |  |
-| conduction electron | gelei-elektron |  |
-| conduction heat gain | geleidingshittewins |  |
-| conduction hole | geleiholte |  |
-| conduction | geleiding |  |
-| conductive coupling | geleikoppeling |  |
-| conductive part | geleideel |  |
-| conductive pattern | geleipatroon |  |
-| conductive | geleidend |  |
-| conductively connected | geleidend verbind |  |
-| conductivity modulation | geleivermoëmodulasie |  |
-| conductivity test | geleivermoëtoets |  |
-| conductivity | geleivermoë, konduktiwiteit |  |
-| conductor core | geleierkern |  |
-| conductor metal | geleiermetaal |  |
-| conductor resistance | geleierweerstand |  |
-| conductor tag | geleierstiffie |  |
-| conductor unbalance | geleieronbalans |  |
-| conductor | geleier |  |
-| conduit coupling | leipypkoppeling |  |
-| conduit installer | leipypinstalleerder |  |
-| conduit | leipyp |  |
-| cone bearing | keëllaer |  |
-| cone diagram | keëldiagram |  |
-| cone diaphragm | keëldiafragma |  |
-| cone loudspeaker | keëlluidspreker |  |
-| cone of silence {radio} | stiltekeël |  |
-| cone pulley | keëlkatrol |  |
-| cone suspension {loudspeaker} | keëlsuspensie |  |
-| cone vibration | keëltrilling |  |
-| cone wheel | keëlwiel |  |
-| cone | keël |  |
-| conferee | konferent |  |
-| conference cabinet | konferensiekabinet |  |
-| conference call | konferensie-oproep |  |
-| conference circuit | konferensiekring |  |
-| conference combiner | konferensiekombineerder |  |
-| conference connection | konferensieverbinding |  |
-| conference facilities | konferensiefasiliteite |  |
-| conference repeater | konferensieherhaler |  |
-| conference system | konferensiestelsel |  |
-| confidant <fem - confidante> | vertroueling |  |
-| confidence coefficient {marketing} | betroubaarheidskoëffisiënt |  |
-| confidence interval {marketing} | betroubaarheidsinterval |  |
-| confidence level {marketing} | betroubaarheidspeil |  |
-| confidence level | vertrouensvlak |  |
-| confidence tone (confirmation tone) {eg ATS systems} | bevestigingstoon |  |
-| confidential | vertroulik |  |
-| configuration (lay-up) {cable} | konfigurasie |  |
-| configuration program | konfigurasieprogram |  |
-| configurator | konfigureerder |  |
-| confined area | beperkte ruimte |  |
-| confirm {appointment, decision} | bekragtig |  |
-| confirm {minutes} | goedkeur |  |
-| confirm {opinion} | versterk |  |
-| confirm | bevestig |  |
-| confirmation copy (confirmatory copy) | bevestigingskopie |  |
-| confirmation pulse | bevestigpuls |  |
-| confiscate | beslag lê op, konfiskeer |  |
-| confiscation | beslaglegging op, konfiskering |  |
-| congeal {eg oil} | verdik |  |
-| congeal | stol |  |
-| congested group {eg telephone} | oorbelaste groep, oorlaaide groep |  |
-| congestion alarm | oorbelastingsalarm |  |
-| congestion lamp | oorbelastingslamp |  |
-| congestion meter | oorbelastingteller |  |
-| congestion signal | oorbelastingsein |  |
-| congestion {eg telephone} | oorbelasting, oorlaaiing |  |
-| congestion | ophoping |  |
-| congruent triangle | kongruente driehoek |  |
-| conical (conically shaped) | keelvormig, konies |  |
-| conical horn | keelhoring |  |
-| conical monopole antenna | keelvormige eenpoolantenne |  |
-| conical seating | koniese bedding |  |
-| conjoint analysis {marketing} | voorkeuromstandigheidsontleding |  |
-| conjugate attenuation coefficient | gekonjugeerde verswakkingskoeffisient |  |
-| conjugate attenuation constant | gekonjugeerde verswakkingskonstante |  |
-| conjugate branches | gekonjugeerde takke |  |
-| conjugate impedances | gekonjugeerde impedansies |  |
-| conjugate n. | konjugaat |  |
-| conjugate phase-change coefficient | gekonjugeerde faseverskuiwingskoeffisient |  |
-| conjugate phase-change constant | gekonjugeerde faseverskuiwingskonstante |  |
-| conjugate transfer constant | gekonjugeerde oordragkonstante |  |
-| conjugate v. | konjugeer |  |
-| conjunct n. {logic} | konjunk |  |
-| connect across | konnekteer oor, verbind oor |  |
-| connect answer key | antwoordkantverbindsleutel |  |
-| connect answer-transfer key | antwoordoorplaas-verbindsleutel |  |
-| connect circuit | verbindkring |  |
-| connect key | verbindsleutel |  |
-| connect up a station {eg telephone, teleprinter} | 'n punt aansluit |  |
-| connect with {mail} | aansluit by |  |
-| connect {electricity} | aansluit, konnekteer, verbind |  |
-| connect {mechanics} | koppel |  |
-| connect-circuit finder {PABX} | lynvinder |  |
-| connected subscriber | verbinde huurder |  |
-| connecting administration | tussenadministrasie |  |
-| connecting block (connection block, connector block) | verbindblok |  |
-| connecting circuit <correct English term - connect circuit> | verbindkring |  |
-| connecting cord (connection cord) | verbindsnoer |  |
-| connecting duct | verbindkanaal |  |
-| connecting key | verbindsleutel |  |
-| connecting link (CL) | verbindskakel, VS |  |
-| connecting lug (connection lug) | verbindoor |  |
-| connecting plug (connection plug) | verbindprop |  |
-| connecting plug | koppelprop |  |
-| connecting rele (connection rele) | verbindrele |  |
-| connecting rod {engine} | suierstang |  |
-| connecting rod {teleprinter} | koppelstang |  |
-| connecting strip (connection strip) | verbindstrook |  |
-| connecting tag (connection tag) | verbindstiffie |  |
-| connecting tail (connection tail) | verbindstert |  |
-| connection clip | aansluitklem |  |
-| connection diagram | verbindingsdiagram |  |
-| connection matrix | verbindmatriks |  |
-| connection panel unit | verbindingspaneeleenheid |  |
-| connection-weighted centre {exchange} | aansluitpuntbeswaarde middelpunt |  |
-| connection | konneksie, verbinding |  |
-| connector adapter | verbindpasstuk |  |
-| connector selector (connect selector) {PABX} | verbindkieser |  |
-| connector socket | verbindsok |  |
-| connector {PABX} | verbindkieser |  |
-| connector-ended cord | snoer met verbinder |  |
-| connector | verbinder |  |
-| consecutive interpreting | konsekutiewe tolking |  |
-| consecutive number | volgnommer |  |
-| consecutive receipt number | opeenvolgende kwitansienommer |  |
-| consecutive sections {eg lines} | opeenvolgende vakke |  |
-| consecutive segments | opeenvolgende segmente |  |
-| consecutive series | volgreeks |  |
-| consecutive sheet number | vel-volgnommer |  |
-| consequent n. {logic} | konsekwensie |  |
-| consequent poles {magnetism} | volgpole |  |
-| consequential loss | gevolglike verlies |  |
-| conservation (preservation) | behoud |  |
-| conservative rating | konserwatiewe aanslag |  |
-| conserve {resources} | bespaar, oordeelkundig gebruik |  |
-| consign {goods} | stuur, versend |  |
-| consignee | geadresseerde, ontvanger |  |
-| consignment note | vragbrief |  |
-| consignment {freight} | besending |  |
-| consignor {freight etc} | afsender |  |
-| consistency {concrete} | konsistensie |  |
-| consistency | konsekwentheid |  |
-| console | konsole, kontrolepunt |  |
-| consolidated revenue fund | gekonsolideerde inkomstefonds |  |
-| consolidation | konsolidasie, konsolidering |  |
-| constancy {eg rele} | bestendigheid |  |
-| constancy | konstantheid |  |
-| constancy | konstantheid |  |
-| constant amplitude | konstante amplitude |  |
-| constant applied voltage | konstant aangelegde spanning |  |
-| constant current | konstante stroom |  |
-| constant element | konstante element |  |
-| constant multiplier | konstantevermenigvuldiger |  |
-| constant n. | konstante |  |
-| constant terminal voltage | konstante eindspanning |  |
-| constant velocity | konstante snelheid |  |
-| constant voltage | konstante spanning |  |
-| constant-K filter | filter met konstante K, konstante-K-filter |  |
-| constant-current and constant-voltage power supply | konstantestroom-en-spanningkragbron, kragbron met |  |
-| constant-current device | konstantestroom-toestel |  |
-| constant-current modulation | konstantestroom-modulasie |  |
-| constant-current source | konstantestroom-bron |  |
-| constant-current tail {differential amplifier} | konstantestroom-bron |  |
-| constant-potential charger | konstantespanning-laaier |  |
-| constant-resistance network | konstanteweerstand-netwerk |  |
-| constant-torque drive {drill} | konstantewringkrag-aandrywing |  |
-| constant-voltage and constant-current power supply | konstantespanning-en-stroomkragbron, kragbron met |  |
-| constant-voltage constant-current power supply | konstantestroom-en-spanningkragbron, kragbron met |  |
-| constant-volume amplifier | konstantevolume-versterker, versterker met konstante volume |  |
-| constituent | bestanddeel |  |
-| constitute {meeting} | konstitueer |  |
-| constitute | uitmaak |  |
-| constitution {of an association} | statute |  |
-| constitution | grondwet |  |
-| constitutional provision | grondwetlike bepaling, konstitusionele bepaling |  |
-| constricting wing nut | vernouvleuelmoer |  |
-| construct {circuit} | saamstel |  |
-| construct {line} | aanle |  |
-| construction chargeman | konstruksiespanvoorman |  |
-| construction cost | konstruksiekoste |  |
-| construction depot | konstruksiedepot |  |
-| construction gang (construction party) | konstruksiespan |  |
-| construction officer | konstruksiebeampte |  |
-| construction programme | konstruksieprogram |  |
-| construction section | konstruksieseksie |  |
-| construction stock | konstruksievoorraad |  |
-| construction work | konstruksiewerk |  |
-| construction worker | konstruksiewerker |  |
-| construction works | konstruksiewerke |  |
-| construction yard | aanlegwerf, konstruksiewerf |  |
-| construction {line} | aanleg, konstruksie |  |
-| construction | bou, konstruksie |  |
-| consular representative | konsulêre verteenwoordiger |  |
-| consult | oorleg pleeg, raadpleeg |  |
-| consultants roster | konsultantelys |  |
-| consultation call | konsultasieoproep |  |
-| consultation circuit | konsultasiekring |  |
-| consultation selector | konsultasiekieser |  |
-| consultative capacity | raadgewende hoedanigheid |  |
-| consultative committee | raadgewende komitee |  |
-| consulting engineer | konsultingenieur, raadgewende ingenieur |  |
-| consumable item | verbruiksartikel |  |
-| consume v. | verbruik |  |
-| consumer approach | verbruikerbenadering |  |
-| consumer expenditure | verbruikerbesteding |  |
-| consumer list | verbruikerlys |  |
-| consumer mailing | verbruikersposreklame |  |
-| consumer market {marketing} | verbruikersmark |  |
-| consumer market | verbruikermark |  |
-| consumer panel {marketing} | verbruikerspaneel |  |
-| consumer panel | verbruikerpaneel |  |
-| consumer product consumption panel {marketing} | verbruikersprodukkonsumpsiepaneel |  |
-| consumer purchase data {marketing} | verbruikersaankoopdata |  |
-| consumer purchase data | verbruikeraankoopdata |  |
-| consumer purchasing panel {marketing} | verbruikersaankooppaneel |  |
-| consumer purchasing panel | verbruikeraankooppaneel |  |
-| consumer shopping panel {marketing} | verbruikersinkooppaneel |  |
-| consumer shopping panel | verbruikerinkooppaneel |  |
-| consumer spending | verbruikerbesteding |  |
-| consumer survey {marketing} | verbruikersopname |  |
-| consumer survey | verbruikeropname |  |
-| consumerism | verbruikerisme |  |
-| consumption expenditure {marketing} | verbruiksbesteding |  |
-| consumption expenditure {national accounts} | verbruikuitgawe |  |
-| consumption expenditure | verbruiksbesteding |  |
-| consumption n. | verbruik |  |
-| consumption spending | verbruikbesteding |  |
-| contact arc-welding | kontakboogsweising |  |
-| contact arc | kontakboog |  |
-| contact arm | kontakarm |  |
-| contact assembly | kontaksamestel |  |
-| contact bank | kontakbank |  |
-| contact bounce | kontakwippering |  |
-| contact breaker | kontakbreker |  |
-| contact cam | kontaknok |  |
-| contact cleaner | kontakskoonmaker |  |
-| contact cone | kontakkeël |  |
-| contact dome | kontakkoepel |  |
-| contact electricity | kontakelektrisiteit |  |
-| contact face | kontakvlak |  |
-| contact fault | kontakfout |  |
-| contact follow | kontakvolging |  |
-| contact gap | kontakgaping |  |
-| contact guard plate | kontakskutplaat |  |
-| contact head | kontakkop |  |
-| contact lamp (outlet lamp) | uitgangslamp |  |
-| contact n. | kontak |  |
-| contact noise | kontakruis |  |
-| contact pillar | kontakpilaar |  |
-| contact piston (contact plunger) {waveguide} | kontaksuier |  |
-| contact point (point of contact) | kontakpunt, raakpunt |  |
-| contact potential | kontakpotensiaal |  |
-| contact pressure | kontakdruk |  |
-| contact ring | kontakring |  |
-| contact sector | kontaksektor |  |
-| contact sequence | kontakvolgorde |  |
-| contact spring | kontakveer |  |
-| contact stud | kontakknop |  |
-| contact surface | kontakoppervlak |  |
-| contact tag | kontakstiffie |  |
-| contact tongue | kontaktong |  |
-| contact track | kontakbaan |  |
-| contact travel | kontakslag |  |
-| contact tree | kontakboom |  |
-| contact twinning | kontakparing |  |
-| contact wetting | kontakbenatting |  |
-| contact-adjusting screw | kontakstelskroef |  |
-| contact-modulated amplifier | kontakgemoduleerde versterker |  |
-| contact-operating lever | kontakwerkhefboom |  |
-| contact-printed | kontakgedruk |  |
-| contact-spring set | kontakveerstel |  |
-| contactor alarm | kontaktoralarm |  |
-| contactor | kontaktor |  |
-| container (receptacle) | houer |  |
-| container load {ship mail} | houervrag |  |
-| containerised exchange | houersentrale |  |
-| containerised unit automatic exchange | houereenheid outomatiese sentrale |  |
-| contend v. {for free port} | meeding |  |
-| content analysis {marketing} | inhoudsontleding |  |
-| content analysis | inhoudontleding |  |
-| contention | meedinging |  |
-| contents gauge | inhoudmeter |  |
-| contents | inhoud |  |
-| contiguous flag | buurmerker |  |
-| continent code | vastelandkode |  |
-| contingency account | gebeurlikheidsrekening |  |
-| contingency allowance | gebeurlikheidtoelating |  |
-| contingency sum | gebeurlikheidsbedrag |  |
-| contingency {logic} | kontingensie |  |
-| contingency | gebeurlikheid |  |
-| contingent sentence {logic} | kontingente sin |  |
-| continuation book | vervolgboekie |  |
-| continuation card | vervolgkaart |  |
-| continuation class | voortsettingsklas |  |
-| continuation sheet {stamps} | vervolgblad |  |
-| continued employment | indienshouding |  |
-| continuity bond {eg rails} | kontinu<teitsdeurverbinder |  |
-| continuity of service | diensdeurlopendheid, dienskontinu<teit |  |
-| continuity room | kontinu<teitskamer |  |
-| continuity studio | kontinu<teitsateljee |  |
-| continuity suite | kontinu<teitstel |  |
-| continuity test | kontinu<teitstoets |  |
-| continuity work {social work} | opvolgwerk |  |
-| continuity | kontinu<teit |  |
-| continuous audit | deurlopende oudit |  |
-| continuous balance technique | deurlopendebalans-tegniek |  |
-| continuous chip | aaneenkrul |  |
-| continuous film system | ringfilmstelsel |  |
-| continuous float | deurlopende vlotting |  |
-| continuous form | kettingvorm |  |
-| continuous loading | deurlopende belasting |  |
-| continuous night service | deurlopende nagdiens, ononderbroke nagdiens |  |
-| continuous operation (continuous running) | aaneenwerking |  |
-| continuous radiation | voortdurende straling |  |
-| continuous random noise | ononderbroke toevallige ruis |  |
-| continuous rating | deurlopende aanslag |  |
-| continuous ringing current | ononderbroke luistroom |  |
-| continuous rotation | aanhoudende draaiing |  |
-| continuous routine key | roetineherhaalsleutel |  |
-| continuous routine | herhaalroetinetoets |  |
-| continuous routine | herhaalroetinetoetsing |  |
-| continuous run key | aanhouloopsleutel |  |
-| continuous service | deurlopende diens, ononderbroke diens |  |
-| continuous signalling code | ononderbrokesein-kode |  |
-| continuous spectrum | ononderbroke spektrum |  |
-| continuous stationery | kettingskryfbehoeftes |  |
-| continuous tone | aaneentoon, ononderbroke toon |  |
-| continuous transport permit | deurlopende vervoerpermit |  |
-| continuous wave | gelykgolf |  |
-| continuous weld | deurlopende sweislas |  |
-| continuous-filament thread {clothing} | filamentdraad |  |
-| continuous-tone coded squelch system (CTCSS) | aaneentoon gekodeerde onderdrukstelsel, ATKOS |  |
-| continuous-wave laser | gelykgolflaser |  |
-| continuous-wave mode (CW mode) | gelykgolfmodus, GG-modus |  |
-| continuous-wave operation (CW operation) | gelykgolfwerking, GG-werking |  |
-| continuous-wave telegraphy | gelykgolftelegrafie |  |
-| continuous | deurlopend, ononderbroke |  |
-| continuously loaded cable | deurlopend belaste kabel |  |
-| continuously pumped valve | deurlopend gepompte buis |  |
-| continuously staffed exchange | deurlopend bemande sentrale |  |
-| continuously staffed | deurlopend beman |  |
-| continuously variable | deurlopend reelbaar |  |
-| contour | kontoer |  |
-| contra entry | kontra-inskrywing, teeninskrywing |  |
-| contract circular | kontrakomsendbrief |  |
-| contract item | kontrakitem |  |
-| contract of apprenticeship | leerkontrak |  |
-| contract of employment | dienskontrak |  |
-| contract of suretyship | kontrak van borgstelling |  |
-| contract period | kontraktermyn |  |
-| contract price | kontrakprys |  |
-| contract | kontrak |  |
-| contracted interval {telephone lines} | ingekrimpte kruisingsafstand |  |
-| contracted section {telephone lines} | ingekrimpte vak |  |
-| contracted transposition section {telephone lines} | ingekrimpte kruisingsvak |  |
-| contracting administration | kontrakterende administrasie |  |
-| contracting country | kontrakterende land |  |
-| contracting government | kontrakterende regering |  |
-| contracting party | kontrakterende party |  |
-| contraction | inkrimping |  |
-| contractor's plant | kontrakteurstoerusting |  |
-| contractor | aannemer, kontrakteur |  |
-| contracts clerk | kontrakteklerk |  |
-| contractual matter | kontrakaangeleentheid |  |
-| contradictory sentence form {logic} | strydige sinsvorm |  |
-| contradirectional (contradirectional clock-pulse interface) | teenrigtingkoppelvlak |  |
-| contrary to | in stryd met, strydig met |  |
-| contrast control {television} | kontrasbeheer |  |
-| contrast control | kontraskontrole |  |
-| contrast effect | kontraseffek |  |
-| contrast gradient | kontrasgradiënt |  |
-| contrast threshold | kontrasdrempel |  |
-| contrast | kontras, teenstelling |  |
-| contrasty {eg phototelegram} | kontrasryk |  |
-| contravalid {logic} | kontrageldig |  |
-| contravene | oortree |  |
-| contributing factor | bydraende faktor |  |
-| contribution channel {television} | bydraekanaal |  |
-| contribution network | bydraenetwerk |  |
-| contribution | bydrae |  |
-| control account | kontrolerekening |  |
-| control amplifier | beheerversterker |  |
-| control bay | beheerraam |  |
-| control block {stamps} | kontroleblok |  |
-| control board | beheerraad |  |
-| control board | kontrolebord |  |
-| control box | beheerkas |  |
-| control button | beheerknop |  |
-| control calling lamp | beheerroeplamp |  |
-| control camshaft | beheernokas |  |
-| control card | beheerkaart |  |
-| control channel | beheerkanaal |  |
-| control character | beheerkarakter |  |
-| control character | pousebeheerkarakter |  |
-| control characteristic curve | beheerkenkromme |  |
-| control characteristic | beheereienskap |  |
-| control circuit (controlling circuit) | beheerkring |  |
-| control command | beheerbevel |  |
-| control console | beheerkonsole |  |
-| control cubicle | beheerhokkie, beheerkabinet |  |
-| control current | beheerstroom |  |
-| control desk | kontrolebank |  |
-| control disc | beheerskyf |  |
-| control electrode | beheerelektrode |  |
-| control electronics {device} | beheerelektroniek, elektroniese beheereenheid |  |
-| control equipment (control gear) | beheertoerusting |  |
-| control field | beheerveld |  |
-| control function {remote control} | beheerinstruksie |  |
-| control funtion {administration} | beheerfunksie |  |
-| control grid | beheerrooster |  |
-| control group | beheergroep |  |
-| control held alarm (control-set held alarm) | beheerstelhoualarm |  |
-| control input {punch-card machine} | kontrole-inset |  |
-| control is vested in | beheer berus by |  |
-| control jack field | beheerklinkveld |  |
-| control jet {spacecraft} | beheerstraler |  |
-| control joint | beheerlas |  |
-| control lever | beheerhefboom |  |
-| control lever | beheerhefboom |  |
-| control line | beheerlyn |  |
-| control magnet (directing magnet) | rigmagneet |  |
-| control magnet {teleprinter} | beheermagneet |  |
-| control n. {device} | beheermiddel, kontrole |  |
-| control	n. {process} | beheer |  |
-| control	pair {controlling} | kontrolepaar |  |
-| control	pair | beheerpaar |  |
-| control	panel | beheerpaneel |  |
-| control	point | beheerpunt |  |
-| control	position {exchange} | beheerpunt |  |
-| control	post | beheerpos |  |
-| control	program | beheerprogram |  |
-| control	rack | beheerraam |  |
-| control	ratio | beheerverhouding |  |
-| control	rele set | beheerrelestel |  |
-| control	room | beheerkamer |  |
-| control	sample | kontrolemonster |  |
-| control	set (CS) | beheerstel, BS |  |
-| control	setting {process} | kontrole-instelling |  |
-| control	setting | kontrolestand |  |
-| control	sheet {also data} | kontroleblad |  |
-| control	signal | beheersein |  |
-| control	slip | kontrolestrook |  |
-| control	station | beheerstasie |  |
-| control	supervisory lamp | beheerkontrolelamp |  |
-| control	switch | beheerskakelaar |  |
-| control	system | beheerstelsel |  |
-| control	tape | kontroleband |  |
-| control	telephone | beheertelefoon |  |
-| control	unit | beheereenheid |  |
-| control	voltage | beheerspanning |  |
-| control	word {also computer} | beheerwoord |  |
-| control	{eg a knob or lever} | kontrole |  |
-| control	{of interviewers in marketing} | kontrole |  |
-| control	-grid modulation | beheerroostermodulasie |  |
-| control	-grid tension | beheerroosterspanning |  |
-| control	-lever unit | beheerhefboomeenheid |  |
-| control	-line ring circuit | beheerlynluikring |  |
-| control	-station sender {RICE} | beheersenderstasie |  |
-| control	-switch bank | beheerkieserbank |  |
-| control	-switch wiper | beheerkieserkontakarm |  |
-| control | beheer |  |
-| control	led environment {marketing} | beheerde omgewing |  |
-| control	led item | beheerde item |  |
-| control	led negators | beheerde negeerders |  |
-| control	led oscillator | beheerde ossillator |  |
-| control	led trunk-group selector | beheerde hooflyngroepkieser |  |
-| control	ler {person} | kontroleur |  |
-| control	ler | beheerder |  |
-| control	er | reelaar |  |
-| control	ling authority | beherende gesag |  |
-| control	ling battery | beheerbattery |  |
-| control	ling coil | beheerspoel |  |
-| control	ling division | beheerafdeling |  |
-| control	ling exchange | beheersentrale |  |
-| control	ling magnet | beheermagneet |  |
-| control	ling office | beheerkantoor |  |
-| control	ling officer {officer in charge} | beampte in beheer |  |
-| control	ling operator | beheeroperateur, beheertelefonis |  |
-| control	ling post office | beheerposkantoor |  |
-| control	ling telegraph office | beheertelegraafkantoor |  |
-| control	ling testing station | beheertoetsstasie |  |
-| control	ling trunk exchange | beheerhooflynsentrale |  |
-| control	s layout {forklift} | kontrole-uitleg |  |
-| convection current | konveksiestroom |  |
-| convection | konveksie |  |
-| convector heater | konvektorverwarmer |  |
-| convene | belê, byeenroep, saamroep |  |
-| convenience sampling {marketing} | geriefsteekproeftrekking |  |
-| convenience sampling | geriefsteekproeftrekking |  |
-| convenience | toilet |  |
-| convention | konvensie |  |
-| conventional indication | gebruiklike aanduiding |  |
-| conventional language | gebruiklike taal |  |
-| conventional mark | gebruiklike merk, konvensionele merk |  |
-| conventional on/off keying | gebruiklike aan/af-sleuteling |  |
-| conventional sign | gebruiklike teken, konvensionele teken |  |
-| convergence ratio | konvergensieverhouding |  |
-| convergent rays | konvergerende strale |  |
-| converging wave | konvergerende golf |  |
-| conversation duration (conversation time, duration of a call, period of a call) | gesprekduur |  |
-| conversation | gesprek |  |
-| conversational selector | gesprekkieser |  |
-| converse v. {data transmission} | konverseer |  |
-| conversion circuit | omsitkring |  |
-| conversion conductance | omsettingskonduktansie |  |
-| conversion efficiency | omsettingsrendement |  |
-| conversion gain | omsettingwins |  |
-| conversion kit | omskepstel |  |
-| conversion relê set | omsitrelêstel |  |
-| conversion table {eg currency} | omrekeningstabel |  |
-| conversion table | omrekentabel |  |
-| conversion transconductance | omsittranskonduktansie |  |
-| conversion {device} | ombouing |  |
-| conversion {job} | omskepping |  |
-| conversion {mathematics, also frequency} | omsetting |  |
-| conversion {money} | omrekening |  |
-| conversion {telephone system} | oorskakeling |  |
-| conversion | herleiding, omrekening, omsetting |  |
-| convert {device} | ombou |  |
-| convert {mathematics, also frequency} | omsit |  |
-| convert {money} | omreken |  |
-| convert {post} | omskep |  |
-| convert {program} | omskakel |  |
-| convert {telephone system} | oorskakel |  |
-| converted time | omgesette tyd |  |
-| converter | omsetter |  |
-| converting transmitter | omsitsender |  |
-| conveyance charge | vervoerkoste |  |
-| conveyance of mail | posvervoer, vervoer van pos |  |
-| conveyance rate (transportation rate) | vervoertarief |  |
-| conveyance {property} | oordrag |  |
-| conveying system (conveyor system) | vervoerstelsel |  |
-| conveyor baffle | vervoerderkeerplaat |  |
-| conveyor bucket system | bakhysstelsel |  |
-| conveyor cart | vervoerwa |  |
-| conveyor drive | vervoerderaandrywing |  |
-| conveyor {device} | vervoerder |  |
-| conveyor-chain guide track {mail-coding station} | vervoerkettingleier |  |
-| conveyor | karweier |  |
-| conveyorised machine | vervoerbandtipe masjien |  |
-| convolution | konvolusie |  |
-| cool cushion | koelkussing |  |
-| coolant flow {hack saw} | koelmiddelvloei |  |
-| coolant reservoir {milling machine} | koelmiddelreservoir |  |
-| coolant | koelmiddel |  |
-| cooler housing | koelerhulsel |  |
-| cooling air | koellug, verkoellug |  |
-| cooling capacity | koelvermoe |  |
-| cooling coil | koelkronkel |  |
-| cooling effect | koeleffek |  |
-| cooling fin | koelvin |  |
-| cooling liquid | koelvloeistof |  |
-| cooling load | koellas |  |
-| cooling plate | koelplaat |  |
-| cooling system | koelstelsel |  |
-| cooling tower | koeltoring |  |
-| cooling water system | koelwaterstelsel |  |
-| cooling | koeling, verkoeling |  |
-| coordination | ko”rdinasie, ko”rdinering |  |
-| cope v. {metal work} | figuursny |  |
-| coping machine {metal work} | figuursnymasjien |  |
-| coping saw | figuursaag |  |
-| coping with crisis | krisishantering |  |
-| coping | kurweslypwerk |  |
-| coplanar | koplaner, saamvlakkig |  |
-| copolymer | kopolimeer |  |
-| copper binder | koperbinder |  |
-| copper bit (coppering bit, soldering bit, soldering bolt, soldering iron, soldering tool, solder iron) | soldeerbout |  |
-| copper collar | koperkraag |  |
-| copper glance | koperglans |  |
-| copper jointing sleeve | koperlashuls |  |
-| copper land {printed circuit} | koperveld |  |
-| copper line {in spectrum} | koperlyn |  |
-| copper loss | koperverlies |  |
-| copper oxide | koperoksied |  |
-| copper pyrite | koperpiriet |  |
-| copper ring | koperring |  |
-| copper sheath | koperomhulsel |  |
-| copper side {PC board} | koperkant |  |
-| copper sleeve | koperhuls |  |
-| copper slug {rele} | kopervertraaghuls |  |
-| copper strip | koperstrook |  |
-| copper track {printed circuit} | koperbaan |  |
-| copper wire | koperdraad |  |
-| copper-clad steel | koperbeklede staal |  |
-| copper-oxide rectifier | koperoksiedgelykrigter |  |
-| copper-rich alloy | koperryk legering |  |
-| copperweld wire | koperstaaldraad |  |
-| copperweld | koperstaal |  |
-| copy holder | kopiehouer |  |
-| copy reproduction | kopiereproduksie |  |
-| copy tracing | kopieernatreksel |  |
-| copy {books and printed articles} | eksemplaar, kopie |  |
-| copy {eg photostatic or carbon copy} | kopie |  |
-| copy {made by rewriting or retyping} | afskrif |  |
-| copy | kopie |  |
-| copying fee | kopieergeld |  |
-| copying-ink pencil | kopieerpotlood |  |
-| copyright | kopiereg |  |
-| copywriter | kopieskrywer |  |
-| cord armouring | snoerpantser |  |
-| cord circuit | snoerkring |  |
-| cord diagram {work study} | koorddiagram |  |
-| cord fastener | snoerhegter |  |
-| cord guide | snoerleier |  |
-| cord lamp | snoerlamp |  |
-| cord pair | snoerpaar |  |
-| cord shelf | snoerrak |  |
-| cord switchboard | snoerskakelbord |  |
-| cord tag | snoerstiffie |  |
-| cord terminal strip | snoeraansluitstrook |  |
-| cord test circuit | snoertoetskring |  |
-| cord test jack | snoertoetsklink |  |
-| cord testing | snoertoetsing |  |
-| cord weight | snoergewig |  |
-| cord-anchoring cleat | snoerankerklem |  |
-| cord-circuit dialling | snoerkringskakeling |  |
-| cord-circuit feeding bridge | snoerkringvoerbrug |  |
-| cord-coiling device | snoeroproller |  |
-| cord-crimping pliers | snoerkrimptang |  |
-| cord-type switchboard | snoerskakelbord |  |
-| cord | koord, snoer |  |
-| cordage | snoer |  |
-| cordless connect circuit | snoerlose verbindkring |  |
-| cordless switchboard | snoerlose skakelbord |  |
-| cordless | snoerloos |  |
-| core diameter | kerndiameter |  |
-| core face | kernvlak, kernvoorvlak |  |
-| core loss | kernverlies |  |
-| core memory {logic} | kerngeheue |  |
-| core n. {cables} | aar |  |
-| core pin | kernpen |  |
-| core ratio | kernverhouding |  |
-| core section | kerndeursnee |  |
-| core v. | kernboor |  |
-| core washer | kernwaster |  |
-| core-spun thread {clothing} | kernspindraad |  |
-| cored adj. | gekernboor |  |
-| cork friction plug | kurkwryfprop |  |
-| cork lino | kurklino |  |
-| corkscrew rule | kurktrekkerreel |  |
-| cornea | horingvlies |  |
-| corner (elbow) {waveguide} | elmboog |  |
-| corner antenna | hoekantenne |  |
-| corner block {stamps} | hoekblok |  |
-| corner clamp | hoekklamp |  |
-| corner reflector | hoekreflektor |  |
-| corner tool {lathe} | hoekbeitel |  |
-| corner | hoek |  |
-| cornice {eg switchboard} | kroonlys |  |
-| corona brushing {corona discharge} | koronaontlading |  |
-| corona ring | koronaring |  |
-| corona tube | koronabuis |  |
-| corona | korona |  |
-| corporate body (body corporate) | liggaam met regspersoonlikheid, regspersoon |  |
-| corporate member | korporaatlid |  |
-| corporate planning | korporaatbeplanning |  |
-| corporate post office {as opposed to franchise} | korporatiewe poskantoor |  |
-| corporation | korporasie |  |
-| corpuscular radiation | korpuskulere straling |  |
-| correct adj. | korrek |  |
-| correct v. | korrigeer |  |
-| corrected bearing | gekorrigeerde peiling |  |
-| corrected line-of-sight distance | gekorrigeerde siglynafstand |  |
-| correcting cam | korreksienok |  |
-| correcting device | korreksietoestel |  |
-| correcting fluid | korrigeervloeistof |  |
-| correcting magnet | korreksiemagneet |  |
-| correcting network | korreksienetwerk |  |
-| correcting signal | korreksiesein |  |
-| correcting voltage | regstelspanning |  |
-| correction advice | korreksieadvies |  |
-| correction counter | korreksieteller |  |
-| correction factor | korreksiefaktor |  |
-| correction key {sorting machine} | korreksietoets |  |
-| correction note | korreksiebrief |  |
-| correction of telegram | korreksie van telegram |  |
-| correction slip | korreksiestrook |  |
-| correction | korreksie |  |
-| correctness | korrektheid |  |
-| corrector rod | korreksiestang |  |
-| correlation analysis {marketing} | korrelasieontleding |  |
-| correlation analysis | korrelasieontleding |  |
-| correlation chart | korrelasiekaart |  |
-| correlation charts {marketing} | korrelasiekaarte |  |
-| correlation field strapping | korrelasieveldstropping |  |
-| correlation | korrelasie |  |
-| correspond {eg by letter} | korrespondeer |  |
-| correspond | ooreenkom, ooreenstem |  |
-| correspondence analysis {human resources} | ooreenstemmingsontleding |  |
-| correspondence analysis {marketing} | ooreenstemmingsontleding |  |
-| correspondence book | korrespondensieboek |  |
-| correspondence | briefwisseling, korrespondensie |  |
-| correspondence | briewe |  |
-| corrode | korrodeer |  |
-| corrosion area | korrosiegebied |  |
-| corrosion resistant | korrosiebestand |  |
-| corrosion-resistant steel | korrosiebestande staal |  |
-| corrosion | korrosie |  |
-| corrosive adj. | korrodeer-, korroderend |  |
-| corrosive n. | bytmiddel, korrodeerder |  |
-| corrugated cardboard | riffelkarton |  |
-| corrugated copper {conductor} | riffelkoper |  |
-| coryllium | korillium |  |
-| cosecant | kosekans |  |
-| cosh (hyperbolic cosine) | hiperboliese kosinus, cosh |  |
-| cosine line | kosinuslyn |  |
-| cosine-squared pulse | kosinuskwadraatpuls |  |
-| cosine | kosinus |  |
-| cosmic noise | kosmiese ruis |  |
-| cost accounting (costing) | kosteberekening |  |
-| cost budget {marketing} | kostebegroting |  |
-| cost budget | kostebegroting |  |
-| cost estimate | kosteberaming |  |
-| cost of conversion | omskakelingskoste |  |
-| cost of installation (installation costs) | installasiekoste, installeerkoste |  |
-| cost of labour | arbeidskoste |  |
-| cost of material | koste van materiaal, materiaalkoste |  |
-| cost of raising loans | leningskoste |  |
-| cost of repairs (repair cost) | herstelkoste |  |
-| cost of replacement | vervangingskoste |  |
-| cost price | kosprys |  |
-| cost reduction | kostevermindering |  |
-| cost sheet | kostestaat |  |
-| cost variation factor | wisselende kostefaktor |  |
-| cost variation premium | wisselende kostepremie |  |
-| cost-effective | koste-effektief |  |
-| cost-of-living allowance | lewenskostetoelae |  |
-| costing system | kosteberekeningstelsel |  |
-| costing system | kosteberekeningstelsel |  |
-| cotangent | kotangens |  |
-| coth (hyperbolic cotangent) | hiperboliese kotangens, coth |  |
-| cotopa {insulation} | cotopa |  |
-| cottage-type tent | huttipe tent |  |
-| cotter (cotter pin) | dwarsspy |  |
-| cotter pin (split pin) | splitpen |  |
-| cotton braiding | katoenomvlegting |  |
-| cotton covering | katoenbekleding |  |
-| cotton duck | katoenseildoek |  |
-| cotton lapping | katoenomwindsel |  |
-| cotton n. {cable} | garing |  |
-| cotton pad | katoenkussing |  |
-| cotton thread {selvedge} | katoendraad |  |
-| cotton thread | katoengaring |  |
-| cotton waste (waste cotton) | poetskatoen |  |
-| cotton whipping | katoenbesetting |  |
-| cotton wool | watte |  |
-| cotton worming | katoenwurmsel |  |
-| cotton-covered cable | katoenbeklede kabel |  |
-| cotton-covered wire | katoenbeklede draad |  |
-| cotton-seed oil | katoensaadolie |  |
-| coulometric hygrometer | coulometriese higrometer |  |
-| counsel n. | raad |  |
-| counsel v. | beraad |  |
-| counselling psychology | voorligtingsielkunde |  |
-| counselling | berading |  |
-| counsellor | berader, raadgewer, voorligter |  |
-| count meter (CM) | TT, tellingteller |  |
-| count n. {thread} | nommer |  |
-| count n. | telling |  |
-| count test {dial} | pulsteltoets |  |
-| count up | tel aan |  |
-| count-down ratio | aftelverhouding |  |
-| counter axle | telleras |  |
-| counter bracket | tellersteun |  |
-| counter clerk | toonbankklerk |  |
-| counter dial | tellerwyserplaat |  |
-| counter drawer | toonbanklaai |  |
-| counter emf cell | teenwerkende emk-sel |  |
-| counter mechanism | tellermeganisme |  |
-| counter officer | toonbankbeampte |  |
-| counter position | toonbankpunt |  |
-| counter spindle | tellerspil |  |
-| counter stock | toonbankvoorraad |  |
-| counter tube | telbuis |  |
-| counter unit | teleenheid |  |
-| counter unit | toonbankeenheid |  |
-| counter wheel {survey work} | meetwiel |  |
-| counter-current | teenstroom |  |
-| counter | teller |  |
-| counter | toonbank |  |
-| counteract | teenwerk |  |
-| counteracting winding | teenwikkeling |  |
-| counterbalance n. (counterpoise) | teenbalanseerstuk, teenstuk |  |
-| counterbalance v. | teenbalanseer |  |
-| counterbore v. | teenboor |  |
-| counterelectrode | teenelektrode |  |
-| counterfeit {coin, stamp} | vals |  |
-| counterfoil | teenblad |  |
-| countermand | herroep, intrek |  |
-| countershaft | tussenas |  |
-| countersign | mede-onderteken |  |
-| countersink n. | versinker |  |
-| countersink v. | versink |  |
-| countersinking cutter | versinkfrees |  |
-| countersunk rivet | versonke klinknael |  |
-| countersunk screw | versonke skroef |  |
-| countersunk washer | versinkwaster |  |
-| countersunk | versink |  |
-| counting chain | telketting |  |
-| counting cycle | telsiklus |  |
-| counting frequency meter | frekwensieteller, telfrekwensiemeter |  |
-| counting method | telwyse |  |
-| counting ratchet | telpalrat |  |
-| counting rele train | telrelereeks |  |
-| counting relay | telrele |  |
-| counting system | telstelsel |  |
-| counting train | telreeks |  |
-| counting-check indications | telkontroleaanwysings |  |
-| country code | landkode |  |
-| country end {ND} | plattelandse ent |  |
-| country of destination | land van bestemming |  |
-| country of issue | land van uitreiking |  |
-| country of origin | land van herkoms |  |
-| country office | plattelandse kantoor |  |
-| country section | plattelandse seksie |  |
-| country-end rack | plattelandse raam |  |
-| couple | koppel |  |
-| coupled Adcock direction finder | gekoppelde Adcock-rigtingsoeker |  |
-| coupled cavity resonators | gekoppelde holteresonators |  |
-| coupled circuits | gekoppelde kringe |  |
-| coupled positions | gekoppelde bedienpunte |  |
-| coupler inductor | koppelinduktor |  |
-| coupler | koppelaar |  |
-| coupling block | koppelblok |  |
-| coupling boss | koppelkraag |  |
-| coupling capacitor | koppelkapasitor |  |
-| coupling circuit | koppelkring |  |
-| coupling coefficient | koppelkoeffisient |  |
-| coupling coil | koppelspoel |  |
-| coupling disc | koppelskyf |  |
-| coupling element | koppelelement |  |
-| coupling error | koppelfout |  |
-| coupling factor | koppelfaktor |  |
-| coupling field {rele} | koppelveld |  |
-| coupling key | koppelsleutel |  |
-| coupling loop {waveguide} | koppellus |  |
-| coupling resistor | koppelresistor |  |
-| coupling shaft | koppelas |  |
-| coupling slot {waveguide} | koppelgleuf |  |
-| coupling spring | koppelveer |  |
-| coupling transformer | koppeltransformator |  |
-| coupling unit | koppeleenheid |  |
-| coupling {waveguide} | koppelflens |  |
-| coupling | koppeling |  |
-| course attender | kursusganger |  |
-| course fish | speelvis |  |
-| course setting range | growwe instelstrek |  |
-| court order | hofbevel |  |
-| court proceedings | hofverrigtinge |  |
-| court proceedings | proses-verbaal, skriftelike verslag |  |
-| covalent bond | kovalente binding |  |
-| covariance {marketing} | kovariansie |  |
-| covariance | kovariansie |  |
-| cover (covering, heath, sheathing) {cable} | hulsel, mantel, omhulsel |  |
-| cover beading | dekkraallys |  |
-| cover casting | dopgietstuk |  |
-| cover gland {eg cables} | seelstuk |  |
-| cover lid | hulselklap |  |
-| cover locating plate | dopstandplaat |  |
-| cover n. (coverage) {insurance} | dekking |  |
-| cover n. (covering) {eg parcel} | omslag |  |
-| cover n. (covering) {wire} | bekleding |  |
-| cover n. (envelope) | koevert |  |
-| cover n. {book} | band |  |
-| cover n. {cables} | hulsel |  |
-| cover n. {eg hollow skirting} | dekstuk |  |
-| cover n. {eg of seat} | oortreksel |  |
-| cover n. {eg of telephone} | dop |  |
-| cover n. | deksel, dekstuk |  |
-| cover plate | dekplaat |  |
-| cover ring | dekring |  |
-| cover strip | dekstrook |  |
-| cover v. {cable} | omhul |  |
-| cover v. {costs} | bestry |  |
-| cover v. {distance} | afle |  |
-| cover v. {eg of seat} | oortrek |  |
-| cover v. {eg wire} | beklee |  |
-| cover v. {general} | bedek, toemaak |  |
-| cover v. {insurance} | dek |  |
-| cover v. {legal} | voorsien in |  |
-| cover-fixing screw | dophegskroef |  |
-| cover-locking projection | dopsluitneusie |  |
-| coverage diagram | aftasdiagram |  |
-| coverage | dekking |  |
-| covered joint | bedekte las |  |
-| covered passageway | oordekte gang |  |
-| covered wire | beklede draad |  |
-| covered-wire circuit | beklededraad-verbinding |  |
-| covered-wire distribution | beklededraad-verdeling |  |
-| covered-wire feed | beklededraad-voeding |  |
-| covering advice | dekkingsadvies |  |
-| covering approval | dekkingsgoedkeuring |  |
-| covering authority | dekkingsmagtiging |  |
-| covering charge | diensgeld, diensheffing |  |
-| covering disallowance advice | dekkende afkeuringsadvies |  |
-| covering estimate | dekkingsraming |  |
-| covering form | dekkingsvorm |  |
-| covering letter | geleibrief |  |
-| covering minute | dekkingsdiensbrief |  |
-| covering order | dekkingsbestelling |  |
-| covering plate | dekplaat |  |
-| covering power {paint} | dekvermoe |  |
-| covering power | dekkingsbevoegdheid |  |
-| covering requisition | dekkingsrekwisisie |  |
-| covering schedule | dekkingstaat |  |
-| cow-mouthed chisel | koeibekbeitel |  |
-| crab n. {crane} | kat |  |
-| crab n. {overhead winch} | kat |  |
-| crack v. {eg valve} | effens oopmaak |  |
-| cracked-carbon resistor | gekraaktekool-resistor |  |
-| cracker {computer} | stelselskelm |  |
-| crackle finish | krakiesafwerking |  |
-| crackling | geknetter, knettering |  |
-| cradle n. (cradle guard) | vangnet, veiligheidsnet |  |
-| cradle n. {telephone} | mik |  |
-| cradle n. {two-motion selector} | monteerbak |  |
-| cradle plunger | mikplunjer |  |
-| cradle rele {Protea telephone} | mikrele |  |
-| cradle rele {general type} | kamrele |  |
-| cradle spring | mikveer |  |
-| cradle stem | mikstam |  |
-| cradle switch (hook switch) | mikskakelaar |  |
-| craftsman | vakman |  |
-| crammed pic (cropped pic) {photograph} | pakskoot |  |
-| cramp n. | kramp |  |
-| cramp v. | vaskramp |  |
-| cran | haringvat |  |
-| crank (crank lever) | slinger |  |
-| crank back | terugkrink |  |
-| crank forward {S and H ND system} | heenkrink |  |
-| crank grinding | krukasslypwerk |  |
-| crank pin | krukpen |  |
-| crank-handle method | slingermetode |  |
-| crankcase heater {Trane water chiller} | krukkasverwarmer |  |
-| crankcase | krukkas |  |
-| cranked tip | krukpunt |  |
-| cranked tommy pin | gekrukte stelpen |  |
-| crankshaft knock (crankshaft thrash) | krukasklop |  |
-| crankshaft | krukas |  |
-| crash course | blitskursus |  |
-| crash programme | blitsprogram |  |
-| crash test | stapeltoets |  |
-| crate batten | kratlat |  |
-| crate n. | krat |  |
-| crate v. | krat |  |
-| crater lamp | kraterlamp |  |
-| crater | krater |  |
-| crawl beam | kruipbalk |  |
-| crawling speed | kruipspoed |  |
-| crawling | kruip |  |
-| creasing iron | plooiyster |  |
-| create a precedent | 'n presedent skep |  |
-| creation date {computer program} | skryfdatum |  |
-| credit balance | batige saldo, kredietsaldo |  |
-| credit entry | kredietinskrywing |  |
-| credit error | kredietfout |  |
-| credit limit | kredietlimiet |  |
-| credit meter | kredietmeter |  |
-| credit n. {balance in account} | krediet |  |
-| credit n. {leave} | krediet |  |
-| credit n. {postponement of payment} | krediet |  |
-| credit note | kredietnota |  |
-| credit side | kredietsy |  |
-| credit slip | kredietstrook |  |
-| credit stock | kredietvoorraad |  |
-| credit transfer slip | kredietoorplasingstrokie, kredietoordragstrokie |  |
-| credit v. | krediteer |  |
-| credit voucher | kredietbewys |  |
-| credit-meter machine | kredietmetermasjien |  |
-| creditor administration | krediteuradministrasie |  |
-| creditor country | krediteurland |  |
-| creditor government | krediteurregering |  |
-| creditor | krediteur |  |
-| creep | kruip |  |
-| creepage distance | kruipafstand |  |
-| creepage | kruiping |  |
-| creepie-peepie (portable television transmitter, walkie-lookie) | dratelevisiesender, looploerder |  |
-| creosote | kreosoot |  |
-| creosoted pole | kreosootpaal |  |
-| crest amplitude | kruinamplitude |  |
-| crest current | kruinstroom |  |
-| crest value | kruinwaarde |  |
-| crest {eg screw thread} | top |  |
-| crest-to-crest contact | kruin-tot-kruin-kontak |  |
-| crest | kruin |  |
-| crested metal button {clothing} | metaalembleemknoop |  |
-| crevasse {curve} | inkeping |  |
-| crevice tool {vacuum cleaner} | gleufsuigstuk |  |
-| crew factor | spanfaktor |  |
-| criminal proceedings | strafgeding, strafsaak |  |
-| criminal record | kriminele rekord, misdaadrekord |  |
-| crimp v. {sleeve} | wurg |  |
-| crimp v. | krimp |  |
-| crimping pliers | krimptang |  |
-| crimping point {lever spring in lock} | vaskrimppunt |  |
-| crisis management | krisisbestuur |  |
-| criss-crossed wires | kriskrasdrade |  |
-| critical analysis | kritiese ontleding |  |
-| critical characteristic | kritieke eienskap |  |
-| critical coupling | kritieke koppeling |  |
-| critical damping | kritieke demping |  |
-| critical dimension {waveguide} | kritieke afmeting |  |
-| critical examination | kritiese ondersoek |  |
-| critical frequency | kritieke frekwensie |  |
-| critical grid current | kritieke roosterstroom |  |
-| critical grid voltage | kritieke roosterspanning |  |
-| critical path analysis (CPA) {human resources} | kritiekeroete-ontleding, CPA |  |
-| critical path analysis | kritiekeroete-analise |  |
-| critical path method (CPM) {human resources} | kritiekeroete-metode, CPM |  |
-| critical path scheduling (CPS) {human resources} | kritiekeroete-bepaling, CPS |  |
-| critical path {human resources} | kritieke roete |  |
-| critical point | kritieke punt |  |
-| critical range | kritieke gebied |  |
-| critical resistance | kritieke weerstand |  |
-| critical voltage | kritieke spanning |  |
-| critical wavelength {waveguide} | kritieke golflengte |  |
-| critical-voltage parabola (cut-off voltage parabola) | kritiekespanningparabool |  |
-| critically coupled | kritiek gekoppel |  |
-| crook stick | haakstok |  |
-| crookesite | crookesiet |  |
-| cropping tool {cutting die} | knippons |  |
-| cropping {photograph} | beeldsnoeiing, beeldsnyding, beeldafsnyding |  |
-| cross coupler {waveguide} | kruiskoppelaar |  |
-| cross n. | kruis |  |
-| cross out | deurhaal, skrap |  |
-| cross section | dwarsdeursnee |  |
-| cross section | dwarsprofiel |  |
-| cross slide {milling machine} | dwarsslee |  |
-| cross through | deurhaal |  |
-| cross traverse | dwarsbeweging |  |
-| cross v. | kruis |  |
-| cross-arm | dwarsarm |  |
-| cross-balance | kruisbalanseer |  |
-| cross-beam | dwarsbalk |  |
-| cross-bearing | kruispeiling |  |
-| cross-bending pressure | dwarsbuigdrukking |  |
-| cross-bit (cruciform bit, four-point bit) | kruisboorpunt |  |
-| cross-border traffic | oorgrensverkeer |  |
-| cross-bracing | kruisverspanstuk |  |
-| cross-cast | kruisoptel |  |
-| cross-conduction | kruisgeleiding |  |
-| cross-connect | kruisverbind |  |
-| cross-connecting board | kruisverbindbord |  |
-| cross-connecting cabinet | kruisverbindkabinet |  |
-| cross-connecting point | kruisverbindpunt |  |
-| cross-connecting ring | kruisverbindring |  |
-| cross-connecting wire | kruisverbinddraad |  |
-| cross-connection (jumpering) | kruisverbinding |  |
-| cross-connection box | kruisverbindkas |  |
-| cross-connection field (jumper field) | kruisverbindveld |  |
-| cross-country route | veldroete |  |
-| cross-coupling (parasitic coupling) | parasietkoppeling |  |
-| cross-cut saw | dwarssaag |  |
-| cross-entry | kontraboeking, teenboeking |  |
-| cross-fade {broadcasting} | kruisdoof |  |
-| cross-feed n. | dwarstoevoer |  |
-| cross-feed v. | dwarsvoer |  |
-| cross-fire (telegraph cross-talk) | telegraafsteuring |  |
-| cross-footer | dwarsvoet |  |
-| cross-head (stay bow) | ankerbeuel, beuel |  |
-| cross-head clutch | kruiskopkoppelaar |  |
-| cross-head {teleprinter} | kruiskop |  |
-| cross-induction | kruisinduksie |  |
-| cross-lacing | dwarsrygwerk |  |
-| cross-magnetisation | dwarsmagnetisering |  |
-| cross-magnetising field | dwarsmagnetiseerveld |  |
-| cross-marking | kruismerking |  |
-| cross-member | dwarsbalk |  |
-| cross-member | dwarsstuk |  |
-| cross-modulation | kruismodulasie |  |
-| cross-neutralisation | kruisneutralisasie |  |
-| cross-office storage | deurgangsgeheue |  |
-| cross-over box | kruisingkas |  |
-| cross-over distortion | oorgangvervorming |  |
-| cross-over frequency | frekwensiekruispunt |  |
-| cross-over region | oorgangsgebied |  |
-| cross-over {also an electron gun} | bundelkruispunt |  |
-| cross-pane hammer | dwarspenhamer |  |
-| cross-pane sledge hammer | dwarspenvoorhamer |  |
-| cross-patch n. | kruissnoerverbinding |  |
-| cross-patch v. | kruissnoerverbind |  |
-| cross-pin | dwarspen |  |
-| cross-pointer meter | kruisnaaldmeter |  |
-| cross-polarisation | kruispolarisasie |  |
-| cross-polarised component | dwarsgepolariseerde komponent |  |
-| cross-reference | kruisverwysing |  |
-| cross-reference | kruisverwysing |  |
-| cross-ripping {eg ploughing in of cables} | dwarsskeurwerk |  |
-| cross-saddle {surface grinder} | dwarssaal |  |
-| cross-sectional area | dwarsdeursnee-oppervlakte |  |
-| cross-sectional dimension | dwarsdeursnee-afmeting |  |
-| cross-sell | kruisverkoop |  |
-| cross-splice | kruissplitslas |  |
-| cross-stranded cable | kruislaagkabel |  |
-| cross-stranding method | kruislaagmetode |  |
-| cross-stranding {method} | kruissaamdraaiing |  |
-| cross-table | kruisskuifblad |  |
-| cross-tabulation {marketing} | kruistabellering |  |
-| cross-tabulation | kruistabellering |  |
-| cross-thread v. | kruisdraad sny |  |
-| cross-traverse track rod | dwarsbewegingspoor |  |
-| cross-traverse {lathe} | dwarssaal |  |
-| cross-wind alignment | dwarsdraairigting |  |
-| crossbar selector (crossbar switch) {automatic telephone} | kruisstangkieser |  |
-| crossbar system {automatic telephone} | kruisstangstelsel |  |
-| crossbar trunk switching | kruisstanghooflynskakeling |  |
-| crossbar | kruisstang |  |
-| crossbones | gekruiste doodsbeendere |  |
-| crossed channels | gekruiste kanale |  |
-| crossed cheque | gekruiste tjek |  |
-| crossed joint | kruislas |  |
-| crossed legs | gekruiste drade |  |
-| crossed money order | gekruiste poswissel |  |
-| crossed postal order | gekruiste posorder |  |
-| crossed-loop antenna | kruislusantenne |  |
-| crossing angle | kruishoek |  |
-| crossing cancelled | kruising gekanselleer |  |
-| crossing of numbers | omruiling van nommers |  |
-| crossing span | kruisspan |  |
-| crossing | kruising |  |
-| crosspiece | dwarsstuk |  |
-| crosspoint PABX | kruispunt-POTS |  |
-| crosspoint switching | kruispuntskakeling |  |
-| crosspoint | kruispunt |  |
-| crosstalk (overhearing) | steurspraak |  |
-| crosstalk attenuation | steurspraakverswakking |  |
-| crosstalk characteristic curve | steurspraakkenkromme |  |
-| crosstalk characteristic | steurspraakeienskap |  |
-| crosstalk characteristic | steurspraakkenkromme |  |
-| crosstalk coupling | steurspraakkoppeling |  |
-| crosstalk interaction | steurspraakwisselwerking |  |
-| crosstalk interference | steurspraaksteuring |  |
-| crosstalk measurement | steurspraakmeting |  |
-| crosstalk meter | steurspraakmeter |  |
-| crosstalk suppression | steurspraakonderdrukking |  |
-| crosstalk unit | steurspraakeenheid |  |
-| crosstalk volume | steurspraakvolume |  |
-| crosstalk-balancing capacitor | steurspraakbalanseerkapasitor |  |
-| crosstalk-suppression filter | steurspraakonderdrukfilter |  |
-| crosswise | oorkruis |  |
-| crotch {pliers} | mik |  |
-| crotch {trousers} | mik |  |
-| crowbar circuit (short-circuit protection circuit) | kortsluitbeveiligkring |  |
-| crowbar | koevoet |  |
-| crown (sleeve head) {clothing} | moukop |  |
-| crown wheel | kroonrat |  |
-| crown {road} | kruin |  |
-| crowned roof {eg trailer} | boogdak |  |
-| crucible steel | kroesstaal |  |
-| crucible | smeltkroes |  |
-| cruciform | kruisvormig |  |
-| crude oil | ru-olie |  |
-| crumber {trencher} | bodemskraper |  |
-| crush v. {pulse technique} | verkort |  |
-| crusher run | ru-gruis |  |
-| crusher-type dresser {grinding wheel} | vergruisbywerker |  |
-| crutch lining {trousers} | mikvoering |  |
-| crutch pin | krukpen |  |
-| crutch tip {eg leg of chair} | beskermdop |  |
-| crutch {forked joint} | mik |  |
-| crystal breakdown | kristalonderbreking |  |
-| crystal circuit | kristalkring |  |
-| crystal control | kristalbeheer |  |
-| crystal cut | kristalsnit |  |
-| crystal cutter | kristalsnyer |  |
-| crystal detector | kristaldetektor |  |
-| crystal diode {signal rectifier} | kristaldiode |  |
-| crystal drive (crystal-oscillator drive) | kristaldrywer |  |
-| crystal face | kristalvlak |  |
-| crystal filter | kristalfilter |  |
-| crystal generator | kristalgenerator |  |
-| crystal holder | kristalhouer |  |
-| crystal lattice | kristalrooster |  |
-| crystal microphone | kristalmikrofoon |  |
-| crystal mixer | kristalmenger |  |
-| crystal mixing stage | kristalmengtrap |  |
-| crystal mount (crystal mounting) | kristalmontasie |  |
-| crystal oscillator | kristalossillator |  |
-| crystal oven {radio} | kristaloond |  |
-| crystal pick-up | kristalopnemer |  |
-| crystal receiver | kristalontvanger |  |
-| crystal rectifier | kristalgelykrigter |  |
-| crystal reproducing head | kristalweergeekop |  |
-| crystal spectrograph | kristalspektograaf |  |
-| crystal structure | kristalstruktuur |  |
-| crystal-controlled local oscillator | kristalbeheerde plaaslike ossillator |  |
-| crystal-controlled oscillator | kristalbeheerde ossillator |  |
-| crystal-controlled transmitter | kristalbeheerde sender |  |
-| crystal-controlled tuned-collector oscillator | kristalossillator met ingestemde kollektor |  |
-| crystal-equivalent circuit | kristalekwivalente kring |  |
-| crystal | kristal |  |
-| crystalline selenium | kristallyne seleen |  |
-| crystalline | kristallyn |  |
-| cube root | derdemagswortel |  |
-| cubic capacity (cubic content) | kubieke inhoud |  |
-| cubic structure | kubusstruktuur |  |
-| cubical expansion (volume expansion) | kubieke uitsetting |  |
-| cue {broadcasting} | leisein |  |
-| cue | teken |  |
-| cuff edge {jacket sleeve} | mousrand |  |
-| cuff {jacket sleeve} | mouboordjie |  |
-| cull v. {mail} | skei |  |
-| culler (culling machine) {mail-sorting} | skeier |  |
-| culler installation | skei-installasie |  |
-| culotte | broekrok, culotte |  |
-| culvert | duiker |  |
-| cumbersome parcel | onhandige pakket |  |
-| cumulative action | kumulatiewe aksie, kumulatiewe werking |  |
-| cumulative deviation | kumulatiewe afwyking |  |
-| cumulative grid detector | kumulatiewe roosterdetektor |  |
-| cumulative normal distribution {human resources} | kumulatiewe normaalverdeling |  |
-| cumulative normal distribution {marketing} | kumulatiewe normaalverdeling |  |
-| cumulative timing {human resources} | kumulatiewe tydmeting |  |
-| cumulative total | kumulatiewe totaal |  |
-| cumulative | kumulatief |  |
-| cup (petticoat insulator) | mantelisolator |  |
-| cup back bushing | doprugbus |  |
-| cup bolt (cup-head bolt) | rondekopbout |  |
-| cup brush | dopborsel |  |
-| cup punch (snap punch) | snappons |  |
-| cup spring | dopveer |  |
-| cup square bolt | rondekop vierkantige bout |  |
-| cup washer | dopwaster |  |
-| cup wheel | dopwiel |  |
-| cup {cable stand} | holte |  |
-| cup-and-bucket circuit {type of control test circuit} | vul-en-ledigkring |  |
-| cup-shaped | dopvormig, komvormig |  |
-| cup-spring bracket | dopveersteun |  |
-| cupboard | rakkas |  |
-| cupola | dom, koepel |  |
-| cuprite | kupriet |  |
-| cupro-nickel | kopernikkel |  |
-| cuprous oxide | kupro”ksied |  |
-| curator | kurator |  |
-| curatorship {legal position} | kuratele |  |
-| curatorship {office} | kuratorskap |  |
-| curbed modulation | verskerpte modulasie |  |
-| curbing capacitor | verskerpkapasitor |  |
-| curbing {submarine cable} | seinverskerping |  |
-| cure v. {epoxy resin} | uithard |  |
-| currency (duration of validity, period of currency, period of validity) {eg of postal order} | geldigheidsduur, |  |
+| currency (foreign currency, foreign exchange) | valuta |  |
+| currency adjustment | valuta-aanpassing |  |
+| currency note | valutabrief |  |
+| currency | betaalmiddel, geld |  |
+| current arc | stroomboog |  |
+| current asset | bedryfsbate, lopende bate, vlottende bate |  |
+| current attenuation | stroomverswakking |  |
+| current branching | stroomvertakking |  |
+| current circuit | stroomkring |  |
+| current coil | stroomspoel |  |
+| current coin | gangbare munt |  |
+| current collector | stroomkollektor |  |
+| current consumption | stroomverbruik |  |
+| current contribution | lopende bydrae |  |
+| current density | stroomdigtheid |  |
+| current detector | stroomdetektor |  |
+| current distribution | stroomverdeling |  |
+| current drain (drain) | dreinering, stroomtrek |  |
+| current expenses | lopende onkoste |  |
+| current feed (current supply) | stroomtoevoer, stroomvoeding |  |
+| current feedback | stroomterugkoppeling |  |
+| current flow | stroomvloei |  |
+| current gain | stroomwins |  |
+| current generator | stroomgenerator |  |
+| current impulse | stroomimpuls |  |
+| current indicator | stroomaanwyser |  |
+| current intensity (current strength) | stroomsterkte |  |
+| current interrupter | stroomonderbreker |  |
+| current issue | huidige uitgifte |  |
+| current lag | stroomnaloop |  |
+| current leakage | stroomlek |  |
+| current liability | bedryfslas, lopende verpligting |  |
+| current limiting | stroombegrensing, stroombeperking |  |
+| current node | stroomnodus |  |
+| current path (path of current) | stroombaan |  |
+| current postal account | lopende posrekening |  |
+| current price | heersende prys, huidige prys |  |
+| current program | lopende program |  |
+| current rate of interest | heersende rentekoers |  |
+| current rate | geldende tarief |  |
+| current rating | stroomaanslag |  |
+| current record | lopende rekord |  |
+| current ripple | stroomrimpel |  |
+| current shunt | stroomsjunt |  |
+| current source (current supply) | stroombron |  |
+| current surge | stroomstuwing |  |
+| current tender | lopende tender |  |
+| current test | stroomtoets |  |
+| current transformer | stroomtransformator |  |
+| current year | lopende jaar |  |
+| current-amplification factor | stroomversterkingsfaktor |  |
+| current-carrying conductor | stroomdraende geleier |  |
+| current-detector output | stroomdetektoruitgang |  |
+| current-detector toggle circuit | stroomdetektorwipkring |  |
+| current-fed antenna | stroomgevoede antenne |  |
+| current-feedback stabilisation | stroomterugvoerstabilisering |  |
+| current-limited | stroombegrens, stroombeperk |  |
+| current-limiting rheostat | stroombegrensreostaat |  |
+| current-regulating transistor | stroomreeltransistor |  |
+| current-series feedback | stroomserieterugkoppeling |  |
+| current-shunt feedback | stroomsjuntterugkoppeling |  |
+| current-status register | huidigestatus-register |  |
+| current-supply loss | stroomtoevoerverlies |  |
+| current-weighting factor | stroombeswaringsfaktor |  |
+| current/voltage curve | stroom/spanning-kromme |  |
+| current | stroom |  |
+| curriculum | kurrikulum, leergang |  |
+| cursor (tracker ball) | loper |  |
+| cursor control | loperkontrole |  |
+| cursor line | loperlyn |  |
+| cursor | loper |  |
+| cursory survey | vlugtige opname |  |
+| curtain antenna | gordynantenne |  |
+| curtain {antenna} | gordyn |  |
+| curvature group delay equaliser | krommingsgroepvertraageffenaar |  |
+| curvature | kromming |  |
+| curve display unit (curve tracer, display unit) | krommevertoner |  |
+| curve tracer {mechanical} | krommetrekker |  |
+| curve {graph} | kromme |  |
+| curve {graph} | kromme |  |
+| curve {human} | kurwe |  |
+| curve | kurwe |  |
+| curved line | geboe lyn |  |
+| curved motion | boogbeweging |  |
+| curved nut | saalmoer |  |
+| curved seat | saal |  |
+| curved washer | saalwaster |  |
+| curved {eg shirt-tails} | gerond |  |
+| curved-seat extension | saalverlenging |  |
+| curvilinear distortion | kromlynige vervorming |  |
+| cushion power | dempkrag |  |
+| cushion tyre | lugkussingband |  |
+| cushioning plate | dempplaat, kussingplaat |  |
+| custom dates | eie datums |  |
+| custom-built {eg vehicle} | doelgebou |  |
+| customer reference number | klantverwysingsnommer |  |
+| customer services | klientdienste |  |
+| customisation facility (customising facility) | doelpasfasiliteit |  |
+| customisation {eg vehicle} | doelbou |  |
+| customisation {equipment} | doelpas |  |
+| customising facility (customisation facility) | doelpasfasiliteit |  |
+| customs and excise | doeane en aksyns |  |
+| customs assessment | doeaneaanslag |  |
+| customs authorities | doeaneowerheid |  |
+| customs charges (customs dues) | doeanegeld, doeanekoste |  |
+| customs clearance fee | doeaneklaringsgeld |  |
+| customs clearance | doeaneklaring |  |
+| customs collection | doeaneontvangste, doeanevordering |  |
+| customs control | doeanebeheer |  |
+| customs declaration | doeaneverklaring |  |
+| customs duty | doeanereg |  |
+| customs examination | doeaneondersoek |  |
+| customs exemption certificate | doeanevrystellingsertifikaat |  |
+| customs franking note | doeanefrankeeradvies |  |
+| customs office | doeanekantoor |  |
+| customs officer | doeanebeampte |  |
+| customs packet | doeanepakkie |  |
+| customs parcel docket | doeanepakketvorm |  |
+| customs parcel | doeanepakket |  |
+| customs rate | doeanetarief |  |
+| customs rebate | doeanekorting |  |
+| customs registration certificate | kwytskeldingsbewys |  |
+| customs surtax | ekstra doeanebelasting |  |
+| customs suspense account | doeaneafwagrekening |  |
+| customs tariff | doeanetarieflys |  |
+| customs union | tolunie |  |
+| customs-free (exempt from customs duty) | doeanevry, vrygestel van doeanereg, vry van doeanereg |  |
+| customs | doeane |  |
+| cut back {subscribers to original exchange} | terugplaas |  |
+| cut in {slector, on a level} | indraai |  |
+| cut n. {clothing} | snit |  |
+| cut off v. {eg connection} | afsny |  |
+| cut out v. | uitskakel |  |
+| cut over {subscribers to another exchange} | oorskakel |  |
+| cut v. (open) {sealed cable} | oopmaak |  |
+| cut v. {branch, with axe} | afkap |  |
+| cut v. {branch, with saw} | afsaag |  |
+| cut v. {branch, with shears} | afknip |  |
+| cut v. {broadcasting} | afsny |  |
+| cut v. {tree} | snoei |  |
+| cut-in resistor | insnyresistor |  |
+| cut-in selector | indraaikieser |  |
+| cut-off voltage parabola (critical-voltage parabola) | kritiekespanningparabool |  |
+| cut-on {clothing} | aangesny |  |
+| cut-over | oorskakeling |  |
+| cutaway bellcrank | weggesnyde kniehefboom |  |
+| cutaway view | oopwerkaansig |  |
+| cutoff attenuator {waveguide} | afsnyverswakker |  |
+| cutoff facility | afsnyfasiliteit |  |
+| cutoff frequency | afsnyfrekwensie |  |
+| cutoff groove | afsnygroef |  |
+| cutoff jack | afsnyklink |  |
+| cutoff key | afsnysleutel |  |
+| cutoff n. {director} | syferversperring |  |
+| cutoff n. | onderbreking |  |
+| cutoff region | afsnygebied |  |
+| cutoff relay | afsnyrele |  |
+| cutoff saw | afsnysaag |  |
+| cutoff switch | verbreekskakelaar |  |
+| cutoff value | afsnywaarde |  |
+| cutoff voltage | afsnyspanning |  |
+| cutoff waveguide | afsnygolfleier |  |
+| cutoff wavelength | afsnygolflengte |  |
+| cutout cable | tydelike omleikabel |  |
+| cutout contact | uitskakelkontak |  |
+| cutout end {eg generator} | uitskakelent |  |
+| cutout joint {cable} | uitsnylas |  |
+| cutout key | uitskakelsleutel |  |
+| cutout n. {in material} | uitsnyding |  |
+| cutout n. | uitskakeling |  |
+| cutout n. | uitsnysel |  |
+| cutout spring set | uitskakelveerstel |  |
+| cutter (mill, milling cutter) | frees |  |
+| cutter bar {chain saw} | snystaaf |  |
+| cutter bar {grass cutter} | snyerbalk |  |
+| cutter grinder | snybeitelslyper |  |
+| cutter {eg engraving machine, lathe} | snybeitel |  |
+| cutter | snyer |  |
+| cutters (side cutters, side-cutting pliers) | syknipper, sykniptang |  |
+| cutters | kniptang |  |
+| cutting angle | snyhoek |  |
+| cutting circle | snysirkel |  |
+| cutting clearance | snyvryruimte |  |
+| cutting compound | snymengsel |  |
+| cutting die | snyblok |  |
+| cutting edge | snykant |  |
+| cutting fluid | snyvloeistof |  |
+| cutting hardness | snyhardheid |  |
+| cutting head | snykop |  |
+| cutting key | snysleutel |  |
+| cutting land | snyveld |  |
+| cutting lip {eg drill} | snylip |  |
+| cutting machine | snymasjien |  |
+| cutting off | afsnywerk |  |
+| cutting oil {machine} | snyolie |  |
+| cutting pliers | kniptang |  |
+| cutting point | snypunt |  |
+| cutting power | snykrag |  |
+| cutting pressure {lathe} | snydruk |  |
+| cutting speed | snyspoed |  |
+| cutting steps | snytrappe |  |
+| cutting stroke | snyslag |  |
+| cutting stylus | snynaald |  |
+| cutting tool {lathe} | snybeitel |  |
+| cutting tools {edge tools} | snygereedskap |  |
+| cutting {tree} | snoei |  |
+| cutting-off wheel | afsnywiel |  |
+| cutting-type stripper {wire} | knipstroper |  |
+| cutting | deurgrawing |  |
+| cutting | uitknipsel |  |
+| cwt (hundredweight) | cwt, sentenaar |  |
+| cyan (cyan green) | siaan, siaangroen |  |
+| cyanide HDN | sianiedverhard |  |
+| cybernetics | kubernetika, sibernetika |  |
+| cycle graph | siklusgrafiek |  |
+| cycle meter | siklusteller |  |
+| cycle of magnetisation (magnetic cycle) | magnetiseersiklus |  |
+| cycle of tests | toetssiklus |  |
+| cycle time | siklustyd |  |
+| cycle v. {air conditioning} | sikleer |  |
+| cycle {leave} | tydkring |  |
+| cycle-counting device | siklusteller |  |
+| cycle | siklus |  |
+| cyclic distortion | sikliese vervorming |  |
+| cyclic element | sikliese element |  |
+| cyclic start-chain | sikliese aansitketting |  |
+| cyclic store | sikliese geheue |  |
+| cyclic-action display | sikliese vertoning |  |
+| cycling duty | fietsdiens |  |
+| cycling | siklering |  |
+| cycloidal tooth | siklo<ede tand |  |
+| cyclometer drum | siklometertrommel |  |
+| cyclometer | siklometer |  |
+| cyclotron frequency | siklotronfrekwensie |  |
+| cyclotron | siklotron |  |
+| cylinder cone {sheet-metal work} | silinderkeel |  |
+| cylinder head | silinderkop |  |
+| cylinder jacket | silindermantel |  |
+| cylinder liner | silindervoering |  |
+| cylinder number | silindernommer |  |
+| cylinder outlet | silinderuitlaat |  |
+| cylinder pressure | silinderdruk |  |
+| cylinder trolley | silindertrollie |  |
+| cylinder wall | silinderwand |  |
+| cylinder wheel | silinderwiel |  |
+| cylinder | silinder |  |
+| cylindric pin | silindriese pen |  |
+| cylindrical contact | silindriese kontak |  |
+| cylindrical grinding | silindriese slypwerk |  |
+| cylindrical reflector | silindriese reflektor |  |
+| cylindrical spacing washer | silindriese skeiwaster |  |
+| cylindrical wave | silindriese golf |  |
+| cylindrical | silindervormig, silindries |  |
+| cypher plate {of dial} | syferplaat |  |
+| dB (decibel) | dB, desibel |  |
+| dBA (decibel scale A) | dBA, desibelskaal A |  |
+| dBB (decibel scale B) | dBB, desibelskaal B |  |
+| dBC (decibel scale C) | dBC, desibelskaal C |  |
+| dado | dado |  |
+| daily abstract | uittrekseldagboek |  |
+| daily account | daaglikse rekening |  |
+| daily balance {eg Savings Bank} | dagsaldo |  |
+| daily balance {eg at electronic counter} | dagbalans |  |
+| daily cash balance | daaglikse kontantsaldo |  |
+| daily cash-book | dagkasboek |  |
+| daily complaint register | klagtedagboek |  |
+| daily file | dagleer |  |
+| daily record | dagrekord |  |
+| daily register | dagregister |  |
+| daily work report | daaglikse werkverslag |  |
+| daily-balance book | dagbalansboek |  |
+| daisy-wheel printer | letterskyfdrukker |  |
+| damage | beskadiging |  |
+| damage | skade |  |
+| damaged postage stamp (spoiled postage stamp) | beskadigde posseel |  |
+| damages | skadevergoeding |  |
+| damages | skadevergoeding |  |
+| damp-heat condition | vogtigehitte-toestand |  |
+| damp-proof case | vogdigte kas |  |
+| damp | demp |  |
+| damped harmonic oscillation | gedempte bofrekwensieossillasie |  |
+| damped linear oscillator | gedempte lineere ossillator |  |
+| damped oscillation | gedempte ossillasie |  |
+| damped vibration | gedempte trilling |  |
+| damped wave | gedempte golf |  |
+| damper {of stamps etc} | aanklammer |  |
+| damper | demper |  |
+| damping block | dempblok |  |
+| damping coefficient | dempingskoeffisient |  |
+| damping coil | dempspoel |  |
+| damping constant | dempkonstante |  |
+| damping cylinder | dempsilinder |  |
+| damping factor | dempingsfaktor |  |
+| damping magnet | dempmagneet |  |
+| damping pad | dempkussing |  |
+| damping parameter | dempparameter |  |
+| damping plate | dempplaat |  |
+| damping washer | dempwaster |  |
+| danet wire | danetdraad |  |
+| danger allowance | gevaartoelae |  |
+| danger area | gevaargebied |  |
+| danger sign | gevaarteken |  |
+| dangerous materials | gevaarlike stowwe |  |
+| dangerous practice | gevaarlike gebruik, gevaarlike praktyk |  |
+| dark current | donker stroom |  |
+| dark resistance | donker weerstand |  |
+| dark-trace screen | donkerspoorskerm, skiatronskerm |  |
+| dark-trace tube (skiatron) | skiatron |  |
+| darkened glass | donker glas |  |
+| dart leader {lightning} | pylleistraal |  |
+| dash magnet | streepmagneet |  |
+| dash | streep |  |
+| dashboard control unit | instrumentpaneelbeheereenheid |  |
+| dashboard | instrumentpaneel |  |
+| dashpot carrier | demppotdraer |  |
+| dashpot relay | demppotrele |  |
+| dashpot | demppot |  |
+| data acquisition probe | datakrysondeerder |  |
+| data analysis {marketing} | data-ontleding |  |
+| data bank | databank |  |
+| data base management | databasisbestuur |  |
+| data base | databasis |  |
+| data bus | databus |  |
+| data capturing (data logging, logging) | datavaslegging |  |
+| data channel | datakanaal |  |
+| data circuit-terminating equipment (DCE) | datakringafsluittoerusting, DKT |  |
+| data circuit | datakring |  |
+| data circulation | datasirkulasie |  |
+| data collection {marketing} | data-insameling |  |
+| data collection | data-insameling |  |
+| data communication equipment | datakommunikasietoerusting |  |
+| data compression | datakompressie |  |
+| data customer | datadienshuurder |  |
+| data destruction | data-uitwissing |  |
+| data editing | dataredigering |  |
+| data field | dataveld |  |
+| data interchange | dataruiling |  |
+| data interpretation {marketing} | data-interpretasie |  |
+| data interpretation | datavertolking |  |
+| data line occupied | datalyn beset |  |
+| data line | datalyn |  |
+| data link escape (DLE) {data processing} | groepwysigkarakter, DLE |  |
+| data logger | datalogger |  |
+| data manual | datahandboek |  |
+| data modem interface | datamodemkoppelvlak |  |
+| data network international code (DNIC) | DNIK, datanetwerk internasionale kode |  |
+| data network | datanetwerk |  |
+| data output register (DOR) | DUR, datauitgangregister |  |
+| data parity | datapariteit |  |
+| data preparation {marketing} | datavoorbereiding |  |
+| data presentation {marketing} | data-aanbieding |  |
+| data processing {marketing} | dataverwerking |  |
+| data qualifier | datakwalifiseerder |  |
+| data receiver cut-off | datatvangerafsnyding |  |
+| data recording | dataregistrering |  |
+| data resolution | databeeldskerpte |  |
+| data rotary switch {ATM} | datadraaiskakelaar |  |
+| data set ready (DSR) | datastel gereed, DSG |  |
+| data sheet | datablad, datavel |  |
+| data signal quality detector | dataseingehaltedetektor |  |
+| data store word | datageheuewoord |  |
+| data store | datageheue |  |
+| data terminal equipment (DTE) | dataterminaaltoerusting, DTT |  |
+| data test centre (DTC) | datatoetssentrum, DTS |  |
+| data transfer mode | dataoordramodus |  |
+| data transfer rate | dataoordratempo |  |
+| data transmission network | dataoorsendnetwerk, datatransmissienetwerk |  |
+| data transmission service | dataoorsenddiens, datatransmissiediens |  |
+| data type {job control system} | datatipe |  |
+| data word {computer} | datawoord |  |
+| data {marketing} | data, gegewens |  |
+| data-carrier detection (DCD) | datadraerdeteksie, DDD |  |
+| data-channel conditioning | datakanaalvoorbereiding |  |
+| data-channel received line signal detector {data modem} | datakanaallynseindetektor |  |
+| data-channel transmit data | datakanaalsenddata |  |
+| data-channel transmit | datakanaalsendmodus |  |
+| data-circuit user | datakringgebruiker |  |
+| data-control section | databeheerseksie |  |
+| data-derived clock (DDC) | data-afgeleide klok, DAK |  |
+| data-field length | dataveldlengte |  |
+| data-handling system | datahanteringstelsel |  |
+| data-processing equipment (DPE) | dataverwerktoerusting, DVT |  |
+| data-signalling rate selector | dataseintemposelektor |  |
+| data-store location | datageheueposisie |  |
+| data-store parity checking | datageheuepariteitskontrole |  |
+| data-switching exchange (DSE) | dataskakelsentrale, DSS |  |
+| data/tie line unit (datie unit) | datie-eenheid, data/koppellyn-eenheid |  |
+| data | data, gegewens |  |
+| data | data, gegewens |  |
+| database | databasis |  |
+| datagram | datagram |  |
+| datalock | datasluiting |  |
+| datametry | datametrie |  |
+| date die {cancelling machine} | datumstempelblok |  |
+| date installed | datum van installasie |  |
+| date of cessation | einddatum |  |
+| date of commencement | aanvangsdatum, begindatum |  |
+| date of completion | voltooiingsdatum |  |
+| date of count | teldatum |  |
+| date of dispatch | datum van versending |  |
+| date of expiry (expiry date) {eg contract} | verstrykdatum, vervaldag |  |
+| date of issue {eg stamps} | datum van uitgifte |  |
+| date of issue {stock} | uitreikingsdatum |  |
+| date of maturity {eg savings certificate} | vervaldag |  |
+| date of maturity {policy} | uitkeerdatum, vervaldatum |  |
+| date of offering (offering date) {installation eg of major works} | aanbieddatum |  |
+| date of posting {entry in file} | inskryfdatum |  |
+| date of posting | posdatum |  |
+| date of submission | datum van voorlegging, voorledatum |  |
+| date stamp n. | datumstempel, tjap |  |
+| date-setting device | datumsteller |  |
+| date-stamp impression (postmark) | posmerk, stempelafdruk |  |
+| date-stamp v. | datumstempel, tjap |  |
+| date-stamping pad | stempelkussinkie |  |
+| date-stamping | datumstempeling |  |
+| dater | dateerder |  |
+| dates master {data processing} | datumbyprogram |  |
+| dating mechanism | datummeganisme |  |
+| datum face | uitgangsvlak, verwysingsvlak |  |
+| datum line (reference line) | uitgangslyn, verwysingslyn |  |
+| datum mark | uitgangsmerk |  |
+| daughter PC board | dogter-EK-bord |  |
+| daughter board | dogterbord |  |
+| day of issue {stamps} | dag van uitgifte |  |
+| day-and-night service | dag-en-nagdiens |  |
+| daylight effect | dagligeffek |  |
+| dazzling white | verblindende wit |  |
+| db (dry bulb) | db, droe bol |  |
+| dc (DC, direct current) | gelykstroom, GS, gs |  |
+| dc bias (dc offset) | gs-voorspanning, gs-wegstand |  |
+| dc coupling | gs-koppeling |  |
+| dc offset | gs-afwyking |  |
+| de luxe model | luukse model |  |
+| de luxe telegram | luukse telegram |  |
+| de-emphasis bulge residual equaliser | ontskerpingsbultreseffenaar |  |
+| de-emphasis {radio} | ontskerping |  |
+| de-energise | ontkrag |  |
+| de-escalation clause | deeskalasieklousule |  |
+| de-ionisation time | de<oniseertyd |  |
+| de-ionised water | gede<oniseerde water |  |
+| de-ioniser | de<oniseerder |  |
+| de-ionising grid | de<oniseerrooster |  |
+| de-spun antenna | onttolde antenne, stilstaande antenne |  |
+| de-spun {satellite platform} | stilstaande |  |
+| deaccentuator | ontskerper |  |
+| deactivate signal | deaktiveersein |  |
+| deactivate | deaktiveer |  |
+| dead cable pair | dooie kabelpaar |  |
+| dead end | blinde ent |  |
+| dead level adj. | waterpas |  |
+| dead level n. {automatic telephone} | dooie laag |  |
+| dead pair | dooie paar |  |
+| dead record | dooie rekord |  |
+| dead smooth file | dubbelsoetvyl, fynsoetvyl |  |
+| dead space | dooie gebied |  |
+| dead stock | dooie voorraad |  |
+| dead stop | stop |  |
+| dead studio | galmvry ateljee |  |
+| dead {eg sound test} | dof |  |
+| dead {electricity} | dood, spanningloos |  |
+| dead-length chuck feed bar | lengtekloukopvoerstaaf |  |
+| dead-length collet | vastelengte-klemkraag |  |
+| dead-level digit | dooielaagsyfer |  |
+| dead-man pushbutton control | dooiemansdrukknopkontrole |  |
+| dead-man's handle | dooiemanshandvatsel |  |
+| deadline | sperdatum |  |
+| deadlock | dooie punt |  |
+| deaf-aid handset | handstuk vir hardhorendes |  |
+| deaf-aid telephone | telefoon vir hardhorendes |  |
+| deal with {eg a subject} | handel oor |  |
+| deal with | behandel, handel met |  |
+| death certificate | sterftesertifikaat |  |
+| death {human resources usage} | afsterwe |  |
+| deattenuation | ontswakking |  |
+| debit balance | debietsaldo |  |
+| debit entry | debietpos |  |
+| debit error | debietfout |  |
+| debit n. | debiet |  |
+| debit note | debietnota |  |
+| debit side | debietsy |  |
+| debit telegram | debiettelegram |  |
+| debit transfer | debietoordrag |  |
+| debouncing | ontwippering |  |
+| debtor administration | debiteuradministrasie |  |
+| debtor government | debiteurregering |  |
+| debtor | debiteur, skuldenaar |  |
+| debugging | ontfouting |  |
+| debunching {electrons} | spreiding |  |
+| debur (fraise, frase) | afbraam |  |
+| decade box | dekadekas |  |
+| decade counter tube | dekadetelbuis |  |
+| decade resistance | dekadeweerstand |  |
+| decade uniselector | dekadedraaikieser |  |
+| decade-type switch | tienstandskakelaar |  |
+| decal (transfer) | dekal |  |
+| decametric wave | dekametergolf |  |
+| decay coefficient | wegsterfkoeffisient |  |
+| decay period (decay time) {electricity} | wegsterftyd |  |
+| decaying transient {logic technique} | wegsterwende oorgang |  |
+| deceased case | bestorwe saak |  |
+| deceased estate | bestorwe boedel |  |
+| deceased person (the deceased) | die afgestorwene, die oorledene |  |
+| decelerate | afsnel, spoed verminder |  |
+| decelerating electrode | afsnelelektrode |  |
+| decelerating grid {television} | afsnelrooster |  |
+| deceleration contact | afsnelkontak |  |
+| decentralisation | desentralisasie |  |
+| decentralisation | desentralisasie, desentralisering |  |
+| decibelmeter | desibelmeter |  |
+| decilog | desilog |  |
+| decimal dialling | desimaalskakeling |  |
+| decimal minute | desimaalminuut |  |
+| decimal number | desimale getal |  |
+| decimal selection | desimaalkiesing |  |
+| decimal system | desimale stelsel |  |
+| decimal-adjust {logic} | desimaalaanpas |  |
+| decimal-to-binary encoder | desimaal-tot-biner-kodeerder |  |
+| decimalisation | desimalisasie, desimalisering |  |
+| decimetric waves | desimetergolwe |  |
+| decineper (dNp) | desineper, dNp |  |
+| decipher | ontsyfer |  |
+| decision logic | beslissingslogika |  |
+| decision tree {human resources} | beslissingboom |  |
+| decision tree {marketing} | beslissingsboom |  |
+| decision wire {teleprinter} | skeipen |  |
+| decision-making logic | beslissingslogika |  |
+| decision-making unit (DMU) {human resources} | besluitnemingeenheid |  |
+| decision-making unit (DMU) {marketing} | besluitnemingseenheid |  |
+| decision-making {general} | besluitneming |  |
+| decision-making {marketing} | besluitneming |  |
+| decision-making | besluitneming |  |
+| decisions file | beslissingsleer |  |
+| deck ring {telephone receiver} | sluitring |  |
+| declaration of life | lewensverklaring |  |
+| declaration of value | waardeverklaring |  |
+| declaration | verklaring |  |
+| declare dispute} | verklaar |  |
+| declare redundant | oortollig verklaar |  |
+| declare {dispute} | verklaar |  |
+| declared contents | verklaarde inhoud |  |
+| declared road | verklaarde pad |  |
+| declared uncommercial {connection} | ondienstig verklaar |  |
+| declared value | verklaarde waarde |  |
+| declination | deklinasie |  |
+| decode n. (decoder) | dekodeerder |  |
+| decode n. | dekodeersel |  |
+| decode v. | dekodeer |  |
+| decoder for count of five | vyftelling-dekodeerder |  |
+| decoding control | dekodeerbeheer |  |
+| decoding group | dekodeergroep |  |
+| decoding tree | dekodeerboom |  |
+| decoding | dekodering |  |
+| decollator | dekollator |  |
+| decompressor control | dekompressorkontrole |  |
+| decorative joint fillet | sierlasstuk |  |
+| decoupling capacitor | ontkoppelkapasitor |  |
+| decoupling circuit | ontkoppelkring |  |
+| decoupling | ontkoppeling |  |
+| decrease of speed | spoedvermindering |  |
+| decrease of traffic | verkeersafname, verkeersvermindering |  |
+| decree of divorce | egskeidingsbevel |  |
+| decrement | dekrement |  |
+| decrementation | dekrementering |  |
+| decremeter | dekrementmeter, dekremeter |  |
+| decryption | dekriptering |  |
+| decurling device | ontkrultoestel |  |
+| dedendum {gear teeth} | dedendum, voethoogte |  |
+| dedicated circuit (dedicated line) | toegewyde lyn, toegewyde verbinding |  |
+| dedicated data circuit | toegewyde datakring |  |
+| dedicated wire | toegewyde lyn |  |
+| dedicated | doelgebonde |  |
+| dedicated | toegewy |  |
+| deduction table | aftrekkingtabel |  |
+| deduction {eg formula} | afleiding |  |
+| deduction | aftrekking |  |
+| deduction | gevolgtrekking |  |
+| deduping {eg address lists} | deduplisering |  |
+| deduplication (list clearing) {mailing list} | deduplikasie, suiwering |  |
+| deed of assignment {of salary} | akte van afstanddoening |  |
+| deed of execution | verlyde akte |  |
+| deed of sale | koopakte |  |
+| deep-back fly press | dieprugskroefpers |  |
+| deep-finned {cylinder head} | diepgevin |  |
+| deep-frame micrometer | diepraammikrometer |  |
+| deep-groove ball bearing | diepgroef-koeellaer |  |
+| deep-hole drilling | diepgatboorwerk |  |
+| deep-sea cable | diepseekabel |  |
+| deep-space station | diepruimtestasie |  |
+| deep-space | diepruimte |  |
+| defaced coin | geskende muntstuk |  |
+| defaced document | geskende dokument, geskende stuk |  |
+| defaced stamp (used stamp) | gebruikte seel |  |
+| defalcation | verduistering |  |
+| defalcator | verduisteraar |  |
+| default directory {computers} | verstekindeks |  |
+| default directory | verstekgids |  |
+| default limit | versteklimiet |  |
+| default n. | versuim |  |
+| default packet size | ontbreekpakkiegrootte |  |
+| default port | verstekpoort |  |
+| default v. | in gebreke bly, versuim |  |
+| default window size | ontbreekvenstergrootte |  |
+| defaulter {contract} | kontrakbreker |  |
+| defaulter | wanbetaler |  |
+| defaulting administration | versuimende administrasie |  |
+| defect | defek, fout |  |
+| defective ringing signal | defekte luisein |  |
+| defective | defek |  |
+| deferment | uitstel |  |
+| deferred alarm (deferred-attention alarm) | uitstelalarm |  |
+| deferred alarm cut-off key | uitstelalarmafsnysleutel |  |
+| deferred alarm cut-off | uitstelalarmafsnyding |  |
+| deferred alarm earth | uitstelalarmaarde |  |
+| deferred alarm lead | uitstelalarmleiding |  |
+| deferred application | uitgestelde aansoek |  |
+| deferred call | uitgestelde oproep |  |
+| deferred claim | uitgestelde eis |  |
+| deferred order | uitgestelde wissel |  |
+| deferred rate | uitsteltarief |  |
+| deferred telegram | uitgestelde telegram |  |
+| deferred-action alarm (delayed-action alarm, delayed alarm) | vertraagde alarm |  |
+| deficiency (deficit) | tekort |  |
+| deficiency | gebrek, ontoereikendheid |  |
+| deficiency | tekortkoming |  |
+| deficient postage (insufficient postage) | ontoereikende posgeld, onvoldoende posgeld |  |
+| define | bepaal, omskryf |  |
+| defined degree of distortion | gedefinieerde graad van vervorming |  |
+| defining value | definieerwaarde |  |
+| definition {television} | beeldskerpte |  |
+| definition | definisie, omskrywing |  |
+| definitive postage stamps | vaste posseelreeks |  |
+| definitive series | vaste reeks |  |
+| deflecting plate | deflekteerplaat |  |
+| deflecting yoke | deflekteerjuk |  |
+| deflection amplifier | defleksieversterker |  |
+| deflection coil {television} | defleksiespoel |  |
+| deflection defocusing | defleksiedefokussering |  |
+| deflection factor | defleksiefaktor |  |
+| deflection grill | defleksierooster |  |
+| deflection sensitivity | defleksiegevoeligheid |  |
+| deflection valve | defleksiebuis |  |
+| deflection voltage | defleksiespanning |  |
+| deflection {pointer} | defleksie, uitslag |  |
+| deflection {ray} | defleksie |  |
+| deflectional meter | uitwyktipe meter |  |
+| deflective force {electrical measuring instrument} | deflekteerkrag |  |
+| deflector coil | defleksiespoel |  |
+| deflector plate {cathode-ray tube} | deflektorplaat |  |
+| deflector {also LSM bin} | deflektor |  |
+| deflector {cathode-ray tube} | deflektor |  |
+| defocusing | defokussering |  |
+| degassing | ontgassing |  |
+| degenerate mode | gedegenereerde orde |  |
+| degeneration | degenerasie |  |
+| degrade {connection, service} | die gehalte verlaag |  |
+| degrade | degradeer |  |
+| degraded polyethylene | gedegradeerde polietileen |  |
+| degrease | ontghries |  |
+| degrease | ontvet |  |
+| degreasing | ghriesverwydering |  |
+| degreasing | ontvetting |  |
+| degree of accuracy | akkuraatheidgraad |  |
+| degree of dependency | afhanklikheidsgraad, graad van afhanklikheid |  |
+| degree of dissymmetry | asimmetriegraad |  |
+| degree of distortion | vervormingsgraad |  |
+| degree of intensity | intensiteitsgraad |  |
+| degree sheet | gradevel |  |
+| degree | graad |  |
+| dehumidification capacity (dehumidifying capacity) | ontvogvermoe |  |
+| dehumidifying apparatus | ontvogtoestel |  |
+| delamination {laminated wood} | delamellering |  |
+| delay allowance | vertragingstoelating |  |
+| delay cable method | vertraagkabelmetode |  |
+| delay calculator | vertragingstabel |  |
+| delay distortion | vertragingsvervorming |  |
+| delay docket | vertragingsvorm |  |
+| delay equaliser | vertragingseffenaar |  |
+| delay indicator | vertragingsaanwyser |  |
+| delay inequalities | vertragingsongelykhede |  |
+| delay key | vertraagsleutel |  |
+| delay lamp | vertragingslamp |  |
+| delay lens {antenna} | vertragingslens |  |
+| delay line | vertragingslyn |  |
+| delay multivibrator | vertraagmultivibrator |  |
+| delay network | vertragingsnetwerk |  |
+| delay plug | vertraagprop |  |
+| delay position | vertragingsbedienpunt, vertragingspunt |  |
+| delay send key | vertragingsendsleutel |  |
+| delay set | vertragingstel |  |
+| delay slope | vertragingshelling |  |
+| delay stage | vertraagtrap |  |
+| delay supervisor | vertragingsopsigter |  |
+| delay trunk working | hooflynbediening met vertraging |  |
+| delay voltage {automatic volume control} | vertraagspanning |  |
+| delay working key | vertraagwerking-sleutel |  |
+| delay working | vertraagwerking |  |
+| delay-action detonator | vertraagspringdoppie |  |
+| delay/frequency distortion | vertraging/frekwensie-vervorming |  |
+| delay/frequency equaliser | vertraging/frekwensie-effenaar |  |
+| delay | vertraging |  |
+| delay | vertraging |  |
+| delayed action | vertraagde werking |  |
+| delayed alarm pulse | vertraagdealarm-puls |  |
+| delayed automatic gain control | vertraagde outomatiese winsbeheer |  |
+| delayed call | vertraagde oproep |  |
+| delayed conversation | vertraagde gesprek |  |
+| delayed line scan {television} | vertraagde lynaftasting |  |
+| delayed telegram | vertraagde telegram |  |
+| delayed time base | vertraagde tydbasis |  |
+| delayed-clearance report | rapport van vertraagde herstelling |  |
+| delegate n. | afgevaardigde, gedelegeerde |  |
+| delegate v. {eg extension line} | aanwys |  |
+| delegate v. {eg powers} | delegeer |  |
+| delegate v. {general} | afvaardig |  |
+| delegated authority | gedelegeerde bevoegdheid |  |
+| delegated officer | gedelegeerde beampte |  |
+| delegation of authority | delegasie van bevoegdhede |  |
+| delegation of powers | delegasie van bevoegdheid |  |
+| delegation {the document} | delegasie |  |
+| delegation | afvaardiging |  |
+| delegation | delegasie, delegering |  |
+| delegation | delegering |  |
+| delete button | skrapknop |  |
+| delete key | skrapsleutel |  |
+| delete {teleprinter message} | skrap |  |
+| delete | deurhaal, skrap |  |
+| deletion {also teleprinter} | skrapping |  |
+| deliberate v. | beraadslaag |  |
+| deliberation | beraadslaging |  |
+| deliberative vote | gewone stem |  |
+| delimeter | afbakener |  |
+| deliver {message} | afgee |  |
+| deliver | aflewer, bestel |  |
+| delivery advice | afleweringsadvies |  |
+| delivery agent | afleweringsagent |  |
+| delivery area {of postmen} | bestelgebied |  |
+| delivery bill | afleweringslys |  |
+| delivery by post | aflewering per pos |  |
+| delivery charge | afleweringskoste |  |
+| delivery depot | afleweringsdepot |  |
+| delivery fee | afleweringsgeld |  |
+| delivery flap | afleweringsklap |  |
+| delivery head {of a pump} | leweringhoogte |  |
+| delivery head {of a pump} | leweringsdrukhoogte |  |
+| delivery list | afleweringslys |  |
+| delivery note | afleweringsbrief |  |
+| delivery office | afleweringskantoor, kantoor van aflewering |  |
+| delivery officer | afleweringsbeampte |  |
+| delivery pile {printed matter} | leweringstapel |  |
+| delivery plate capacity {printing press} | leweringsbladkapasiteit |  |
+| delivery port {compressor} | afvoerpoort |  |
+| delivery price | afleweringsprys |  |
+| delivery record | afleweringsrekord |  |
+| delivery slip | afleweringstrook |  |
+| delivery terms | afleweringsvoorwaardes |  |
+| delivery tray {eg copying machine} | afvoerbak |  |
+| delivery truck | afleweringsvragmotor |  |
+| delivery van | afleweringswa, bestelwa |  |
+| delivery walk {postman} | afleweringswyk |  |
+| delivery zone {of postmen} | bestelsone |  |
+| delivery-confirmation bit {Saponet} | aflewerbevestigingbis |  |
+| delivery | aflewering, bestelling |  |
+| delivery | afleweringsronde |  |
+| deload {cable} | ontlas |  |
+| delta connection | deltaverbinding |  |
+| delta formation | deltaformasie |  |
+| delta switching | deltaskakeling |  |
+| delta-matched antenna | delta-aangepaste antenne |  |
+| demagnetisation | demagnetisering |  |
+| demagnetise | demagnetiseer |  |
+| demagnetising factor | demagnetiseringsfaktor |  |
+| demand answer key | aanvraagantwoordsleutel |  |
+| demand call | aanvraagoproep |  |
+| demand distributor {telephone} | aanvraagverdeler |  |
+| demand for | behoefte aan, vraag na |  |
+| demand junction | aanvraagkoppellyn |  |
+| demand line | aanvraaglyn |  |
+| demand open lamp | aanvraagvrylamp |  |
+| demand operating (demand working) | aanvraagwerking |  |
+| demand operator | aanvraagoperateur |  |
+| demand payment form | aanvraagbetalingsvorm |  |
+| demand position | aanvraagbedienpunt |  |
+| demand service | aanvraagdiens |  |
+| demand suite {switchboard} | aanvraagstel |  |
+| demand traffic | aanvraagverkeer |  |
+| demand trunk circuit | aanvraaghooflyn |  |
+| demand warrant | aanvraagbetaalorder |  |
+| demand | aanvraag |  |
+| demand | eis, vordering |  |
+| demarcate | afbaken |  |
+| demarcation line | afbakeningslyn |  |
+| demarcation | afbakening |  |
+| demineralise {water treatment} | demineraliseer |  |
+| democratisation | demokratisering |  |
+| demodulation amplifier | demodulasieversterker |  |
+| demodulation effect | demodulasie-effek |  |
+| demodulation stage | demodulasietrap |  |
+| demodulation | demodulasie |  |
+| demodulator band-filter | demodulatorbandfilter |  |
+| demodulator output filter | demodulatoruitgangsfilter |  |
+| demodulator panel | demodulatorpaneel |  |
+| demodulator potentiometer | demodulatorpotensiometer |  |
+| demodulator | demodulator |  |
+| demographic research {marketing} | demografiese navorsing |  |
+| demographic research | demografiese navorsing |  |
+| demographically profiled | demografies geprofileer |  |
+| demographics | demografie |  |
+| demolished assets | gesloopte bates |  |
+| demolition of assets | sloping van bates |  |
+| demolition schedule | slopingslys |  |
+| demolition-of-assets schedule | lys van gesloopte bates |  |
+| demonetise {eg gold} | demonetiseer |  |
+| demonetise {stamps} | buite omloop stel, ongangbaar maak |  |
+| demonetised stamp | ongangbare seel |  |
+| demonstration licence | demonstrasielisensie |  |
+| demountable valve | demonteerbare buis |  |
+| demulsibility | demulsifieerbaarheid |  |
+| demultiplexer | demultiplekser |  |
+| demurrage | legeld |  |
+| dendogram (tree diagram) {human resources} | dendogram, boomdiagram |  |
+| dendogram (tree diagram) {marketing} | dendogram, boomdiagram |  |
+| denomination report {autoteller} | denominasieverslag |  |
+| denomination {eg stamps} | waardesoort |  |
+| denomination | muntwaarde |  |
+| denominator {of a fraction} | noemer |  |
+| denounce {convention} | opse |  |
+| dense-grain wheel | digkorrelslypwiel |  |
+| densely populated area | dig bewoonde gebied |  |
+| density | digtheid |  |
+| dental file | tandvyl |  |
+| depackage {data transmission} | depakketteer |  |
+| department | departement |  |
+| dependant's allowance | toelae vir afhanklike |  |
+| dependant | afhanklike |  |
+| dependency {country} | onderhorige land |  |
+| dependency | afhanklikheid |  |
+| dependent exchange | afhanklike sentrale |  |
+| dependent station | afhanklike stasie |  |
+| dependent-area exchange | afhanklikegebied-sentrale |  |
+| dependent-area subscriber | afhanklikegebied-huurder |  |
+| deplete {junction} | verarm |  |
+| depletion layer {transistor} | verarmingslaag |  |
+| depletion region {transistor} | verarmingsgebied |  |
+| deployed position | ontplooistand |  |
+| depolarisation | depolarisasie |  |
+| depolarise | depolariseer |  |
+| depolariser | depolariseerder |  |
+| deposit account | depositorekening |  |
+| deposit book | depositoboekie |  |
+| deposit correction slip | depositokorreksiestrook |  |
+| deposit n. {banking} | deposito |  |
+| deposit n. {eg carbon} | aanpaksel |  |
+| deposit n. {electrolysis} | neerslag |  |
+| deposit slip (paying-in slip) | depositostrook |  |
+| deposit v. {banking} | deponeer |  |
+| deposit v. {carbon paper and copy} | afgee |  |
+| deposit v. {eg carbon} | aanpak |  |
+| deposit v. {electrolysis} | neerslaan |  |
+| depositor | deponeerder |  |
+| depository | depositokas |  |
+| depreciate | depresieer, in waarde verminder |  |
+| depreciation | depresiasie, waardevermindering |  |
+| depressed-centre saucer wheel {grinding wheel} | middelduikpieringwiel |  |
+| depressed-centre wheel {grinding wheel} | middelduikwiel |  |
+| depth interview {marketing} | diepteonderhoud |  |
+| depth micrometer | dieptemikrometer |  |
+| depth of cut | snydiepte |  |
+| depth of fading {signal} | deiningdiepte |  |
+| depth of modulation (modulation depth) | modulasiediepte |  |
+| depth stop | dieptestop |  |
+| derate {of load capacity} | verlaag |  |
+| derating curve | aanslagverlagingskromme |  |
+| derating factor | aanslagverlaagfaktor |  |
+| derating | aanslagverlaging |  |
+| derelict spur | ongebruikte taklyn |  |
+| derivation | afleiding |  |
+| derivative {mathematics} | afgeleide |  |
+| derived audio circuit | afgeleide oudiokring |  |
+| derived circuit | afgeleide kring |  |
+| derived constant (secondary constant) | afgeleide konstante, sekondere konstante |  |
+| derived section {filter} | afgeleide seksie |  |
+| derogate from {eg rights, merits} | afbreuk doen aan |  |
+| derrick pole | hyspaal |  |
+| derrick {crane} | laaiboom |  |
+| derrick | boortoring |  |
+| desaturate | ontsadig |  |
+| descending order | dalende orde |  |
+| descending register | dalende register |  |
+| descramble | ontwar |  |
+| descrambled data | ontwarde data |  |
+| descrambler | ontwarder |  |
+| descriptive matter {telephone directory} | saakbeskrywing |  |
+| descriptive matter | beskrywende materiaal |  |
+| desiccant | uitdroogmiddel |  |
+| desiccating cylinder | uitdroogsilinder |  |
+| desiccation | droging |  |
+| desiccator pump | uitdroogpomp |  |
+| desiccator | desikkator |  |
+| design (layout) | ontwerp |  |
+| design condition | ontwerptoestand |  |
+| design-space temperature | ontwerpruimtetemperatuur |  |
+| design | ontwerp |  |
+| designate | aandui, aanwys, benoem |  |
+| designate | aanwys |  |
+| designated agent | aangewese agent |  |
+| designated employer | aangewese werkgewer |  |
+| designation label (designation strip) | naamstrook |  |
+| designation rod {sorting press} | naamstaaf |  |
+| designation sleeve | naamhuls |  |
+| designation tablet | naamplaat |  |
+| designation | aanwysing |  |
+| designation | ampstitel |  |
+| designation | ampstitel |  |
+| designation | benaming, naam |  |
+| designed capacity | ontwerpkapasiteit |  |
+| designer | ontwerper |  |
+| desimal hour | desimaaluur |  |
+| desirability study | wenslikheidsondersoek |  |
+| desk debugging {computer} | voorafontfouting |  |
+| desktop publishing (DTP) | lessenaarpublisering, LP, TP, tafelpublisering, DTP |  |
+| desoldering tool | ontsoldeerder |  |
+| destination DTE | bestemming-DTT |  |
+| destination bin {mail} | bestemmingsvakkie |  |
+| destination bundle | bestemmingsbondel |  |
+| destination code count (DCC) {telephone} | bestemmingkodetelling |  |
+| destination indicator {telegraphy} | bestemmingsadres |  |
+| destination indicator | bestemmingsaanwyser |  |
+| destination selector | bestemmingkieser |  |
+| destination ship station | bestemmingskeepstasie |  |
+| destination station | bestemmingstasie |  |
+| destination | bestemming |  |
+| destruction certificate | vernietigingsertifikaat |  |
+| destructive article | beskadigende voorwerp |  |
+| destructive read-out (DRO) {logic} | uitwissende uitlesing, DRO |  |
+| detachable seat {pole arm} | los saal |  |
+| detached contact | los kontak |  |
+| detached keyboard | los toetsbord |  |
+| detached manual board | los handskakelbord |  |
+| detached officer | gedetasjeerde beampte |  |
+| detached representative | gedetasjeerde verteenwoordiger |  |
+| detached-contact diagram | loskontakdiagram |  |
+| detachment | afsydigheid |  |
+| detail | besonderheid, detail |  |
+| detailed account | detailrekening |  |
+| detailed account | gespesifiseerde rekening |  |
+| detailed billing | detailfakturering |  |
+| detailed estimate | uitvoerige raming |  |
+| detailed hereunder | hieronder uiteengesit |  |
+| detailed information | uitvoerige inligting |  |
+| detailed instructions | uitvoerige instruksies |  |
+| detailed survey | uitvoerige opmeting |  |
+| detailed {account} | gespesifiseer |  |
+| detailed | breedvoerig, uitvoerig |  |
+| detain {postal article} | terughou |  |
+| detained customs packet | teruggehoue doeanepakkie |  |
+| detained-packet manifest | lys van teruggehoue pakkies |  |
+| detect {faults} | opspoor |  |
+| detect {general} | bespeur, detekteer |  |
+| detect {radio} | detekteer |  |
+| detection element {letter facer} | speurelement |  |
+| detection | deteksie |  |
+| detector circuit | detektorkring |  |
+| detector head {fire alarm system} | klikkop |  |
+| detector stage | detektortrap |  |
+| detector toggle | detektorwipkring |  |
+| detector valve | detektorbuis |  |
+| detector-alignment tool {FM receiver} | detektorinsteller |  |
+| detector | detektor |  |
+| detent bearing | stuiterlaer |  |
+| detent bracket | stuitersteun |  |
+| detent control shaft | stuiterbeheeras |  |
+| detent face | stuitervlak |  |
+| detent guard | stuiterskut |  |
+| detent lever link | stuiterhefboomskakel |  |
+| detent lifting pin | stuiterligpen |  |
+| detent link | stuiterskakel |  |
+| detent plate | stuitplaat |  |
+| detent ratchet | stuitersperrat |  |
+| detent release latch | stuiterlosknip |  |
+| detent spring | stuiterveer |  |
+| detent {checking device} | stuiter |  |
+| detent-adjusting screw | stuiterstelskroef |  |
+| detent-operating lever | stuiterhefboom |  |
+| detention of mail matter | terughouding van posstukke |  |
+| detergency | reiniging, suiwering |  |
+| detergent additive | reinigingsadditief |  |
+| detergent oil | reinigingsolie |  |
+| detergent | detergens, detergent, reiniger, reinigmiddel |  |
+| deteriorate | versleg, verswak |  |
+| deterioration {eg dry cell} | verswakking |  |
+| determination of equivalents | vasstelling van ekwivalente |  |
+| determination of responsibility | bepaling van verantwoordelikheid |  |
+| determine (establish) | bepaal |  |
+| detonate | detoneer |  |
+| detonating composition | detoneersamestelling |  |
+| detonating fuse | knallont |  |
+| detonating relay | knalvertraer |  |
+| detonator box | springdoppiekis |  |
+| detonator field box | springdoppieveldkis |  |
+| detonator lead | springdoppieleiding |  |
+| detonator pliers | doppietang |  |
+| detonator tube | springdoppiebuis |  |
+| detonator | springdoppie |  |
+| detour | ompad |  |
+| detuning | ontstemming |  |
+| develop | ontwikkel |  |
+| developer (processor) {film} | ontwikkelaar |  |
+| developer | ontwikkelaar |  |
+| developing country (emerging country) | ontwikkelende land |  |
+| development assessment figure (development figure) | uitbreidingsyfer |  |
+| development forecast figure (forecast figure) | voorspellingsyfer |  |
+| development forecast | uitbreidingsvoorspelling |  |
+| development need | ontwikkelingsbehoefte |  |
+| development study | uitbreidingstudie |  |
+| development survey | uitbreidingsopname |  |
+| development system | ontwikkelingstelsel |  |
+| development terminal | ontwikkelingterminaal |  |
+| development {also sheet-metal work} | ontwikkeling |  |
+| deviant n. | deviant |  |
+| deviation (detour) {road} | padverlegging |  |
+| deviation ratio {radio} | deviasieverhouding |  |
+| deviation relay | deviasierele |  |
+| deviation {route} | verlegging |  |
+| deviation | afwyking, deviasie |  |
+| deviative absorption | deviasie-absorpsie |  |
+| device channel controller | toestelkanaalbeheerder |  |
+| device electronics {eg Siemens apparatus} | elektroniese beheereenheid |  |
+| device interface adapter | toestelkoppelvlakaanpasser |  |
+| device simulation control | toestelnabootsbeheerder |  |
+| device {computer etc} | toestel |  |
+| device | toestel |  |
+| devolution {of authority} | afwenteling |  |
+| dew point | doupunt |  |
+| dexterity | behendigheid, handvaardigheid |  |
+| dexterous (skilful) | behendig |  |
+| diac | diak |  |
+| diacathode ray | diakatodestraal |  |
+| diacathode | diakatode |  |
+| diagnostic controller | diagnoseerbeheerder |  |
+| diagnostic service (Saponet) | diagnosediens |  |
+| diagnostic testing | diagnoseertoetsing, diagnostiese toetsing |  |
+| diagnostic-card program {computer} | diagnoseerkaartprogram |  |
+| diagonal side cutters | skuinskniptang |  |
+| diagonal wires | diagonale drade |  |
+| diagram | diagram |  |
+| diagram | diagram |  |
+| dial adjustment | skakelskyfstelling |  |
+| dial backup facility | skakeldekfasiliteit |  |
+| dial backup | skakeldekking |  |
+| dial bridge {Wheatstone} | wyserbrug |  |
+| dial circuit | skakelkring |  |
+| dial digit | skakelsyfer |  |
+| dial dispenser {packaging} | wieldispensor |  |
+| dial gauge (test-dial indicator) | wysermeter |  |
+| dial impulse (dialling impulse) | skakelimpuls |  |
+| dial impulse spring | skakelimpulsveer |  |
+| dial information | skakelinligting |  |
+| dial intertrain pause period {dial} | tussenreekspouse |  |
+| dial key | skakelskyfsleutel |  |
+| dial line | skakellyn |  |
+| dial lock | skakelslot |  |
+| dial mounting | skakelskyfmontasie |  |
+| dial multiple | skakelmultipel |  |
+| dial n. {calibrated phase shifter} | kontroleknop |  |
+| dial n. {telephone} | skakelskyf |  |
+| dial pad {pushbutton telephone} | skakelblok |  |
+| dial pedestal telephone | pilaartelefoon met skakelskyf |  |
+| dial ratio | skakelskyfverhouding |  |
+| dial switch | skakelskyf |  |
+| dial system | skakelstelsel |  |
+| dial target tester | skakelskyfspoed-en-verhoudingtoetser |  |
+| dial telegraph {obsolete apparatus} | wysertelegraaf |  |
+| dial terminal block | skakelskyfaansluiterblok |  |
+| dial tester | skakelskyftoetser |  |
+| dial top | skakeldop |  |
+| dial transfer circuit | skakelingsoorplaaskring |  |
+| dial v. | skakel |  |
+| dial-connect key | skakelskyfverbindsleutel |  |
+| dial-controlled stepping | skakelskyfbeheerde stapping |  |
+| dial-gauge rest | wysermeterrus |  |
+| dial-locking device | skakelskyfslot |  |
+| dial-pulse regenerative repeater (DPRR) | skakelpulsterugvormherhaler, SPTH |  |
+| dial-pulse repeater (DPR) | skakelpulsherhaler, SPH |  |
+| dial-pulse sequence | skakelpulsreeks |  |
+| dial-speed tester | skakelskyfspoedtoetser |  |
+| dial-speed variation | skakelskyfspoedwisseling |  |
+| dial-switching circuit | skakelskyfskakelkring |  |
+| dial-up circuit | skakelkring |  |
+| dial-up data circuit | skakeldatakring |  |
+| dial-up data service | skakeldatadiens |  |
+| dial-up subscriber {Internet} | inbelintekenaar |  |
+| dialcode | skakelkode |  |
+| dialled impulse | geskakelde impuls |  |
+| dialler | skakeltoestel |  |
+| dialling circuit | skakelkring |  |
+| dialling code | skakelkode |  |
+| dialling supervision | skakelingtoesig |  |
+| dialling tone (dial tone) | skakeltoon |  |
+| dialling-in selector {automatic telephone} | binnewaartseskakeling-kieser |  |
+| dialling-in trunk | binnewaartseskakeling-hooflyn |  |
+| dialling-in {automatic telephone} | binnewaartse skakeling |  |
+| dialling-out facility | buitentoeskakelfasiliteit |  |
+| dialling-out {automatic telephone} | buitewaartse skakeling |  |
+| dialling | skakeling |  |
+| dialplate selection (dial selection) | skakelskyfkiesing |  |
+| dialplate {teleprinter} | skakelskyf |  |
+| diamagnetic | diamagneties |  |
+| diameter of wire | draaddiameter |  |
+| diameter | diameter |  |
+| diametral pitch | diametersteek |  |
+| diametrically opposed to | lynreg in stryd met |  |
+| diamond tool {grinding wheel} | diamantbeitel |  |
+| diamond-point chisel | ruitpuntbeitel |  |
+| diamond-shaped antenna | ruitantenne |  |
+| diamond-tipped dressing tool | diamantopknapbeitel |  |
+| diarise | aanteken |  |
+| diary {marketing} | dagboek |  |
+| diary | dagboek |  |
+| diathermy | diatermie |  |
+| dibit | dibis |  |
+| dichotomous question {marketing} | tweeledige vraag |  |
+| dichotomous question | tweeledige vraag |  |
+| dictaphone | diktafoon |  |
+| die (stamp) | stempel |  |
+| die block member | blokdeel |  |
+| die block {eg blanking and/or drawing} | blok |  |
+| die face | snyblokvlak |  |
+| die face | vormblokvlak |  |
+| die head | snykop |  |
+| die hub | stempelnaaf |  |
+| die load factor | ladingfaktor |  |
+| die mark | vormmerk |  |
+| die opening | snyblokopening |  |
+| die opening | vormblokopening |  |
+| die plate | stempelplaat |  |
+| die radius | vormblokronding |  |
+| die ring | vormblokring |  |
+| die set | snyblokstel |  |
+| die set | vormblokstel |  |
+| die shoe | blokhouer |  |
+| die stock (stock) {stock and dies} | stok |  |
+| die vent | vormblokontlugter |  |
+| die {for cutting threads} | snyblok |  |
+| die-cast aluminium | vormgietaluminium |  |
+| die-cast end cheek | vormgietentwang |  |
+| die-casting n. | vormgietsel, vormgietstuk |  |
+| die-casting v. | vormgiet |  |
+| die-holder bush | stempelhouerbus |  |
+| die-holder gear wheel | stempelhouerrat |  |
+| die-holder pulley | stempelhouerkatrol |  |
+| die-holder screw | stempelhouerskroef |  |
+| die-holder set screw | stempelhouerklemskroef |  |
+| die-holder spindle | stempelhouerspil |  |
+| die-holder spring | stempelhouerveer |  |
+| die | draadsnyblok |  |
+| die | vormblok |  |
+| dielectric absorption | dielektriese absorpsie |  |
+| dielectric adj. | dielektries |  |
+| dielectric breakdown {of insulation} | dielektriese deurslag |  |
+| dielectric capacitance | dielektriese kapasitansie |  |
+| dielectric coefficient | dielektriese koeffisient |  |
+| dielectric constant | dielektriese konstante |  |
+| dielectric heating | dielektriese verhitting |  |
+| dielectric lens {antenna} | dielektriese lens |  |
+| dielectric loss | dielektriese verlies |  |
+| dielectric n. | dielektrikum |  |
+| dielectric radiator | dielektriese straler |  |
+| dielectric resistance | dielektriese weerstand |  |
+| dielectric strength (electric strength) | dielektriese sterkte |  |
+| dielectric stress (electric stress) | dielektriese spanning |  |
+| dielectric waveguide | dielektriese golfleier |  |
+| diene | dieen |  |
+| diesel engine | dieselenjin |  |
+| diesel fuel oil (diesel oil) | dieselolie |  |
+| diesel/alternator set | diesel/alternator-stel |  |
+| diesel | diesel |  |
+| difference amplifier | verskilversterker |  |
+| difference current | verskilstroom |  |
+| difference frequency | verskilfrekwensie |  |
+| difference in degree | graadverskil |  |
+| differential alarm | verskilalarm |  |
+| differential amplifier | differensiele versterker |  |
+| differential amplitude | differensiele amplitude |  |
+| differential capacitor | differensiele kapasitor |  |
+| differential duplex | differensiele dupleks |  |
+| differential echo suppressor | differensiele eggo-onderdrukker |  |
+| differential gain | differensiele wins |  |
+| differential galvanometer | differensiele galvanometer |  |
+| differential indexing {dividing head} | differensiele instelling |  |
+| differential milliammeter | differensiele milliammeter |  |
+| differential n. {mathematics, electronics} | differensiaal |  |
+| differential output | differensiele uitset |  |
+| differential phase distortion | differensiele fasevervorming |  |
+| differential phase-shift keying (DPSK) | differensielefaseverskuif-sleuteling, DFSS |  |
+| differential piecework {human resources} | differensiele stukwerk |  |
+| differential pressure controller (pressure differential controller) {air filter} | drukverskilskakelaar |  |
+| differential pressure gauge (pressure differential gauge) {air filter} | drukverskilmeter |  |
+| differential pulley | differensiele katrol |  |
+| differential rate | differensiele tarief |  |
+| differential relay | differensiele rele |  |
+| differential thermostat | verskiltermostaat |  |
+| differential timing {human resources} | differensiele tydmeting |  |
+| differential transformer (hybrid, hybrid coil, hybrid transformer) | differensiaal, differensiaaltransformator |  |
+| differential valve {pneumatic tube} | differensiele klep |  |
+| differential winding | differensiele wikkeling |  |
+| differential-adjusting device | verskilsteller |  |
+| differential-gain distortion | differensielewins-vervorming |  |
+| differentially connected relay | differensieel verbinde rele |  |
+| differentially wound | differensieel gewikkel |  |
+| differentiate with respect to {differential calculus} | differensieer met betrekking tot |  |
+| differentiated impulse | gedifferensieerde impuls |  |
+| differentiating circuit | differensieerkring |  |
+| differentiating signal | differensieersein |  |
+| differentiation | differensiasie, differensiering |  |
+| differentiator | differensieerder |  |
+| diffraction region | diffraksiegebied |  |
+| diffraction | diffraksie |  |
+| diffused channel {transistor} | diffusiekanaal |  |
+| diffused-base transistor | diffusiebasistransistor |  |
+| diffuser plate {plan telephone} | spreiplaat |  |
+| diffuser | verspreier |  |
+| diffusion constant | diffusiekonstante |  |
+| diffusion length {transistor} | diffusielengte |  |
+| diffusion of electrolyte | elektrolietdiffusie |  |
+| diffusion | diffusie, verspreiding |  |
+| digging (digging operation) | graafwerk |  |
+| digging chain | graafketting |  |
+| digging party | graafspan |  |
+| digging procedure | graafprosedure |  |
+| digging-chisel steel | graafbeitelstaal |  |
+| digit absorption | syferabsorbering |  |
+| digit acquisition | syferverkryging |  |
+| digit cut-off | syferafsnyding |  |
+| digit discrimination circuit | syferonderskeikring |  |
+| digit distributor | syferdistribueerder |  |
+| digit distributor | syferverdeler |  |
+| digit interpretation | syfervertolking |  |
+| digit interpreter | syfervertolker |  |
+| digit key | syfersleutel |  |
+| digit logic | syferlogika |  |
+| digit plunger | syferplunjer |  |
+| digit restraint | syferstuiting |  |
+| digit storage | syferbewaring |  |
+| digit suppressor | syferonderdrukker |  |
+| digit switch <correct term - digit selector> | syferkieser |  |
+| digit-absorbing selector | syferabsorbeerkieser |  |
+| digit-key strip | syfersleutelstrook |  |
+| digit-marking tree | syfermerkboom |  |
+| digit-store transfer chain | syfergeheue-oordraketting |  |
+| digit-storing chain | syferbewaarketting |  |
+| digit | syfer |  |
+| digital adj. | digitale |  |
+| digital ammeter | digitale ammeter |  |
+| digital computer | digitale rekenaar |  |
+| digital electronic system | digitale elektroniese stelsel |  |
+| digital facsimile | digitale faksimilee |  |
+| digital frequency counter | digitale frekwensieteller |  |
+| digital line transmission | digitale lyntransmissie |  |
+| digital logic | digitale logika |  |
+| digital loop (DL) | digitale lus, DL |  |
+| digital switching | digitale skakeling |  |
+| digital video codec system | digitale videokodekstelsel |  |
+| digital voltmeter | digitale voltmeter |  |
+| digital-error detector | syferfoutdetektor |  |
+| digitise {electronics} | digiteer |  |
+| digitised voltage level {electronics} | gedigiteerde spanningspeil |  |
+| dilapidated | bouvallig, vervalle |  |
+| dilute | verdun |  |
+| dimension | afmeting |  |
+| dimension | dimensie |  |
+| dimensional check (dimensional inspection) | afmetingkontrole |  |
+| dimensional sketch | afmetingskets |  |
+| dimensional tolerance | afmetingstoleransie |  |
+| dimensioning | dimensionering |  |
+| diode bridge | diodebrug |  |
+| diode clamp | diodevaspenner |  |
+| diode detector | diodedetektor |  |
+| diode logic (DL) | diodelogika, DL |  |
+| diode pump (staircase generator, step generator) | diodepomp, trapgenerator |  |
+| diode rectification | diodegelykrigting |  |
+| diode rectifier | diodegelykrigter |  |
+| diode valve | diodebuis |  |
+| diode-equivalent circuit | diode-ekwivalente kring |  |
+| diode/transistor logic (DTL) | diode/transistor-logika, DTL |  |
+| diode | diode |  |
+| dip meter | inklinasiemeter |  |
+| dip n. (inclination) {magnetic needle} | inklinasie |  |
+| dip n. (sag) | deurhang, hang |  |
+| dip n. {eg curve} | knik |  |
+| dip oscillator | knikossillator |  |
+| dip v. {light} | domp |  |
+| dip v. | indompel, indoop |  |
+| diphase | difase |  |
+| diplex operation | diplekswerking |  |
+| diplex reception | dipleksontvangs |  |
+| diplex | dipleks |  |
+| diplexer {television} | diplekser |  |
+| diplomatic bag | diplomatieke sak |  |
+| diplomatic immunity | diplomatieke immuniteit |  |
+| dipole (doublet) | dipool |  |
+| dipole antenna | dipoolantenne |  |
+| dipped light | gedompte lig |  |
+| dipper (dipper switch, dip switch) | dompskakelaar |  |
+| dipper {connecting rod} | skep |  |
+| dipper {excavator} | skoparm |  |
+| dipstick | peilstok |  |
+| direct access | direkte toegang |  |
+| direct addressing {computer} | direkte adressering |  |
+| direct admittance | direkte admittansie |  |
+| direct agent's bag | regstreekse agentsak |  |
+| direct attention to | die aandag vestig op |  |
+| direct back-scatter | direkte terugstrooiing |  |
+| direct bag | direkte sak |  |
+| direct call | direkte oproep |  |
+| direct capacitance | direkte kapasitansie |  |
+| direct circuit (direct link) | direkte verbinding |  |
+| direct connection facility | deurverbindfasiliteit |  |
+| direct control | direkte beheer |  |
+| direct cost | direkte koste |  |
+| direct costs {marketing} | direkte koste |  |
+| direct costs | direkte koste |  |
+| direct coupling | direkte koppeling |  |
+| direct dialling | direkte skakeling |  |
+| direct emission | direkte uitstraling |  |
+| direct exchange line | direkte sentralelyn |  |
+| direct exchange {mail} | direkte wisseling |  |
+| direct finder | direkte vinder |  |
+| direct impedance | direkte impedansie |  |
+| direct impulse | direkte impuls |  |
+| direct in-dialling scheme (direct inward-dialling scheme) | skema met direkte in-skakeling |  |
+| direct interelectrode capacitance | direkte tussenelektrodekapasitansie |  |
+| direct link | direkte skakel |  |
+| direct mail advertising {marketing} | direkte posreklame |  |
+| direct memory access (DMA) | direkte geheuetoegang, DGT |  |
+| direct on-line starter (direct-on starter) | direkte aansitter |  |
+| direct on-line starting (direct-on starting) | direkte aansitting |  |
+| direct primary finder (regular primary finder) | direkte primere vinder |  |
+| direct printer | direkte drukker |  |
+| direct radiator | direkte straler |  |
+| direct ray | direkte straal |  |
+| direct reading | direkte aflesing, direkte lesing |  |
+| direct route | direkte roete |  |
+| direct sounder | direkte klopper |  |
+| direct stroke | direkte slag |  |
+| direct transit circuit | direkte deurgangkring |  |
+| direct transit | direkte deurgang |  |
+| direct transmission | direkte transmissie |  |
+| direct v. {letter} | adresseer, rig |  |
+| direct v. | gelas, opdrag gee |  |
+| direct wave | direkte golf |  |
+| direct-access line | direktetoegang-lyn |  |
+| direct-coupled amplifier | direk gekoppelde versterker |  |
+| direct-current amplifier | gelykstroomversterker |  |
+| direct-current component | gelykstroomkomponent |  |
+| direct-current coupling | gelykstroomkoppeling |  |
+| direct-current generator | gelykstroomgenerator |  |
+| direct-current motor | gelykstroommotor |  |
+| direct-current relay | gelykstroomrelé |  |
+| direct-current resistance (ohmic resistance) | gelykstroomweerstand |  |
+| direct-current restorer | gelykstroomhersteller |  |
+| direct-current signalling | gelykstroomseining |  |
+| direct-current supply | gelykstroomtoevoer |  |
+| direct-current telegraphy | gelykstroomtelegrafie |  |
+| direct-current tension (direct-current voltage) | gelykstroomspanning |  |
+| direct-current transmission | gelykstroomtransmissie |  |
+| direct-dialling facility | direkskakelfasiliteit |  |
+| direct-drive motor {eg router} | direkaandryfmotor |  |
+| direct-expansion cooling coil | direkuitsitkoelkronkel |  |
+| direct-expansion evaporator | direkuitsitverdamper |  |
+| direct-issue account | direkte-uitreikingsrekening |  |
+| direct-issue equipment (DL equipment) | direkte-uitreikingstoerusting, DU-toerusting |  |
+| direct-reading fault-locating bridge | direkaflees-foutopspoorbrug |  |
+| direct-recording facsimile telegraphy | direkte faksimileetelegrafie |  |
+| direct-response advertising | direkrespons-reklame |  |
+| direct-screen work {film processor} | rasterwerk |  |
+| direct-sounder working | direkteklopper-werking |  |
+| directing circle | rigsirkel |  |
+| direction finder | rigtingsoeker |  |
+| direction finding | rigtingsoeking |  |
+| direction lever | rigtinghefboom |  |
+| direction of lay {cables} | slagrigting |  |
+| direction of magnetisation | magnetiseerrigting |  |
+| direction of polarisation {waveguide} | polarisasierigting |  |
+| direction of rotation | draairigting |  |
+| direction-finder group | rigtingsoekergroep |  |
+| direction-finder site | rigtingsoekeromgewing |  |
+| direction-finding mast | rigtingsoekmas |  |
+| direction-finding service | rigtingsoekdiens |  |
+| direction-finding station | rigtingsoekstasie |  |
+| direction | aanwysing |  |
+| direction | rigting |  |
+| directional (beamed, directive) {antenna} | gerig, rig- |  |
+| directional characteristic | rigkenmerk |  |
+| directional coupler {waveguide} | gerigte koppelaar |  |
+| directional filter | rigfilter |  |
+| directional key | rigsleutel |  |
+| directional microphone | gerigte mikrofoon |  |
+| directional phase changer (directional phase shifter) {waveguide} | gerigte faseverskuiwer |  |
+| directional radio beacon | gerigte radiobaken |  |
+| directional radiocommunication | gerigte radioverbinding |  |
+| directional receiver | gerigte ontvanger |  |
+| directional reception | gerigte ontvangs |  |
+| directional system | rigstelsel |  |
+| directional-signalling beacon | rigseinbaken |  |
+| directive force | rigkrag |  |
+| directive n. | opdrag |  |
+| directivity {antenna} | direktiwiteit |  |
+| directly connected finder | direk verbinde vinder |  |
+| directly connected line-finder | direk verbinde lynvinder |  |
+| directly heated cathode (filament) {radio valve} | direk verhitte katode, gloeidraad |  |
+| directly heated cathode {thermionic valve} | direk verhitte katode |  |
+| directly heated filament | direk verhitte gloeidraad |  |
+| directly heated thermocouple | direk verhitte termokoppel |  |
+| directly heated valve | direk verhitte buis |  |
+| director control equipment | direktorbeheertoerusting |  |
+| director exchange | direktorsentrale |  |
+| director hunter (DH) | direktorsoeker, DS |  |
+| director hunter {automatic telephone} | direktorsoeker |  |
+| director meter {automatic telephone} | direktorteller |  |
+| director rack | direktorraam |  |
+| director routiner | direktorroetinetoetser |  |
+| director system {automatic telephone} | direktorstelsel |  |
+| director {antenna} | golfrigter |  |
+| director {automatic telephone} | direktor |  |
+| director {general} | direkteur |  |
+| director-forced release | direktorgedwonge vrymaking |  |
+| directory assisted sampling design {marketing} | gidsondersteunde steekproefontwerp |  |
+| directory enquiry | gidsnavraag |  |
+| directory entry | gidsinskrywing |  |
+| directory number | gidsnommer |  |
+| directory sales | gidsverkope |  |
+| directory-assisted sampling design {human resources} | gidsondersteunde steekproefontwerp |  |
+| directory | gids |  |
+| directrix | riglyn |  |
+| dirty signal | onsuiwer sein |  |
+| disability grant | ongeskiktheidstoelae |  |
+| disable {logic} | sper |  |
+| disablement {Act} | arbeidsongeskiktheid |  |
+| disablement {cripple care} | gestremdheid |  |
+| disabling circuit | sperkring |  |
+| disallow | afkeur, weier |  |
+| disallowance advice | afkeuringsadvies |  |
+| disallowance voucher | afkeuringsbewys |  |
+| disallowance | afkeuring |  |
+| disallowed pension voucher | afgekeurde pensioenbetaalorder |  |
+| disappearing pin | vlugstandpen |  |
+| disappearing-carrier method | verdwyndraermetode |  |
+| disassemble v. {data transmission} | uitmekaarhaal |  |
+| disassemble, dismantle, tear down | uitmekaar haal |  |
+| disassembly {data transmission} | uitmekaarhaling |  |
+| disassociation signal | ontkoppelsein |  |
+| disbursement {eg petty cash} | uitbetaling |  |
+| disbursement | uitbetaling |  |
+| disc attenuator {waveguide} | skyfverswakker |  |
+| disc cutter (fly-cutter) | swaaifrees |  |
+| disc drill | skyfboor |  |
+| disc impeller {pump} | skyfstuwer |  |
+| disc recording | plaatopname |  |
+| disc seal | skyfseel |  |
+| disc spring | skyfveer |  |
+| disc thermostat {air-conditioning system} | oorbelasbeveiliger |  |
+| disc {also pulley} | skyf |  |
+| disc {record-player} | plaat |  |
+| disc-seal valve | skyfseelbus |  |
+| discard {packet switching} | weggooi |  |
+| discard | afdank, afskaf, weggooi |  |
+| discharge air pressure | uitlaatlugdruk |  |
+| discharge angle {front-end loader} | storthoek |  |
+| discharge aperture | afvoergleuf |  |
+| discharge branch {pump} | afvoer, afvoerpyp |  |
+| discharge current | ontlaaistroom |  |
+| discharge curve {of a battery cell} | ontlaaikromme |  |
+| discharge gauge {Trane water chiller} | afvoermeter |  |
+| discharge horn {fire extinguisher} | spuittregter |  |
+| discharge n. {electricity} | ontlading |  |
+| discharge n. {liquid} | afvoer |  |
+| discharge n. {of staff} | ontslag |  |
+| discharge n. | ontslag |  |
+| discharge n. | ontslag |  |
+| discharge path | ontlaaibaan |  |
+| discharge rate | ontlaaitempo |  |
+| discharge resistor | ontlaairesistor |  |
+| discharge side | afvoerkant |  |
+| discharge strip | ontladingstrook |  |
+| discharge temperature thermostat | afvoertemperatuurtermostaat |  |
+| discharge temperature | afvoertemperatuur |  |
+| discharge tube {electrical} | ontladingsbuis |  |
+| discharge tube | afvoerpyp |  |
+| discharge v. {by employer with loss of benefits} | ontslaan |  |
+| discharge v. {eg debt} | kwyt, vereffen |  |
+| discharge v. {electricity} | ontlaai |  |
+| discharge v. | afdank, ontslaan |  |
+| discharge v. | afdank, ontslaan |  |
+| discharge v. | leegmaak |  |
+| discharged battery (drained battery) | ontlaaide battery |  |
+| discharging tongs | ontlaaitang |  |
+| discharging | ontlading |  |
+| disciplinary action | dissiplinere stappe, dissiplinere optrede, dissiplinere aksie |  |
+| disciplinary action | tugmaatreels, tugstappe |  |
+| discipline | dissipline, tug |  |
+| disclosable expenses | toonbare uitgawes |  |
+| discone {antenna} | skyfkeel |  |
+| disconnect and clear | verbreek en defekvry |  |
+| disconnect delay | verbreekvertraging |  |
+| disconnect plug | diskonnekteerprop |  |
+| disconnect | diskonnekteer, ontkoppel |  |
+| disconnected mode (DM) | gediskonnekteerde modus, DM |  |
+| disconnecting key | verbreeksleutel |  |
+| disconnection and clear {test} | diskonneksie en skoon |  |
+| disconnection fault | diskonneksiefout |  |
+| disconnection {electrical connection} | diskonneksie, verbreking |  |
+| disconnection-and-clear test | diskonneksie-en-skoontoets |  |
+| disconnection | diskonneksie, ontkoppeling |  |
+| disconnector | diskonnekteerder |  |
+| discontinuance {by subscriber} | opsegging |  |
+| discontinuance | beeindiging |  |
+| discontinue {by subscriber} | opse |  |
+| discontinue | beeindig |  |
+| discontinuity | diskontinu<teit |  |
+| discontinuous rate {based on distance} | diskontinue tarief |  |
+| discount {for cash} | afslag, korting |  |
+| discount {on order} | diskonto |  |
+| discrepancy account | verskilrekening |  |
+| discrepancy | verskil |  |
+| discrete element | diskrete element |  |
+| discretionary power | bevoegdheid om na goeddunke te handel, diskresionere bevoegdheid |  |
+| discretionary purchasing power {marketing} | diskresionere koopkrag |  |
+| discretionary purchasing power | diskresionere koopkrag |  |
+| discriminant analysis {marketing} | diskriminantontleding |  |
+| discriminant analysis | diskriminantontleding |  |
+| discriminate against | diskrimineer teen |  |
+| discriminating relay | onderskeirele |  |
+| discriminating satellite exchange | onderskeisatellietsentrale |  |
+| discriminating selector repeater (DSR) | onderskeiherhaalkieser, OHK |  |
+| discriminating selector | onderskeikieser |  |
+| discriminating signal | onderskeisein |  |
+| discrimination {automatic telephone} | onderskeiding |  |
+| discrimination {radio} | diskriminasie |  |
+| discriminative-seizure signal | onderskeidende-inbeslagneming-sein |  |
+| discriminator (frequency discriminator) {radio} | diskrimineerder |  |
+| discriminator {automatic telephone} | onderskeier |  |
+| discussion technique {human resources} | besprekingtegniek |  |
+| discussion technique {marketing} | besprekingstegniek |  |
+| disengaged line | onbesette lyn, vry lyn |  |
+| disguised technique {marketing} | vermomde tegniek |  |
+| disguised technique | vermomde tegniek |  |
+| dish wheel | skottelwiel |  |
+| dish {also antenna} | kom |  |
+| dish {grinding-wheel shape} | skottel |  |
+| dishonour {cheque} | dishonoreer, nie aksepteer nie, weier |  |
+| disjunct n. {logic} | disjunk |  |
+| disjunction union {logic} | disjunksievereniging |  |
+| disjunctive normal form (dnf) | disjunktiewe normaalvorm, dnv |  |
+| disk drive {computer} | skyfaandrywer |  |
+| disk frame | skyfraam |  |
+| disk {computer} | skyf |  |
+| diskette | disket |  |
+| dislocation | ontwrigting |  |
+| dismantle {telephone at subscriber} | verwyder |  |
+| dismantling costs {of telephone} | verwyderingskoste |  |
+| dismantling time (tear-down time) | uitmekaarhaaltyd |  |
+| dismiss v. | afdank |  |
+| dismiss {eg class, meeting} | verdaag |  |
+| dismiss {worker} | afdank |  |
+| dismiss | afdank |  |
+| dismissal pay <see severance pay> | ontslagsalaris |  |
+| dismissal pay {see severance pay} | ontslagsalaris |  |
+| dismissal | afdanking |  |
+| dismissal | ontslag |  |
+| dispatch house | versendinghuis |  |
+| dispatch list | versendingslys |  |
+| dispatch note | versendingsbrief |  |
+| dispatch press | versendrak |  |
+| dispatch valve {pneumatic tube system} | versendklep |  |
+| dispatching administration | versendingsadministrasie |  |
+| dispatching office | versendingskantoor |  |
+| dispatching officer | versendingsbeampte |  |
+| dispenser | uitdeler, uitmeter |  |
+| dispersal oscillator | spreidingsossillator |  |
+| dispersant-and-toner development | dispergeerder-en-kleursel-ontwikkeling |  |
+| dispersion | dispersie, spreiding |  |
+| displacement (displacement volume, piston displacement, swept volume) {of engine} | slagvolume |  |
+| displacement pump | verplaaspomp |  |
+| displacement region (spread) | verskuiwingstreek |  |
+| displacement {eg of electrons} | verplasing |  |
+| displacement {eg of phase} | verskuiwing |  |
+| displacement {relocation of staff} | verskuiwing |  |
+| display card | vertoonkaart |  |
+| display counter | uitstaltoonbank |  |
+| display panel | vertoonpaneel |  |
+| display poster | vertoonbiljet |  |
+| display valve | vertoonbuis |  |
+| display | vertoning |  |
+| disposable filter (throwaway filter) | weggooifilter |  |
+| disposable fuse (throwaway fuse) | weggooisekering |  |
+| disposal instructions | beskikkinginstruksies |  |
+| disposal of contents | beskikking oor inhoud |  |
+| disposal of mail matter | afhandeling van posstukke |  |
+| dispose of by public auction | per openbare veiling van die hand sit |  |
+| dispose of | beskik oor |  |
+| dispose of | wegdoen |  |
+| disposition (orientation) {human resources} | ingesteldheid |  |
+| disposition list | beskikkinglys |  |
+| dispute resolving forum (dispute resolution forum) | geskilbeslegtigingsforum |  |
+| disrupt | ontwrig |  |
+| dissect {eg account} | uitpluis |  |
+| dissect | ontleed |  |
+| disseminate {also information} | versprei |  |
+| dissipate | dissipeer |  |
+| dissipating line | dissipeerlyn |  |
+| dissipation factor | dissipasiefaktor |  |
+| dissipation of current | stroomdissipasie |  |
+| dissipation | dissipasie |  |
+| dissipative attenuator {waveguide} | dissipasieverswakker |  |
+| dissipative wedge | dissipasiewig |  |
+| dissolve n. (lap dissolve) {television image} | mengoorgang |  |
+| dissolve v. {eg partnership} | ontbind |  |
+| dissolve v. {eg salt} | oplos |  |
+| dissolve v. {images in television} | oorgaan |  |
+| distance bolt | afstandbout |  |
+| distance collar | afstandkraag |  |
+| distance ring | afstandring |  |
+| distance washer (spacing washer) | skeiwaster |  |
+| distance washer | afstandwaster |  |
+| distance-dependent packet-switching rate | afstandafhanklike pakkieskakeltarief |  |
+| distance-measuring equipment | afstandmeettoerusting |  |
+| distant busy signal | anderkantse besetsein |  |
+| distant exchange | anderkantse sentrale |  |
+| distant foreign current | veraf vreemde stroom |  |
+| distant guard equipment | anderkantse waaktoerusting |  |
+| distant receiver | anderkantse ontvanger |  |
+| distant site error (intersite error) {direction-finding} | buiteomgewingsfout |  |
+| distant station | anderkantse stasie |  |
+| distinctive code | kenkode |  |
+| distinctive letter | onderskeidende letter |  |
+| distinguishing mark | onderskeiteken |  |
+| distort (impair) {signal} | vervorm |  |
+| distort to | vervorm tot |  |
+| distort {electricity} | vervorm |  |
+| distort {mechanics} | verwring |  |
+| distorter | vervormer |  |
+| distortion analyser | vervormingontleder |  |
+| distortion component | vervormingskomponent |  |
+| distortion margin | vervormingsgrens |  |
+| distortion measuring set | vervormingmeetstel |  |
+| distortion of vision {eye shield} | sigvervorming |  |
+| distortion {electricity} | vervorming |  |
+| distortionless cable | vervormingsvry kabel |  |
+| distortionless output | vervormingsvry uitset |  |
+| distortionless | vervormingsvry |  |
+| distrene | distreen |  |
+| distress call | noodoproep |  |
+| distress message | noodberig |  |
+| distress signal | noodsein |  |
+| distress traffic | noodverkeer |  |
+| distribute {internal-combustion engine} | verdeel |  |
+| distribute | distribueer |  |
+| distributed amplifier | verspreide versterker |  |
+| distributed capacitance | verspreide kapasitansie |  |
+| distributed inductance | verspreide induktansie |  |
+| distributed learning <this term replaces distance education> | verspreide onderrig, verspreide leer |  |
+| distributed network | verspreide netwerk |  |
+| distributing busbar | distribusiegeleistam |  |
+| distributing centre | distribusiesentrum |  |
+| distributing gate | distribusiehek |  |
+| distributing gate | verdeelhek |  |
+| distributing office | distribusiekantoor |  |
+| distributing officer {insured and registered mail} | uitdeler |  |
+| distributing table | distribusietafel |  |
+| distribution amplifier | distribusieversterker |  |
+| distribution baffle {spray booth} | distribusieskot |  |
+| distribution box | distribusiekas |  |
+| distribution cabinet | distribusiekabinet |  |
+| distribution cable | distribusiekabel |  |
+| distribution code | uitreikingskode |  |
+| distribution cubicle | distribusiehokkie |  |
+| distribution curve | verspreidingkromme |  |
+| distribution frame | distribusieraam |  |
+| distribution fuse post | distribusiesekeringspen |  |
+| distribution fuse | distribusiesekering |  |
+| distribution jack | distribusieklink |  |
+| distribution network {electricity} | distribusienetwerk |  |
+| distribution of potential difference | verspreiding van potensiaalverskil |  |
+| distribution panel | distribusiepaneel |  |
+| distribution pillar | distribusiepilaar |  |
+| distribution point (DP) | distribusiepunt, DP |  |
+| distribution strip | distribusiestrook |  |
+| distribution {internal-combustion engine} | verdeling |  |
+| distribution-side tail | distribusiekantstert |  |
+| distribution | distribusie |  |
+| distribution | uitreiking |  |
+| distributive processing {data network} | verspreide verwerking |  |
+| distributor memory | distributorgeheue, verspreidergeheue |  |
+| distributor rotor {internal-combustion engine} | verdelerrotor |  |
+| distributor selector {automatic telephone} | distributorkieser |  |
+| distributor stage | distributortrap |  |
+| distributor stepping key | distributorstapsleutel |  |
+| distributor {internal-combustion engine} | verdeler |  |
+| distributor | distribueerder, distributor |  |
+| disturb voltage | steurspanning |  |
+| disturbance (interference) {also electricity} | steuring |  |
+| disturbed circuit | versteurde kring |  |
+| disturbed state {logic} | versteurde staat |  |
+| disturbing circuit | steurkring |  |
+| disturbing current (interference current) | steurstroom |  |
+| disturbing line | steurlyn |  |
+| disturbing signal | steursein |  |
+| ditch (groove) {waveguide} | groef |  |
+| diurnal variation | dagvariasie |  |
+| divergence coefficient | divergensiekoeffisient |  |
+| diversion fee {telephone} | omleidingsgeld |  |
+| diversion schedule (diversion sheet) {cables and lines} | herindelingstaat |  |
+| diversion {cables} | herindeling |  |
+| diversion {general} | afleiding |  |
+| diversion {traffic} | herroetering |  |
+| diversity array {radio} | gespreide net, keurnet |  |
+| diversity factor | keurfaktor |  |
+| diversity receiver {radio} | keurontvanger |  |
+| diversity reception {radio} | gespreide ontvangs, keurontvangs |  |
+| diversity system {radio} | gespreide stelsel |  |
+| diversity technique | keurtegniek, spreidingstegniek |  |
+| diversity | diversiteit, keur- |  |
+| divert cost {eg cable, traffic} | omleikoste |  |
+| divert n. {cable} | omleiding |  |
+| divert schedule {cable} | herindelingskedule |  |
+| divert v. {cable, call, etc} | omlei |  |
+| divert v. {traffic} | herroeteer |  |
+| diverted call | omgeleide oproep |  |
+| diverted telegram | omgeleide telegram |  |
+| diverting chute | omleigeut |  |
+| diverting device | omleitoestel |  |
+| diverting terminal | omleiterminaal |  |
+| divide-by-five counter (scale-of-five counter) | vyftalteller |  |
+| divide-by-two button | halveerknoppie |  |
+| divide-by-two counter (scale-of-two counter) | tweetalteller |  |
+| divide | verdeel |  |
+| divided battery float system | verdeelde vlottendebattery-stelsel |  |
+| divided die | tweedelige draadsnyblok |  |
+| divided multiple | verdeelde multipel |  |
+| dividend {logics} | deeltal |  |
+| divider (divider sheet, dividing sheet) {stamp guard book} | skeiblad |  |
+| divider card | verdelerkaart |  |
+| divider ratio (division ratio) | deelverhouding |  |
+| divider {also logics} | deler |  |
+| divider {battery} | skeier |  |
+| divider {general} | deler |  |
+| divider {general} | verdeler |  |
+| divider | verdeler |  |
+| dividers | verdeelpasser |  |
+| dividing head | verdeelkop |  |
+| dividing page {eg in book} | skeiblad |  |
+| dividing plate | skeiplaat |  |
+| division alarm lamp {eg exchange} | afdelingsalarmlamp |  |
+| division of lines | lynverdeling |  |
+| division of work | werkverdeling |  |
+| division {administration} | afdeling |  |
+| division | afdeling |  |
+| divisional authority <see regional authority> | streekmagtiging |  |
+| divisional council | afdelingsraad |  |
+| divisional head | afdelingshoof |  |
+| divisor | deler |  |
+| divulgence of information | openbaarmaking van inligting |  |
+| dock dues | dokgeld |  |
+| docket authority | magtigingsvorm |  |
+| docket {postal order} | strokie |  |
+| docket | vorm |  |
+| doctor's certificate (medical certificate) | doktersertifikaat, mediese sertifikaat |  |
+| doctrine | leerstelling |  |
+| document basket | dokumentmandjie |  |
+| document | dokument, stuk |  |
+| documentary evidence | dokumentere bewys, skriftelike bewys |  |
+| dog {automatic telephone} | stuiter |  |
+| dog {mechanical} | grypklou |  |
+| dog {tools} | klink, pal |  |
+| doing words | doenwoorde |  |
+| dolerite | doleriet |  |
+| dolomite | dolomiet |  |
+| domain {in bubble memory} | domein |  |
+| dome contact | koepelkontak |  |
+| dome | koepel |  |
+| domed electrode | koepelelektrode |  |
+| domestic field {data processing} | tuisveld |  |
+| domestic paraffin | lampolie |  |
+| domestic rate (inland rate, internal rate) | binnelandse tarief |  |
+| domestic receiver | huishoudelike ontvanger |  |
+| domestic regulation | binnelandse regulasie |  |
+| domestic services | huishoudelike diens, interne diens |  |
+| dominant element | oorheersende element |  |
+| dominant mode (fundamental mode) {waves} | grondmodus |  |
+| doming tools | koepelgereedskap |  |
+| doming | koepelwerk, koepelvorming |  |
+| don't care state {logic} | neutrale staat |  |
+| don't care value {truth table} | neutrale waarde |  |
+| donate {eg electrons} | doneer, skenk |  |
+| donation tax | geskenkbelasting |  |
+| donor atom | donoratoom |  |
+| donor impurity {semiconductor} | donoronsuiwerheid |  |
+| donor {physics} | donor |  |
+| donor | skenker |  |
+| donor | skenker |  |
+| door closer | deursluiter |  |
+| door viewer | loergat |  |
+| doorkeeper | deurwag |  |
+| doorknob spindle | deurknopspil |  |
+| doorknob transformer {waveguide} | deurknopomvormer |  |
+| doorknob valve | deurknopbuis |  |
+| doorknob | deurknop |  |
+| doorstop | deurstop |  |
+| dopant | doteermiddel |  |
+| dope v. {cable} | balanseer |  |
+| dope v. {semiconductor} | dokter |  |
+| doping {semiconductor} | doktering, dotering |  |
+| dormant account | dooie rekening |  |
+| dose rate | dosistempo |  |
+| dose v. {also water treatment} | doseer |  |
+| dot frequency {television} | puntfrekwensie |  |
+| dot interlace | puntinterliniering |  |
+| dot magnet | puntmagneet |  |
+| dot relay | puntrele |  |
+| dot {also morse} | punt |  |
+| dots and dashes {also morse code} | punte en strepe |  |
+| dotted arrow | stippelpyl |  |
+| dotted line | stippellyn |  |
+| double V antenna | dubbel-V-antenne |  |
+| double arm | dubbelarm |  |
+| double bracket {line construction} | dubbelsteun |  |
+| double connection | dubbele konneksie |  |
+| double conversion {independent-sideband receivers} | dubbelomsetting |  |
+| double counter | dubbelteller |  |
+| double current (polar current) | dubbelstroom, polêre stroom |  |
+| double detent (double dog) | dubbelstuiter |  |
+| double diode | dubbeldiode |  |
+| double entry | dubbelinskrywing |  |
+| double fee {public telephone} | dubbeltarief |  |
+| double guard | dubbelbewaking |  |
+| double hyphen | dubbelstreep, dubbelkoppelteken |  |
+| double image {television} | spookbeeld |  |
+| double jack | dubbelklink |  |
+| double modulation | dubbele modulasie |  |
+| double phantom circuit | dubbelfantoomkring |  |
+| double plug | dubbelprop |  |
+| double pull-off {at coding desk of LSM} | dubbelgryping |  |
+| double ridge waveguide | dubbelrifgolfleier |  |
+| double screen | dubbelskerm |  |
+| double spacing | dubbelspasiëring |  |
+| double stitch | dubbelsteek |  |
+| double termination | dubbele afhegting |  |
+| double triode | dubbeltriode |  |
+| double trip (double tripping) {teleprinter} | dubbele lossing |  |
+| double tubular arm | dubbelpyparm |  |
+| double winding | dubbele wikkeling |  |
+| double-acting pump | dubbelslagpomp |  |
+| double-action alignment | dubbelaksierigting |  |
+| double-action press | dubbelslagpers |  |
+| double-angle cutter | dubbelhoekfrees |  |
+| double-armature relay | dubbelankerrelê |  |
+| double-balanced modulator | dubbelgebalanseerde modulator |  |
+| double-beam cathode-ray tube | dubbelbundelkatodestraalbuis |  |
+| double-beam tube | dubbelbundelbuis |  |
+| double-break jack | dubbelverbreekklink |  |
+| double-coil relay | dubbelspoelrelê |  |
+| double-cord switchboard | dubbelsnoerskakelbord |  |
+| double-current impulsing | dubbelstroomimpulsering |  |
+| double-current key | dubbelstroomsleutel |  |
+| double-current signalling | dubbelstroomseining |  |
+| double-current system | dubbelstroomstelsel |  |
+| double-current working | dubbelstroomwerking |  |
+| double-cut file | kruiskapvyl |  |
+| double-deflection diffuser | dubbeldefleksiespreier |  |
+| double-delta connection | dubbeldeltakonneksie |  |
+| double-density disk | dubbeldigtheidskyf |  |
+| double-diode pentode | dubbeldiodepentode |  |
+| double-end floor stand | dubbelentvloerstander |  |
+| double-ended cord | dubbelentsnoer |  |
+| double-ended joint | dubbelentlas |  |
+| double-ended spanner | dubbelentsleutel |  |
+| double-ended wiper | dubbelentkontakarm |  |
+| double-entry bookkeeping | dubbelboekhouding |  |
+| double-eyed cable grip | dubbelooggrypkous |  |
+| double-faced bundle {mail sorting} | alkantbondel |  |
+| double-fee call | dubbeltariefoproep |  |
+| double-flux commutation | dubbelvloedkommutasie |  |
+| double-glazed window (sandwich-type window) | dubbelglasvenster |  |
+| double-grid valve | dubbelroosterbuis |  |
+| double-groove bobbin | dubbelgroefbobyn |  |
+| double-gun cathode-ray tube | dubbelkanonkatodestraalbuis |  |
+| double-hatched portion (double-shaded portion) | dubbelgearseerde gedeelte |  |
+| double-haunch mortice and tenon joint | dubbelborstapvoeg |  |
+| double-helical gear | dubbelheliese rat |  |
+| double-humped maximum {curve} | dubbelboggelmaksimum |  |
+| double-humping | dubbelboggeling |  |
+| double-layer screen | dubbellaagskerm |  |
+| double-leaf security door | dubbelvleuel-sekuriteitsdeur |  |
+| double-mass paper | dubbelmassapapier |  |
+| double-petticoat insulator (double-shed insulator) | dubbelmantelisolator |  |
+| double-ply paper | dubbellaagpapier |  |
+| double-pole change-over switch | tweepolige oorskakelaar |  |
+| double-pole double-throw switch (DPDT switch) | DPTW-skakelaar, dubbelpooltweewegskakelaar |  |
+| double-pole single-throw switch (DPST switch) | DPES-skakelaar, dubbelpooleenslagskakelaar |  |
+| double-pole switch | tweepoolskakelaar |  |
+| double-punch v. {computer} | dubbelpons |  |
+| double-punched card | dubbelgeponste kaart |  |
+| double-purchase winch {pulley system} | dubbeltakelwenas |  |
+| double-recessed wheel (recessed-both-sides wheel) {grinding wheel} | alkantholwiel |  |
+| double-return bend | dubbelterugbuiging |  |
+| double-reversing mirror | dubbelomkeerspieel |  |
+| double-sheet detector | dubbelveldetektor |  |
+| double-sideband transmitter | dubbelsybandsender |  |
+| double-sided bay | dubbelkantraam |  |
+| double-sided photoprinter | weerskantfotodrukker |  |
+| double-sided tape | alkantband |  |
+| double-start thread (double thread) | dubbeldraad |  |
+| double-storey house | dubbelverdiepinghuis, tweeverdiepinghuis |  |
+| double-stub matching {transmission} | dubbelstompaanpassing |  |
+| double-terminate | dubbel afheg |  |
+| double-throw switch (two-way switch) | tweewegskakelaar |  |
+| double-wall sandwich construction | dubbelwandkonstruksie met tussenlaag, tussengelaagde |  |
+| double-wash dip | dubbelwas-dompeling |  |
+| double-wire circuit | dubbeldraadverbinding |  |
+| doubler {frequency} | verdubbelaar |  |
+| doubles {telegraphy} | meervoudige woorde |  |
+| doublet antenna | dipoolantenne |  |
+| dough-moulding {fibre glass} | deegvorming |  |
+| doughnut pattern | ringbuispatroon |  |
+| dove-grey | duifgrys |  |
+| dovetail end mill | swaelstertfrees |  |
+| dowel pin | tappen |  |
+| down counter | terugteller |  |
+| down lead {antenna} | invoerleiding |  |
+| down pipe | geutpyp |  |
+| down quad {cable} | af-vierling |  |
+| down station | af-stasie |  |
+| down stay (stay) | anker, grondanker |  |
+| down-blow unit (down-draught unit) | valstroomeenheid |  |
+| down-counting {logic} | terugtelling |  |
+| down-scaling | afskaling |  |
+| down-side | af-kant |  |
+| down-time | manktyd |  |
+| down-translator | af-omsetter |  |
+| downdraft manifold | valstroomspruitstuk |  |
+| downgrade n. | afgradering |  |
+| downgrade v. | afgradeer |  |
+| downscale | afskaal |  |
+| downsizing (attrition) {personnel} | vermindering |  |
+| downsizing {project} | afskaling |  |
+| downsizing | personeelvermindering |  |
+| downstream notification | stroomaf kennisgewing, afwaartskennisgewing |  |
+| downstream side {of fan} | afvoerkant |  |
+| downtime {machines} | staantyd, manktyd |  |
+| downward component of force | afwaartse kragkomponent |  |
+| downward force | afwaartse krag |  |
+| downward movement | afwaartse beweging |  |
+| downward stroke | daalslag |  |
+| dozer blade | skraperlem |  |
+| draft minute | konsepdiensbrief |  |
+| draft n. | konsep |  |
+| draft n. | wissel |  |
+| draft program {computer} | konsepprogram |  |
+| draft proposal | konsepvoorstel |  |
+| draft reply | konsepantwoord |  |
+| draft report | konsepverslag |  |
+| draft v. {pattern} | ontwerp |  |
+| draft v. | opstel |  |
+| drag {oil} | traagheid |  |
+| drain cock | aftapkraan, dreineerkraan |  |
+| drain cock | dreineerkraan |  |
+| drain connection | dreineerverbinding |  |
+| drain current {transistor} | dreineerstroom |  |
+| drain n. (sewer) | riool |  |
+| drain n. {transistor} | dreineerder |  |
+| drain n. | dreineerder |  |
+| drain pan | dreineerpan |  |
+| drain plug | aftapprop, dreineerprop |  |
+| drain potential {transistor} | dreineerpotensiaal |  |
+| drain region {transitor} | dreineergebied |  |
+| drain resistor {transistor} | dreineerresistor |  |
+| drainage bond {eg pipeline under track, electricity} | dreineerdeurverbinding |  |
+| drainage channel | afvoerkanaal, dreineerkanaal |  |
+| drainage coil | dreineerspoel |  |
+| drainage element | dreineerelement |  |
+| drainage protector | dreineerafleier |  |
+| drainage work | rioolwerk |  |
+| draught screen (draught shield) | trekskerm |  |
+| draughtsman | tekenaar |  |
+| draw box | deurtrekkas |  |
+| draw in (haul in) {cable} | intrek |  |
+| draw n. {pulley} | binneskuinste |  |
+| draw pad | vormkussing |  |
+| draw punch | vormpons |  |
+| draw radius | vormronding |  |
+| draw tape {wiring} | deurtrekband |  |
+| draw up | opstel |  |
+| draw v. {with drawing die} | vorm |  |
+| draw v. | trek |  |
+| draw-through coil | deursuigkronkel |  |
+| draw-wire (fish tape, fish wire) | deurtrekdraad |  |
+| drawbar | trekstang |  |
+| drawee {order} | akseptant |  |
+| drawer {eg cheque} | trekker |  |
+| drawer | laai |  |
+| drawing account | tjekrekening |  |
+| drawing die | vormblok |  |
+| drawing edge | trekrand |  |
+| drawing instrument | tekeninstrument |  |
+| drawing office | tekenkantoor |  |
+| drawing powers | trekbevoegdheid |  |
+| drawing | tekening |  |
+| drawn wire | getrokke draad |  |
+| drawn-steel safety guard | getrokkestaal-beskermskut |  |
+| drawpiece | vormstuk |  |
+| drawtongs | trektang |  |
+| drawvice with ratchet | draadtrekker met sperrat |  |
+| drawvice | draadspanner, draadtrekker, spanskroef |  |
+| dress down {cable sleeve} | pasklop |  |
+| dress v. {artificial fly} | tooi |  |
+| dress v. {bait} | vasbind |  |
+| dress v. {cable} | klop |  |
+| dress v. {setting font} | kies |  |
+| dressed-in end {cable} | ingeklopte ent |  |
+| dresser {grinding wheel} | bywerker, opknapper |  |
+| dresser | klophamer, klopper |  |
+| dressing {artificial fly} | tooisel |  |
+| dressing {grinding wheel} | bywerking, opknapping |  |
+| dressing | wonddekking |  |
+| drier | droer |  |
+| drift mobility {semiconductor} | drifmobiliteit |  |
+| drift n. {frequency} | drif |  |
+| drift n. {semiconductor} | drif |  |
+| drift n. | drewel, dryfyster |  |
+| drift punch | dryfpons |  |
+| drift space {electron tube} | dryfruimte |  |
+| drift tube | dryfbuis |  |
+| drift v. {frequency} | dryf |  |
+| drift-type broach | dryfprofielruimer |  |
+| drill bit | boorpunt |  |
+| drill bush plate | boorleibusplaat |  |
+| drill bush | boorleibus |  |
+| drill hole | boorgat |  |
+| drill press (pedestal drilling machine) | staanboor, voetstukboor |  |
+| drill press {stand} | boorpers |  |
+| drill steel | boorstaal |  |
+| drill uniform | dril-uniform |  |
+| drill {with chain saw} | boor |  |
+| drill-and-facing bit | boor-en-vlak-punt |  |
+| drill-press vice | staanboorskroef |  |
+| drilling chuck | boorkloukop |  |
+| drilling drawing | boorwerktekening |  |
+| drilling jig | boorsetmaat |  |
+| drilling table clamp | boorwerkbladklamp |  |
+| drilling vice | boorskroef |  |
+| drilling-type cutter | boorfrees |  |
+| drip-proof casing | drupdigte hulsel |  |
+| drive amplifier | aandryfversterker |  |
+| drive axle | aandrywingsas |  |
+| drive belt guard | aandryfbandskut |  |
+| drive chain | dryfketting |  |
+| drive cleat {sheet-metal work} | sluitstrook |  |
+| drive clutch (driving clutch) | dryfkoppelaar |  |
+| drive fit | dryfpassing |  |
+| drive gear wheel (driver gear, driver wheel, driving gear) | dryfrat |  |
+| drive mechanism | dryfmeganisme |  |
+| drive n. {eg mechanics} | aandrywer |  |
+| drive n. {eg of an engine} | aandrywing |  |
+| drive pedal | rypedaal |  |
+| drive pin | dryfpen |  |
+| drive program store | dryfprogramgeheue |  |
+| drive revolution | aandryfomwenteling |  |
+| drive shaft | dryfas |  |
+| drive slip {air-conditioning ductwork} | sluitstrook |  |
+| drive sprocket | dryfkettingrat |  |
+| drive system | dryfstelsel |  |
+| drive v. <preferred term wrt selector - switch> | skakel |  |
+| drive v. {vehicle} | bestuur |  |
+| drive v. | aandryf, dryf |  |
+| drive voltage | dryfspanning |  |
+| drive-cutting circuit | dryfafsnykring |  |
+| drive-magnet interrupter | dryfmagneetonderbreker |  |
+| driven gear (driven wheel) | gedrewe rat |  |
+| driven multivibrator | gedrewe multivibrator |  |
+| driven radiator {antenna} | gedrewe straler |  |
+| driven transmitter | gedrewe sender |  |
+| driven-rod earth | inslaanstaafaarde |  |
+| driver plate (driving plate) | dryfplaat |  |
+| driver stage | dryftrap |  |
+| driver valve | dryfbuis |  |
+| driver's licence <should be - driving licence> | bestuurslisensie |  |
+| driver/resistor interface | drywer/resistor-koppelvlak |  |
+| driver | aandrywer |  |
+| driver | drywer |  |
+| driving allowance | drywerstoelae |  |
+| driving belt | dryfband |  |
+| driving block | dryfblok |  |
+| driving box | dryfkas |  |
+| driving circuit | dryfkring |  |
+| driving coupling | dryfkoppeling |  |
+| driving drum | dryftrommel |  |
+| driving duty | dryfdiens, rydiens |  |
+| driving feed wheel | dryfvoerrat |  |
+| driving fit | dryfpassing |  |
+| driving head | dryfkop |  |
+| driving magnet | dryfmagneet |  |
+| driving motor | dryfmotor |  |
+| driving pawl | dryfpal |  |
+| driving pin | dryfpen |  |
+| driving potential | dryfpotensiaal |  |
+| driving pulley | dryfkatrol |  |
+| driving ratchet | dryfsperrat |  |
+| driving shaft | dryfas |  |
+| driving spindle {also sheet-metal work} | dryfspil |  |
+| driving spring | dryfveer |  |
+| driving torque | dryfwringkrag |  |
+| driving voltage | dryfspanning |  |
+| driving weight | dryfgewig |  |
+| driving-lever spindle | dryfhefboomspil |  |
+| driving-point admittance | dryfpuntadmittansie |  |
+| driving-point impedance | dryfpuntimpedansie |  |
+| driving-shaft spigot | dryfaspen |  |
+| droop test {epoxy paste} | uitsaktoets |  |
+| droop | uitsak |  |
+| drop back | terugval |  |
+| drop bolt | valgrendel |  |
+| drop copy {telegram} | kopie |  |
+| drop delivery (knock-and-drop) | strooiaflewering, klop-en-stop |  |
+| drop feed (gravity feed) | valtoevoer |  |
+| drop in the rope {crane} | lus in die tou |  |
+| drop indicator | valaanwyser |  |
+| drop leg (swing leg) {trailer} | valstander |  |
+| drop n. {contact-arm carriage} | sakking |  |
+| drop n. {data lines} | aftakking |  |
+| drop n. {eg IF power} | val |  |
+| drop n. | aftakking, aftakpunt |  |
+| drop off | aftak |  |
+| drop oiler | drupsmeerder |  |
+| drop test | valtoets |  |
+| drop v. | val |  |
+| drop wire (leading-in wire, lead-in wire) | inleidraad |  |
+| drop wire {at mains} | valdraad |  |
+| drop-bed trailer (dropped-bed trailer) | knikbedsleepwa |  |
+| drop-down menu {computer} | aftrek-kieslys |  |
+| drop-down {computer screen} | aftrekskerm |  |
+| drop-forged steel | valsmeestaal |  |
+| drop-off channel {carrier system} | aftakkanaal |  |
+| drop-off filter | aftakfilter |  |
+| drop-off {carrier system} | aftakking |  |
+| drop-off {punch-card machine} | uitskakeling |  |
+| drop-out {signal} | wegvalling |  |
+| drop-wire clamp | inleidraadklamp |  |
+| dropped axle | gesakte as |  |
+| dropper {eg for medication} | drupper |  |
+| dropping pad | aftaklid |  |
+| dropping repeater | aftakherhaler |  |
+| dropping resistor | verlagingsresistor |  |
+| drukkerdeksel {kasregister} | printer cover |  |
+| drum barrow | tolkruiwa |  |
+| drum controller | trommelreelaar |  |
+| drum dial (straight-pull dial) {PABX} | trekskakelskyf |  |
+| drum factor {facsimile} | trommelfaktor |  |
+| drum gear | trommelrat |  |
+| drum length | tollengte |  |
+| drum motor | trommelmotor |  |
+| drum n. {cable} | tol |  |
+| drum n. {eg brake} | trommel |  |
+| drum n. {oil etc} | drom |  |
+| drum party {cable construction} | tolspan |  |
+| drum scanner {television} | trommeltaster |  |
+| drum speed | trommelspoed |  |
+| drum spindle | tolspil |  |
+| drum v. {cable} | oprol |  |
+| drum-carrying party {line construction} | toldraspan |  |
+| dry baffle {spray booth} | droe skot |  |
+| dry battery (dry-cell battery) | droe battery |  |
+| dry cell | droe sel |  |
+| dry circuit {data transmission} | droe kring |  |
+| dry drilling | droe boorwerk |  |
+| dry joint | droe las |  |
+| dry loop (non-battery loop) | batterylose lus, droe lus |  |
+| dry-air cylinder | droelugsilinder |  |
+| dry-bulb temperature | droeboltemperatuur |  |
+| dry-cartridge air cleaner {dry-element air cleaner} | droe-elementlugfilter |  |
+| dry-chemical extinguisher (non-liquid extinguisher) {fire-fighting} | poeierblusser |  |
+| dry-coil operation | droekronkelwerking |  |
+| dry-core cable | droekernkabel |  |
+| dry-film photopolymer | droefilmfotopolimeer |  |
+| dry-reed type relay | droetongrele |  |
+| drying out {cable} | droging |  |
+| dual amplification | dubbele versterking |  |
+| dual frequency {MF test} | dubbel frekwensie |  |
+| dual testing | dubbeltoetsing |  |
+| dual-trace method | dubbelspoormetode |  |
+| dual | tweeledig |  |
+| dualising | dualisering |  |
+| dubbing {of film} | verwerking |  |
+| duckbill pliers | eendbektang |  |
+| duct height {radio waves} | ganghoogte |  |
+| duct mouth | kanaalmond |  |
+| duct width {radio} | gangbreedte |  |
+| duct width | kanaalbreedte |  |
+| duct {also wiring} | kanaal |  |
+| duct {eg radio waves} | gang |  |
+| duct {telcom wiring} | kanaal |  |
+| ductile | rekbaar |  |
+| ductility | rekbaarheid |  |
+| ducting {microwave propagation} | gangvolging |  |
+| ducting {wiring} | leibaan |  |
+| ducting | kanale |  |
+| ductwork system | kanaalstelsel |  |
+| due date | betaaldatum, vervaldag |  |
+| due-amount debit order | verskuldigdebedrag-debietorder |  |
+| dugout {cable jointing} | lasgat |  |
+| dugout {cable repairs} | uitgrawing |  |
+| dull red | dofrooi |  |
+| dull-emitter valve | dowwekatodebuis |  |
+| dull | dof |  |
+| dulled grains | afgeslyte korrels |  |
+| duly authorised | behoorlik gemagtig |  |
+| duly dispatched | behoorlik afgestuur, behoorlik versend |  |
+| dumb terminal (unintelligent terminal) {computer} | dom terminaal, onintelligente terminaal |  |
+| dumbell fading | murgbeendeining |  |
+| dummy button {Protea plan instrument} | blinde knoppie |  |
+| dummy copy | fopkopie |  |
+| dummy dial | blinde skakelskyf |  |
+| dummy electrode | blinde elektrode |  |
+| dummy fuse | blinde sekering |  |
+| dummy heat coil | blinde hittespoel |  |
+| dummy key {morse code} | oefensleutel |  |
+| dummy keybar | blinde toetsstaaf |  |
+| dummy load | kunslas |  |
+| dummy pillar {on plan telephone} | blinde pilaar |  |
+| dummy plate | blinde plaat |  |
+| dummy plug | blinde prop |  |
+| dummy position | blinde bedienpunt, blinde punt |  |
+| dummy record | tydelike rekord |  |
+| dummy section | blinde seksie |  |
+| dummy yoke {clothing} | fopskouerstuk |  |
+| dump box | oormaatbus |  |
+| dump n. {computer} | dataverlies |  |
+| dump n. {computer} | storting |  |
+| dump v. {computer} | stort |  |
+| dump v. {mail} | aflaai |  |
+| dump v. {of computer program} | staak |  |
+| dump v. {unserviceable goods} | weggooi |  |
+| dumping duty | dumpingreg |  |
+| dunnage | stumateriaal |  |
+| duplex apparatus | dupleksapparaat |  |
+| duplex assembly | duplekssamestel |  |
+| duplex balance | dupleksbalans |  |
+| duplex base {stationary engine} | dubbelbasis |  |
+| duplex bay | dupleksraam |  |
+| duplex line balance | duplekslynbalans |  |
+| duplex n. | dupleks |  |
+| duplex operation (duplex working) | duplekswerking |  |
+| duplex repeater | dupleksherhaler |  |
+| duplex serial binary data signal | binere seriedataseine op 'n dupleksgrondslag |  |
+| duplex skid base {of machines} | dubbelsleebasis |  |
+| duplex system | dupleksstelsel |  |
+| duplex telegraph circuit | duplekstelegraafverbinding |  |
+| duplex v. | duplekseer |  |
+| duplexer | duplekser |  |
+| duplicate battery system | dubbelbatterystelsel |  |
+| duplicate card | duplikaatkaart |  |
+| duplicate licence | duplikaatlisensie |  |
+| duplicate n. | duplikaat |  |
+| duplicate payment | dubbele uitbetaling |  |
+| duplicate ring-and-tone circuit | gedupliseerde lui-en-toonkring |  |
+| duplicate v. | dupliseer |  |
+| duplicate warrant | duplikaatbetaalorder |  |
+| duplicating ink {duplicating machine} | afrolink |  |
+| duplicating machine {does not use ink} | dupliseermasjien |  |
+| duplicating machine | afrolmasjien |  |
+| duplicating process | dupliseerproses |  |
+| duplication | duplisering |  |
+| duration of tenancy {eg building} | huurtermyn |  |
+| duration | tydsduur |  |
+| during office hours | gedurende kantoorure |  |
+| dust build-up | stofaanpaksel |  |
+| dust cap | stofdop |  |
+| dust core | poeierkern |  |
+| dust cover | stofskerm |  |
+| dust extraction | ontstoffing |  |
+| dust hole | stofgat |  |
+| dust sheet {in building trade} | stofseil |  |
+| dust-collecting system | stofvangstelsel |  |
+| dust-core coil | poeierkernspoel |  |
+| dust-core inductor | poeierkerninduktor |  |
+| dust-holding capacity | stofhouvermoe |  |
+| dustbin | vuilgoedblik, vullisblik |  |
+| dusting brush {vacuum cleaner} | afstofborsel |  |
+| dustproof | stofdig |  |
+| dutiable article | belasbare artikel |  |
+| duties | pligte |  |
+| duty board | diensroosterbord |  |
+| duty chart | diensrooster |  |
+| duty cycle | dienssiklus |  |
+| duty file | diensleer |  |
+| duty sheet | pligstaat |  |
+| duty-free parcel | doeanevry pakket |  |
+| duty-free | belastingvry |  |
+| duty-free | doeanevry |  |
+| duty | belasting, reg |  |
+| duty | diens |  |
+| duty | plig |  |
+| dwell angle | rushoek |  |
+| dwell-angle meter | rushoekmeter |  |
+| dwelling (residence) | woning |  |
+| dye-line process | kleurlynproses |  |
+| dye-transfer process | kleuroordraproses |  |
+| dyeline {colour alraeady added} | kleurdrukproef |  |
+| dyeline | diasoproef |  |
+| dynamic anode resistance | dinamiese anodeweerstand |  |
+| dynamic characteristic | dinamiese kenkromme |  |
+| dynamic curve | dinamiese kromme |  |
+| dynamic display range | dinamiese vertoonstrek |  |
+| dynamic impedance | dinamiese impedansie |  |
+| dynamic loudspeaker | dinamiese luidspreker |  |
+| dynamic microphone | dinamiese mikrofoon |  |
+| dynamic range | dinamiese strek |  |
+| dynamic resistance | dinamiese weerstand |  |
+| dynamic-pressure head | dinamiesedruk-hoogte |  |
+| dynamics | dinamika |  |
+| dynamite | dinamiet |  |
+| dynamo | dinamo |  |
+| dynamometer wattmeter | dinamometerwattmeter |  |
+| dynamometer | dinamometer |  |
+| dynamotor | dinamotor |  |
+| dynatron effect | dinatroneffek |  |
+| dynatron | dinatron |  |
+| dynode | dinode |  |
+| e-mail v. | e-pos |  |
+| ear canal | oorkanaal |  |
+| earcap | oorstukdop |  |
+| eardrum | oortrommel |  |
+| eardrum | trommelvlies |  |
+| early retirement | vroee aftrede |  |
+| early-break contact | voorverbreekkontak |  |
+| early-choice selector {automatic exchange} | vroeekeuse-kieser |  |
+| early-closing day | vroegsluitdag |  |
+| early-distortion margin | vroeevervorming-grens |  |
+| early-make contact | voorsluitkontak |  |
+| earmark {eg money} | opsy sit |  |
+| earnings curve | verdienstekromme |  |
+| earnings | verdienste |  |
+| earphone | oorfoon |  |
+| earpiece | oorstuk |  |
+| earth auger | grondawegaar |  |
+| earth button (earthing button) | aardingsknoppie, aardknoppie |  |
+| earth circuit | aardkring |  |
+| earth clearance {overhead line} | vry hoogte |  |
+| earth clip | aardklem |  |
+| earth common | gemeenskaplike aardverbinding |  |
+| earth conductivity | aardgeleivermoe |  |
+| earth conductor | aardgeleier |  |
+| earth connection | aardkonneksie, aardverbinding |  |
+| earth contact (earth fault) | aardfout, aardsluiting |  |
+| earth current | aardstroom |  |
+| earth electrode | aardelektrode |  |
+| earth grid | aardrooster |  |
+| earth impulse | aardimpuls |  |
+| earth lead | aardleiding |  |
+| earth n. {electricity} | aarde |  |
+| earth overlap test (overlap test) {submarine cables} | aardoorvleuelingstoets |  |
+| earth plate | aardplaat |  |
+| earth potential | aardpotensiaal |  |
+| earth pulse | aardpuls |  |
+| earth resistance | aardweerstand |  |
+| earth resistivity | aardresistiwiteit |  |
+| earth return (earth return circuit) | aardterugkring |  |
+| earth rod | aardstaaf |  |
+| earth run | aardleidingloop |  |
+| earth screen (earth shield) | aardskerm |  |
+| earth spike | aardpen |  |
+| earth strip | aardstrook |  |
+| earth tap | aardtap |  |
+| earth terminal | aardaansluiter |  |
+| earth tester | aardtoetser |  |
+| earth testing | aardtoetsing |  |
+| earth v. | aard |  |
+| earth wire | aarddraad |  |
+| earth-bonding | aarddeurverbinding |  |
+| earth-connected neutral | geaarde neutrale geleier, neutrale aardverbinding |  |
+| earth-connection screw | aardverbindskroef |  |
+| earth-dial circuit | aardskakelingkring |  |
+| earth-dial leg | aardskakelingdraad |  |
+| earth-dialling rele set | aardskakelingrelestel |  |
+| earth-dialling | aardskakeling |  |
+| earth/open-circuit signal | aard/oopkring-sein |  |
+| earthed battery | geaarde battery |  |
+| earthed capacitance (grounded capacitance) | geaarde kapasitansie |  |
+| earthed conducting shield | geaarde geleiskerm |  |
+| earthed-base circuit (grounded-base circuit) | geaardebasis-kring |  |
+| earthed-base connection (grounded-base connection) | geaardebasis-konneksie |  |
+| earthed-collector circuit (grounded-collector circuit) | geaardekollektor-kring |  |
+| earthed-emitter circuit | geaarde-emittorkring |  |
+| earthed-loop calling | geaardelus-roeping |  |
+| earthed-rele signalling | geaarderele-seining |  |
+| earthed | geaard |  |
+| earthenware duct | erdekanaal |  |
+| earthenware pipe | erdepyp |  |
+| earthing circuit | aardingskring |  |
+| earthing relay | aardingsrele |  |
+| earthing spring | aardveer |  |
+| earthing system (earth system, ground system) | aardstelsel |  |
+| earthing | aarding |  |
+| easy-access joint closure | maklikoopmaak-lasdop |  |
+| easy-aid guide | kitshulpgids |  |
+| ebonite buffer (ebonite stud) | ebonietbuffer |  |
+| ebonite insulator | ebonietisolator |  |
+| ebonite roller | ebonietroller |  |
+| ebonite strip | ebonietstrook |  |
+| ebonite stud | ebonietstif, ebonietstiffie |  |
+| ebonite | eboniet |  |
+| eccentric adj. | eksentries |  |
+| eccentric axle | eksentriese as |  |
+| eccentric bushing | eksentriese bus |  |
+| eccentric groove | eksentriese groef |  |
+| eccentric loading (offset loading) | eksentriese belasting |  |
+| eccentric n. | eksentriek |  |
+| eccentric throw | eksentriekslag |  |
+| eccentricity | eksentrisiteit |  |
+| echelon device | echelontoestel |  |
+| echelon telegraphy | echelontelegrafie |  |
+| echo attenuation | eggoverswakking |  |
+| echo box (echo cavity) | eggoholte |  |
+| echo damping | eggodemping |  |
+| echo interference | eggosteuring |  |
+| echo loss | eggoverlies |  |
+| echo matching | eggoaanpassing |  |
+| echo path | eggobaan |  |
+| echo room | eggokamer |  |
+| echo sounding | eggopeiling |  |
+| echo suppressor | eggo-onderdrukker |  |
+| echo wave | eggogolf |  |
+| echo-suppressor disabling tone | eggo-onderdrukkerspertoon |  |
+| echo-suppressor disabling {data communication} | eggo-onderdrukkersperring |  |
+| echo | eggo |  |
+| echoic room (reverberant room) | eggokamer |  |
+| economic comparison | ekonomiese vergelyking |  |
+| economic growth area {marketing} | ekonomiese groeigebied |  |
+| economic growth rate | ekonomiesegroei-gebied |  |
+| economies of scale {economy} | skaalbesparings, skaalvoordele |  |
+| economiser coil {air conditioner} | bespaarkronkel |  |
+| economiser {air conditioner} | bespaarder |  |
+| economy committee | besuinigingskomitee |  |
+| economy of plant | besparing van toerusting |  |
+| eddy current | werwelstroom |  |
+| eddy-current brake | werwelstroomrem |  |
+| eddy-current disc damping | werwelstroom-skyfdemping |  |
+| eddy-current flux | werwelstroomvloed |  |
+| edge connector | randverbinder |  |
+| edge flare {television} | randflits |  |
+| edge gate | randinlaat |  |
+| edge {pulse} | rand |  |
+| edge-fed | randgevoer |  |
+| edging | randbeslag |  |
+| editing of data {marketing} | redigering van data |  |
+| editing | redigering |  |
+| edition {book} | uitgawe |  |
+| editor {software} | redigeerder |  |
+| education and training provider | onderrig-en-opleidingverskaffer |  |
+| educational certificate | opvoedkundige sertifikaat |  |
+| educational facilities | onderwysfasiliteite |  |
+| educational institution | opvoedkundige inrigting |  |
+| educational qualification | opvoedkundige kwalifikasie |  |
+| educational | opvoedkundig |  |
+| effect n. | effek, uitwerking |  |
+| effect v. {eg payment} | doen, maak |  |
+| effective anode voltage | werklike anodespanning |  |
+| effective bandwidth | effektiewe bandbreedte |  |
+| effective bunching angle | effektiewe bondelhoek |  |
+| effective call | geslaagde oproep |  |
+| effective capacitance | effektiewe kapasitansie |  |
+| effective cross section {transformer} | effektiewe dwarsdeursnee |  |
+| effective cut-off frequency | effektiewe afsnyfrekwensie |  |
+| effective date | ingangsdatum |  |
+| effective gap capacitance | effektiewe spleetkapasitansie |  |
+| effective height {antenna} | effektiewe hoogte, nuttige hoogte |  |
+| effective margin | werklike vervormingsgrens |  |
+| effective radiated power | werklike uitgestraalde drywing |  |
+| effective resistance | werklike weerstand |  |
+| effective time {human resources} | effektiewe tyd |  |
+| effective traffic {telephony} | geslaagde verkeer |  |
+| effective transmission {telegram} | effektiewe oorsending |  |
+| effective transmission | effektiewe transmissie |  |
+| effective value | effektiewe waarde |  |
+| effective | doelmatig, effektief |  |
+| effective | effektief |  |
+| effective | effektief, doeltreffend |  |
+| effectively earthed | doeltreffend geaard |  |
+| effectiveness | doeltreffendheid, effektiwiteit |  |
+| efficiency {of a machine, expressed in percentage} | rendement |  |
+| efficiency {people} | bekwaamheid |  |
+| efficiency | bekwaamheid |  |
+| efficiency | doeltreffendheid |  |
+| efficient {people} | bekwaam |  |
+| efficient {person} | bekwaam |  |
+| efficient {person} | bekwaam, doeltreffend |  |
+| efficient | doeltreffend |  |
+| efficient | doeltreffend |  |
+| effort distance {eg of lever} | magafstand |  |
+| effort {mechanics} | mag |  |
+| effort {pulley} | hyskrag |  |
+| effort | inspanning |  |
+| eight-wire arm | agtdraadarm |  |
+| eight/twelve-wire arm | agt/twaalf-draad-arm |  |
+| either way | enige rigting |  |
+| eject | uitskiet, uitstoot, uitwerp |  |
+| ejector stroke | uitstootslag |  |
+| ejector unit | uitstooteenheid |  |
+| ejector | uitstoter |  |
+| elapsed time | verloopte tyd |  |
+| elastic adhesive plaster | elastiese kleefpleister |  |
+| elastic band | rekband |  |
+| elastic buffer | elastiese buffer |  |
+| elastic webbing {clothing} | rekwebband |  |
+| elasticity {general} | rekbaarheid |  |
+| elasticity {physics} | elastisiteit |  |
+| elect {option} | kies |  |
+| electoral officer | kiesbeampte |  |
+| electric arc | elektriese boog |  |
+| electric brake | elektriese rem |  |
+| electric charge | elektriese lading |  |
+| electric deflection | elektriese defleksie |  |
+| electric density | elektriese digtheid |  |
+| electric detonator | elektriese springdoppie |  |
+| electric drainage | elektriese dreinering |  |
+| electric eye (photocell, photoelectric cell) | fotoelektriese sel, fotosel |  |
+| electric field | elektriese veld |  |
+| electric force | elektriese fors |  |
+| electric furnace (electric oven) | elektriese oond |  |
+| electric ignition | elektriese ontsteking |  |
+| electric induction | elektriese induksie |  |
+| electric lighting | elektriese verligting |  |
+| electric line | elektriese lyn |  |
+| electric main (main) | elektrisiteitshoofleiding |  |
+| electric potential | elektriese potensiaal |  |
+| electric power | elektriese krag |  |
+| electric protection {electrolysis of cables} | elektriese beskerming |  |
+| electric screen | elektriese skerm |  |
+| electric sensitivity | elektriese sensitiwiteit |  |
+| electric shock | elektriese skok |  |
+| electric space constant | elektriese ruimtekonstante |  |
+| electric switch | elektriese skakelaar |  |
+| electric traction network | elektriese trekkragnetwerk |  |
+| electric urn | elektriese kookwaterkan |  |
+| electric-circuit switch {telephone} | elektriesekring-slot, elektriese slot |  |
+| electric-detonator exploder | elektriesespringdoppie-plowwer |  |
+| electric-trolley wire | elektriesetrollie-draad |  |
+| electrical characteristic | elektriese eienskap |  |
+| electrical continuity | elektriese kontinu<teit |  |
+| electrical distribution system | elektrisiteitsdistribusiestelsel |  |
+| electrical disturbance | elektriese steuring |  |
+| electrical engineer | elektrotegniese ingenieur |  |
+| electrical engineering | elektrotegniese ingenieurswese |  |
+| electrical functional assessment | beoordeling van elektriese werking |  |
+| electrical impulse regenerator {signals} | elektriese impulsterugvormer |  |
+| electrical performance requirement | elektrieseprestasie-vereiste |  |
+| electrical putty (insulating putty) | isoleerstopverf |  |
+| electrical resistance | elektriese weerstand |  |
+| electrical scanning | elektriese aftasting |  |
+| electrical technology (electrotechnology) | elektrotegnologie |  |
+| electrically continuous | elektries kontinu |  |
+| electrically driven mechanism | elektries gedrewe meganisme, elektriese meganisme |  |
+| electrician | elektrisien |  |
+| electricity supplier | elektrisiteitsvoorsiener |  |
+| electricity supply {from power station} | elektrisiteitsvoorsiening |  |
+| electricity supply {to machine} | elektrisiteitstoevoer |  |
+| electricity | elektrisiteit |  |
+| electrification | elektrifikasie, elektrifisering |  |
+| electrified railway track | geelektrifiseerde spoorbaan |  |
+| electrify | elektrifiseer |  |
+| electroacoustic | elektroakoesties |  |
+| electrocardiograph | elektrokardiograaf |  |
+| electrochemical corrosion | elektrochemiese korrosie |  |
+| electrochemical equivalent | elektrochemiese ekwivalent |  |
+| electrocute v. | doodskok |  |
+| electrode admittance | elektrodeadmittansie |  |
+| electrode alternating current resistance (slope resistance, electrode differential resistance) | inwendige |  |
+| electrode capacitance | elektrodekapasitansie |  |
+| electrode current | elektrodestroom |  |
+| electrode dissipation | elektrodedissipasie |  |
+| electrode impedance | elektrode-impedansie |  |
+| electrode reactance | elektrodereaktansie |  |
+| electrode selector {AVO meter} | elektrodeselektor |  |
+| electrode voltage | elektrodespanning |  |
+| electrode | elektrode |  |
+| electrodynamic loudspeaker | elektrodinamiese luidspreker |  |
+| electrodynamic potential | elektrodinamiese potensiaal |  |
+| electroerosion | elektroerosie |  |
+| electrographic | elektrografies |  |
+| electrokinetic energy | elektrokinetiese energie |  |
+| electroluminescence | elektroluminessensie |  |
+| electrolysis | elektrolise |  |
+| electrolyte | elektroliet |  |
+| electrolytic action | elektrolitiese werking |  |
+| electrolytic capacitor | elektrolitiese kapasitor |  |
+| electrolytic damage | elektrolitiese skade |  |
+| electrolytic selenium cell | elektrolitiese seleensel |  |
+| electrolytic tough-pitch copper (ETP copper) | elektrolitiese suurstofhoudende koper, ESH-koper |  |
+| electromagnet armature | elektromagneetanker |  |
+| electromagnet link | elektromagneetskakel |  |
+| electromagnet | elektromagneet |  |
+| electromagnetic coupling | elektromagnetiese koppeling |  |
+| electromagnetic deflection | elektromagnetiese defleksie |  |
+| electromagnetic field | elektromagnetiese veld |  |
+| electromagnetic focusing | elektromagnetiese fokussering |  |
+| electromagnetic force | elektromagnetiese krag |  |
+| electromagnetic induction | elektromagnetiese induksie |  |
+| electromagnetic potential | elektromagnetiese potensiaal |  |
+| electromagnetic radiation | elektromagnetiese straling |  |
+| electromagnetic receiver | elektromagnetiese gehoorstuk |  |
+| electromagnetic relay | elektromagnetiese relè |  |
+| electromagnetic screen | elektromagnetiese skerm |  |
+| electromagnetic wave | elektromagnetiese golf |  |
+| electromagnetically induced | elektromagneties ge<nduseer |  |
+| electromagnetism | elektromagnetisme |  |
+| electromechanical drive | elektromeganiese aandrywing |  |
+| electromechanical register | elektromeganiese register |  |
+| electrometallurgical process | elektrometallurgiese proses |  |
+| electromotive force (emf) | elektromotoriese krag, emk |  |
+| electromotor | elektromotor |  |
+| electron beam tube | elektronbundelbuis |  |
+| electron beam voltage | elektronbundelspanning |  |
+| electron beam | elektronbundel |  |
+| electron bombardment | elektronbombardement |  |
+| electron coupling | elektronkoppeling |  |
+| electron current | elektronstroom |  |
+| electron emission | elektronemissie, elektronuitstraling |  |
+| electron flow | elektronvloei |  |
+| electron gun | elektronkanon |  |
+| electron image {television} | elektronbeeld |  |
+| electron lens | elektronlens |  |
+| electron microscope | elektronmikroskoop |  |
+| electron multiplier (secondary emission valve) | elektronvermenigvuldiger |  |
+| electron orbit (electron trajectory) | elektronbaan |  |
+| electron shift | elektronverskuiwing |  |
+| electron stream | elektronstroom |  |
+| electron theory | elektronleer |  |
+| electron tube | elektronbuis |  |
+| electron valve | elektronbuis |  |
+| electron wave tube | elektrongolfbuis |  |
+| electron-coupled oscillator | elektrongekoppelde ossillator |  |
+| electron/hole pair | elektron/holte-paar |  |
+| electron | elektron |  |
+| electronic calculator | elektroniese rekenmasjien |  |
+| electronic control | elektroniese beheer |  |
+| electronic counter | elektroniese teller |  |
+| electronic efficiency | elektroniese doeltreffendheid |  |
+| electronic engineer | elektroniese ingenieur |  |
+| electronic heating | elektroniese verhitting |  |
+| electronic monitor | elektroniese monitor |  |
+| electronic send distributor | elektroniese sendverdeler |  |
+| electronic switching | elektroniese skakeling |  |
+| electronic telephone exchange (ETE) | elektroniese telefoonsentrale, ETS |  |
+| electronic test unit (ETU) | elektroniese toetseenheid, ETE |  |
+| electronic timer | elektroniese tydmeter |  |
+| electronic tuning | elektroniese instemming |  |
+| electronic-tuning range | elektroniese-instemmingstrek |  |
+| electronic-tuning sensitivity | elektroniese-instemmingsensitiwiteit |  |
+| electronically locked | elektronies gesluit |  |
+| electronician | elektronikus |  |
+| electronics engineer | elektroniese ingenieur |  |
+| electronics | elektroniek |  |
+| electroplate | elektroplateer |  |
+| electroplating | elektroplatering |  |
+| electropneumatic capstan lathe | elektropneumatiese toringdraaibank |  |
+| electroscope | elektroskoop |  |
+| electrostatic air-cleaner | elektrostatiese lugreiniger, elektrostatiese lugsuiweraar |  |
+| electrostatic capacitance | elektrostatiese kapasitansie |  |
+| electrostatic charge | elektrostatiese lading |  |
+| electrostatic coupling | elektrostatiese koppeling |  |
+| electrostatic deflection | elektrostatiese defleksie |  |
+| electrostatic focusing | elektrostatiese fokussering |  |
+| electrostatic induction | elektrostatiese induksie |  |
+| electrostatic potential | elektrostatiese potensiaal |  |
+| electrostatic precipitation | elektrostatiese presipitering |  |
+| electrostatic screen | elektrostatiese skerm |  |
+| electrostatic voltmeter | elektrostatiese voltmeter |  |
+| electrostatically induced | elektrostaties ge<nduseer |  |
+| electrostatics | elektrostatiese verskynsels |  |
+| electrostatics | elektrostatika |  |
+| electrotechnician | elektrotegnikus |  |
+| electrotechnics | elektrotegniek |  |
+| electrothermal relay | elektrotermiese rele |  |
+| element | element |  |
+| element | element |  |
+| elevated Adcock direction finder {H type Adcock direction finder} | H-tipe Adcock rigtingsoeker |  |
+| elevated duct {radio} | lugkanaal |  |
+| elevating screw {eg milling machine} | hoogtestelskroef |  |
+| elevation cylinder (lift cylinder) | ligsilinder |  |
+| elevation {drawing} | aansig |  |
+| elevation-position indicator {eg antenna} | elevasieaanwyser |  |
+| elevation | elevasie, hoogtehoek |  |
+| elevation | hoogte |  |
+| eleventh rotary step | elfde draaistap |  |
+| eleventh step | elfde stap |  |
+| eleventh-step spring | elfdestap-veer |  |
+| eligible candidate {eg for a vacancy} | kandidaat wat in aanmerking kom |  |
+| elimination | uitskakeling |  |
+| eliminator {battery} | vervanger |  |
+| eliminator | elimineerder |  |
+| ellipse | ellips |  |
+| ellipsograph (elliptic compasses, elliptic trammels, trammels) | ellipsograaf, ellipspasser |  |
+| ellipsoid | ellipso<ed |  |
+| elliptical pattern | elliptiese patroon |  |
+| elliptical waveguide | elliptiese golfleier |  |
+| elliptically polarised wave | ellipties gepolariseerde golf |  |
+| elongated cable joint | verlengde kabellas |  |
+| elongated lead sleeve | verlengde loodhuls |  |
+| elongated section | verlengde vak |  |
+| elongation {tensile-strength test} | rekverhouding |  |
+| elongation | rekking |  |
+| elongation | verlenging |  |
+| embankment | wal |  |
+| embarkation charge | inskepingskoste |  |
+| embedded value {financial results} | intrinsieke waarde |  |
+| embezzle | verduister |  |
+| emboss | bosseleer |  |
+| embossed impression | reliefafdruk |  |
+| embossed registered letter envelope | registrasiereliëfkoevert |  |
+| embossed stamp | reliëfseël |  |
+| embossing machine | bosseleermasjien |  |
+| emerge {wave from waveguide} | uitkom |  |
+| emergency action circuit | noodaksiekring |  |
+| emergency battery | noodbattery |  |
+| emergency cable (interruption cable) | noodkabel |  |
+| emergency call | noodoproep |  |
+| emergency channel | noodkanaal |  |
+| emergency exit | nooduitgang |  |
+| emergency generator | noodgenerator |  |
+| emergency jack | noodklink |  |
+| emergency lighting | noodverligting |  |
+| emergency line (standby line) | bystaanlyn, gereedheidslyn, noodlyn |  |
+| emergency plant | noodinstallasie |  |
+| emergency power equipment | noodkragtoerusting |  |
+| emergency power | noodkrag |  |
+| emergency route | noodroete |  |
+| emergency service | nooddiens |  |
+| emergency transmitter | noodsender |  |
+| emergency use (standby use) | noodgebruik |  |
+| emergency wheel | noodwiel |  |
+| emergency | nood- |  |
+| emerging market | opkomende mark, ontluikende mark |  |
+| emerging signal {waveguide} | uitkomende sein |  |
+| emerging wave {waveguide} | uitkomende golf |  |
+| emery cloth | amarildoek |  |
+| emery paper | amarilpapier |  |
+| emery polishing paper | amarilpoleerpapier |  |
+| emery stone | amarilsteen |  |
+| emery wheel | amarilskyf |  |
+| emission cell | emissiesel |  |
+| emission characteristic curve | emissiekenkromme |  |
+| emission current | emissiestroom |  |
+| emission | emissie, uitstraling |  |
+| emitter bias resistor | emittorvoorspanresistor |  |
+| emitter circuit | emittorkring |  |
+| emitter current | emittorstroom |  |
+| emitter follower | emittorvolger |  |
+| emitter peaking network | emittormaksimeernetwerk |  |
+| emitter-follower circuit | emittorvolgerkring |  |
+| emitter/base bias | emittor/basis-voorspanning |  |
+| emitter/base junction | emittor/basis-voegvlak |  |
+| emitter/base resistance | emittor/basis-weerstand |  |
+| emitter/collector junction | emittor/kollektor-voegvlak |  |
+| emitter/collector resistance | emittor/kollektor-weerstand |  |
+| emitter | emittor |  |
+| emolument | emolument |  |
+| empathy | empatie, meelewing |  |
+| employ v. {employee} | in diens hê |  |
+| employ v. {method} | aanwend |  |
+| employ v. {recruit} | in diens neem |  |
+| employ v. | in diens hê |  |
+| employ v. | in diens neem |  |
+| employee organisation | werknemerorganisasie |  |
+| employee tax | werknemerbelasting |  |
+| employee | werknemer |  |
+| employer organisation | werkgewerorganisasie |  |
+| employer-employee relationship | werkgewer-werknemer-verhouding |  |
+| employment equity | indiensnemingsbillikheid |  |
+| employment opportunity (job opportunity) | werkgeleentheid |  |
+| employment out of adjustment | indienshouding, indiensneming buite verband |  |
+| employment relationship | diensverhouding |  |
+| employment {existing posts} | werkverskaffing |  |
+| employment | indiensneming |  |
+| employment | werk, werkgeleentheid |  |
+| empowered staff | instaatgestelde personeel |  |
+| empowerment (enabling, enablement) | instaatstelling, bemagtiging |  |
+| empowerment | bemagtiging |  |
+| empty container | lee houer |  |
+| emulator | emuleerder |  |
+| en route | onderweg |  |
+| enable (unblock) | ontsper |  |
+| enable {electronic gate} | ontsper |  |
+| enamel-covered wire | emaljebeklede draad |  |
+| enamelled plate | emaljeplaat |  |
+| enamelled silk and cotton cable | geemaljeerde sy-en-katoenkabel |  |
+| encapsulate {eg transistor} | inkapsel |  |
+| encapsulation (incapsulation) | inkapseling, kapsulering |  |
+| encased postage stamp | gekapsuleerde posseel |  |
+| encashment {eg of postal order} | uitwisseling |  |
+| enclose | insluit |  |
+| enclosed cell | toe sel |  |
+| enclosed letter | bygaande brief |  |
+| enclosed ventilated machine | toe geventileerde masjien |  |
+| enclosed-type battery | toe battery |  |
+| enclosing box {drawing} | riglynraam |  |
+| enclosure {eg in mailbag} | insluiting |  |
+| enclosure {parts} | omhulsel |  |
+| enclosure {separate document} | bylae |  |
+| enclosure | bylae |  |
+| enclosure | insluiting |  |
+| encryption | enkriptering |  |
+| end bracket | entsteun |  |
+| end cap | entdop |  |
+| end cell | entsel |  |
+| end dome {cable} | entdop |  |
+| end effect {antenna} | enteffek |  |
+| end exchange | entsentrale |  |
+| end fire n. | lengterigting |  |
+| end fitting | enttoebehoorsel |  |
+| end float (end movement, end play) | entspeling |  |
+| end of number (EON) | einde van nommer, EVN |  |
+| end of sewing (end of stitching) | naaiwerkent |  |
+| end of tape (EOT) | bandent |  |
+| end panel | entpaneel |  |
+| end plate | entplaat |  |
+| end play | entspeling |  |
+| end section {line} | entvak |  |
+| end section | entseksie |  |
+| end shield {electrical motor} | entskerm |  |
+| end shield | entskerm |  |
+| end stacker {LSM} | eindstapelaar |  |
+| end turn | entwinding |  |
+| end-around carry | omslaanoordrag |  |
+| end-bracket bearing | entsteunlaer |  |
+| end-cell switching | entselskakeling |  |
+| end-fed antenna | entgevoerde antenne |  |
+| end-fire adj. | lengtegerig |  |
+| end-fire array {antenna} | lengterignet |  |
+| end-milling cutter | skagfrees, vingerfrees |  |
+| end-of-line indicator | reelentaanwyser |  |
+| end-of-line test unit {fire detection} | lynenttoetseenheid |  |
+| end-of-tape contact | bandentkontak |  |
+| end-of-tape sensing | bandenttasting |  |
+| end-of-train switching | reekseindskakeling |  |
+| end-shield bearing | entskermlaer |  |
+| end-stop guide plate | entstopleiplaat |  |
+| end-thrust bearing block | entdruklaerblok |  |
+| end-to-end acknowledgement | ent-tot-ent-erkenning |  |
+| end-to-end remembering scheme | ent-tot-ent-onthouskema |  |
+| end-to-end sequence chart <obsolete term - see flow chart> | verloopkaart, vloeikaart |  |
+| end-to-end signalling | ent-tot-ent-seining |  |
+| end-to-end test | ent-tot-ent-toets |  |
+| ending section {automatic numbering system} | slotdeel |  |
+| endless belt | ringband |  |
+| endless-chain store {ND system} | ringgeheue |  |
+| endless-loop cartridge-type 8 mm sound projector | patroontipe ringlus-8mm-klankprojektor |  |
+| endless-sashline method | ringkoordmetode |  |
+| endorse {an opinion} | onderskryf |  |
+| endorse | endosseer |  |
+| endorsee | geendosseerde |  |
+| endorsement | endossement |  |
+| endorser | endossant, endosseerder |  |
+| endorsing ink | endosseerink |  |
+| endowment account {insurance} | uitkeringsrekening |  |
+| endowment assurance scheme {insurance} | uitkeerversekeringskema |  |
+| endowment policy {insurance} | uitkeerpolis |  |
+| endowment scheme | begiftigingskema |  |
+| energisation time | bekragtyd |  |
+| energise | bekrag |  |
+| energising circuit | bekragkring |  |
+| energising current | bekragstroom |  |
+| energising | energie-opbouing |  |
+| energy conservation | energiebesparing |  |
+| energy gap | energiegaping |  |
+| energy loss | energieverlies |  |
+| energy path | energiebaan |  |
+| energy preservation | energiebehoud |  |
+| energy transformation | energieomsetting |  |
+| energy | energie |  |
+| engage {gear} | inskakel |  |
+| engage | inhaak, inkoppel, koppel |  |
+| engaged condition | besettoestand |  |
+| engagement face | kontakvlak |  |
+| engaging nut {lathe} | inkoppelmoer |  |
+| engaging pawl | inkoppelpal |  |
+| engine cowl | enjinkap |  |
+| engine failure alarm | enjinfalingalarm |  |
+| engine lag relay | trae enjinalarmrele |  |
+| engine-driven alternator | enjingedrewe alternator |  |
+| engine-driven generator set | enjingedrewe generatorstel |  |
+| engine-driven generator | enjingedrewe generator |  |
+| engine/alternator lighting set | enjin/alternator-ligtoestel |  |
+| engine | enjin |  |
+| engineer in training | ingenieur in opleiding |  |
+| engineer n. | ingenieur |  |
+| engineer v. | genieer |  |
+| engineer's rule | ingenieursliniaal |  |
+| engineering circuit (engineering speaker, speaker, speaker circuit) | dienslyn |  |
+| engineering construction work | ingenieursaanlegwerk |  |
+| engineering division | ingenieursafdeling |  |
+| engineering drawing | ingenieurstekening |  |
+| engineering inspection journal | ingenieursinspeksieboek |  |
+| engineering overhead expenses | ingenieurswerkbokoste |  |
+| engineering standby {telegraph circuit} | ingenieursnoodlyn |  |
+| engineering suspense account | ingenieurswerkafwagrekening |  |
+| engineering technique | ingenieurstegniek |  |
+| engineering yard | ingenieurswerf |  |
+| engineering | ingenieurswese |  |
+| engrave | graveer |  |
+| engraving | gravering |  |
+| enhanced commencing salary | verhoogde aanvangsalaris |  |
+| enhanced cost-of-living allowance | verhoogde lewenskostetoelae |  |
+| enhancement mode {field-effect transistor} | verhoogmodus |  |
+| enjoin {eg secrecy} | ople |  |
+| enjoy priority | voorrang geniet, voorrang he |  |
+| enquiries | navrae |  |
+| enquiry call | navraagoproep |  |
+| enquiry counter | navraagtoonbank |  |
+| enquiry facility | navraagfasiliteit |  |
+| enquiry fee | navraaggeld |  |
+| enquiry file | navraagleer |  |
+| enquiry finder | navraagvinder |  |
+| enquiry office | navraagkantoor |  |
+| enquiry outlet | navraaguitgang |  |
+| enquiry position | navraagpunt |  |
+| enquiry selector | navraagkieser |  |
+| enquiry | navraag |  |
+| enrol (enroll) {eg as a member} | laat inskryf (bv as 'n lid) |  |
+| enrol (enroll) | inskryf |  |
+| ensemble | ensemble |  |
+| enskill | bevaardig |  |
+| enter (input, latch, load) {computer} | invoer |  |
+| enter v. {computer} | insleutel |  |
+| enter v. {contract} | aangaan, sluit |  |
+| enter v. {eg in memory} | invoer |  |
+| enter v. {for examination} | inskryf |  |
+| enter v. {state} | binnegaan |  |
+| enter v. {with keyboard} | insleutel |  |
+| enter v. | boek, inskryf |  |
+| entering edge {of bank contact} | voorrand |  |
+| entering officer | inskryfbeampte |  |
+| entering temperature {eg chilled water} | ingaande temperatuur |  |
+| entering-air temperature | inlaatlugtemperatuur |  |
+| entering-water temperature | inlaatwatertemperatuur |  |
+| entertainment allowance | onthaaltoelae |  |
+| entertainment-duty label | vermaaklikheidsbelastingseel |  |
+| enthalpy | entalpie |  |
+| entitled to | geregtig op, geregtig tot |  |
+| entrance cable | inleikabel |  |
+| entrance road | ingangspad |  |
+| entrance | ingang |  |
+| entrant {to service} | toetreder |  |
+| entrepreneurial finance | entrepreneursfinansiering |  |
+| entry control report {telephone directory} | inskrywingskontroleverslag |  |
+| entry digit | intreesyfer |  |
+| entry form | inskrywingsvorm |  |
+| entry grade | toetreerang |  |
+| entry into service | diensaanvaarding |  |
+| entry item {eg parcel} | aangetekende item |  |
+| entry pipe {exchange} | inleipyp |  |
+| entry requirement | toetreevereiste |  |
+| entry requirement | toetreevereiste |  |
+| entry | boeking, inskrywing, pos |  |
+| entry | ingang |  |
+| envelop | omhul |  |
+| envelope delay (group delay) {waves} | groepvertraging |  |
+| envelope detector | omhullingsdetektor |  |
+| envelope flap | koevertklap |  |
+| envelope modulation | omhullingmodulasie |  |
+| envelope power | omhullingdrywing |  |
+| envelope sealer/stacker | koevert-toeplakker/stapelaar |  |
+| envelope velocity (group velocity) {waves} | groepsnelheid |  |
+| envelope {microfilm} | skede |  |
+| envelope {waves} | omhulling |  |
+| envelope-delay frequency distortion (group-delay frequency distortion) | groepvertraging- |  |
+| enveloping point {eg for telegrams} | koeverteerpunt |  |
+| environmental conditions | omgewingstoestande |  |
+| environmental radiation | omgewingstraling |  |
+| eosin | eosien |  |
+| epicycloidal tooth | episiklo<ede tand |  |
+| episcope | episkoop |  |
+| epoch | tydvak |  |
+| epoxy-coating process | epoksisinterproses |  |
+| epoxy-powder coated {surface coat} | epoksigesinter |  |
+| epoxy-powder coating process | epoksisinterproses |  |
+| equal and opposite | gelyk en teengesteld |  |
+| equal-armed Porter governor | Porter spoedreelaar met ewe lang arms |  |
+| equal-length code (equal-length multi-unit code) | gelykelengte-kode |  |
+| equalisation | effening |  |
+| equaliser network | effenaarnetwerk |  |
+| equaliser panel | effenaarpaneel |  |
+| equaliser | effenaar |  |
+| equalising bar | effenstaaf |  |
+| equalising charge | effenlading |  |
+| equalising clamp | effenklamp |  |
+| equalising coil | effenspoel |  |
+| equalising protector unit | effenafleiereenheid |  |
+| equalising protector | effenafleier |  |
+| equalising pulse {television} | gelykstelpuls |  |
+| equalising pulse | effenpuls |  |
+| equalising resistance | effenweerstand |  |
+| equality of spans | gelykheid van spanlengtes |  |
+| equator | ewenaar |  |
+| equilibrant | ekwilibrant |  |
+| equilibrium | ekwilibrium, ewewig |  |
+| equilibrium | ewewig |  |
+| equip with | toerus met |  |
+| equip | toerus |  |
+| equipment bayside | toerustingraamkant |  |
+| equipment heat gain | toerustinghittewins |  |
+| equipment item failure | toerustingitemfaling |  |
+| equipment monitor | toerustingmonitor |  |
+| equipment noise | toerustingruis |  |
+| equipment rack | toerustingraam |  |
+| equipment | toerusting |  |
+| equipotential line | ekwipotensiaallyn |  |
+| equipotential surface | ekwipotensiaalvlak |  |
+| equipped capacity | toegeruste kapasiteit |  |
+| equishare {retirement funding} | regmatige aandeel |  |
+| equisignal beacon | ekwiseinbaken |  |
+| equisignal zone {radionavigation} | ekwiseinsone |  |
+| equity futures | termynkontrakte op aandele |  |
+| equivalence | ekwivalensie, gelykwaardigheid |  |
+| equivalent adj. | ekwivalent, gelykwaardig |  |
+| equivalent building-up time (equivalent build-up time, equivalent rise time) | ekwivalente opboutyd |  |
+| equivalent circuit (equivalent line link) | ekwivalente verbinding |  |
+| equivalent diode | ekwivalente diode |  |
+| equivalent disturbing current | ekwivalente steurstroom |  |
+| equivalent disturbing voltage | ekwivalente steurspanning |  |
+| equivalent mass | ekwivalente massa |  |
+| equivalent n. | ekwivalent |  |
+| equivalent network | ekwivalente netwerk |  |
+| equivalent rank | ekwivalente rang |  |
+| equivalent resistance | ekwivalente weerstand |  |
+| equivalent separation | ekwivalente skeiafstand |  |
+| equivalent to | gelyk aan, gelykstaande met |  |
+| equivalent value | gelyke waarde |  |
+| equivalent weight | ekwivalente gewig |  |
+| erase request | uitwisversoek |  |
+| erase | uitvee, uitwis |  |
+| eraser (rubber) | uitveer |  |
+| eraser shield {eg when typing and drawing} | wisskerm |  |
+| erasing head (wiping head) | uitveekop |  |
+| erasure mark | uitveemerk |  |
+| erasure signal | uitwissein |  |
+| erect {eg line} | aanle |  |
+| erect | monteer, oprig, opstel |  |
+| erf number | erfnommer |  |
+| erg | erg |  |
+| erlang {unit of telephone and telegraph traffic} | erlang |  |
+| erode | erodeer, wegvreet |  |
+| erosion-resistant | erosiebestand |  |
+| erosion | erosie |  |
+| errata slip | erratastrook |  |
+| erroneous address | verkeerde adres |  |
+| error (mistake) | fout |  |
+| error correction | foutkorreksie, foutverbetering |  |
+| error counter | foutteller |  |
+| error detection {ie finding the error} | foutspeuring |  |
+| error detection {ie indicating an error} | foutverklikking |  |
+| error frequency | foutfrekwensie |  |
+| error message {job control system} | foutberig |  |
+| error notice {money order} | foutadvies |  |
+| error of definition {marketing} | definieringsfout |  |
+| error of definition | definieringfout |  |
+| error of estimation (estimation error) | skattingsfout |  |
+| error of estimation {marketing} | skattingsfout |  |
+| error of explanation {marketing} | verduidelikingsfout |  |
+| error probability | foutwaarskynlikheid |  |
+| error protection | foutbeheer |  |
+| error rate {PCM} | foutsyfer |  |
+| error reset lever | foutterugstelhefboom |  |
+| error signal | foutsein |  |
+| error stop {punch-card machine} | foutstop |  |
+| error suspense account {job control system} | foutafwagrekening |  |
+| error voltage | foutspanning |  |
+| error {marketing} | fout |  |
+| error {stamp} | foutdruk |  |
+| error-correcting code | foutkorrigeerkode |  |
+| error-correcting telegraph system | foutkorrigeertelegraafstelsel |  |
+| error-detecting code | foutspeurkode |  |
+| error-protection technique | foutbeheertegniek |  |
+| error | fout |  |
+| escalating incentive | toenemende aansporing, opbouende aansporing |  |
+| escalation clause (escalator clause) | eskalasieklousule |  |
+| escalation {of prices, wages, etc} | eskalasie |  |
+| escalator | roltrap |  |
+| escape n. | wysigkarakter |  |
+| escapement wheel | skakelrat |  |
+| escapement-detent pivot | skakelratstuiterspil |  |
+| escutcheon plate | beslagplaat |  |
+| essay {eg stamp} | essay |  |
+| essential load | essensiële las |  |
+| essential services | essensiële dienste |  |
+| establish (put through) {call} | deursit |  |
+| establish {agency, exchange} | stig |  |
+| establish {council} | in die lewe roep |  |
+| establish {fund} | in die lewe roep |  |
+| establish {telephone service} | instel |  |
+| established connection | opgestelde verbinding |  |
+| establishment (staff establishment) | diensstaat, personeelsterkte |  |
+| establishment book | diensstaatboek |  |
+| establishment investigation | diensstaatondersoek |  |
+| establishment record | diensstaatrekord |  |
+| establishment variation | wisseling van diensstaat |  |
+| establishment | diensstaat |  |
+| establishment | diensstaat |  |
+| estate | boedel |  |
+| estate | eiendom |  |
+| estimate form | beramingsvorm, ramingsvorm |  |
+| estimate n. {eg of cost, damage, etc} | beraming |  |
+| estimate n. {less accurate} | skatting |  |
+| estimate of expenditure | uitgaweberaming, uitgaweraming |  |
+| estimate of potential {opinion} | potensiaalskatting |  |
+| estimate sketch | beramingskets, ramingskets |  |
+| estimate v. {eg of cost, damage, etc} | beraam |  |
+| estimate | beraming, raming |  |
+| estimated costs | beraamde koste, geraamde koste |  |
+| estimated work | geraamde werk, beraamde werk |  |
+| estimates item | begrotingsitem |  |
+| estimates of operating expenditure (operating estimates) | bedryfsbegroting |  |
+| estimates of revenue | inkomstebegroting |  |
+| estimates | begroting |  |
+| estimating cost | beramingskoste, ramingskoste |  |
+| estimating officer | ramingsbeampte |  |
+| estimating rate | beramingstarief, ramingstarief |  |
+| estimating requirements | ramingsvereistes |  |
+| estimating work | beramingswerk, ramingswerk |  |
+| etchant | etsmiddel |  |
+| ether capsule | eterkapsule |  |
+| ether | eter |  |
+| etheric signalling | radioseining, radioseinwerk |  |
+| eutectic | eutekties |  |
+| evacuated valve | leeggepompte buis |  |
+| evaluate | evalueer |  |
+| evaluate | evalueer, waardeer |  |
+| evaluation | evaluasie |  |
+| evaluation | evaluering |  |
+| evanescent mode {waves} | wegsterfmodus |  |
+| evanescent waveguide | wegsterfgolfleier |  |
+| evaporative condenser | verdampkondensator |  |
+| evaporative water chiller | verdampwaterkiller |  |
+| evaporator | verdamper |  |
+| evasion of postage | ontduiking van posgeld |  |
+| even day {eg 2nd, 4th etc} | ewe dag |  |
+| even harmonic | ewe bofrekwensie |  |
+| even level | ewe laag |  |
+| even linefinder | ewe lynvinder |  |
+| even parity | ewe pariteit |  |
+| even-group key (even key) | ewegroep-sleutel |  |
+| even-group subscriber | ewegroep-huurder |  |
+| even-numbered letter | eenders genommerde brief |  |
+| even-numbered pairs | ewenommer-pare |  |
+| even-order harmonic | ewe-ordebofrekwensie |  |
+| evening-duty allowance | aanddienstoelae |  |
+| event count | gebeurtenistelling |  |
+| event marker | gebeurtenismerker |  |
+| event recorder | gebeurtenisopnemer |  |
+| event recorder | gebeurtenisregistreerder |  |
+| everready-type case | gereedtas |  |
+| everready-type leather case | gereedtipe leertas |  |
+| ex gratia payment | ex gratia-betaling |  |
+| ex officio member | ex officio-lid |  |
+| ex officio | ampshalwe, ex officio |  |
+| ex stock | uit voorraad |  |
+| examination fee | eksamengeld |  |
+| examination paper | eksamenvraestel |  |
+| examination papers | eksamenstukke |  |
+| examination | eksamen |  |
+| examination | ondersoek |  |
+| examiner {cash account} | nasiener |  |
+| examiner's fee | eksaminatorsgeld |  |
+| examiner | eksaminator |  |
+| examiner | ondersoeker |  |
+| examining officer | ondersoekbeampte |  |
+| excavate | uitgrawe |  |
+| excavation work | uitgrawingswerk |  |
+| excavation | uitgrawing |  |
+| excavator | masjiengraaf |  |
+| exceed authority | bevoegdheid oorskry |  |
+| except for | afgesien van, behalwe, behalwe wat betref, behoudens, buiten |  |
+| excepted item | uitgesonderde item |  |
+| exception condition | uitsonderingtoestand |  |
+| exceptional ability | besondere bekwaamheid |  |
+| exceptional surcharge | buitengewone heffing |  |
+| excess attendance | ekstra diensure |  |
+| excess capacity | oorkapasiteit |  |
+| excess charge | bykoste |  |
+| excess condensate | oormaatkondensaat |  |
+| excess contribution | oorbydrae |  |
+| excess current | oormaatstroom |  |
+| excess deposit | oorskrydingsdeposito |  |
+| excess depot | skutloods |  |
+| excess modified refractive index | oormatig gemodifiseerde refraksie-indeks |  |
+| excess of revenue over expenditure | oorskot van inkomste bo uitgawe |  |
+| excess rental | ekstra huur |  |
+| excess revenue | oorskotinkomste |  |
+| excess simulator | oormaatnabootser |  |
+| excess voltage | oormaatspanning |  |
+| excess-three code | plus drie-kode |  |
+| excessive temperature | oormatige temperatuur |  |
+| excessive-count condition | oorlooptellingtoestand |  |
+| exchange area | sentralegebied |  |
+| exchange attendance | sentralediensure |  |
+| exchange barring (exchange prohibition) | sentralesperring |  |
+| exchange battery | sentralebattery |  |
+| exchange boundary | sentralegrens |  |
+| exchange code | sentralekode |  |
+| exchange connection (EX CON) | sentraleaansluiting, SA |  |
+| exchange control regulations {currency} | deviesebeheerregulasies |  |
+| exchange control {currency} | deviesebeheer |  |
+| exchange control | deviesebeheer |  |
+| exchange copy {book} | ruilnommer |  |
+| exchange copy | sentralekopie |  |
+| exchange development | sentrale-uitbreiding |  |
+| exchange dumping duty (ex dumping) | wisselkoersdumpingreg |  |
+| exchange earth system | sentraleaardstelsel |  |
+| exchange equipment | sentraletoerusting |  |
+| exchange fault | sentralefout |  |
+| exchange hold key | sentralehousleutel |  |
+| exchange line | sentralelyn |  |
+| exchange n. {mail, telegrams, etc} | wisseling |  |
+| exchange n. {money order} | verrekening |  |
+| exchange n. {on a foreign remittance} | wisselkoste |  |
+| exchange n. | sentrale |  |
+| exchange n. | valuta, deviese |  |
+| exchange network | sentralenetwerk |  |
+| exchange of mail | poswisseling |  |
+| exchange office (office of exchange) {money order} | verrekenkantoor |  |
+| exchange office {mail} | wisselkantoor |  |
+| exchange order {remittance} | verrekeningswissel |  |
+| exchange quotation (stock quotation) | beursnotering |  |
+| exchange rate | valutakoers, wisselkoers |  |
+| exchange revenue | sentrale-inkomste |  |
+| exchange site | sentraleterrein |  |
+| exchange system | sentralestelsel |  |
+| exchange technician | sentraletegnikus |  |
+| exchange unit | sentrale-eenheid |  |
+| exchange v. {mail} | wissel |  |
+| exchange v. {money order} | verreken |  |
+| exchange v. {stamps, etc} | omruil |  |
+| exchange value | ruilwaarde |  |
+| exchange vault | sentralekelder |  |
+| exchange-call ringing {facility} | sentraleoproeplui |  |
+| exchange-line call | sentralelynoproep |  |
+| exchange-line circuit | sentralelynkring |  |
+| exchange-line offering (trunk offering) {PABX} | sentralelynaanbieding |  |
+| exchange-line start (exchange start) | sentralelynaansitting |  |
+| exchange-line-call transfer {facility} | sentralelynoproepoorplasing |  |
+| exchange-side tail | sentralekantstert |  |
+| exchanger (heat exchanger) | hitteruiler |  |
+| exchequer account | skatkisrekening |  |
+| excise duty | aksynsreg |  |
+| excitation inrush current (exciting inrush current) | opwekaanskakelstroom |  |
+| excitation potential | opwekspanning |  |
+| excitation | opwekking |  |
+| excite | opwek |  |
+| exciter field winding | opwekkerveldwikkeling |  |
+| exciter lamp {projector} | opweklamp |  |
+| exciter | opwekker |  |
+| exciting current | opwekstroom |  |
+| exciting winding | opwekwikkeling |  |
+| excitron | eksitron |  |
+| exclusive OR function (XOR function) | uitsluitend-OF-funksie, UOF-funksie |  |
+| exclusive line | ekslusiewe lyn |  |
+| exclusive party line | uitsluitende partylyn |  |
+| exclusive-OR gate (XOR gate) | uitsluitend-OF-hek, UOF-hek |  |
+| excursion | ekskursie |  |
+| excursion | uitwyking |  |
+| execute v. | uitvoer |  |
+| execute v. | uitvoer |  |
+| execution cycle {computer} | uitvoersiklus |  |
+| execution n. | uitvoering |  |
+| execution {document} | verlyding |  |
+| executive assist {PABX} | voorranghulp |  |
+| executive call facility | voorkeuroproepfasiliteit, voorkeurroepfasiliteit |  |
+| executive council | uitvoerende raad |  |
+| executive function | uitvoerende funksie |  |
+| executive puzzle {human resources} | bestuurlegkaart |  |
+| executive system {for computer} | beheerstelsel |  |
+| executive | bestuurbeampte, uitvoerende beampte |  |
+| executor | eksekuteur |  |
+| executrix | eksekutrise |  |
+| exempt from postage (post free) | posvry, vrygestel van posgeld, vry van posgeld |  |
+| exempt from stamp duty | vrygestel van seelreg, vry van seelreg |  |
+| exemption permit | vrystellingspermit |  |
+| exemption | vrystelling |  |
+| exercise v. {a right, control} | uitoefen |  |
+| exercise v. {equipment} | werktoets |  |
+| exhaust connection | uitlaatkonneksie |  |
+| exhaust gas | uitlaatgas |  |
+| exhaust manifold | uitlaatspruitstuk |  |
+| exhaust n. | uitlaat |  |
+| exhaust port | uitlaatpoort |  |
+| exhaust silencer | uitlaatknaldemper |  |
+| exhaust stack | skoorsteen, staanuitlaatpyp |  |
+| exhaust stroke | uitlaatslag |  |
+| exhaust v. {eg with suction pump} | ledig |  |
+| exhaust v. {of stocks} | uitput |  |
+| exhaust v. | uitlaat |  |
+| exhaust valve | uitlaatklep |  |
+| exhaust-air outlet | uitlaatluguitgang |  |
+| exhausting oil | terugvloeiolie |  |
+| exhaustion | uitputting |  |
+| exhibit {a notice} | vertoon |  |
+| exigencies of the service | diensvereistes |  |
+| existing | bestaande |  |
+| exit interview {with employee who is resigning} | diensverlatingonderhoud |  |
+| exit questionnaire | diensverlatingvraelys |  |
+| exit v. {computer} | afsluit |  |
+| exit v. {microprocessor} | uitsit |  |
+| exit v. | uitgaan, verlaat |  |
+| exorbitant cost | buitensporige koste |  |
+| expand {eg amplitude} | uitrek |  |
+| expand {eg pipe} | uitdy |  |
+| expand {owing to heat} | uitsit |  |
+| expand {radar} | vergroot |  |
+| expanded signal {expandor} | geekspandeerde sein |  |
+| expanded signal | herstelde sein, ekspandor |  |
+| expanded vinyl | skuimviniel |  |
+| expander (expandor) {electricity} | ekspandor |  |
+| expander | uitdyer |  |
+| expanding anchor | uitdyanker |  |
+| expanding plug | uitsitprop |  |
+| expanding reamer | uitdyruimer |  |
+| expanding-band clutch | uitsitbandkoppelaar |  |
+| expansion tank | uitsittenk |  |
+| expansion {eg volume} | vergroting |  |
+| expansion {owing to heat} | uitsetting |  |
+| expansion-absorption type exhaust silencer | uitsit-en-absorbeertipe uitlaatknaldemper |  |
+| expansion | uitbreiding |  |
+| expansion | uitdying |  |
+| expected development {eg of exchange} | verwagte uitbreiding |  |
+| expected levels of performance (ELP) | verwagte vlakke van prestasie, VVP |  |
+| expected value {marketing} | verwagte waarde |  |
+| expected value | verwagte waarde |  |
+| expedite | bespoedig |  |
+| expenditure folio | uitgawefolio |  |
+| expenditure item | uitgawe-item |  |
+| expenditure suspense (expenditure suspense account) | uitgaweafwagrekening |  |
+| expenditure voucher | uitgawebewys |  |
+| expenditure | uitgawe |  |
+| expenditure | uitgawe |  |
+| experience | ervaring, ondervinding |  |
+| experiment n. | eksperiment, proef, proefneming |  |
+| experiment v. | eksperimenteer |  |
+| experimental design {marketing} | eksperimentele ontwerp |  |
+| experimental radio station | eksperimentele radiostasie |  |
+| experimental variation {marketing} | eksperimentele variasie |  |
+| experimental-station licence | eksperimentelestasie-lisensie |  |
+| expiration date (expiry date) {computer program} | vervaldatum |  |
+| expire {contract, period} | verstryk |  |
+| expiry {contract, period} | verstryking |  |
+| explanation error | verduidelikingsfout |  |
+| explanatory note | toeligtende opmerking, verklarende opmerking |  |
+| explicit | eksplisiet |  |
+| exploded diagram | uitskuifdiagram |  |
+| exploded view | uitskuifaansig |  |
+| exploit | eksploiteer, ontgin |  |
+| exploit | uitbuit |  |
+| exploratory research {marketing} | verkennende navorsing |  |
+| exploratory research | verkennende navorsing |  |
+| exploring coil {magnetic field} | meetspoel |  |
+| explosion proof | plofvas |  |
+| explosion-proof {electrical appliance} | plofvas |  |
+| explosive compound | ontplofbare verbinding |  |
+| explosive gas | plofgas |  |
+| explosive material | ontplofbare materiaal |  |
+| explosive-powered tools | plofkraggereedskap |  |
+| explosive | ontplofbare stof |  |
+| explosives column | springstofkolom |  |
+| explosives field box | springstofveldkis |  |
+| exponential damping | eksponensiele demping |  |
+| exponential form | eksponensiele vorm |  |
+| exponential horn | eksponensiele horing |  |
+| exponential method | eksponensiele metode |  |
+| exponential smoothing {human resources} | eksponensiele vergladding |  |
+| exponential smoothing {marketing} | eksponensiele gladstryking |  |
+| export control | uitvoerbeheer |  |
+| export permit | uitvoerpermit |  |
+| exposed flame (naked flame) | oop vlam |  |
+| exposition | uiteensetting |  |
+| exposure {photography} | beligting |  |
+| exposure | blootstelling |  |
+| express article {mail} | spoedstuk |  |
+| express delivery | spoedaflewering, spoedbestelling |  |
+| express function | snel funksie |  |
+| express indication | voorrangaanwysing |  |
+| express label | spoedetiket |  |
+| express letter | spoedbrief |  |
+| express mail | spoedpos |  |
+| express messenger | spoedbode |  |
+| express parcel | spoedpakket |  |
+| express-delivery docket | spoedbestelbewys |  |
+| express-delivery fee | spoedbestelgeld |  |
+| express-delivery service | spoedbesteldiens |  |
+| express-delivery telegram (express telegram) | spoedtelegram |  |
+| express-messenger service | spoedbodediens |  |
+| expropriate | onteien |  |
+| extend alarm key | alarmverlengsleutel |  |
+| extend back {dialling tone} | terugverleng |  |
+| extend batch header {job control system} | uitgebreide bundelhoof |  |
+| extend {call to extension} | deurskakel |  |
+| extend {eg switchboard, town area} | uitbrei |  |
+| extend {postal orders} | uitwerk |  |
+| extend {value} | aanvul |  |
+| extend | verleng |  |
+| extended balance {ledger} | berekende balans |  |
+| extended lug | verlengde lip |  |
+| extended scale | verlengde skaal |  |
+| extended service | verlengde diens |  |
+| extended size {waistband} | gerekte grootte |  |
+| extended surface | vergrote oppervlak |  |
+| extended terminal {BTS} | uitgebreide terminaal |  |
+| extended transposition section | verlengde kruisingsvak |  |
+| extender card (outrigger, extension card) | verlengkaart |  |
+| extending boom | verlengarm |  |
+| extensible {waistband} | rekbaar |  |
+| extension (extension lead) | verlengdraad |  |
+| extension alarm | verlengalarm |  |
+| extension arm | verlengarm |  |
+| extension bell | byklokkie, ekstra klokkie |  |
+| extension bracket | verlengsteun |  |
+| extension busy lamp | bylynbesetlamp |  |
+| extension call (house call) | bylyn-na-bylyn-oproep |  |
+| extension card (outrigger, extender card) | verlengkaart |  |
+| extension circuit (extension-line circuit) | bylynkring |  |
+| extension horn | aanvullende toeter |  |
+| extension in parallel | parallelbylyn |  |
+| extension indicator | bylynaanwyser |  |
+| extension ladder | skuifleer |  |
+| extension lamp | werklamp |  |
+| extension line rele {PABX} | bylynrele |  |
+| extension loudspeaker | ekstra luidspreker |  |
+| extension measurement {tension and compression testing} | rekmeting |  |
+| extension rod | verlengstang |  |
+| extension rule {logic} | uitbreidingsreel |  |
+| extension run {alarm} | verlengloop |  |
+| extension telephone | bylyntelefoon |  |
+| extension tone-caller {without telephone instrument} | verlengtoonroeper |  |
+| extension {eg duration of validity} | verlenging |  |
+| extension {eg time} | verlenging |  |
+| extension {eg town area} | uitbreiding |  |
+| extension {telephone} | bylyn |  |
+| extension {time} | verlenging |  |
+| extension {waistband} | tong |  |
+| extension-to-attendant call | bylyn/bediener-oproep |  |
+| extension/extension call | bylyn/bylyn-oproep |  |
+| extension | uitbreiding |  |
+| extension | verlengstuk |  |
+| exterior grade {wood} | buitegebruiksgraad |  |
+| exterior grill | buiterooster |  |
+| exterior wiring | buitebedrading |  |
+| externa validity {marketing} | eksterne geldigheid |  |
+| external alarm | buitealarm |  |
+| external cable | buitekabel |  |
+| external call | buite-oproep |  |
+| external circuit {TBVC countries} | buitelandse kring |  |
+| external circuit | buitekring |  |
+| external cord | buitesnoer |  |
+| external diameter | buitediameter |  |
+| external disturbance | eksterne steuring |  |
+| external extension | buitebylyn |  |
+| external feed {telephone wiring} | inleitoevoer |  |
+| external knob | buiteknop |  |
+| external load | eksterne las |  |
+| external logic unit | eksternelogika-eenheid |  |
+| external magnetic field | eksterne magnetiese veld |  |
+| external metallised screen coating | gemetalliseerde buiteskermlaag |  |
+| external micrometer | buitemikrometer |  |
+| external precision balance | eksterne presisiebalans |  |
+| external procurement fund | buitelandse verkrygingsfonds |  |
+| external product thread | produkskroefdraad |  |
+| external resistance | eksterne weerstand |  |
+| external screwcutting | skroefdraadsnywerk |  |
+| external scroll | buitekrul |  |
+| external secondary data {marketing} | eksterne sekondere data |  |
+| external static pressure | uitwendige statiese druk |  |
+| external telecommunications | buitelandse telekommunikasie |  |
+| external thread (male thread) {screw} | buitedraad |  |
+| external tube | buitepyp |  |
+| external validity | eksterne geldigheid |  |
+| external water gauge | buitelugwatersuil |  |
+| external waveguide feeder system | eksterne golfleiervoerstelsel |  |
+| extinction current | blusstroom |  |
+| extinction voltage (extinguishing voltage) | blusspanning |  |
+| extinguish {a fire} | blus |  |
+| extinguish {eg an oil lamp} | doodmaak |  |
+| extinguishing power | blusvermoe |  |
+| extra charge | ekstra koste |  |
+| extra expenditure | ekstra uitgawe |  |
+| extra extra outsize (XXOS) {garment size} | ekstra-ekstra groot, EEG |  |
+| extra large size | ekstra-groot grootte |  |
+| extra-Republic charge | koste buite die Republiek |  |
+| extract coding {eg place names} | uittrekkodering |  |
+| extract n. | uittreksel |  |
+| extract requisition | uittrekselrekwisisie |  |
+| extract sheet | uittrekselstaat |  |
+| extract v. {eg from code} | uitlig |  |
+| extract v. {from waveguide} | onttrek |  |
+| extract v. {logic} | onttrek |  |
+| extracted channel system (out-of-band signalling system) | buitebandseinstelsel |  |
+| extracted {logic} | verkree |  |
+| extraction unit | suigeenheid |  |
+| extractor {eg bit} | trekker |  |
+| extraneous noise {eg in exchange} | omgewingsgeraas |  |
+| extraneous noise | ruis van buite, vreemde ruis |  |
+| extraneous variable | vreemde veranderlike |  |
+| extraordinary wave | buitengewone golf |  |
+| extrapolation | ekstrapolasie, ekstrapolering |  |
+| extreme-pressure oil | uiterstedruk-olie |  |
+| extremely urgent | uiters dringend |  |
+| extrinsic semiconductor | ekstrinsieke halfgeleier |  |
+| extrude | deurdruk |  |
+| extruded aluminium cover | deurdrukaluminiumdeksel |  |
+| extruded aluminium | deurdrukaluminium |  |
+| extrusion moulding | deurdrukvormwerk |  |
+| extrusion {process} | deurdrukking |  |
+| extrusion | deurdruksel |  |
+| eye bath | oogkelkie |  |
+| eye bolt | oogbout |  |
+| eye fatique | oogvermoeidheid |  |
+| eye hole {peephole} | kykgat |  |
+| eye movement {human resources} | oogbeweging |  |
+| eye protector | oogskerm |  |
+| eye strain | oogspanning |  |
+| eyedrops | oogdruppels |  |
+| eyelet pliers | ogietang |  |
+| eyelet {also clothing} | ogie |  |
+| eyeline paper {computer} | ooglynpapier |  |
+| eyepiece | oogstuk |  |
+| eyeshade | oogklap |  |
+| eyewitness | ooggetuie |  |
+| fabricated safety guard | gefabriseerde beskermskut |  |
+| face check {wood} | oppervlakbars |  |
+| face damper {eg cooling coil} | voordemper |  |
+| face equipment {switchboard} | voorkanttoerusting |  |
+| face milling cutter | vlakfrees |  |
+| face n. {of a soldering iron} | vlak |  |
+| face n. {switchboard} | voorkant |  |
+| face n. | front |  |
+| face n. | voorvlak |  |
+| face panel layout | voorvlakuitleg |  |
+| face panel | voorvlakpaneel |  |
+| face piece {eye protector} | gesigstuk |  |
+| face plate {cathode-ray tube} | skerm |  |
+| face plate {television} | voorvlak |  |
+| face plate | stempelplaat |  |
+| face plate | vlakplaat |  |
+| face shear vibration | vlakskuiftrilling |  |
+| face up {letters} | rangskik |  |
+| face v. | afvlak |  |
+| face v. | front |  |
+| face value | sigwaarde |  |
+| face velocity {eg air filter} | voorvlaksnelheid |  |
+| face velocity | vlaksnelheid |  |
+| face-value form | sigwaardevorm |  |
+| facer {letter-sorting machine} | rangskikker |  |
+| facilitating | fasiliterend |  |
+| facilitation | fasilitering |  |
+| facility (amenity) | gerief |  |
+| facility code field | fasiliteitkodeveld |  |
+| facility field | fasiliteitveld |  |
+| facility | fasiliteit |  |
+| facing bit | vlakboor |  |
+| facing tool | vlaksnyer |  |
+| facing {application of layer} | vlakking |  |
+| facing {clothing} | oplegsel |  |
+| facing-up table | rangskiktafel |  |
+| facing | afvlakking, afvlakwerk |  |
+| facing | vlaksny |  |
+| facsimile address | faksimileeadres |  |
+| facsimile discriminator | faksimileediskrimineerder |  |
+| facsimile service | faksimileediens |  |
+| facsimile telegram | faksimileetelegram |  |
+| facsimile telegraph equipment | faksimileetelegraaftoerusting |  |
+| facsimile telegraphy | faksimileetelegrafie |  |
+| facsimile transmission | faksimilee-oorsending |  |
+| facsimile | faksimilee |  |
+| factor analysis {marketing} | faktorontleding |  |
+| factor comparison method | faktorvergelykingmetode |  |
+| factor of safety | veiligheidsfaktor |  |
+| factor | faktor |  |
+| factory inspection {acceptance test} | fabrieksinspeksie |  |
+| factory length {eg cable} | fabriekslengte |  |
+| factual evidence | feitlike getuienis |  |
+| fade down {broadcasting} | afdoof |  |
+| fade in {broadcasting} | indoof |  |
+| fade out {broadcasting} | uitdoof |  |
+| fade up {volume} | opdoof |  |
+| fade {radio programme} | doof |  |
+| fade {signal propagation} | dein |  |
+| fading area | deingebied |  |
+| fading compensation {radio} | deiningkompensasie |  |
+| fading {radio} | deining |  |
+| fail {eg road, foundation} | swig |  |
+| fail {signal, wave} | wegval |  |
+| fail-safe device | veiligfaaltoestel |  |
+| fail | faal |  |
+| fail | weier |  |
+| failed station cut-off key | foutstasie-afsnyknop, foutstasie-afsnyknoppie |  |
+| failing edge {interrupt working} | daalrand |  |
+| failure alarm | onderbrekingsalarm |  |
+| failure alarm | weieringsalarm |  |
+| failure lag relay | trae alarmrele |  |
+| failure locator | falinglokaliseerder |  |
+| failure of service | diensonderbreking |  |
+| failure rate {quality examination} | afkeursyfer |  |
+| failure rate | faalsyfer |  |
+| failure relay | faalrele |  |
+| failure {signals} | wegvalling |  |
+| failure | faling |  |
+| failure | weiering |  |
+| faint speech | dowwe spraak |  |
+| fair curve (smooth curve) | gladde kromme |  |
+| fair wear and tear | billike slytasie |  |
+| fall of chain {block and tackle} | kettingloper |  |
+| fall of potential (potential drop) | potensiaalval |  |
+| fall time | daaltyd |  |
+| fallback rate {analogue modem} | terugvaltempo |  |
+| false balance {duplex} | vals balans |  |
+| false code | vals kode |  |
+| false coin | vals munt |  |
+| false declaration | vals verklaring |  |
+| false engaged test | vals besettoets |  |
+| false entry | vals inskrywing |  |
+| false impulse | vals impuls |  |
+| false operation | vals werking |  |
+| false reversal {final selector} | foutiewe omkering |  |
+| false ring | vals lui |  |
+| false signal | vals sein |  |
+| false signature | vals handtekening |  |
+| false step | foutiewe stap |  |
+| false zero | vals zero |  |
+| falsification | vervalsing |  |
+| falsify {general} | vervals |  |
+| family stamp | gesinseel |  |
+| fan antenna | waaierantenne |  |
+| fan beam {antenna} | waaierbundel |  |
+| fan bearing | waaierlaer |  |
+| fan belt | waaierband |  |
+| fan n. {coil unit} | waaier |  |
+| fan n. | waaier |  |
+| fan out n. {cable, tag block} | uitwaaier |  |
+| fan v. | waaier |  |
+| fan-in n. {logic circuit} | ingangtal |  |
+| fan-out n. {logic circuit} | uitgangtal |  |
+| fan-out n. {logic gates} | uitsettal |  |
+| fanfold tape | waaierplooiband |  |
+| fanlight | bolig |  |
+| fanning strip {cable} | uitwaaierstrook |  |
+| far stroke {eg lightning} | veraf slag |  |
+| far-end balancing | veraf balansering |  |
+| far-end crosstalk | veraf steurspraak |  |
+| far-end pair-to-pair cross-talk | veraf steurspraak tussen pare |  |
+| farm line (party line, rural party line) | plaaslyn |  |
+| farm-line circuit | plaaslynkring |  |
+| farm-line proposal | plaaslynvoorstel |  |
+| farm-line rental | plaaslynhuur |  |
+| farm-line scheme | plaaslynskema |  |
+| farm-line spur | plaaslyntak |  |
+| farmer's pole | plaaslynpaal |  |
+| fascia board {building} | fassiebord |  |
+| fasciculation {cathode-ray tube} | saambondeling |  |
+| fast Fourier transformation | snel Fourier transformasie, vinnige Fourier transformasie |  |
+| fast action | snel werking |  |
+| fast forward {tape recorder} | vinnig vorentoe |  |
+| fast guard-holding and guarding circuit | snel hou-en-waakaarde |  |
+| fast rewind n. | snelterugdraai |  |
+| fast rewind v. | snel terugdraai |  |
+| fast writing speed mode {oscilloscope} | sneltekenmodus |  |
+| fast-forward wind n. | snelvorentoedraai |  |
+| fast-forward wind v. | snelvorentoe draai |  |
+| fast-mode button | snelloopknoppie |  |
+| fast-operating relè (quick-operating relè) | snelaantrekrelé, snelwerkrelé |  |
+| fast-rising edge | snelstygrand |  |
+| fast-select acceptance {Saponet} | snelkiesaanvaarding |  |
+| fast-switching test relay | sneltoetsrele |  |
+| fastener (fastening, fixing) | hegter |  |
+| fastening plate (fixing plate) | hegplaat |  |
+| fatigue strength | vermoeidheidsterkte |  |
+| fatigue test | vermoeidheidstoets |  |
+| fatigue {metal} | vermoeidheid |  |
+| fatigue | vermoeidheid |  |
+| fault advice | foutadvies |  |
+| fault capture | foutvaslegging |  |
+| fault card | foutkaart |  |
+| fault classification | foutindeling |  |
+| fault clerk | foutklerk |  |
+| fault code | foutkode |  |
+| fault condition | fouttoestand |  |
+| fault correction | foutverbetering |  |
+| fault current | foutstroom |  |
+| fault diagnosis | foutdiagnose |  |
+| fault docket | foutvorm |  |
+| fault finding | foutopsporing |  |
+| fault graph | foutgrafiek |  |
+| fault imitation | foutnabootsing |  |
+| fault incidence | foutsyfer |  |
+| fault indication | foutaanwysing |  |
+| fault lamp | foutlamp |  |
+| fault localisation (fault location) | foutlokalisering |  |
+| fault lock-out | foutuitsluiting |  |
+| fault n. | fout |  |
+| fault printout | foutdruksel |  |
+| fault procedure | foutprosedure |  |
+| fault record | foutrekord |  |
+| fault register | foutregister |  |
+| fault return | foutopgawe |  |
+| fault statistics | foutstatistiek |  |
+| fault summary | foutopsomming |  |
+| fault-analysing scheme | foutontleedskema |  |
+| fault-analysis log | foutontledinglog |  |
+| fault-controlling centre | foutbeheersentrum |  |
+| fault-imitation key | foutnabootssleutel |  |
+| faulting duties | fouthersteldiens |  |
+| faulting | foutherstelwerk |  |
+| faulting | foutsoeking |  |
+| faultsman | hersteller |  |
+| faulty apparatus | defekte apparaat |  |
+| faulty cord | defekte snoer |  |
+| faulty line | defekte lyn |  |
+| faulty selection | foutiewe kiesing |  |
+| faulty telephone | defekte telefoon |  |
+| faulty {device} | defek |  |
+| faulty {out of order} | defek, foutief |  |
+| faulty | foutief, verkeerd |  |
+| favourable balance | batige saldo |  |
+| fawn's-foot pattern {axe handle} | bokpootpatroon |  |
+| feasibility study | uitvoerbaarheidstudie, moontlikheidsondersoek, gangbaarheidstudie |  |
+| feather-edge flame | skerprandvlam |  |
+| feature telephone {BTS 60} | fasiliteittelefoon |  |
+| fee determination | geldbepaling |  |
+| fee digit (metering digit) | telsyfer |  |
+| fee information (zone information) | koste-inligting, sone-inligting |  |
+| fee output {ND} | koste-inligting |  |
+| fee switch | kostekieser |  |
+| fee translation | kosteherleiding |  |
+| fee-collecting switch (fee-collecting uniselector) | munttelkieser |  |
+| fee-determining relay | geldbepaalrele |  |
+| fee | geld |  |
+| feed bush (nozzle, register, sprue bush) {injection moulding} | voerbus |  |
+| feed current | voerstroom |  |
+| feed fence | voerleier |  |
+| feed gearbox {milling machine} | voerratkas |  |
+| feed hole | voergat |  |
+| feed hopper | voerlosser |  |
+| feed horn (horn feed) | horinguitstraler |  |
+| feed hot spot {punched-card machine} | voerkragpunt |  |
+| feed lever | voerhefboom |  |
+| feed mechanism | voermeganisme |  |
+| feed n. {antenna} | bestraler |  |
+| feed n. {eg moulding} | toevoer |  |
+| feed n. {eg teleprinter ribbon} | aanskuiwing |  |
+| feed n. {electricity} | voeding |  |
+| feed n. {machine} | voerder |  |
+| feed pawl | voerpal |  |
+| feed pile | voerstapel |  |
+| feed plate | voerplaat |  |
+| feed rack | voerrak |  |
+| feed rake {tape reader} | voerhark |  |
+| feed ratchet | voersperrat |  |
+| feed roller | voerroller |  |
+| feed screw | voerskroef |  |
+| feed selector lever | voerkieshefboom |  |
+| feed spindle | voerspil |  |
+| feed stop {milling machine} | toevoerstop |  |
+| feed suppression {teleprinter tape} | voersperring |  |
+| feed throw-out lever | voerontkoppelhefboom |  |
+| feed throw-out pawl | voerontkoppelpal |  |
+| feed throw-out stop plate | voerontkoppelstopplaat |  |
+| feed v. | voer |  |
+| feed wheel | voerrat |  |
+| feed-determining magnet {submarine cable} | voerbepalingsmagneet |  |
+| feed-hole pitch | voergatafstand |  |
+| feed-line request lamp {LSM} | voerlynnaanvraaglamp |  |
+| feed-link guide | voerskakelleier |  |
+| feed-link restoring spring | voerskakelterugstelveer |  |
+| feed-overload clutch | toevoeroorlaskoppelaar |  |
+| feed-pawl bias arm | voerpalvoorspanningsarm |  |
+| feed-pawl pivot | voerpalspil |  |
+| feed-pawl throw-out rod | voerpalontkoppelstaaf |  |
+| feedback amplifier | terugkoppelversterker |  |
+| feedback circuit {broadcasting} | terugvoerkring |  |
+| feedback coil | terugkoppelspoel |  |
+| feedback correction | terugvoerverbetering |  |
+| feedback path | terugkoppelbaan |  |
+| feedback ratio | terugkoppelverhouding |  |
+| feedback {eg energy} | terugkoppeling |  |
+| feedback {eg information} | terugvoer |  |
+| feedback | reaksie |  |
+| feeder busbar | voergeleistam |  |
+| feeder cell {memory word} | voerdersel |  |
+| feeder end | voerderent |  |
+| feeder plate capacity {printing press} | voerbladkapasiteit |  |
+| feeder ring (feeder track) | voerderring |  |
+| feeder service | aanvoerdiens |  |
+| feeder tip | voerderpunt |  |
+| feeder | voerder, voerleiding |  |
+| feeding belt | voerband |  |
+| feeding bridge (supply bridge) | voerbrug |  |
+| feeding bush | voerbus |  |
+| feeding distance | voerafstand |  |
+| feeding gear wheel | voerrat |  |
+| feeding point | voerpunt |  |
+| feedpoint impedance | voerpuntimpedansie |  |
+| feedshaft | voeras |  |
+| feeler gauge | voeler, voelermaat |  |
+| feeler pawl | voelerpal |  |
+| feeling position | voelstand |  |
+| feet rest (foot rest) | voetrus |  |
+| fell (felling binding, felling simili, simili binding) | simili-omboorsel |  |
+| fell v. | platstik |  |
+| felling stitch {clothing} | platwerksteek |  |
+| felling tread {clothing} | platwerkdraad |  |
+| fellow | genoot |  |
+| felt ink roller | viltinkroller |  |
+| felt insert | viltpit |  |
+| felt lubricator pad | viltsmeerkussing |  |
+| felt pad | viltkussing |  |
+| felt washer | viltwaster |  |
+| felt-tipped pen | viltpuntpen |  |
+| female attendant {cafeteria} | vroulike bediende |  |
+| female connector | oorpasverbinder, sokverbinder |  |
+| female telephonist | telefoniste, vroulike telefonis |  |
+| female thread (internal thread) | binnedraad, moerdraad |  |
+| fence n. {around machinery} | omheining |  |
+| fence v. | draad span |  |
+| fender | modderskerm |  |
+| ferrite bar | ferrietstaaf |  |
+| ferrite bead | ferrietkraal |  |
+| ferrite phase modulator (FPM) | ferrietfasemodulator, FFM |  |
+| ferrite ring core | ferrietringkern |  |
+| ferrite rod antenna | ferrietstaafantenne |  |
+| ferrite-core | ferrietkern |  |
+| ferrite | ferriet |  |
+| ferro-magnetic core | ferromagnetiese kern |  |
+| ferro-magnetic spinel | ferromagnetiese spinel |  |
+| ferrous metal | ysterhoudende metaal |  |
+| ferrule (jointing sleeve) {cable jointing} | lashuls |  |
+| ferrule | beslagpypie |  |
+| ferrule | beslagring |  |
+| fetch {also logics} | gaan haal |  |
+| fettling | afbraming |  |
+| fibre collar | veselkraag |  |
+| fibre coupling disc | veselkoppelskyf |  |
+| fibre insulation | veselisolasie |  |
+| fibre plug | veselprop |  |
+| fibre sleeve | veselhuls |  |
+| fibre-optic cable (optical-fibre cable) | optiesevesel-kabel |  |
+| fibre-tipped pen | veselpuntpen |  |
+| fibreglass wool | veselglaswol |  |
+| fictitious address | denkbeeldige adres |  |
+| fictitious elbow | denkbeeldige elmboog |  |
+| fictitious name | denkbeeldige naam |  |
+| fidelity bond | getrouheidswaarborg |  |
+| fidelity guarantee account | getrouheidswaarborgrekening |  |
+| fidelity {eg sound reproduction} | getrouheid |  |
+| field alignment error {antenna} | veldrigfout |  |
+| field amplitude control <GB> {television} | hoogtereelaar |  |
+| field blanking {television} | rasteronderdrukking |  |
+| field box | veldkis |  |
+| field coil | veldspoel |  |
+| field crops | kontantgewasse |  |
+| field density | velddigtheid |  |
+| field divider {television} | rasterdeler |  |
+| field emission | veldemissie |  |
+| field energisation | veldbekragting |  |
+| field frequency {television} | rasterfrekwensie |  |
+| field intensity (field strength, intensity of field, strength of field) | veldintensiteit, veldsterkte |  |
+| field linearity {television} | rasterlineariteit |  |
+| field magnet | veldmagneet |  |
+| field maintenance | veldinstandhouding |  |
+| field member | raamdeel |  |
+| field of cores | kernveld |  |
+| field of employment (work phase, work sphere) | werksfeer |  |
+| field of vision | gesigsveld |  |
+| field period {television} | rasterduur, rasterperiode |  |
+| field pick-up {eg radio programme} | buiteopname |  |
+| field post office (FPO) | veldposkantoor, VPK |  |
+| field regulator | veldreelaar |  |
+| field retrace | rasterterugslag |  |
+| field rheostat | veldreostaat |  |
+| field scan (field sweep) {television} | rasteraftasting |  |
+| field sensitivity | veldsensitiwiteit |  |
+| field slip {television} | rasterverskuiwing |  |
+| field synchronisation pulse | rastersinchroniseerpuls |  |
+| field synchronisation | rastersinchronisasie |  |
+| field telephone | veldtelefoon |  |
+| field tilt {television} | rastersaagtandkorreksie |  |
+| field time base {television} | rastertydbasis |  |
+| field training | buiteopleiding, veldopleiding |  |
+| field transport box | veldvervoerkis |  |
+| field trial | buiteproef, veldtoets |  |
+| field trial | gebruikstoets |  |
+| field unit | veldeenheid |  |
+| field use | buitegebruik, veldgebruik |  |
+| field winding | veldwikkeling |  |
+| field {television} | raster |  |
+| field-blanking interval | rasteronderdrukpouse, rasteronderdruktussenpoos |  |
+| field-effect transistor | veldeffektransistor |  |
+| field-strength meter | veldsterktemeter |  |
+| field-strength pattern | veldsterktepatroon |  |
+| field-suppression period {television} | rasteronderdrukkingsperiode |  |
+| field-synchronising interval | rastersinchroniseerpouse, rastersinchroniseertussenpoos |  |
+| field-synchronising pulse {television} | rastersinchroniseerpuls |  |
+| field-synchronising signal {television} | rastersinchroniseersein |  |
+| field | veld |  |
+| fieldwork {marketing} | veldwerk |  |
+| fieldwork | buitewerk, veldwerk |  |
+| fieldwork | veldwerk |  |
+| figure of merit {microwave} | merietesyfer |  |
+| figure of merit | gevoeligheidsyfer |  |
+| figure of revolution (solid of revolution) | omwentelingsliggaam |  |
+| figure-eight aerial cable | syferagtlugkabel, syfer 8-lugkabel |  |
+| figures bellcrank | syferkniehefboom |  |
+| figures case control lever | syferkasbeheerhefboom |  |
+| figures case | syferkas |  |
+| figures control lever | syferbeheerhefboom |  |
+| figures mode | syfermodus |  |
+| filament battery | gloeidraadbattery |  |
+| filament circuit | gloeidraadkring |  |
+| filament current drain | gloeidraadstroomverbruik |  |
+| filament current | gloeidraadstroom |  |
+| filament emission | gloeidraademissie |  |
+| filament regulator | gloeidraadreelaar |  |
+| filament resistance | gloeidraadweerstand |  |
+| filament rheostat | gloeidraadreostaat |  |
+| filament transformer | gloeidraadtransformator |  |
+| filament voltage | gloeidraadspanning |  |
+| file cover | leeromslag |  |
+| file handler | leerhanteerder |  |
+| file management (records processing) | rekordverwerking |  |
+| file n. | leer |  |
+| file n. | vyl |  |
+| file number (paper number) | leernommer |  |
+| file organisation {computer} | leerinrigting |  |
+| file v. {application} | indien |  |
+| file v. {claim} | instel |  |
+| file v. {eg telegram} | inlewer |  |
+| file v. {general} | liasseer |  |
+| file v. | vyl |  |
+| file window | leervenster |  |
+| file-handle grip | vylhefgreep |  |
+| filename extension {computer} | leernaamverlenging |  |
+| filing cabinet | liasseerkabinet |  |
+| filing centimetre {filing cabinet} | liasseersentimeter |  |
+| filing rack | liasseerrak |  |
+| filing system | liasseerstelsel |  |
+| filing unit | liasseereenheid |  |
+| filings | vylsels |  |
+| fill {cable} | vulling |  |
+| filler cap | vuldop |  |
+| filler character | vulkarakter |  |
+| filler | vuller |  |
+| fillet of solder | soldeerselfilet |  |
+| fillet {also metal} | filet |  |
+| filleting knife | fileermes |  |
+| filleting {plastering} | skuinstroffel |  |
+| filling valve {sand-blast unit} | vulklep (sandstraaleenheid) |  |
+| fillister-head screw | gleufkopskroef |  |
+| film (movie) | rolprent |  |
+| film analysis | filmontleding |  |
+| film gate | beeldvenster |  |
+| film scanner {television} | filmtaster |  |
+| film stock {unexposed} | onbeligte film |  |
+| film stock | filmvoorraad |  |
+| film transport mechanism | filmaandraaimeganisme, filmvoermeganisme |  |
+| filming technique | verfilmtegniek |  |
+| filter attenuation band | filterverswakkingsband |  |
+| filter bandwidth | filterbandbreedte |  |
+| filter bay | filterraam |  |
+| filter capacitor | filterkapasitor |  |
+| filter choke | filtersmoorspoel |  |
+| filter circuit | filterkring |  |
+| filter component | filteronderdeel |  |
+| filter discrimination | filterdiskriminasie |  |
+| filter frame | filterraam |  |
+| filter hut | filterhut |  |
+| filter mat | filtermat |  |
+| filter n. | filter |  |
+| filter unit | filtereenheid |  |
+| filter v. | filtreer |  |
+| filtering medium | filtreermedium |  |
+| fin {also on air-cooled engine} | vin |  |
+| final account | finale rekening |  |
+| final amplifier | eindversterker |  |
+| final balance {duplex} | eindbalans |  |
+| final charge {capacitor} | eindlading |  |
+| final clearance {of post office box} | laaste ligting |  |
+| final date {eg contract} | sperdatum |  |
+| final delivery {of works} | finale ontvangs |  |
+| final disposition {flow chart} | eindopstelling |  |
+| final drawing (finished drawing) | finale tekening |  |
+| final extension | eindbylyn |  |
+| final formula | eindformule |  |
+| final price | eindprys |  |
+| final reading | eindlesing |  |
+| final reminder | laaste aanmaning |  |
+| final report | eindverslag |  |
+| final route | finale roete |  |
+| final selector (house-line selector) {PABX} | eindkieser |  |
+| final selector (terminal selector) | eindkieser |  |
+| final selector {automatic telephone} | eindkieser |  |
+| final sequestration | finale sekwestrasie |  |
+| final shipment | finale besending |  |
+| final stage {amplifier} | eindtrap |  |
+| final test | eindtoets |  |
+| final total | eindtotaal |  |
+| final-payment certificate | sertifikaat van laaste betaling |  |
+| final-payment record {computer} | finalebetaling-rekord |  |
+| final-selector control set (FSCS) | eindkieser-beheerstel, EKBS |  |
+| final-selector group | eindkiesergroep |  |
+| final-selector multiple | eindkiesermultipel |  |
+| final-selector routiner | eindkieserroetinetoetser |  |
+| finance charge | finansieringskoste |  |
+| financial allocation {job control system} | finansiele toewysing |  |
+| financial approval | finansiele goedkeuring |  |
+| financial assistance | finansiele hulp, geldelike bystand |  |
+| financial commitment | finansiele verpligting, geldelike verpligting |  |
+| financial difficulties | finansiele moeilikhede, geldelike moeilikhede |  |
+| financial duty | finansiele diens |  |
+| financial incentive | finansiele aansporing |  |
+| financial limits | geldelike perke |  |
+| financial position | finansiele toestand, geldelike toestand |  |
+| financial regulation | finansiele regulasie |  |
+| financial stability | finansiele stabiliteit, geldelike stabiliteit |  |
+| financial standing | finansiele status, geldelike status |  |
+| financial year | boekjaar |  |
+| finder coil (search coil) {automatic telephone} | soekspoel |  |
+| finder control circuit {automatic telephone} | vinderbeheerkring |  |
+| finder {automatic telephone} | vinder |  |
+| finding (finding action) {automatic telephone} | vindwerking |  |
+| fine assembly work {human resources} | fyn monteerwerk |  |
+| fine control | fyn kontrole |  |
+| fine divider {Wandel und Golterman Pegelmesser} | fynstelskakelaar |  |
+| fine limits | presiese grense |  |
+| fine scanning | fyn aftasting |  |
+| fine-adjustment screw | fynstelskroef |  |
+| fine-feed range | fyntoevoerstrek, fynvoerstrek |  |
+| fine-grain wheel | fynkorrelslypwiel |  |
+| fine-tuning control | fyninstemkontrole |  |
+| fine-wire coil | fyndraadspoel |  |
+| fine | boete |  |
+| finely adjusted | fyn gestel |  |
+| fineness of scanning | aftasfynheid |  |
+| finger and thumb method | vinger-en-duimmetode |  |
+| finger block | vingerblokkie |  |
+| finger cot {for handling of rele contact springs} | vingerkous |  |
+| finger dressing | vingerwonddekking |  |
+| finger plate | vingerskyf |  |
+| finger reset lever {eg teleprinter} | vingerterugstelhefboom |  |
+| finger stop {quadrant dial} | vingerstop |  |
+| finger wipe n. {cable jointing} | vingerveeglas |  |
+| finger-guide pin | vingerleipen |  |
+| finger-setting blade lever {eg teleprinter} | vingerstelbladhefboom |  |
+| finger-setting blade {eg teleprinter} | vingerstelblad |  |
+| finger-setting pin {eg teleprinter} | vingerstelpen |  |
+| finger-tight | vingervas |  |
+| finger-wipe v. | vingervee |  |
+| fingerprint | vingerafdruk |  |
+| finish end {coil} | endpunt |  |
+| finish n. {paint} | afwerklaag |  |
+| finish n. | afwerking |  |
+| finish n. | glans |  |
+| finish v. | afwerk |  |
+| finished garment | voltooide kledingstuk |  |
+| finished width {clothing} | klaarbreedte |  |
+| finishing cut | afwerksny |  |
+| finishing event {PNA} | slotgebeurtenis |  |
+| finishing rate {battery charging} | eindtempo |  |
+| finishing signal {maritime radiotelephone service} | afsluitsein |  |
+| finite length | eindige lengte |  |
+| finite value | eindige waarde |  |
+| fire (ignite) v. {fuel mixture} | ontsteek |  |
+| fire alarm | brandalarm |  |
+| fire bell | brandklok |  |
+| fire blanket | brandkombers |  |
+| fire devil (fire pot) | vuurkonka |  |
+| fire drill | brandoptrede |  |
+| fire escape | brandtrap |  |
+| fire exit | branduitgang |  |
+| fire extinguisher | brandblusser |  |
+| fire hazard | brandgevaar |  |
+| fire hose | brandslang |  |
+| fire hydrant (hydrant) | brandkraan |  |
+| fire n. {controlled} | vuur |  |
+| fire n. {uncontrolled} | brand |  |
+| fire precaution | brandvoorsorg, voorsorg teen brand |  |
+| fire risk | brandgevaar, brandrisiko |  |
+| fire shutter {projector} | hitteskerm |  |
+| fire station | brandpos |  |
+| fire station | brandweerstasie |  |
+| fire telephone | brandtelefoon |  |
+| fire v. {eg semiconductor} | sneller |  |
+| fire v. {engine} | vat |  |
+| fire v. | laat loop |  |
+| fire-alarm call point | brandalarmkassie |  |
+| fire-alarm signal | brandalarmsein |  |
+| fire-alarm system | brandalarmstelsel |  |
+| fire-detection wire | branddeteksiedraad, brandklikdraad |  |
+| fire-fighting equipment | brandblustoerusting |  |
+| fire-proof | brandbestand |  |
+| fire-proof | vuurvas |  |
+| fire-retardant adhesive | brandvertraagkleefstof |  |
+| fire-retardant jacket | brandvertraagmantel |  |
+| firebreak | voorbrand |  |
+| firebrick | vuurvaste steen |  |
+| firestat {air conditioning} | branddetektor |  |
+| firing angle {SCR} | snellerhoek |  |
+| firing capacity {shot-blasting machine} | skietvermoe |  |
+| firing current | snellerstroom |  |
+| firing handle {shot-blasting machine} | skiethandvatsel |  |
+| firing order | ontsteekorde, vonkorde |  |
+| firing potential | ontsteekspanning |  |
+| firing voltage {semiconductor} | snellerspanning |  |
+| firm delivery date | vaste afleweringsdatum |  |
+| firm-quotation works | vastekwotasie-werke |  |
+| firmer chisel | steekbeitel |  |
+| firmware {computer} | fermware |  |
+| first Fresnel-zone clearance | eerste-Fresnelsoneruimte |  |
+| first aid | eerstehulp, noodhulp |  |
+| first choice | eerste keuse |  |
+| first come, first served | eerste daar, eerste klaar |  |
+| first delivery {of works} | eerste ontvangs |  |
+| first detector | eerste detektor |  |
+| first field (odd field) | eerste raster, onewe raster |  |
+| first light on/last light off operation | eerste-lig-aan/laaste-lig-af-werking |  |
+| first name | voornaam |  |
+| first selector | eerstekieser |  |
+| first-aid box | noodhulpkissie |  |
+| first-aid cabinet | noodhulpkas |  |
+| first-aid instructions | noodhulpinstruksies |  |
+| first-aid outfit | eerstehulpstel |  |
+| first-aid training | eerstehulpopleiding |  |
+| first-angle projection | eerstehoekse projeksie |  |
+| first-code selector rack | eerstekodekieserraam |  |
+| first-code selector | eerstekode-kieser |  |
+| first-cost value <see - invoice value> | faktuurwaarde |  |
+| first-day cover | eerstedag-koevert |  |
+| first-generation image {film} | eerstegenerasiebeeld |  |
+| first-group modulation | eerstegroep-modulasie |  |
+| first-group selector | eerstegroep-kieser |  |
+| first-impulse distortion | eerste-impulsvervorming |  |
+| first-level supervisor (first-line supervisor) | eerstevlaktoesighouer |  |
+| first-line finder | eerstelynvinder |  |
+| first-numerical selector | eerstesyfer-kieser |  |
+| first-order analysis | eerste-order-ontleding |  |
+| fish glue | vislym |  |
+| fishbone antenna | visgraatantenne |  |
+| fishing registration number | vissersregistrasienommer |  |
+| fishplate {scaffolding} | spalkplaat |  |
+| fishplate | lasplaat |  |
+| fishtail | swaelstert |  |
+| fissured formation | spleetformasie |  |
+| fit for reissue | geskik vir heruitreiking |  |
+| fit v. | pas |  |
+| fit v. | pasmaak |  |
+| fitted carrying case | inpastas |  |
+| fitter {telephone} | monteur |  |
+| fitter's cable (indoor cable) | binnekabel, binnenshuise kabel |  |
+| fitter's store | monteurstoor |  |
+| fitter | passer |  |
+| fitting clamp | monteerklamp |  |
+| fitting lid {food counter} | pasdeksel |  |
+| fitting staff | monteerpersoneel |  |
+| fitting {eg for electric lamps} | montasie |  |
+| fitting | paswerk |  |
+| fitting | toebehoorsel |  |
+| fittings and fixtures | los en vaste toebehore |  |
+| fittings | toebehore |  |
+| five count | vyftelling |  |
+| five counter | vyfteller |  |
+| five-digit numbering scheme | vyfsyfernommerstelsel |  |
+| five-riser staircase graph | vyfklimmertrapgrafiek |  |
+| five-unit code | vyfeenheidkode |  |
+| fix (secure) | bevestig, vasmaak, vassit |  |
+| fix {software} | vasle |  |
+| fixed agreement period | vasgestelde kontraktermyn |  |
+| fixed antenna | vaste antenne |  |
+| fixed capacitor | vaste kapasitor |  |
+| fixed charges | vasgestelde koste |  |
+| fixed contact | vaste kontak |  |
+| fixed cradle stem | vaste mikstam |  |
+| fixed cradle | vaste mik |  |
+| fixed date | vasgestelde datum |  |
+| fixed equaliser | vaste effenaar |  |
+| fixed establishment | vaste diensstaat |  |
+| fixed image | vaste beeld |  |
+| fixed load | vaste belasting |  |
+| fixed matrix | vaste matriks |  |
+| fixed minimum | vasgestelde minimum |  |
+| fixed oscillator | vaste ossillator |  |
+| fixed pad {transmission} | vaste lid |  |
+| fixed parity | vaste pariteit |  |
+| fixed press platen | vaste persplaat |  |
+| fixed registration fee | vaste registrasiegeld |  |
+| fixed resistance | vaste weerstand |  |
+| fixed seat {pole arm} | vaste saal |  |
+| fixed short (fixed short circuit) {microwave} | vaste kortsluiting |  |
+| fixed side | vaste kant |  |
+| fixed spring anchor | vaste veeranker |  |
+| fixed station | vaste stasie |  |
+| fixed vane | vaste vaan |  |
+| fixed-antenna direction finder | vaste-antenne-rigtingsoeker |  |
+| fixed-bias method | vastevoorspanningmetode |  |
+| fixed-break corrector | vasteverbrekingkorrektor |  |
+| fixed-break impulse corrector | korrektor vir vaste impulsverbreektyd, vasteverbreking-impulskorrektor |  |
+| fixed-break output corrector | vasteverbrekingkorrektor |  |
+| fixed-finger tooth rest {grinding machine} | vastevingertandsteun |  |
+| fixed-frequency transmitter | vastefrekwensiesender |  |
+| fixed-head disk-memory unit | vastekopskyfgeheue-eenheid |  |
+| fixed-head shaper | vastekoparmskaaf |  |
+| fixed-period metering rate | vasteperiode-teltarief |  |
+| fixed-station licence | vastestasielisensie |  |
+| fixed-text announcer | vasteteksaankondiger |  |
+| fixed-time fee {call} | afspraakkoste |  |
+| fixed-time messenger-service call | afspraakbodediensoproep |  |
+| fixed-time personal call | persoonlike afspraakoproep |  |
+| fixed-time trunk call | afspraakhooflynoproep |  |
+| fixing bolt | hegbout |  |
+| fixing clip | hegklem |  |
+| fixing fillet | heglat, hegstrook |  |
+| fixing lug | hegoor |  |
+| fixing nut | hegmoer |  |
+| fixing saddle | hegsaal |  |
+| fixing screw (securing screw) | hegskroef |  |
+| fixture (shelf) {store} | rak |  |
+| fixture body {jig} | setklemromp |  |
+| fixture {milling} | setklem |  |
+| fixtures | vaste toebehore |  |
+| flag lever | vlaghefboom |  |
+| flag sequence | merkerreeks |  |
+| flag {computer} | merker |  |
+| flag {file} | vlaggie |  |
+| flag {television camera} | lensskerm |  |
+| flag-type indicator | vlagaanwyser |  |
+| flame-proof telephone | vlamdigte telefoon |  |
+| flame-resisting paint | vlambestande verf |  |
+| flame-spray v. | vlamspuit |  |
+| flammable (inflammable) | ontvlambaar, vlambaar |  |
+| flammable materials (inflammable materials) | ontvlambare stowwe, vlambare stowwe |  |
+| flammable range {of flammable mixture} | vlamgrensstrek |  |
+| flange adaptor | flenspasstuk |  |
+| flange base | flensvoetstuk |  |
+| flange plate | flensplaat |  |
+| flange wipe {cable jointing} | flensveeg |  |
+| flange | flens |  |
+| flanged pipe | flenspyp |  |
+| flanged shoe | flensskoen |  |
+| flank steepness | flanksteilheid |  |
+| flank | flank |  |
+| flanking impedance | flankimpedansie |  |
+| flap attenuator {waveguide} | klapverswakker |  |
+| flap indicator | klapaanwyser |  |
+| flap n. {also of pocket} | klap |  |
+| flap n. {envelope} | flap |  |
+| flap valve | skarnierklep |  |
+| flare (horn) | horingantenne |  |
+| flared cape | klokmantel |  |
+| flared diaphragm | klokdiafragma |  |
+| flaring cup wheel | klokwiel |  |
+| flaring cup {grinding wheel} | uitklokkom |  |
+| flash gas {in air-conditioning system} | vluggas |  |
+| flash line | oorloopmateriaallyn |  |
+| flash magnetisation | flitsmagnetisering |  |
+| flash-arc (Rocky Point effect) | Rocky Point effek |  |
+| flash-nickelled brass | flitsvernikkelde geelkoper |  |
+| flash | flits |  |
+| flashing circuit | flitskring |  |
+| flashing coloured lamp | flitsende kleurlamp |  |
+| flashing illuminated number code | flitsende verligte nommerkode |  |
+| flashing key | flitssleutel |  |
+| flashing recall {switchboard} | flitsterugroep |  |
+| flashing signal | flitssein |  |
+| flashing {roof} | voegskort |  |
+| flashing {signal} | flitsing |  |
+| flat alarm | faalalarm |  |
+| flat amplifier | gelykversterker |  |
+| flat bandwidth condition | platbandbreedtetoestand |  |
+| flat bearing spring | plat draveer |  |
+| flat bed {sheet-metal work} | plat bedding |  |
+| flat cable | plat kabel |  |
+| flat cell | afgeloopte sel, pap sel |  |
+| flat drill (spear-point drill) | platboor |  |
+| flat fading | gelykdeining |  |
+| flat file | plat vyl |  |
+| flat form {curve} | plat vorm |  |
+| flat frequency band | plat frekwensieband |  |
+| flat gain control | gelykwinsbeheer |  |
+| flat intermodulation noise | plat intermodulasieruis |  |
+| flat iron | plat yster |  |
+| flat measurement {eg noise} | gelykmeting |  |
+| flat n. {contrast} | vlak |  |
+| flat n. {eg nut} | plat kant |  |
+| flat noise | gelyk ruis, plat ruis |  |
+| flat nut | plat moer |  |
+| flat random noise | gelyk toevallige ruis |  |
+| flat rate | vaste tarief |  |
+| flat rating {human resources} | uniforme aanslag |  |
+| flat regulating amplifier | gelykreelversterker |  |
+| flat regulating network | gelykreelnetwerk |  |
+| flat rele (flat-type rele) | plat rele |  |
+| flat spring | plat veer |  |
+| flat surface | plat vlak |  |
+| flat thermal noise | gelyk termiese ruis |  |
+| flat top {reflecting material} | gladde oppervlak |  |
+| flat tuning | bree instemming |  |
+| flat washer | plat waster |  |
+| flat work {sheet-metal work} | platwerk |  |
+| flat-bed glazing | vlakglansing |  |
+| flat-bottom cutter | platboomfrees |  |
+| flat-bottom drill | platboomboor |  |
+| flat-bottomed hole | platboomgat |  |
+| flat-earth condition | plataardetoestand |  |
+| flat-gain pilot current | gelykwinsloodsstroom |  |
+| flat-head nail | platkopspyker |  |
+| flat-iron brace | platysterverspanstuk |  |
+| flat-nose nozzle | plat nossel |  |
+| flat-nose pliers | platbektang |  |
+| flat-pilot alarm | gelykloods-alarm |  |
+| flat-pilot frequency | gelykloodsfrekwensie |  |
+| flat-pilot | gelykloods |  |
+| flat-press stamp | platpersseel |  |
+| flat-rate exchange | vastetariefsentrale |  |
+| flat-sided tap | platkanttap |  |
+| flat-strip torsion spring | platstrookwringveer |  |
+| flat-top antenna (L antenna, T antenna) | plattopantenne, L-antenne, T-antenne |  |
+| flat-top reflecting material | gladdevlakreflekteermateriaal |  |
+| flatness {eg spectrum analyser} | bree instemming |  |
+| flatness {of floor measured in mm} | platheid |  |
+| flattening {oscilloscope trace} | afplatting |  |
+| flaw | gebrek |  |
+| fleeting spring | swikveer |  |
+| fleeting start condition | vlietende aansittoestand |  |
+| fleeting-type thermal rele (toggle-type thermal rele) | swiktermorele |  |
+| flesh split n. {leather} | vleissplit |  |
+| flesh-split adj. {leather} | vleisgesplits |  |
+| flex (flexible cord) | elektriese snoer |  |
+| flex head {body and frame straightener} | meegeekop |  |
+| flexibility {cable network} | aanpasbaarheid |  |
+| flexibility | buigsaamheid |  |
+| flexible (that can be flexed) | buigbaar, wat gebuig kan word |  |
+| flexible cable guide | buigsame kabelleier |  |
+| flexible cable | buigsame kabel |  |
+| flexible conductor | buigsame geleier |  |
+| flexible coupling | buigsame koppeling |  |
+| flexible lead | buigsame leiding |  |
+| flexible reed | buigsame tong |  |
+| flexible remuneration | buigsame vergoeding |  |
+| flexible shaft | buigsame as |  |
+| flexible system | aanpasbare stelsel |  |
+| flexible waveguide | buigbare golfleier |  |
+| flexible wire | buigsame draad |  |
+| flexible {cable, cord, etc} | buigsaam |  |
+| flexible {coupling} | elasties |  |
+| flexible {system} | aanpasbaar |  |
+| flexible-drive portable grinder | draslypmasjien met buigsame aandrywing |  |
+| flexibly mounted | beweegbaar gemonteer |  |
+| flexural vibration | buigtrilling |  |
+| flick contact action | flikkontakwerking |  |
+| flick n. | flik |  |
+| flick v. | flik |  |
+| flicker NU tone | dooietoonflikkering |  |
+| flicker earth | flikkeraarde |  |
+| flicker effect | flikkereffek |  |
+| flicker {television} | flikkering |  |
+| flickering lamp | flikkerlamp |  |
+| flimsy | vliespapier |  |
+| flip-chart calendar | blaaibordkalender |  |
+| flip-chart paper | blaaibordpapier |  |
+| flip-flop (toggle) {logic circuitry} | wipkring |  |
+| float bowl | vlotterbak |  |
+| float chamber | vlotterkamer |  |
+| float charging (floating) {battery} | vlotlaaiing |  |
+| float finish | strykafwerking |  |
+| float n. {carburettor} | vlotter |  |
+| float n. {front-end loader} | skophoogte |  |
+| float n. {of address, data bus} | vlotter |  |
+| float position {liquid-level indication} | vlotterstand |  |
+| float position {switch} | vlotlaaistand |  |
+| float v. (take to a high-impedance state, take to a neutral state) {logic} | na 'n hoe impedansie neem |  |
+| float v. {battery} | vlotlaai |  |
+| float v. {battery} | vlottend verbind |  |
+| float v. {contact spring} | vlotter |  |
+| float voltage | vlotspanning |  |
+| floating DVM (unearthed DVM) | ongeaarde SVM |  |
+| floating arm | vry arm |  |
+| floating battery | vlottende battery |  |
+| floating clamp {jig} | vry klamp |  |
+| floating decimal point | drywende desimale punt |  |
+| floating grid | vry rooster |  |
+| floating input impedance | swewende ingangsimpedansie |  |
+| floating jaw {jig} | vry kaak |  |
+| floating reamer holder | drywende ruimerhouer |  |
+| floating remittance | kerende geldsending |  |
+| floating service {battery} | vlottende gebruik |  |
+| floating threshold | swewende drempel |  |
+| floating {eg amplifier input} | ongeaard |  |
+| floating-battery power scheme | vlottendebattery-kragstelsel |  |
+| floating-battery system | vlottendebattery-stelsel |  |
+| floating-point arithmetic | sweefpuntrekenkunde |  |
+| flooded chiller | vloeistofgevulde killer |  |
+| flooded cooler | vloeistofgevulde koeler |  |
+| flooded suction {pumps} | vloedsuiging |  |
+| floodlight | spreilig |  |
+| floodlighting | vloedverligting |  |
+| floor alarm | vloeralarm |  |
+| floor angle piece | vloerhoekstuk |  |
+| floor bed | vloerbedding |  |
+| floor cable | verdiepingkabel |  |
+| floor distribution box | vloerverdeelkas |  |
+| floor layout (floor plan) | vloerplan, vloeruitleg |  |
+| floor pedestal drilling machine | vloerstaanboor |  |
+| floor sealant (floor sealer) | vloerseëlmiddel |  |
+| floor slab | vloerblad |  |
+| floor {of a room} | vloer |  |
+| floor-mounted equipment | vloertoerusting |  |
+| floor-pattern cord-type switchboard | vloermodel snoertipe skakelbord |  |
+| floor-pattern switchboard | vloermodelskakelbord, vloerskakelbord |  |
+| floor-standing cabinet model | vloerkabinetmodel |  |
+| floor-to-ceiling wardrobe | volhoogtehangkas |  |
+| floor | verdieping |  |
+| floppy (floppy disk) <see - disket> | disket |  |
+| flour size {grinding-wheel grain} | poeiergraad |  |
+| flow chart | verloopkaart, vloeikaart |  |
+| flow chart | vloeidiagram |  |
+| flow control | vloeibeheer |  |
+| flow process chart | vloeiproseskaart |  |
+| flow soldering {method} | vloeisoldering |  |
+| flow-control packet | vloeibeheerpakkie |  |
+| flow-control-parameters selection | vloeibeheerparameterkiesing |  |
+| flow | vloei |  |
+| flowers of selenium | blomseleen |  |
+| fluctuate | fluktueer, skommel, wissel |  |
+| fluctuation | fluktuasie, skommeling, wisseling |  |
+| fluid coupling (hydraulic coupling) | hidrouliese koppeling |  |
+| fluid drive | hidrouliese aandrywing |  |
+| fluoresce | fluoresseer |  |
+| fluorescence | fluoressensie |  |
+| fluorescent glow | fluoressensiegloed |  |
+| fluorescent light | fluoresseerlig |  |
+| fluorescent lighting | fluoressensieverligting |  |
+| fluorescent screen (luminous screen) | fluoresseerskerm |  |
+| fluorescent spot | fluoresseerstip |  |
+| fluorescent tube | fluoresseerbuis |  |
+| flush lavatory | spoeltoilet |  |
+| flush pin gauge | vlakpenmaat |  |
+| flush switch | vlakskakelaar |  |
+| flush wipe {cable jointing} | gelykveeg |  |
+| flush {Saponet} | uitgooi |  |
+| flute grinding wheel | groefslypwiel |  |
+| flute {drill} | groef |  |
+| fluted cap | groeftap |  |
+| flutter effect | fladdereffek, fladdering |  |
+| flux density | vloeddigtheid |  |
+| flux distribution | vloedverdeling |  |
+| flux leakage | vloedlek |  |
+| flux line | vloedlyn |  |
+| flux linkage | vloedkoppeling |  |
+| flux n. {electricity} | vloed |  |
+| flux n. {soldering} | smeltmiddel |  |
+| flux v. | bevloed |  |
+| flux-cored wire | vloeimiddelkerndraad |  |
+| fly dresser {angling} | vliegbinder |  |
+| fly leaf | binneskutblad |  |
+| fly press | skroefpers |  |
+| fly-cutter | swaaisnyer |  |
+| fly-in tour | vliegtoer |  |
+| flyback <GB> {television} | terugslag |  |
+| flying head {magnetic drum} | sweefkop |  |
+| flying stay (overhead stay) | oorhoofse anker |  |
+| flying survey | vliegopname |  |
+| flying-spot scanner {television} | stiptaster |  |
+| flyweight | vlieggewig |  |
+| flywheel | vliegwiel |  |
+| foam fire extinguisher | skuimbrandblusser, skuimblusser |  |
+| foam insulation | skuimisolasie |  |
+| foam | skuim |  |
+| foaming resistance | skuimweerstand |  |
+| fob pocket {trousers} | geldsakkie |  |
+| focus control | fokuskontrole |  |
+| focus group interview {human resources} | fokusgroeponderhoud |  |
+| focus group interview {marketing} | fokusgroeponderhoud |  |
+| focus n. | brandpunt, fokus |  |
+| focus v. | fokus, fokusseer, skerp stel |  |
+| focusing coil | fokusseerspoel |  |
+| focusing electrode | fokusseerelektrode |  |
+| focusing magnet | fokusseermagneet |  |
+| focusing mechanism | fokusseermeganisme |  |
+| focusing voltage | fokusseerspanning |  |
+| focusing | fokussering |  |
+| foil | foelie |  |
+| fold-back switching | terugvouskakeling |  |
+| fold-in section {receipt book} | invoudeel |  |
+| folded binary coding (symmetrical binary coding) | simmetriese binere kodering |  |
+| folded dipole | omgebuigde dipool |  |
+| folder card {philately} | voukaart |  |
+| folding blade {sheet-metal work} | voulem |  |
+| folding brake {sheet-metal work} | voupers |  |
+| folio | foliovel |  |
+| follow-on call | volgoproep |  |
+| follow-up action | opvolgoptrede |  |
+| follow-up planning {medical} | opvolgbeplanning |  |
+| follow-up scraper | naskraper |  |
+| follow-up servo | volgservo |  |
+| follower plate {lock} | volgplaat |  |
+| follower {also lock} | volger |  |
+| follower | volger |  |
+| following feed wheel | volgvoerrat |  |
+| food container insert {food counter} | inpaskosbak |  |
+| foolscap book | folioboek |  |
+| foot {bulb} | stam |  |
+| foot-controlled device | voetbeheerde toestel |  |
+| foot-end unit | voetenteenheid |  |
+| foot-operated device (pedal device) | traptoestel |  |
+| foothold | vastrapplek |  |
+| footrail | voetreling |  |
+| footrest | voetrus |  |
+| footshaft | voetas |  |
+| footway chamber | sypaadjieput |  |
+| footway manhole | sypaadjiemangat |  |
+| footway-manhole roof beam | sypaadjiemangatdakbalk |  |
+| for attention | vir aandag |  |
+| for guidance | vir leiding |  |
+| for perusal | ter insae |  |
+| for prompt disposal | vir onmiddellike afhandeling |  |
+| forage cap | veldmus |  |
+| forbidden period | verbiedperiode |  |
+| forbidden region {also semiconductor} | verbode gebied |  |
+| forbidden state | verbode stand |  |
+| force fit | drukpassing |  |
+| force majeure | force majeure, oormag, vis major |  |
+| force of gravity | swaartekrag |  |
+| force of repulsion | afstootkrag |  |
+| force vector | kragvektor |  |
+| force {mechanics} | fors |  |
+| force-feed lubrication | druksmering |  |
+| force-greased bearing | druksmeerlaer |  |
+| forced air-cooled | waaierverkoel |  |
+| forced air-cooling | waaierverkoeling |  |
+| forced bond | gedwonge deurverbinding |  |
+| forced commutation | gedwonge kommutering |  |
+| forced current sharing | gedwonge stroomdeling |  |
+| forced draught | geforseerde trek |  |
+| forced magnetisation | gedwonge magnetisering |  |
+| forced oscillation | gedwonge ossillasie |  |
+| forced release {automatic telephone} | gedwonge vrymaking |  |
+| forced-air circulation | forseerlugsirkulasie |  |
+| forced-air cooling | forseerlugverkoeling |  |
+| forced-air drying | forseerlugdroging |  |
+| forced-feed lubrication | gereelde druksmering |  |
+| forced-release period (throw-out period) | gedwongevrymaak-tyd |  |
+| forced | gedwonge |  |
+| forearm | onderarm, voorarm |  |
+| forecast figure (development forecast figure) | voorspellingsyfer |  |
+| forecast {also development} | voorspel |  |
+| forecast {result} | vooruitskatting |  |
+| forecasting {marketing} | vooruitskatting |  |
+| forecasting {process} | vooruitskatting |  |
+| foreground reflection | voorgrondkaatsing |  |
+| foreground scatter | nabystrooiing |  |
+| foreign assets | buitelandse bates |  |
+| foreign call | buitelandse oproep |  |
+| foreign country | vreemde land |  |
+| foreign currency translation effects {financial statements} | valutaverskille by omrekening |  |
+| foreign current | vreemde stroom |  |
+| foreign element {marketing} | vreemde element |  |
+| foreign element | vreemde element |  |
+| foreign feed {exchange} | vreemde leiding |  |
+| foreign feed | vreemde voeding |  |
+| foreign liabilities | buitelandse laste |  |
+| foreign mail (foreign post) | buitelandse pos |  |
+| foreign material (foreign matter) | vreemde stof |  |
+| foreign money order | buitelandse poswissel |  |
+| foreign parcel advice | buitelandse pakketadvies |  |
+| foreign rate | buitelandse tarief |  |
+| foreign telegram | buitelandse telegram |  |
+| foreign traffic | buitelandse verkeer |  |
+| foreman | voorman |  |
+| forge n. | smidsherd |  |
+| forge n. | smidswinkel |  |
+| forge v. | smee |  |
+| forge v. | vervals |  |
+| forgery | vervalsing |  |
+| forging | smeedsel |  |
+| fork n. {fork-lift truck} | vurktand |  |
+| fork n. {trousers} | bopunt van binnepypnaat |  |
+| fork n. | vurk |  |
+| fork relay | vurkrele |  |
+| forked cam follower | vurknokvolger |  |
+| forked joint | vurklas |  |
+| forklift | vurkhyser |  |
+| form bar | vormstaaf |  |
+| form cutter (profile cutter) | profielfrees |  |
+| form design | vormontwerp |  |
+| form factor | vormfaktor |  |
+| form feed | vormvoer |  |
+| form gauge | profielmaat |  |
+| form letter | standaard brief |  |
+| form of declaration | verklaringsvorm |  |
+| form of order | opdragvorm |  |
+| form out {cable jointing} | uitbind |  |
+| form out {eg harness} | vorm |  |
+| form tool | profielbeitel |  |
+| form-relieved cutter | masjienteruggesnyde beitel |  |
+| form | vorm |  |
+| form | vorm |  |
+| formal tender | formele tender |  |
+| format effector | formaatbeheerkarakter |  |
+| format identifier | formaatidentifiseerder |  |
+| format n. | formaat |  |
+| format v. | formateer |  |
+| formation time | vormtyd |  |
+| formatter | formateerder |  |
+| former blade | vormlem |  |
+| former {electricity} | vorm |  |
+| former-wound coil | vormspoel |  |
+| forming agent | vormmiddel |  |
+| forming beam | vormbalk |  |
+| forming board | vormbord |  |
+| forming current pulse | vormstroompuls |  |
+| formula | formule |  |
+| fortuitous distortion | onreelmatige vervorming |  |
+| forward (reforward) | nastuur |  |
+| forward AFC | heen-OFB |  |
+| forward and backward oscillation | vorentoe-en-agtertoe-ossillasie |  |
+| forward bias n. | meevoorspanning |  |
+| forward bias v. | meevoorspan |  |
+| forward biased adj. | meevoorgespan |  |
+| forward current transfer characteristic curve | heenstroomoordragkenkromme |  |
+| forward curved fan | skepbladwaaier |  |
+| forward direction signal | heensein |  |
+| forward direction | heenrigting |  |
+| forward exchange cover | valutatermynversekering, deviesetermynversekering |  |
+| forward feed | vorentoevoer |  |
+| forward hold | heenbesethouding |  |
+| forward lash | heenslag |  |
+| forward loss | heenverlies |  |
+| forward mail matter | deurgaande posstukke |  |
+| forward mail | deurgaande pos |  |
+| forward net | vorentoenet |  |
+| forward power | voorwaartse krag |  |
+| forward recall signal | heenterugroepsein |  |
+| forward resistance | heenweerstand |  |
+| forward scattering | voorwaartse strooiing |  |
+| forward signalling | heenseining |  |
+| forward slash {computer} | vorentoe skuinsstreep |  |
+| forward stop {dial} | heenstop, vorentoestop |  |
+| forward stroke | heenslag |  |
+| forward tracing {of a call} | heensporing |  |
+| forward voltage gain | vorentoespanningswins |  |
+| forward wave {transmission} | heengolf |  |
+| forward-acknowledge signal | heenerkensein |  |
+| forward-acting mechanism {uniselector} | stootmeganisme |  |
+| forward-biased diode | meevoorgespanne diode |  |
+| forward-blocking characteristic | heenspereienskap |  |
+| forward-current transfer characteristic | heenstroomoordragkenkromme |  |
+| forward-current wave | heenstroomgolf |  |
+| forward-curved centrifugal fan | sentrifugale skepbladwaaier |  |
+| forward-transfer signal | heenoorplaassein |  |
+| forward | aanstuur |  |
+| forwarded mail | aangestuurde pos |  |
+| forwarded phonogram | aangestuurde fonogram |  |
+| forwarded telegram | aangestuurde telegram |  |
+| forwarded telegraph traffic | aangestuurde telegraafverkeer |  |
+| forwarding address | aanstuuradres |  |
+| forwarding charge | aanstuurkoste |  |
+| forwarding office | aanstuurkantoor |  |
+| forwarding office | deursendingskantoor |  |
+| forwarding | deursending |  |
+| foundation | fondament, fondasie |  |
+| four-attempt start device | vierpoging-aansittoestel |  |
+| four-fluted tap | viergroeftap |  |
+| four-level signal | vierpeilsein |  |
+| four-part continuous stationery form | vierledige kettingvorm |  |
+| four-post vehicle lift | vierpaalvoertuighyser |  |
+| four-row keyboard {telegraphy} | vierrytoetsbord |  |
+| four-stroke cycle | vierslagsiklus |  |
+| four-terminal measurement {of resistance} | vieraansluitermeting |  |
+| four-terminal network | vieraansluiternetwerk, vierpuntnetwerk |  |
+| four-tone telegraphy system | viertoontelegraafstelsel |  |
+| four-way cord | vierdraadsnoer, viergeleiersnoer |  |
+| four-way jack | vierwegklink |  |
+| four-way plug | vierpuntprop |  |
+| four-way terminal block | vieraansluiterblok |  |
+| four-wire amplifier | vierdraadversterker |  |
+| four-wire cable | vierdraadkabel |  |
+| four-wire circuit | vierdraadkring |  |
+| four-wire double arm | vierdraaddubbelarm |  |
+| four-wire path | vierdraadbaan |  |
+| four-wire repeater | vierdraadherhaler |  |
+| four-wire switching | vierdraadskakeling |  |
+| four-wire termination | vierdraadafsluiting |  |
+| fourth-wire metering | vierdedraad-telling |  |
+| fractional horsepower motor <obsolete term - see watt motor> | wattmotor |  |
+| fractional number | opgebreekte getal |  |
+| fractional section {lines} | deelvak |  |
+| fragile nature | breekbare aard |  |
+| fragile parcel | breekbare pakket |  |
+| fragile | breekbaar |  |
+| frame <US> (picture <GB>) {television} | beeld |  |
+| frame amplitude control <see field amplitude control> | hoogtereelaar |  |
+| frame antenna | raamantenne |  |
+| frame counter | beeldteller |  |
+| frame member <see field member> | raamdeel |  |
+| frame n. (rack) | raam |  |
+| frame n. {German telephone equipment} | subraam |  |
+| frame n. {film} | raampie |  |
+| frame n. {telegraphy, also pulses} | raam |  |
+| frame shift <see picture shift> | beeldverskuiwer |  |
+| frame synchronisation <US> {television} | beeldsinchronisasie |  |
+| frame v. {budget} | opstel |  |
+| framework | raamwerk |  |
+| framing mask {television} | beeldmasker |  |
+| franchise | franchise, franses |  |
+| franchisor | franchisegewer, franchisehouer, fransesgewer, franseshouer |  |
+| frank v. | frankeer |  |
+| franked envelope (stamped envelope) | gefrankeerde koevert |  |
+| franking authority | frankeerbevoegdheid |  |
+| franking impression | frankeerafdruk |  |
+| franking machine (postal franking machine) | frankeermasjien |  |
+| franking note | frankeeradvies |  |
+| franking regulations | frankeerregulasies |  |
+| franking stamp | frankeerstempel |  |
+| franklin (Fr) | franklin, Fr |  |
+| frase (fraise, debur) | afbraam |  |
+| fraud | bedrog |  |
+| fraudulent declaration | bedrieglike verklaring |  |
+| fraudulent encashment | bedrieglike uitwisseling |  |
+| fraudulent insurance | bedrieglike versekering |  |
+| fraudulent withdrawal | bedrieglike opvraging |  |
+| fray | rafel, uitrafel |  |
+| free (free of charge, gratuitously) | gratis, kosteloos, vry |  |
+| free condition | vry toestand |  |
+| free draining | vry dreineerend |  |
+| free electron | vry elektron |  |
+| free finder {automatic telephone} | onbesette vinder |  |
+| free fit | vry passing |  |
+| free lift {fork-lift truck} | vry lighoogte |  |
+| free line | onbesette lyn, vry lyn |  |
+| free magnetism | vry magnetisme |  |
+| free oscillation | vry ossillasie |  |
+| free outlet | vry uitgang |  |
+| free period {call office} | grasietyd |  |
+| free period | vry periode |  |
+| free quarters | vry huisvesting |  |
+| free replacement | kostelose vervanging |  |
+| free service | kostelose diens |  |
+| free {eg electron} | vry |  |
+| free {telephone} | onbeset |  |
+| free-access floor (raised floor, raceway floor) {eg in computer room} | vals vloer |  |
+| free-body diagram | vryliggaamdiagram |  |
+| free-cover limit {medical scheme} | vrydekkingperk, gratisdekkingperk |  |
+| free-delivery area {mail} | vrybestelgebied, vrybestelkring |  |
+| free-flowing | vryvloeiend |  |
+| free-line signal | vrylynsein |  |
+| free-running mode | vryloopmodus |  |
+| free-space attenuation | vryruimte-verswakking |  |
+| free-space level | vryruimtepeil |  |
+| free-space wavelength | vryruimtegolflengte |  |
+| free-starting condensing unit | vryaansitkondenseereenheid |  |
+| freelance work | vryskutwerk |  |
+| freelance | vryskut, |  |
+| freepost service | vryposdiens |  |
+| freeze action {film projector} | vriesaksie |  |
+| freeze lamp {switching equipment} | houlamp |  |
+| freeze {post} | vries |  |
+| freeze {post} | vries |  |
+| freeze-protection thermostat {Trane water chiller} | vriesbeveiligingstermostaat |  |
+| freight charge | vragkoste |  |
+| freight contractor | vragkontrakteur |  |
+| freight transit order (FTO) | vragdeurvoerorder, VDO |  |
+| freight | vrag |  |
+| frequency allocation | frekwensietoewysing |  |
+| frequency allotment | frekwensietoekenning |  |
+| frequency analysis | frekwensie-ontleding |  |
+| frequency assignment | frekwensie-aanwysing |  |
+| frequency band | frekwensieband |  |
+| frequency change | frekwensieverandering |  |
+| frequency changer (frequency converter, frequency translator) | frekwensie-omsetter |  |
+| frequency changing repeater | frekwensieomsitherhaler |  |
+| frequency channel | frekwensiekanaal |  |
+| frequency characteristic curve (frequency-response characteristic curve) | frekwensiekenkromme |  |
+| frequency check | frekwensiekontrole |  |
+| frequency conversion (frequency translation) | frekwensie-omsetting |  |
+| frequency deviation | frekwensiedeviasie |  |
+| frequency discrimination | frekwensiediskriminasie |  |
+| frequency displacement | frekwensieverskuiwing |  |
+| frequency distortion | frekwensievervorming |  |
+| frequency distribution {marketing} | frekwensieverdeling |  |
+| frequency distribution | frekwensieverdeling |  |
+| frequency distribution | frekwensieverdeling |  |
+| frequency diversity reception | frekwensiekeurontvangs |  |
+| frequency diversity | frekwensiekeuring, frekwensiespreiding |  |
+| frequency divider | frekwensiedeler |  |
+| frequency divider | frekwensieverdeler |  |
+| frequency doubler | frekwensiedubbelaar |  |
+| frequency doubling | frekwensiedubbeling |  |
+| frequency drift | frekwensiedwaling |  |
+| frequency excursion | frekwensie-ekskursie |  |
+| frequency factor | frekwensiefaktor |  |
+| frequency filter | frekwensiefilter |  |
+| frequency frogging | frekwensieverspringing |  |
+| frequency graph {marketing} | frekwensiegrafiek |  |
+| frequency graph | frekwensiegrafiek |  |
+| frequency instability | frekwensieonstabiliteit |  |
+| frequency jump | frekwensiesprong |  |
+| frequency limit | frekwensiegrens |  |
+| frequency lock | frekwensiesluiting |  |
+| frequency meter | frekwensiemeter |  |
+| frequency modulation interference ratio | frekwensiemodulasiesteurverhouding |  |
+| frequency monitor | frekwensiemonitor |  |
+| frequency multiplier | frekwensievermenigvuldiger |  |
+| frequency multiplying stage | frekwensievermenigvuldigtrap |  |
+| frequency of oscillation | ossillasiefrekwensie, ossilleerfrekwensie |  |
+| frequency of service | diensfrekwensie |  |
+| frequency pulling (pulling) | frekwensietrekking |  |
+| frequency range (frequency spectrum) {frequency determination} | frekwensiegebied |  |
+| frequency range {bandwidth} | frekwensiestrek |  |
+| frequency resolution | frekwensiedefinisie |  |
+| frequency response | frekwensieresponsie, frekwensieweergawe |  |
+| frequency run (frequency test run) | frekwensietoetsloop |  |
+| frequency separator {television} | frekwensieskeier |  |
+| frequency shift | frekwensieskuiwing |  |
+| frequency stabilisation | frekwensiestabilisering |  |
+| frequency stability | frekwensiestabiliteit |  |
+| frequency standard | frekwensiestandaard |  |
+| frequency swing | frekwensieswaai |  |
+| frequency synthesising {radio} | frekwensiesintetisering |  |
+| frequency tolerance | frekwensietoleransie |  |
+| frequency translation bay | frekwensie-omsettingsraam |  |
+| frequency tripler | frekwensieverdrievoudiger |  |
+| frequency variation | frekwensiewisseling |  |
+| frequency-division multiplex | frekwensiedeelmultipleks |  |
+| frequency-division telegraph system | frekwensiedeeltelegraafstelsel |  |
+| frequency-doubler stage | frekwensiedubbelaartrap |  |
+| frequency-generation rack | frekwensie-opwekraam |  |
+| frequency-measuring equipment | frekwensiemeettoerusting |  |
+| frequency-modulated telegraphy | frekwensiegemoduleerde telegrafie |  |
+| frequency-modulated telephony | frekwensiegemoduleerde telefonie |  |
+| frequency-monitoring equipment | frekwensiemonitortoerusting |  |
+| frequency-selective signalling | frekwensieselektiewe seining |  |
+| frequency-shift keying (FSK) | frekwensieskuifsleuteling, FSS |  |
+| frequency-shift signalling | frekwensieskuifseining |  |
+| frequency-swept oscillator | frekwensiestrykossillator |  |
+| frequency/gain characteristic curve | frekwensie/wins-kenkromme |  |
+| frequency | frekwensie |  |
+| fresh-air intake n. {eg air conditioning} | varsluginlaat |  |
+| fresh-air spigot | varslugtap |  |
+| fret saw | figuursaag |  |
+| friction clutch | wryfkoppelaar |  |
+| friction damping spring | wrywingsdempveer |  |
+| friction disc | wrywingskyf |  |
+| friction drive | wryfaandrywing |  |
+| friction pivot {eg sash} | wryfspil |  |
+| friction surface | wryfvlak |  |
+| friction tight | wrywingvas |  |
+| friction washer | wryfwaster |  |
+| friction-locked screw | wrywinggesluite skroef |  |
+| friction | wrywing |  |
+| frictional electricity | wrywingselektrisiteit |  |
+| frictional locking screw | wrywingsluitskroef, wryfsluitskroef |  |
+| frictional locking | wrywingsluiting |  |
+| frictional loss | wrywingsverlies |  |
+| frictional torque | wrywingswringkrag |  |
+| fringe benefit | byvoordeel |  |
+| fringe benefits | byvoordele |  |
+| fringe howl | grensgehuil |  |
+| fringe-area exchange | randgebiedsentrale |  |
+| fringing (fringing effect) | randeffek |  |
+| frogging repeater (transposition repeater) | transponeerherhaler |  |
+| frogging repeater | verspringherhaler |  |
+| frogging | verspringing |  |
+| front bracket (single bracket) {line construction} | enkelsteun |  |
+| front bridge | ingangsbrug, voorbrug |  |
+| front cutters | voorkniptang |  |
+| front cutting angle | voorsnyhoek |  |
+| front discharge | vooruitlaat |  |
+| front door {machine cover} | voorste deur |  |
+| front stop | voorstop |  |
+| front view | vooraansig |  |
+| front {clothing} | voorpant |  |
+| front-end feed (front feed) {dish antenna} | voorvoerder |  |
+| front-end feed (front feed) {process} | voorvoer |  |
+| front-end feed | voorkantbestraler |  |
+| front-end feed | voorkantvoeding |  |
+| front-end loader | laaigraaf, voorlaaier |  |
+| front-end processor {data} | voorrekenaar |  |
+| front-end specification | aanvoorspesifikasie |  |
+| front-lay alignment {printing press} | frontaanlelynrigting, voorrandlynrigting |  |
+| front-to-back ratio | voor/agter-verhouding |  |
+| frontal storm {cutting tool} | frontstorm |  |
+| fronting {employment} | frontvoorhouding |  |
+| frost line method | ryppuntmetode |  |
+| frost n. {also in air-conditioning systems} | ryp |  |
+| frost v. | vries |  |
+| frostbite | vriesbrand |  |
+| frosted glass | matglas |  |
+| frosting | bevriesing |  |
+| frustrum {eg of cone} | stomp |  |
+| frying | krasruis |  |
+| fuel gauge | brandstofmeter |  |
+| fuel injector | brandstofinspuiter |  |
+| fuel jet | brandstofstraler |  |
+| fuel oil | brandolie |  |
+| fuel pump | brandstofpomp |  |
+| fuel solenoid | brandstofsoleno<ed |  |
+| fuel storage depot | brandstofdepot |  |
+| fuel strainer | brandstofsif |  |
+| fuel tank | brandstoftenk |  |
+| fuel-oil consumption | brandolieverbruik |  |
+| fuel-oil filter | brandoliefilter |  |
+| fugitive ink | onvaste ink, verbleikink |  |
+| fulcrum | draaipunt, fulkrum, steunpunt |  |
+| fulfilment (fulfilling) | volvoering |  |
+| fulfilment house | volvoeragentskap |  |
+| full Plant, type | egte Plant, tipe |  |
+| full address | volledige adres |  |
+| full and equal {law} | volwaardig |  |
+| full availability {telephone} | volle toeganklikheid |  |
+| full capacity | volle kapasiteit |  |
+| full carrier {signalling} | volle draer |  |
+| full director area | voldirektorgebied |  |
+| full dress | groottenue |  |
+| full earth | volaarde |  |
+| full load {electricity} | volle las |  |
+| full load | volle vrag |  |
+| full meeting | voltallige vergadering |  |
+| full multiple | volle multipel |  |
+| full name | volle naam |  |
+| full particulars | volledige besonderhede |  |
+| full rotation | volle omwenteling |  |
+| full section | volle vak |  |
+| full sheet {philately} | volvel |  |
+| full transposition section | volle kruisingsvak |  |
+| full wave | heelgolf |  |
+| full-adder | vol-opteller |  |
+| full-duplex facility | voldupleksfasiliteit |  |
+| full-face mask respirator | volgesigmasker-respirator |  |
+| full-float battery system | volvlottende batterystelsel |  |
+| full-float scheme | volvlotskema |  |
+| full-float unit | volvloteenheid |  |
+| full-flow oil filter | volvloei-oliefilter |  |
+| full-grain leather | volnerfleer |  |
+| full-line bar | vollynstreep |  |
+| full-mesh trunk network | volmaashooflynnetwerk |  |
+| full-satellite exchange | volsatellietsentrale |  |
+| full-scale deflection {of needle} | volle uitslag |  |
+| full-scale deflection | volle defleksie, volle uitslag |  |
+| full-time capacity | voltydse hoedanigheid |  |
+| full-time data line | voltydse datalyn |  |
+| full-wave rectification | heelgolfgelykrigting |  |
+| full-wave rectified signal | heelgolfgelykgerigte sein |  |
+| full-wave rectifier | heelgolfgelykrigter |  |
+| fully automatic | voloutomaties |  |
+| fully depreciated | ten volle gedepresieer |  |
+| fully electronic | volelektronies |  |
+| fully equipped group | volledig toegeruste groep |  |
+| fully operated position | volle werkstand |  |
+| fully pressurised aircraft | ten volle gedrukreelde vliegtuig |  |
+| fultograph | fultograaf |  |
+| fumigation fee | berokingsgeld |  |
+| function generator | funksiegenerator |  |
+| function n. | funksie |  |
+| function selector | funksiekieser |  |
+| function tester | funksietoetser |  |
+| function testing | werktoetsing |  |
+| function v. | funksioneer, werk |  |
+| function | funksie |  |
+| functional aid | funksionele hulpmiddel |  |
+| functional assessment | werkbeoordeling |  |
+| functional chart | funksionele kaart |  |
+| functional distribution chart | funksionele verdelingkaart |  |
+| functional key (functioning key) | werksleutel |  |
+| functional meeting | bedryfsvergadering |  |
+| functional process chart | funksionele proseskaart |  |
+| functional test (functioning test) | funksioneringstoets, werktoets, werkingtoets |  |
+| functional testing | werktoetsing |  |
+| fund | fonds |  |
+| fundamental component | fundamentele komponent |  |
+| fundamental hand motion {human resources} | basiese handbeweging |  |
+| fundamental n. (fundamental frequency) | fundamentele frekwensie, grondfrekwensie |  |
+| fundamental power frequency | fundamentele kragfrekwensie |  |
+| fundamental principle | grondbeginsel |  |
+| fundamental ripple frequency | fundamentele rimpelfrekwensie |  |
+| fundamental rule | grondreel |  |
+| fundamental term | grondterm |  |
+| fundamental tone | grondtoon |  |
+| fundamental wave | fundamentele golf |  |
+| furniture and effects | huisraad en besittings |  |
+| furniture tubing | meubelpyp |  |
+| furniture | meubels |  |
+| fuse alarm (fuse-failure alarm) | sekeringalarm |  |
+| fuse board | sekeringbord |  |
+| fuse carrier (fuse holder) | sekeringhouer |  |
+| fuse contact | sekeringkontak |  |
+| fuse failure | sekeringfaling |  |
+| fuse mounting | sekeringmontasie |  |
+| fuse n. {electricity} | sekering |  |
+| fuse panel | sekeringpaneel |  |
+| fuse plug {electricity} | sekeringprop |  |
+| fuse post | sekeringpen |  |
+| fuse protection | sekeringbeveiliging |  |
+| fuse rating | sekeringaanslag |  |
+| fuse v. {clothing} | aansmelt |  |
+| fuse v. {fuse} | smelt |  |
+| fuse v. {lamp} | uitbrand |  |
+| fuse wire | smeltdraad |  |
+| fuse-alarm lamp | sekeringalarmlamp |  |
+| fuse-panel busbar | sekeringpaneelgeleistam |  |
+| fuse-post strapping | sekeringpenstrop |  |
+| fuser unit {Xerox machine} | smelteenheid |  |
+| fusible metal | smeltmetaal |  |
+| fusible plug | smeltprop |  |
+| fusing current | smeltstroom |  |
+| g (gram) | g, gram |  |
+| gain control {device} | winskontrole |  |
+| gain control {process} | winsbeheer |  |
+| gain function {antenna} | winsfunksie |  |
+| gain hit | winsspits |  |
+| gain measurement | winsmeting |  |
+| gain measuring set | winsmeetstel |  |
+| gain n. {electricity} | wins |  |
+| gain n. {wooden pole} | afplatting |  |
+| gain regulation | winsreeling |  |
+| gain sharing | voordeeldeling |  |
+| gain v. {wooden pole} | afplat |  |
+| gain-control potentiometer | winsbeheerpotensiometer |  |
+| gain-regulation circuit | winsreelingkring |  |
+| gain-stable | winsstabiel |  |
+| gain/frequency response | wins/frekwensie-responsie |  |
+| galena | loodglans |  |
+| galley | galei, strookproef |  |
+| gallium | gallium |  |
+| galvanise | galvaniseer, versink |  |
+| galvanised (zinc-coated, zinc-plated) | gegalvaniseer, versink |  |
+| galvanised corrugated iron sheet | gegolfde sinkplaat |  |
+| galvanised iron wire | gegalvaniseerde ysterdraad, versinkte ysterdraad |  |
+| galvanised iron | gegalvaniseerde yster, versinkte yster |  |
+| galvanised nail | gegalvaniseerde spyker, versinkte spyker |  |
+| galvanised steel wire | gegalvaniseerde staaldraad, versinkte staaldraad |  |
+| galvanised steel | gegalvaniseerde staal, versinkte staal |  |
+| galvanised wire (zinc-coated wire) | gegalvaniseerde draad, versinkte draad |  |
+| galvanometer deflection | galvanometeruitslag |  |
+| galvanometer shunt | galvanometersjunt |  |
+| galvanometer | galvanometer |  |
+| galvanoscope | galvanoskoop |  |
+| gamma ray | gammastraal |  |
+| gamma | gamma |  |
+| gang milling | groepfreeswerk |  |
+| gang n. | werkspan |  |
+| gang punch | groepponsmasjien |  |
+| gang switch | koppelskakelaar |  |
+| gang v. | meganies koppel, koppel |  |
+| gang-day unit | spandageenheid |  |
+| gang-milling fixture | groepfreessetklem |  |
+| gang-planning chart | werkspanrooster |  |
+| ganged capacitors | gekoppelde kapasitors |  |
+| ganged circuits | gekoppelde kringe |  |
+| ganged control | gekoppelde kontrole |  |
+| ganged unit | gekoppelde eenheid |  |
+| ganging | meganiese koppeling, koppeling |  |
+| gangway | gang |  |
+| gap bed | knikbed |  |
+| gap inductor | spleetinduktor |  |
+| gap n. {eg rele} | opening |  |
+| gap n. {eg spark plug} | gaping |  |
+| gap n. {microwave cavity resonator} | opening |  |
+| gap-bed lathe | knikbeddraaibank |  |
+| gap-channel interference | gapingkanaalsteuring |  |
+| gap-setting {eg rele} | spleetstelling |  |
+| gap-setting {eg spark plug} | gapingstelling |  |
+| garage n. | garage, motorhuis |  |
+| garage v. {eg motor vehicle} | stal |  |
+| garaging {motor vehicle} | stalling |  |
+| garbage analysis | vullisontleding |  |
+| garbage research {marketing} | vullishoopontleding |  |
+| garble {eg signal} | vermink |  |
+| garnishee order | besoldingsbeslagbevel |  |
+| garnishee order | loonbeslagorder, skuldbeslagorder |  |
+| gas arrester | gasweerder |  |
+| gas burner | gasbrander |  |
+| gas conduction | gasgeleiding |  |
+| gas detector | gasdetektor |  |
+| gas electrode | gaselektrode |  |
+| gas engine | gasenjin |  |
+| gas fuel | gasbrandstof |  |
+| gas lightning arrester | gasblitsafleier, gasweerligafleier |  |
+| gas main | hoofgasleiding |  |
+| gas pressure | gasdruk |  |
+| gas section {cables} | alarmseksie |  |
+| gas-barrier section | gasspervak |  |
+| gas-cooled compressor | gasverkoelde kompressor |  |
+| gas-discharge protector (gas protector) | gasafleier |  |
+| gas-discharge triode | gasontladingstriode |  |
+| gas-discharge tube | gasontladingsbuis |  |
+| gas-filled cable | gasgevulde kabel |  |
+| gas-filled cell | gasgevulde sel |  |
+| gas-filled discharge tube | gasgevulde ontladingsbuis |  |
+| gas-filled envelope | gasgevulde omhulsel |  |
+| gas-filled protector | gasgevulde afleier |  |
+| gas-filled rectifier | gasgevulde gelykrigter |  |
+| gas-filled tube (gas-filled valve, gas tube) | gasgevulde buis |  |
+| gas-leak indicator | gaslekklikker |  |
+| gas-pressure alarm | gasdrukalarm |  |
+| gas-tight pillar | gasdigte pilaar |  |
+| gas-tight | gasdig |  |
+| gash v. {grooves} | insny |  |
+| gashing {drill} | insnyding |  |
+| gasket | pakstuk |  |
+| gaslift height adjustment {chair} | gas-hoogtestelling |  |
+| gassing point | gaspunt |  |
+| gassing {accumulator} | kook |  |
+| gate circuit {gating circuit} | deurlaatkring |  |
+| gate into | deurlaat na |  |
+| gate n. (inlet) {injection moulding} | inlaat |  |
+| gate n. {also radio} | deurlaat, hek |  |
+| gate network {logic} | heknetwerk |  |
+| gate terminal {transistor} | hekaansluiter |  |
+| gate v. | deurlaat, hek |  |
+| gate-timing interval {frequency measuring} | hektydreelinterval |  |
+| gated network {logic} | heknetwerk |  |
+| gatepost {lock} | sluitpen |  |
+| gateway office | poortkantoor |  |
+| gateway {airmail} | poort |  |
+| gateway {videotex} | deurpoort |  |
+| gating array {logic} | hekinrigting |  |
+| gating logic | heklogika |  |
+| gating valve | deurlaatbuis, hekbuis |  |
+| gating {radio} | hekwerking |  |
+| gauge detail | meterdetail |  |
+| gauge pressure | meterdruk |  |
+| gauge {eg wire} | dikte |  |
+| gauge {guillotine} | stop |  |
+| gauge {pressure, rain, steam} | meter |  |
+| gauge {workshop} | ykinstrument |  |
+| gauging bar | meetstaaf |  |
+| gauging bracket | meetsteun |  |
+| gauging values | meetwaardes |  |
+| gauntlet | kaphandskoen |  |
+| gauss (Gs) | Gs, gauss |  |
+| gauze screen | gaasskerm |  |
+| gear (gear wheel, wheel) | rat |  |
+| gear blank | ru-rat |  |
+| gear coupling | ratkoppeling |  |
+| gear cutter | ratfrees |  |
+| gear face | tandvlak |  |
+| gear key | ratspy |  |
+| gear pair | ratpaar |  |
+| gear ratio | ratverhouding |  |
+| gear shaft | ratas |  |
+| gear tooth | rattand |  |
+| gear {eg valve gear} | inrigting |  |
+| gear-shaft bearing | rataslaer |  |
+| gear-wheel pattern | ratpatroon |  |
+| gear-wheel pump | ratpomp |  |
+| gear | gereedskap, gerei |  |
+| gearbox | ratkas |  |
+| geared chuck (key-operated chuck) | ratsleutelkloukop |  |
+| geared single-wrap traction machine | geratte enkelwindingtrekmasjien |  |
+| gearing | ratwerk |  |
+| gelignite cartridge | gelignietpatroon |  |
+| gelignite | geligniet |  |
+| gem clip (paper clip) | skuifspeld |  |
+| general account | algemene rekening |  |
+| general authority | algemene magtiging |  |
+| general average {shipping} | algemene awery |  |
+| general average | algemene gemiddelde |  |
+| general branch | algemene tak |  |
+| general delivery | algemene aflewering |  |
+| general division | algemene afdeling |  |
+| general duty | algemene diens |  |
+| general liquidation account | algemene likwidasierekening |  |
+| general manager | hoofbestuurder |  |
+| general post office (GPO) | hoofposkantoor, HPK |  |
+| general post office | algemene poskantoor |  |
+| general secretariat | algemene sekretariaat |  |
+| general section | algemene seksie |  |
+| general signal processing | algemene seinverwerking |  |
+| general telegraph service | algemene telegraafdiens |  |
+| general works order | algemene werkorder |  |
+| general-purpose computer | aldoelrekenaar |  |
+| generate {document in word processing} | skep |  |
+| generate {eg character, code, electricity, gas, heat, surge} | ontwikkel |  |
+| generate {frequency, signal, wave} | opwek |  |
+| generate {mathematics} | beskryf |  |
+| generated batch number {job control system} | ontwikkelde bundelnommer |  |
+| generating plant (power generating plant, power plant) | kraginstallasie, kragontwikkelinstallasie |  |
+| generating polynomial (generator polynomial) | voortbrengende polinoom, ontwikkelingspolinoom |  |
+| generating station (power station) | kragstasie |  |
+| generation image {film} | generasiebeeld |  |
+| generation number | generasienommer |  |
+| generation rate {semiconductor} | ontwikkeltempo |  |
+| generation version number | generasieweergawenommer |  |
+| generation {magnetic tape, microfilm} | generasie |  |
+| generativity | generatiwiteit |  |
+| generator busbar | generatorgeleistam |  |
+| generator card | generatorkaart |  |
+| generator efficiency | generatorrendement |  |
+| generator field | generatorveld |  |
+| generator handle | generatorslinger |  |
+| generator overload | generatoroorbelasting |  |
+| generator shaft | generatoras |  |
+| generator signalling | generatorseining |  |
+| generator terminal | generatoraansluiter |  |
+| generator winding | generatorwikkeling |  |
+| generator {eg of serial number} | gewer |  |
+| generator | generator, ontwikkelaar |  |
+| gentex service | genteksdiens |  |
+| gentex | genteks |  |
+| geographical feature | geografiese kenmerk |  |
+| geological specimen | geologiese eksemplaar |  |
+| geological survey | geologiese opname |  |
+| geometric mean | geometriese gemiddelde, meetkundige gemiddelde |  |
+| geometric plane figure | geometriese vlakfiguur |  |
+| geometric term | geometriese term, meetkundige term |  |
+| geometrical axis | meetkundige as |  |
+| geometrical horizon distance | meetkundige horisonafstand |  |
+| geosynchronous orbit {satellite} | geosinchrone wentelbaan |  |
+| germanium diode | germaniumdiode |  |
+| germanium | germanium |  |
+| getter {valve} | gasbinder |  |
+| ghost circuit | spookkring |  |
+| ghost symbol | spooksimbool |  |
+| ghosting | spookbeeldvorming |  |
+| gib strip {milling machine} | kopspilstrook, wigstrook |  |
+| gib | teenspy |  |
+| gift parcel | geskenkpakket |  |
+| gift voucher | geskenkbewys |  |
+| gigawatt | gigawatt |  |
+| gimlet | frikboor, swikboor |  |
+| gimp thread {clothing} | gimpdraad |  |
+| gimp v. {clothing} | met gimp vaswerk |  |
+| gimp v. {eg buttonhole} | met gimp afwerk |  |
+| girth | omtrek |  |
+| give effect to | uitvoer, uitvoering gee aan |  |
+| give the alarm | alarm gee |  |
+| glace cotton braiding | glanskatoenomvlegsel |  |
+| gland <see - compression nut> | drukmoer |  |
+| gland | drukstuk |  |
+| glass box cell | glaskassel |  |
+| glass bulb | glasbol |  |
+| glass cloth | glaslinne |  |
+| glass delay line | glasvertragingslyn |  |
+| glass envelope {bulb, valve} | glasomhulsel |  |
+| glass fuse | glassekering |  |
+| glass paper | glaspapier |  |
+| glass phial | glasflessie |  |
+| glass screen {vertical camera} | glasraster |  |
+| glass transmission medium | glastransmissiemedium |  |
+| glass tube fuse | glasbuissekering |  |
+| glass valve | glasbuis |  |
+| glass-fibre blanket | glasveselkombers |  |
+| glass-panelled partition | glaspaneelafskorting |  |
+| glass-reinforced polyester (GRP) | glasversterkte poliester, GVP |  |
+| glassine | glassien |  |
+| glasswool | glaswol |  |
+| glazed earthenware pipe | geglasuurde erdepyp |  |
+| glazed paper | glanspapier |  |
+| glazed thread | glansgare |  |
+| glazing quality {type of glass} | ruitgehalte |  |
+| glazing {grinding wheel} | verglasing |  |
+| glide path | sweefbaan |  |
+| gliding bush {operation of printer hammer} | glybus |  |
+| gliding contact | glykontak |  |
+| glitch {signal input} | steurspits |  |
+| global amount | globale bedrag |  |
+| global antenna (wide-beam antenna) | breebundelantenne |  |
+| global payment | globale betaling |  |
+| glossy surface | glansoppervlak |  |
+| glow discharge | glimontlading, gloeiontlading |  |
+| glow v. | glim, gloei |  |
+| glow-discharge tube | glimontladingbuis, gloeiontladingbuis |  |
+| go amplifier | sendversterker |  |
+| go centre conductor | heenbinnegeleier |  |
+| go gauge | kanmaat, pasmaat |  |
+| go jaws | kankake, paskake |  |
+| go leg | heendraad |  |
+| go screw gauge | skroefkanmaat |  |
+| go signal | heensein |  |
+| go speech path | heenspraakbaan |  |
+| go-to-return crosstalk | heen/terug-steurspraak |  |
+| go/return four-wire switching | heen/terug-vierdraadskakeling |  |
+| goggles | skermbril |  |
+| gold coin | goudmunt |  |
+| gold currency | goudbetaalmiddel, goudvaluta |  |
+| gold/silver alloy | goud/silwer-legering |  |
+| gone away | vertrek |  |
+| gong | ghong |  |
+| goniometer | goniometer |  |
+| good and sufficient discharge | geldige en voldoende kwyting |  |
+| good signal {distortion monitor} | aanvaarbare sein |  |
+| good wire | defekvry draad |  |
+| good {signal, equipment, etc} | goed |  |
+| good-news telegram | goeienuus-telegram |  |
+| goods on consignment | goedere in versending |  |
+| goods rate | goederetarief |  |
+| goods-received voucher | goedere-ontvangsbewys |  |
+| goto {computer} | gaan na |  |
+| gouge n. | guts |  |
+| gouge v. | guts |  |
+| governed speed | gereelde spoed |  |
+| governing body | bestuursliggaam |  |
+| governing time {human resources} | bepalende tyd |  |
+| government call | goewermentsoproep, staatsoproep |  |
+| government department | staatsdepartement |  |
+| government letter telegram | goewermentsbrieftelegram, staatsbrieftelegram |  |
+| government mail | staatspos |  |
+| government printer | staatsdrukker |  |
+| government property | staatseiendom |  |
+| government registered address | goewermentstelegramadres, staatstelegramadres |  |
+| government securities | staatseffekte |  |
+| government stock | staatseffekte |  |
+| government telegram | staatstelegram |  |
+| government-owned transport | staatsvervoer |  |
+| government-owned vehicle | staatsvoertuig |  |
+| governmental regulating body (government regulating body) | beherende staatsliggaam |  |
+| governor housing | reelaarhulsel |  |
+| governor mechanism | reelaarmeganisme |  |
+| governor resistance | reelaarweerstand |  |
+| governor resistor | reelaarresistor |  |
+| governor slip ring | reelaarsleepring |  |
+| governor {machine} | spoedreelaar |  |
+| governor-brush block | reelaarborselblok |  |
+| governor-brush spring | reelaarborselveer |  |
+| gr (grain) | gr, grein |  |
+| grab | gryp |  |
+| grace period {coinphone} | grasietydperk |  |
+| grade n. (gradient) | helling |  |
+| grade n. | graad |  |
+| grade of service {automatic telephone} | verliesfaktor |  |
+| grade v. {cable trench, route, etc} | helling gee |  |
+| grade v. | gradeer |  |
+| graded control | gegradeerde beheer |  |
+| graded group | gegradeerde groep |  |
+| graded index | gegradeerde indeks |  |
+| graded multiple | gegradeerde multipel |  |
+| graded office | gegradeerde kantoor |  |
+| grader | skraper |  |
+| gradient microphone | gradientmikrofoon |  |
+| gradient stay | hellinganker |  |
+| gradient {barometer, thermometer} | gradient |  |
+| grading (levelling) {adjustment of pole lengths} | hellingaanpassing |  |
+| grading chart {telephone} | gradeerkaart |  |
+| grading division {telephone} | gradeerdeel |  |
+| grading field | gradeerveld |  |
+| grading group {telephone} | gradeergroep |  |
+| grading schedule | gradeerskedule |  |
+| grading scheme (interconnecting scheme, mixing plan, mixing scheme) | gradeerskema |  |
+| grading with skipping and slipping | oorslaan-en-verskuif-gradering |  |
+| grading {also telephone} | gradering |  |
+| grading {job position} | gradering |  |
+| graduate n. | gegradueerde |  |
+| graduate v. {person} | gradueer |  |
+| graduate v. | gradueer, in grade verdeel |  |
+| graduated howler | aanswelhuiler |  |
+| graduated scale | gegradueerde skaal |  |
+| graduated straight-edge (straight-edge rule) | gegradueerde rei |  |
+| graduating equipment | gradueertoerusting |  |
+| graduation (scale division) | skaalverdeling |  |
+| grain {grinding wheel, metal} | korrel |  |
+| grain {leather} | nerf |  |
+| grain {television image} | korrel |  |
+| grain {wood} | draad |  |
+| grained PVC | nerf-PVC |  |
+| grainsplit {leather} | nerfkantsplits |  |
+| grand total | groottotaal |  |
+| granite paper | granietpapier |  |
+| granolithic floor | granolietvloer |  |
+| grant n. | toekenning |  |
+| grant v. {eg bursary} | toeken |  |
+| grant v. | skenk, toestaan, verleen |  |
+| granule chamber {microphone} | korrelhuisie |  |
+| graph | grafiek |  |
+| graphecon {television} | geheuebuis |  |
+| graphic display unit | grafiese vertoner |  |
+| graphic mode | grafiese modus |  |
+| graphic presentation {marketing} | grafiese voorstelling |  |
+| graphic representation | grafiese voorstelling |  |
+| graphic-plot input | grafiesestip-inset |  |
+| graphical symbol | grafiese simbool |  |
+| graphics {communication theory} | grafiese voorstelling |  |
+| graphite bar {stamps} | grafietstreep |  |
+| graphite disc | grafietskyf |  |
+| graphite grease | grafietghries |  |
+| graphite resistance | grafietweerstand |  |
+| graphiting tool | grafietsmeerder |  |
+| graphiting | grafiet |  |
+| grapnel | grypanker |  |
+| grapple v. {submarine cable} | opvis |  |
+| grasp | greep |  |
+| grass and bush cutting machine | gras-en-bossnymasjien |  |
+| grass fire | veldbrand |  |
+| grasshopper fuse | springsekering |  |
+| graticule | graadnet |  |
+| gratify (satisfy, fulfil) | bevredig |  |
+| gratuity | gratifikasie |  |
+| gravel guard | gruisskerm |  |
+| gravitational acceleration | swaartekragversnelling |  |
+| gravitational potential | gravitasiepotensiaal |  |
+| gravity cell | gravitasiesel |  |
+| gravity die cast n. | valmatrysgieting |  |
+| gravity die cast v. | valmatrysgiet |  |
+| gravity feed | valtoevoer |  |
+| gravity flow | valvloei |  |
+| gravity lever | swaartehefboom |  |
+| gravity slicer {for food} | skuinsbladsnyer |  |
+| gravity stack | trekskoorsteen, trekkoorsteen |  |
+| gravity switch | valskakelaar |  |
+| gravity-lever pivot | swaartehefboomspil |  |
+| gravity-roller spindle | swaarterollerspil |  |
+| gravity | swaartekrag |  |
+| grayling | vlagsalm |  |
+| grazing incidence {beam} | skramsinval |  |
+| grease cup | ghriesdop |  |
+| grease gun | ghriesspuit |  |
+| grease n. | ghries |  |
+| grease n. | vetterigheid |  |
+| grease nipple | ghriesnippel |  |
+| grease v. | ghries |  |
+| great-circle distance (orthodromic distance) | grootsirkelafstand |  |
+| great-circle path | grootsirkelbaan |  |
+| greater {eg greater Pretoria} | groter |  |
+| greetings telegram | groetetelegram |  |
+| grey selenium | grys seleen |  |
+| grey-scale generator | grysskaalgenerator |  |
+| grid battery (grid bias battery) | roosterbattery, roostervoorspanningsbattery |  |
+| grid bias | roostervoorspanning |  |
+| grid blocking | roosterblokkering |  |
+| grid cap {valve} | roosterdoppie |  |
+| grid capacitor | roosterkapasitor |  |
+| grid characteristic curve | roosterkenkromme |  |
+| grid coil | roosterspoel |  |
+| grid control | roosterbeheer |  |
+| grid detection | roosterdeteksie |  |
+| grid detector | roosterdetektor |  |
+| grid driving power | roosterdryfkrag |  |
+| grid emission | roosteremissie |  |
+| grid excitation | roosteropwekking |  |
+| grid feedback oscillator | roosterterugkoppelossillator |  |
+| grid keying {radio} | roostersleuteling |  |
+| grid modulation | roostermodulasie |  |
+| grid neutralising | roosterneutralisering |  |
+| grid pattern | roosterpatroon |  |
+| grid plate | roosterplaat |  |
+| grid potential | roosterpotensiaal |  |
+| grid potentiometer | roosterpotensiometer |  |
+| grid rectification | roostergelykrigting |  |
+| grid return circuit | roosterterugkring |  |
+| grid stopper | roosteronderdrukker |  |
+| grid {marketing} | rooster |  |
+| grid {survey} | ruitnet |  |
+| grid-controlled rectifier | roosterbeheerde gelykrigter |  |
+| grid-dip oscillator | roosterknikossillator |  |
+| grid-leak biasing | roosterlekvoorspanning |  |
+| grid-leak detector | roosterlekdetektor |  |
+| grid-potential swing | roosterpotensiaalswaai |  |
+| grid-tuned circuit (tuned grid circuit) | ingestemderooster-kring |  |
+| grid/anode characteristic curve | rooster/anode-kenkromme |  |
+| grid | rooster |  |
+| grievance procedure | grieweprosedure |  |
+| grievance | grief |  |
+| grille | tralies, traliewerk |  |
+| grind | slyp |  |
+| grinding machine | slypmasjien |  |
+| grinding stone | slypsteen |  |
+| grinding wheel | slypwiel |  |
+| grip catch (gripper catch) | greepknip |  |
+| grip holder {brush} | knyphouer |  |
+| grip-handle fuse | greepsekering |  |
+| gripper margin {printing} | gryperkantruimte |  |
+| gripping finger | grypvinger |  |
+| gripping surface | grypvlak |  |
+| grit | grint |  |
+| groep interview {marketing} | groeponderhoud |  |
+| groepposbus | cluster box |  |
+| grommet {in rope} | oog |  |
+| grommet | skaafring, skutbus |  |
+| groove (ditch) {waveguide} | groef |  |
+| grooved cam | groefnok |  |
+| grooved seam | gegroefde naat |  |
+| grooving tool | groefgereedskapstuk |  |
+| grooving | groewe |  |
+| gross amount | bruto bedrag |  |
+| gross domestic fixed investment | bruto binnelandse vaste investering |  |
+| gross domestic product (GDP) | bruto binnelandse produk, BBP |  |
+| gross mass | bruto massa |  |
+| gross negligence | growwe nalatigheid |  |
+| gross receipts | bruto ontvangste |  |
+| gross registered tonnage (GRT) | bruto registertonnemaat, BRT |  |
+| gross total | bruto totaal |  |
+| gross wage | bruto loon |  |
+| ground absorption | grondabsorpsie |  |
+| ground beam {eg fence} | fondamentbalk |  |
+| ground bed | grondbed |  |
+| ground clearance | vry hoogte |  |
+| ground comparator {electricity} | aardvergelyker |  |
+| ground effect | bodemeffek |  |
+| ground floor | grondverdieping |  |
+| ground glass {vertical process camera} | mat glas |  |
+| ground line | basislyn, grondlyn |  |
+| ground plane | grondvlak |  |
+| ground sheet | grondseil |  |
+| ground stroke {lightning} | grondslag |  |
+| ground wave | bodemgolf |  |
+| ground-based duct {radio} | oppervlakkanaal |  |
+| ground-path error {waves} | grondbaanfout |  |
+| ground-penetration equipment | grondpenetreertoerusting |  |
+| ground-wave suppression | bodemgolfonderdrukking |  |
+| grounded antenna | geaarde antenne |  |
+| grounded-grid amplifier | geaarderooster-versterker |  |
+| grounding wire | aardingsdraad |  |
+| grounds for suspicion | grond vir verdenking, rede vir agterdog |  |
+| group allocation | groeptoewysing |  |
+| group amplifier | groepversterker |  |
+| group band-pass filter | groepbanddeurlaatfilter |  |
+| group bayside | groepraamkant |  |
+| group carrier | groepdraer |  |
+| group centre | groepsentrum |  |
+| group congestion | groepoorbelasting |  |
+| group control station | groepbeheerstasie |  |
+| group control | groepbeheer |  |
+| group demodulation | groepdemodulasie |  |
+| group designation | groepnaam |  |
+| group discussion {marketing} | groepbespreking |  |
+| group discussion | groepbespreking |  |
+| group distribution frame | groepdistribusieraam |  |
+| group fault | groepfout |  |
+| group file | groeplêer |  |
+| group frequency | groepfrekwensie |  |
+| group hunting | groepsoeking |  |
+| group identification pulse | groepkenpuls |  |
+| group interview | groeponderhoud |  |
+| group link | groepverbinding |  |
+| group marking | groepmerking |  |
+| group message-rate area | groepgesprektariefgebied |  |
+| group modulating equipment | groepmoduleertoerusting |  |
+| group modulation | groepmodulasie |  |
+| group n. | groep |  |
+| group oscillator | groepossillator |  |
+| group overflow circuit | groepoorloopkring |  |
+| group pilot (group reference pilot) | groeploods, groepvergelykingsloods |  |
+| group register | groepregister |  |
+| group scheme | groepskema |  |
+| group section | groepseksie |  |
+| group selector bank | groepkieserbank |  |
+| group selector routiner | groepkieserroetinetoetser |  |
+| group selector stage | groepkiesertrap |  |
+| group selector | groepkieser |  |
+| group v. | groepeer |  |
+| group-carrier amplifier | groepdraerversterker |  |
+| group-carrier filter | groepdraerfilter |  |
+| group-carrier oscillator | groepdraerossillator |  |
+| group-carrier supply | groepdraerbron |  |
+| group-demodulation amplifier | groepdemodulasieversterker |  |
+| group-demodulation filter | groepdemodulasiefilter |  |
+| group-occupancy meter {automatic telephone} | groepbesettydteller |  |
+| group-regulation equipment | groepreëlingstoerusting |  |
+| group-switch v. {eg. telephony, transmission} | groepskakel |  |
+| group-translating equipment {carrier system} | groepomsittoerusting |  |
+| grouped telephone exchange system | gegroepeerde telefoonsentralestelsel |  |
+| grouping key | groepeersleutel |  |
+| grout n. | bry, voegbry |  |
+| grout v. {eg bolt} | vasbry |  |
+| grout v. {eg joint} | bryvul |  |
+| growing end | aanboukant |  |
+| growing wave | toenemende golf |  |
+| grown transistor | gekweekte transistor |  |
+| grown-on cuff | aangesnyde mouboordjie |  |
+| grub screw | skroeftap |  |
+| guarantee | waarborg |  |
+| guaranteed account | gewaarborgde rekening |  |
+| guaranteed time standard | gewaarborgde tydstandaard |  |
+| guaranteed week | waarborgweek |  |
+| guarantor | borg |  |
+| guard band {between frequencies} | skeiband |  |
+| guard circuit coefficient | waakkringkoëffisiënt |  |
+| guard circuit | waakkring |  |
+| guard earth | waakaarde |  |
+| guard memory | waakgeheue |  |
+| guard n. {eg machinery, sheet-metal work} | skut |  |
+| guard n. | skerm |  |
+| guard rail | skermreëling, skutreëling |  |
+| guard ratio | waakverhouding |  |
+| guard relay | waakrelê |  |
+| guard ring {mechanical trowel} | skutring |  |
+| guard v. {hole, trench} | afskerm |  |
+| guard v. | beskut |  |
+| guard v. | bewaak |  |
+| guard wire {eg lightning} | skutdraad |  |
+| guard wire {power line} | vangdraad |  |
+| guard wire | beskermdraad |  |
+| guard's van | kondukteurswa |  |
+| guard-and-hold facility | waak-en-houfasiliteit |  |
+| guard-on-release signal | vrymaakbewaaksein |  |
+| guarded release {telephone} | bewaakte vrymaking |  |
+| guardian's fund | voogdyfonds |  |
+| guardian | voog |  |
+| guardianship | voogdy |  |
+| guarding overlap | bewaakoorvleueling |  |
+| gudgeon pin (piston pin) | suierpen |  |
+| guest licence {amateur radio} | besoekerslisensie |  |
+| guidance {human resources} | begeleiding, leiding |  |
+| guide bar | leistaaf |  |
+| guide bracket | leisteun |  |
+| guide card (pilot card) | loodskaart |  |
+| guide characteristic wave impedance | leierkengolfimpedansie |  |
+| guide comb | leikam |  |
+| guide electrode | lei-elektrode |  |
+| guide gap | leispleet |  |
+| guide hole | leigat |  |
+| guide iron | leistaaf |  |
+| guide map | gidskaart |  |
+| guide n. | gids |  |
+| guide n. | leibaan |  |
+| guide piece | leistuk |  |
+| guide pin n. (post) | leipen |  |
+| guide plate | leiplaat |  |
+| guide pulley | leikatrol |  |
+| guide rail | leistaaf |  |
+| guide roller | leiroller |  |
+| guide shaft | leias |  |
+| guide slot | leigleuf |  |
+| guide v. | lei, rig |  |
+| guide vane | leiwiek |  |
+| guide wall | leierwand |  |
+| guide wavelength {waveguide} | leiergolflengte |  |
+| guide way | leibaan |  |
+| guide wheel | leiwiel |  |
+| guide wire | leidraad |  |
+| guide-roller bracket | leirollersteun |  |
+| guided wave | geleide golf |  |
+| guideline | riglyn |  |
+| guiding channel | leikanaal |  |
+| guillotine attenuator | skuifverswakker |  |
+| guillotine blade | guillotinelem |  |
+| guillotine | guillotine, snymasjien |  |
+| gum away {telegraph office} | wegplak |  |
+| gum bottle (pasting bottle) {telegrams} | plakbottel |  |
+| gum pot | gompot |  |
+| gum strip | gomstrook |  |
+| gum | gom |  |
+| gummed seal | gegomde seel |  |
+| gumming weight (thimble) {with cutting edge for telegram tape} | vingerhoed |  |
+| gumming | tandslypwerk |  |
+| gun assembly {microwaves} | kanonsamestel |  |
+| gun efficiency {cathode-ray tube} | kanonrendement |  |
+| gun wrapping (solderless wrapping) | wikkellaswerk |  |
+| gun {cathode-ray tube} | kanon |  |
+| gunmetal | geskutmetaal |  |
+| gusset {general, clothing} | insetsel |  |
+| gusset {sleeve} | okselstuk |  |
+| gusset {wooden framework} | hoekstuk |  |
+| gutta-percha | guttapertsja |  |
+| guy clamp | ankerklamp |  |
+| guy hook | ankerhaak |  |
+| guy wire | ankerdraad |  |
+| guy {tent} | stormtou |  |
+| guy | ankertou |  |
+| gyrator | girator |  |
+| gyro frequency | girofrekwensie |  |
+| habitual movement {human resources} | gewoontebeweging |  |
+| hack knife | kapmes |  |
+| hack saw | metaalsaag, ystersaag |  |
+| hacker {computer} | stelselindringer |  |
+| hacking {computer} | stelselindringing |  |
+| hackle {artificial fly} | stekel |  |
+| haircloth | haardoek |  |
+| halation | ligkringvorming |  |
+| half cycle | halfsiklus, halwe siklus |  |
+| half duplex (HDX) | halfdupleks, HDS |  |
+| half insert {food counter} | halfgrootte-inpasbak |  |
+| half revolution | halwe omwenteling |  |
+| half wave | halfgolf |  |
+| half-adder {logic technique} | halfopteller |  |
+| half-addressed | halfgeadresseer |  |
+| half-amplitude duration | halfamplitudeduur |  |
+| half-bayside | halfraamkant |  |
+| half-cock position | halfstelstand |  |
+| half-coil loading | halfspoelbelasting |  |
+| half-cycle peak | halfsikluskruin |  |
+| half-dead chain | halfdooie ketting |  |
+| half-deflection test | halfuitslagtoets |  |
+| half-dog screw | halfstifpuntskroef |  |
+| half-duplex operation | halfduplekswerking |  |
+| half-jetted pocket | sak met een randstrook |  |
+| half-lapped layer | halfoorslaglaag |  |
+| half-minute impulse | halfminuutimpuls |  |
+| half-moon | halfmaan |  |
+| half-round duct | halfrondkanaal |  |
+| half-round file | halfrondvyl |  |
+| half-section loading | halfvakbelasting |  |
+| half-section termination | halfvakafsluiting |  |
+| half-silvered mirror {television} | halfversilwerde spieel |  |
+| half-wave antenna | halfgolfantenne |  |
+| half-wave dipole | halfgolfdipool |  |
+| half-wave rectification | halfgolfgelykrigting |  |
+| half-wave rectifier | halfgolfgelykrigter |  |
+| half-wave series static switch | halfgolfserie statiese skakelaar |  |
+| half-width pulse {PCM} | halfbreedtepuls |  |
+| halftone still picture | halftoonstilbeeld |  |
+| halftone {facsimile} | halftoon |  |
+| halo effect | stralekranseffek |  |
+| halo | halo, ligkring |  |
+| halogen | halogeen |  |
+| halt state | haltstaat |  |
+| hamlet | gehug |  |
+| hammer head | hamerkop |  |
+| hammer-knife mower | hamerlemsnyer |  |
+| hammer-tone finish {paint process} | hamerklopafwerking |  |
+| hammer | hamer |  |
+| hamper | mandjie |  |
+| hand assembly {also computer} | handsamestelling |  |
+| hand capacitance | handkapasitansie |  |
+| hand cart | stootkarretjie |  |
+| hand date-stamp | handdatumstempel |  |
+| hand dater | handdateerder |  |
+| hand drill | handboor |  |
+| hand enclosed | hand-ingesluit |  |
+| hand forging | handsmeewerk |  |
+| hand in {eg telegram} | aanbied |  |
+| hand line | handtou |  |
+| hand microphone | handmikrofoon |  |
+| hand microtelephone (HMT, handset) | handmikrotelefoon, HMT, handstuk |  |
+| hand motion | handbeweging |  |
+| hand over | oorhandig |  |
+| hand primer | handvoorvoerder |  |
+| hand punch {computer} | handpons |  |
+| hand receiver | handgehoorstuk |  |
+| hand regulator | handreelaar |  |
+| hand starter | handaansitter |  |
+| hand throttle | handversneller |  |
+| hand vice | handskroef |  |
+| hand wheel | handwiel |  |
+| hand-cranking | handslingering |  |
+| hand-driven generator | handgenerator |  |
+| hand-driven machine | handmasjien |  |
+| hand-held transceiver | hand-radiosendontvanger |  |
+| hand-held unit | handeenheid |  |
+| hand-operated cancelling machine | handrojeermasjien |  |
+| hand-operated machine | handmasjien |  |
+| hand-operated winch (hand winch) | handwenas |  |
+| hand-out | uitdeelstuk |  |
+| hand-portable radio transmitter | draradiosender |  |
+| hand-portable unit | handdraagbare eenheid |  |
+| hand-primed pump | handvoorvoerpomp |  |
+| hand-restored drop indicator | handterugstelvalaanwyser |  |
+| hand-to-hand check | individuele kontrole |  |
+| handbill | strooibiljet |  |
+| handbook | handboek, handleiding |  |
+| handed tool {eg tinsnips} | handaangepaste gereedskapstuk |  |
+| handed tool | aangepaste snybeitel |  |
+| handing-in acknowledgement (handing-in receipt) {telegram} | inleweringsbewys |  |
+| handing-in time | inlewertyd, tyd van inlewering |  |
+| handle with care | hanteer versigtig |  |
+| handle {bank cleaner} | hef |  |
+| handle {citizen band} | bynaam |  |
+| handle | handvatsel |  |
+| handle | steel |  |
+| handlebar {brush cutter} | greepstang |  |
+| handling charge | hanteerkoste |  |
+| handling {eg traffic} | hantering |  |
+| hands-free telephone (loudspeaking telephone) | luidspreektelefoon |  |
+| hands-on training (practical training) | praktiese opleiding |  |
+| handset plug | handstukprop |  |
+| handset press button | handstukdrukknop |  |
+| handshaking | aansluitbevestiging, aansluitingsbevestiging |  |
+| handwheel | handwiel |  |
+| hang v. {selectors} | hang |  |
+| hang-over time {echo suppression} | nawerktyd |  |
+| hanger {sewn on to clothing} | hanglissie |  |
+| hanging lamp | hanglamp |  |
+| hard copy | sigkopie, harde kopie |  |
+| hard currency | harde munt |  |
+| hard digging | harde graafwerk |  |
+| hard disk {computer} | hardeskyf |  |
+| hard edge | harde rand |  |
+| hard solder n. (spelter) | harde soldeersel |  |
+| hard tube (hard-vacuum tube, hard valve, high-vacuum tube) | hoevakuumbuis, sterkvakuumbuis |  |
+| hard-and-fast rule | vaste reel |  |
+| hard-chrome v. | hardverchroom |  |
+| hard-drawn copper | hardgetrekte koper |  |
+| hard-drawn wire | hardgetrekte draad |  |
+| hard-drying varnish | harddroogvernis |  |
+| hard-facing wire feeder | hardvlakdraadvoerder |  |
+| hard-fibre board | hardeveselbord |  |
+| hard-solder v. | hardsoldeer |  |
+| harden | hard, verhard |  |
+| hardener | verharder |  |
+| hardening agent | verhardmiddel |  |
+| harmonic motion | harmoniese beweging hash total |  |
+| hasp and staple | kram en oorslag hatch |  |
+| hasp | oorslag |  |
+| hat rack | kapstok |  |
+| hatch | luik |  |
+| hatchet stake | bylstaak |  |
+| hatchet | handbyltjie |  |
+| hatching | arsering |  |
+| haulage | sleepkoste, vervoerkoste hauling ring |  |
+| head of division | afdelingshoof |  |
+| head of revenue | inkomstehoof |  |
+| head of section | seksiehoof |  |
+| head of state | staatshoof |  |
+| head office | hoofkantoor |  |
+| head postmaster | hoofposmeester |  |
+| head {eg water} | drukhoogte |  |
+| head-office order | hoofkantoorbestelling |  |
+| head-pressure control | drukhoogtebeheer |  |
+| header {air conditioner} | spruitstuk |  |
+| header {data processing} | vooretiket |  |
+| heading generator | opskrifskepper |  |
+| heading {also telegram} | kop |  |
+| heading | hoof, kop, opskrif |  |
+| headline | hoofopskrif |  |
+| headquarters | hoofkwartier |  |
+| health certificate | gesondheidsertifikaat |  |
+| health committee | gesondheidskomitee |  |
+| health factor | gesondheidsfaktor |  |
+| health measure | gesondheidsmaatreel |  |
+| heaped-bucket capacity {bucket excavator} | hoogvolskop-kapasiteit |  |
+| heat loss | hitteverlies, warmteverlies |  |
+| heat radiation | hittestraling, warmtestraling |  |
+| heat shield | hitteskerm |  |
+| heat sink | hitteafleier, warmteafleier |  |
+| heat-distribution equipment | hitteverspreidingstoerusting |  |
+| heat-resisting | hittevas |  |
+| heat-shrinkable sleeve | hittekrimphuls |  |
+| heater (radiator) | verwarmer |  |
+| heater | verwarmer |  |
+| heating appliance | verwarmingstoestel |  |
+| heating circuit | verhitkring |  |
+| heating coil {air conditioning} | temperkronkel |  |
+| heating element | verhitelement |  |
+| heating | verhitting, verwarming |  |
+| heavily biased | sterk voorgespan |  |
+| heavily loaded route | swaarbelaaide roete |  |
+| heavily overdriven amplifier | sterk oordryfde versterker |  |
+| heavily overdriven device | sterk oordryfde toestel |  |
+| heavy compressed type (heavy condensed type) {printing} | swaar smal letter |  |
+| heavy current | sterkstroom |  |
+| heavy loss (high loss) | hoë verlies |  |
+| heavy overdrive n. | sterk oordrywing |  |
+| heavy-duty engine | swaardiensenjin |  |
+| heavy-duty tyre | swaardiensband |  |
+| heavy-gauge wire | dik draad |  |
+| hectometric wave | hektometergolf |  |
+| heel piece {armature} | hielstuk |  |
+| heel {selector wiper} | hiel |  |
+| heel-and-toe stop | hiel-en-toon-stop |  |
+| heel-end slug {relê} | agtervertraaghuls |  |
+| height gain | hoogtewins |  |
+| height of mercury column | kwikstand |  |
+| held condition {of a selector} | houtoestand |  |
+| held line | gehoude lyn, lyn wat gehou word |  |
+| helical antenna | heliese antenne |  |
+| helical cotton whipping | heliese katoenomwindsel |  |
+| helical coupling spring | heliese koppelveer |  |
+| helical gear | heliese rat |  |
+| helical lapping | heliese omwindsel |  |
+| helical lead | heliese styging |  |
+| helical line filter | heliese lynfilter |  |
+| helical milling | heliese freeswerk |  |
+| helical ribbon guide | heliese lintleier |  |
+| helically splined sleeve | helies geribde huls |  |
+| helium | helium |  |
+| helix angle | helikshoek |  |
+| helix connection | helikskonneksie, heliksverbinding |  |
+| helix pitch | helikssteek |  |
+| helix | heliks |  |
+| helpdesk | hulpdiens |  |
+| hemisphere | halfrond |  |
+| hemp rope | henneptou |  |
+| hemp | hennep |  |
+| heptode (pentagrid) | heptode |  |
+| hereby {recorded in the agreement document} | hiermee |  |
+| herewith {annexure to the agreement} | hierby |  |
+| hermaphrodite callipers (jenny callipers, male-and-female callipers, odd-leg callipers) | kweepasser |  |
+| hermetic sealant | hermetiese seëlmiddel |  |
+| hermetically sealed | hermeties verseël |  |
+| herringbone fashion | visgraatvorm |  |
+| herringbone gear | visgraatrat |  |
+| hertz (Hz) | hertz, Hz |  |
+| hessian tape | goiingband |  |
+| hessian | goiing |  |
+| heterodyne coupling | heterodinekoppeling, swewingskoppeling |  |
+| heterodyne frequency | heterodinefrekwensie |  |
+| heterodyne interference | heterodinesteuring |  |
+| heterodyne oscillator | heterodineossillator |  |
+| heterodyne receiver | heterodineontvanger, swewingsontvanger |  |
+| heterodyne reception | heterodineontvangs |  |
+| heterodyne wavemeter | heterodinegolfmeter, swewingsgolfmeter |  |
+| heterodyne | heterodine |  |
+| hexachlorophene | heksachlorofeen |  |
+| hexadecimal {computer} | heksadesimaal |  |
+| hexagon cap | seskantdop |  |
+| hexagon collet | seskantklemkraag |  |
+| hexagon nut | seskantmoer |  |
+| hexagon screw | seskantskroef |  |
+| hexagon | seshoek |  |
+| hexode | heksode |  |
+| hidden costs | verborge koste |  |
+| hidden demand | verborge vraag |  |
+| hierarchic net | hierargiese net |  |
+| high band | hoe band |  |
+| high button rivet | rondekopklinknael |  |
+| high charge {electricity} | swaar lading |  |
+| high definition {television} | skerp definisie |  |
+| high fidelity {tone reproduction} | hoe getrouheid |  |
+| high insulation resistance | hoe-isolasie-weerstand |  |
+| high level | hoe peil |  |
+| high luminous output | hoe liglewering |  |
+| high order {computer} | hoe orde |  |
+| high pressure | hoe druk |  |
+| high resistance | hoe weerstand |  |
+| high resistivity | hoe resistiwiteit |  |
+| high tension (high voltage) | hoe spanning |  |
+| high vacuum | hoe vakuum, sterk vakuum |  |
+| high-angle radiation | steilhoekstraling |  |
+| high-bulk paper | losveselpapier |  |
+| high-carbon steel | hoekoolstofstaal |  |
+| high-compression position | hoekompressiestand |  |
+| high-conductivity copper | hoegeleidingskoper |  |
+| high-fidelity receiver | hoetrou-ontvanger |  |
+| high-frequency alternator | hoefrekwensie-alternator |  |
+| high-frequency apparatus | hoefrekwensie-apparaat |  |
+| high-frequency bridge | hoefrekwensie-brug |  |
+| high-frequency choke | hoefrekwensie-smoorspoel |  |
+| high-frequency current | hoefrekwensie-stroom |  |
+| high-frequency generator | hoefrekwensie-generator |  |
+| high-frequency heating | hoefrekwensie-verhitting |  |
+| high-frequency inductance | hoefrekwensie-induktansie |  |
+| high-frequency oscillator | hoefrekwensie-ossillator |  |
+| high-frequency resistance | hoefrekwensie-weerstand |  |
+| high-frequency transformer | hoefrekwensie-transformator |  |
+| high-gain amplifier | hoewins-versterker |  |
+| high-grade instrument | kwaliteitinstrument |  |
+| high-impact glass (impact glass) | slagbestande glas |  |
+| high-impedance coil | hoe-impedansiespoel |  |
+| high-impedance relay | hoe-impedansierele |  |
+| high-incidence lightning area | swaarweerliggebied |  |
+| high-level language (HLL) | hoepeil-taal, HPT |  |
+| high-lightning area | swaarweerliggebied |  |
+| high-mu tube | hoe-mu-buis |  |
+| high-order address {computer} | hoe-orde-adres |  |
+| high-pass filter | bodeurlaatfilter |  |
+| high-power amplifier | kragtige versterker |  |
+| high-power balance/unbalance transformer | hoekrag-simmetreertransformator |  |
+| high-power transmitter | kragtige sender |  |
+| high-pressure cleaning unit | hoedruk-skoonmaakeenheid |  |
+| high-pressure gauge | hoedrukmeter |  |
+| high-pressure overload device | hoedruk-oorbelastingspoel |  |
+| high-pressure sodium lamp (HPS lamp) | HDN-lamp, hoedruk-natriumlamp |  |
+| high-profile rubber mounting pad | hoeprofiel-rubbermonteerkussing |  |
+| high-resistance fault | hoeweerstand-fout |  |
+| high-resistance joint | hoeweerstand-las |  |
+| high-resistance voltmeter | hoeweerstand-voltmeter |  |
+| high-rupturing-capacity fuse (HRC fuse) | HBV-sekering, hoebreekvermoe-sekering |  |
+| high-speed adj. | hoespoed-, snel- |  |
+| high-speed automatic system | snel outomatiese stelsel |  |
+| high-speed circuit | hoespoed-kring |  |
+| high-speed computer | hoespoed-rekenaar, snelrekenaar |  |
+| high-speed contact centrifugal switch | sentrifugale skakelaar met snel kontak |  |
+| high-speed data line | hoespoed-datalyn |  |
+| high-speed divider circuit | hoespoed-verdeelkring |  |
+| high-speed engine | hoespoed-enjin |  |
+| high-speed instrument | hoespoed-instrument, snelinstrument |  |
+| high-speed lathe | hoespoed-draaibank, sneldraaibank |  |
+| high-speed line | hoespoed-lyn |  |
+| high-speed relay | hoespoed-rele, snelrele |  |
+| high-speed shaft | hoespoed-as |  |
+| high-speed steel | hoespoed-staal, sneldraaistaal, snelsnystaal |  |
+| high-speed store {computer} | hoespoed-geheue |  |
+| high-speed switch | hoespoed-skakelaar, snelskakelaar |  |
+| high-speed telegraphy | hoespoed-telegrafie |  |
+| high-speed transfer | hoespoed-oordrag |  |
+| high-speed uniselector | hoespoed-draaikieser |  |
+| high-speed work | hoespoedwerk, snelwerk |  |
+| high-stability circuit | hoestabiliteit-kring |  |
+| high-technology computer | hoetegnologie-rekenaar |  |
+| high-tensile strength | hoe treksterkte |  |
+| high-tension battery (high-voltage battery) | hoespanning-battery |  |
+| high-tension cable (high-voltage cable) | hoespanning-kabel |  |
+| high-tension circuit (high-voltage circuit) | hoespanning-kring |  |
+| high-tension converter (high-voltage converter) | hoespanning-omsetter |  |
+| high-tension current (high-voltage current) | hoespanning-stroom |  |
+| high-tension fuse (high-voltage fuse) | hoespanning-sekering |  |
+| high-tension keying (high-voltage keying) | hoespanning-sleuteling |  |
+| high-tension line (high-voltage line) | hoespanning-lyn |  |
+| high-tension power feed (high-tension power supply) | hoespanning-kragtoevoer, hoespanning-toevoer |  |
+| high-tension switchgear (high-voltage switchgear) | hoespanning-skakeltuig |  |
+| high-tension transmission line (high-voltage transmission line) | hoespanning-transmissielyn |  |
+| high-tension wire (high-voltage wire) | hoespanning-draad |  |
+| high-tin alloy (high-tin-content alloy) | tinryke legering |  |
+| high-usage group (HU group) | HG-groep, hoegebruik-groep |  |
+| high-voltage winding | hoespanning-wikkeling |  |
+| higher voltage limit | boonste spanningsgrens |  |
+| highest level {eg achievement} | hoogste peil |  |
+| highest usable high frequency | hoogste bruikbare hoe frekwensie |  |
+| highlight n. | beklemtoning |  |
+| highly directional antenna | hoogs rigtingsensitiewe antenne |  |
+| highly flammable (highly inflammable) | hoogs ontvlambaar, hoogs vlambaar |  |
+| highway (HWY) {electronic control system} | HW, hoofweg |  |
+| highway {computer} | hoofweg |  |
+| highway | grootpad, hoofpad |  |
+| highway | openbare pad |  |
+| hill holder {vehicle} | truremmer |  |
+| hill-and-dale record {gramophone} | kontoerplaat |  |
+| hinge air-gap {digit switch} | skarnierlugspleet |  |
+| hinge bow | skarnierboog |  |
+| hinge | skarnier |  |
+| hinged cover | skarnierdeksel |  |
+| hinged end stop | skarnierentstop |  |
+| hinged extension fence | skarnierverlengleier |  |
+| hip pocket | agtersak |  |
+| hire (rent, rental, rental charge) | huur, huurgeld |  |
+| hired circuit {rented line} | huurlyn |  |
+| hissing (hiss noise) | gesis, sis, sisruis |  |
+| histogram {marketing} | histogram |  |
+| histogram | histogram |  |
+| history sheet {eg of vehicle} | rekordstaat |  |
+| hit n. | stuwing |  |
+| hit-and-miss variable quantity governing | wisseltoevoerspoedreëling |  |
+| hit | treffer, raakskoot |  |
+| hob n. | wurmfrees |  |
+| hob v. {cutter} | afwikkel |  |
+| hobbing | freeswerk |  |
+| hobbing | vervorming |  |
+| hogged {line} | geboggel |  |
+| hoghorn | trompetantenne |  |
+| hoist n. | hystoestel |  |
+| hoist v. (lift) | hys, lig |  |
+| hold an enquiry | ondersoek hou |  |
+| hold an inquest | n geregtelike doodsondersoek hou |  |
+| hold current (holding current) | houstroom |  |
+| hold key | housleutel |  |
+| hold liable | aanspreeklik hou |  |
+| hold n. {eg 3-day hold} | houtyd |  |
+| hold on charge | in voorraad hou |  |
+| hold path | houbaan |  |
+| hold signal | housein |  |
+| hold v. {eg relê, selector} | hou |  |
+| hold-and-cord test jack | hou-en-snoertoetsklink |  |
+| hold-down bolt (holding-down bolt) | ankerbout |  |
+| hold-off time {sweep} | teëhoutyd |  |
+| hold | greep |  |
+| hold | vashou |  |
+| holder of certificate | sertifikaathouer |  |
+| holder | houer |  |
+| holding (plot, smallholding) | hoewe, kleinhoewe, plasie, plot |  |
+| holding and busying earth | hou-en-besetaarde |  |
+| holding battery | houbattery |  |
+| holding circuit | houkring |  |
+| holding coil | houspoel |  |
+| holding company | beherende maatskappy, houermaatskappy |  |
+| holding condition | houtoestand |  |
+| holding dog {rack-type hand brake} | pal |  |
+| holding earth | houaarde |  |
+| holding facility | houfasiliteit |  |
+| holding flux | houvloed |  |
+| holding jack {telephone} | houklink |  |
+| holding key | housleutel |  |
+| holding pin {eg drop-side body} | sluitpen |  |
+| holding relay | hourelê |  |
+| holding spring | houveer |  |
+| holding time (occupancy, occupation time) {call} | besettyd, houtyd |  |
+| holding winding | houwikkeling |  |
+| holdover n. {eg data signals} | terughouding |  |
+| hole current {semiconductor} | holtestroom |  |
+| hole gauge | kalibermaat |  |
+| hole pitch | gatafstand |  |
+| hole saw | gatsaag |  |
+| hole {semiconductor} | holte |  |
+| hole-storage current | opgegaardeholte-stroom |  |
+| hole-storage effect | opgegaardeholte-effek |  |
+| holiday concession | vakansiekonsessie, verlofkonsessie |  |
+| hollow bullet {printing} | kringetjie |  |
+| hollow bullet {typesetting} | sirkeltjie |  |
+| hollow mill | hol frees |  |
+| hollow skirting | hol vloerlys |  |
+| hollow square bullet {printing} | oop blokkie |  |
+| hollow square bullet {typesetting} | oop blokkie |  |
+| hollow steel | hol staal |  |
+| home audit {marketing} | tuisoudit |  |
+| home audit | tuisoudit |  |
+| home contact | ruskontak |  |
+| home copy {tape} | tuiskopie |  |
+| home position {eg cursor} | tuisstand |  |
+| home position | russtand |  |
+| home record {teleprinter} | tuisrekord |  |
+| home signal distorter | sendkantseinvervormer |  |
+| home v. {device} | na russtand terugkeer |  |
+| home v. {ship or aircraft} | aanpeil |  |
+| home {in menu} | tuisblad |  |
+| homeland citizenship card | tuislandburgerskapkaart |  |
+| homelands territorial allowance | tuislandgebiedstoelae |  |
+| homing arc | terugkeerboog |  |
+| homing cam | terugdraainok |  |
+| homing circuit | terugkeerkring |  |
+| homing path | terugkeerbaan |  |
+| homing sector | terugkeersektor |  |
+| homing selector | terugkeerkieser |  |
+| homing-type uniselector | terugkeerdraaikieser |  |
+| homodyne reception (synchrodyne reception) | homodineontvangs |  |
+| homogeneous interconnection | homogene tussenverbinding |  |
+| honing | fynslypwerk |  |
+| hood | kap |  |
+| hook and bar {clothing, metal} | hakie en balkie |  |
+| hook and eye | haak en oog |  |
+| hook bolt | haakbout |  |
+| hook n. | haak |  |
+| hook pin | haakpen |  |
+| hook together {edges} | inhaak |  |
+| hook v. | haak, inhaak |  |
+| hook-block cradle {crane} | haakblokrus |  |
+| hook-flick v. | miktik |  |
+| hooked end {spring} | haakent |  |
+| hooked knife | haakmes |  |
+| hooking joint | inhaaklas |  |
+| hooter | toeter |  |
+| hop {radio propagation} | sprong |  |
+| hopper | bak |  |
+| hopper | losser |  |
+| horizontal antenna | horisontale antenne |  |
+| horizontal clearance | horisontale tussenruimte |  |
+| horizontal component of force | horisontale forskomponent, horisontale kragkomponent |  |
+| horizontal component {wave} | horisontale komponent |  |
+| horizontal definition {television} | horisontale definisie |  |
+| horizontal deflection | horisontale defleksie |  |
+| horizontal dipole | horisontale dipool |  |
+| horizontal discharge | horisontale uitlaat |  |
+| horizontal duct (horizontal runway) | horisontale kanaal |  |
+| horizontal force | horisontale fors, horisontale krag |  |
+| horizontal keybar | horisontale toetsstaaf |  |
+| horizontal polarisation | horisontale polarisasie |  |
+| horizontal pull | horisontale trek |  |
+| horizontal relay | horisontale rele |  |
+| horizontal scanning | horisontale aftasting |  |
+| horizontal separation | horisontale skeiafstand |  |
+| horizontal spacing | horisontale spasiering |  |
+| horizontal sweep | horisontale stryking |  |
+| horizontal-deflecting plate (horizontal-deflection plate) {CRT} | horisontaledefleksieplaat |  |
+| horizontal-shift control | horisontaleskuif-kontrole |  |
+| horizontally polarised wave | horisontaal gepolariseerde golf |  |
+| horn antenna | horingantenne |  |
+| horn feed {dish antenna} | horingvoerder |  |
+| horn loudspeaker | horingluidspreker |  |
+| horsepower | perdekrag |  |
+| horseshoe magnet | hoefmagneet |  |
+| horseshoe | hoefyster |  |
+| hose clip | slangklem |  |
+| hose connector | slangverbinder |  |
+| hose nipple {air conditioning} | slangnippel |  |
+| hose-proof fan motor | straalwaterdigte waaiermotor |  |
+| host society | gasheervereniging |  |
+| host system | voogstelsel |  |
+| host {Saponet} | voog |  |
+| host {computer} | gasheer |  |
+| hostel weekend | koshuisnaweek |  |
+| hostel | hostel |  |
+| hot card | rooikaart |  |
+| hot cathode (thermionic cathode) | gloeikatode |  |
+| hot closet | warmkas |  |
+| hot key {computer} | kitssleutel |  |
+| hot key | kortpadsleutel, kortsleutel, kitssleutel, warmsleutel |  |
+| hot line | rooilyn |  |
+| hot spot {punch-card machine} | kragpunt |  |
+| hot spot | warm kol |  |
+| hot standby | kitsgereed |  |
+| hot top | kookplaat |  |
+| hot-card list (hot list) | rooikaartlys |  |
+| hot-dip galvanise | warmdompelgalvaniseer |  |
+| hot-gas line {air-conditioning system} | warmgasleiding |  |
+| hot-gas muffler {Trane water chiller} | warmgasdemper |  |
+| hot-line facility | warmlynfasiliteit |  |
+| hot-roll laminator | warmrollamineerder |  |
+| hot-rolled steel | warm gewalste staal |  |
+| hot-standby mode | kitsgereed-modus |  |
+| hot-wire ammeter | warmdraadammeter |  |
+| hot-wire instrument | warmdraadinstrument |  |
+| hot-wire probe | warmdraadsondeerder |  |
+| hot-wire voltmeter | warmdraadvoltmeter |  |
+| hour driving wheel | uurdryfrat |  |
+| hour meter | uurteller |  |
+| hour-setting lever | uurstelhefboom |  |
+| hour-wheel drive | uurrataandrywing |  |
+| hourly earnings | uurverdienste |  |
+| hours of attendance (hours of service) | diensure |  |
+| hours of operation | bedryfsure |  |
+| house link {PABX} | interne verbindskakel |  |
+| house-calls-only extension | bylyn slegs vir interne oproepe |  |
+| house-keeping instructions | sleurtaakinstruksies |  |
+| house-keeping routine | huishoudelike roetinetoets |  |
+| house-service connection | huisdiensaansluiting |  |
+| house-to-house delivery | huisaflewering |  |
+| house | huis |  |
+| household | huishouding |  |
+| householder circular | huissirkulere |  |
+| housekeeping {building, company} | huishouding |  |
+| housing loan scheme | behuisingsleningskema |  |
+| housing {regenerator} | kas |  |
+| hovercraft | kussingtuig, lugkussingtuig |  |
+| howl {eg loudspeaker} | gehuil |  |
+| howler cord circuit | huilersnoerkring |  |
+| howler | huiler |  |
+| hub polling | naafpolsing |  |
+| hum n. | brom, gebrom |  |
+| hum v. | brom |  |
+| human approach | menslike benadering |  |
+| human comfort | mensegerief |  |
+| human factor | menslike faktor |  |
+| human philosophy (view of man) | mensbeskouing |  |
+| human voice | mensestem |  |
+| human-oriented | mensgerig |  |
+| humanness (humanity) | menswees |  |
+| humid area | vogtige gebied |  |
+| humidification | bevogtiging |  |
+| humidifier | bevogtiger |  |
+| humidistat {air conditioner} | humidistaat |  |
+| humidity reading {from a chart} | humiditeitsaflesing |  |
+| humidity reading {from a meter} | humiditeitsaanwysing |  |
+| humidity | humiditeit, vogtigheid |  |
+| hump (speed hump) {road} | spoedhobbel |  |
+| hump {graph} | boggel |  |
+| hump {teleprinter} | knoppie |  |
+| hundreds digit | honderdesyfer |  |
+| hundreds group | honderdegroep |  |
+| hunt group | soekgroep |  |
+| hunt start resistor {for PBX} | soekaansitresistor |  |
+| hunt-group addressing | soekgroepadressering |  |
+| hunter {automatic telephone} | soeker |  |
+| hunting (hunting action) {automatic telephone} | soeking |  |
+| hunting condition {automatic telephone} | soektoestand |  |
+| hunting facility {automatic telephone} | soekfasiliteit |  |
+| hunting period {automatic telephone} | soektyd |  |
+| hunting speed | soekspoed |  |
+| hunting {television} | beeldswewing |  |
+| hunting {transformer} | skommeling |  |
+| hurricane lamp | stormlamp |  |
+| hybrid T {waveguide} | differensiaal-T |  |
+| hybrid circuit {circuitry containing hybrid} | differensiaalkring |  |
+| hybrid computer | hibridiese rekenaar |  |
+| hybrid coupler {waveguide} | differensiele koppelaar |  |
+| hybrid junction {waveguide} | differensieele aansluiting |  |
+| hybrid network | differensiaalnetwerk |  |
+| hybrid pi-equivalent circuit | hibridiese pi-ekwivalente kring |  |
+| hybrid ring {waveguide} | differensiaalring |  |
+| hybrid tree (tree of hybrids) | differensiaalboom |  |
+| hybrid-balancing network | differensiaalbalanseernetwerk |  |
+| hydrant fittings | brandkraantoebehore |  |
+| hydrated bedding mortar lime | gebluste inbeddaghakalk |  |
+| hydraulic oil | hidrouliese olie |  |
+| hydraulic wedge {body and frame straightener} | hidrouliese wig |  |
+| hydraulics | hidroulika |  |
+| hydrocarbon | koolwaterstof |  |
+| hydrogen | waterstof |  |
+| hydrometer | hidrometer |  |
+| hygrometer | higrometer, vogmeter |  |
+| hygrostat {air conditioner} | higrostaat |  |
+| hygrothermograph | higrotermograaf |  |
+| hyper group | hipergroep |  |
+| hyperbolic function | hiperboliese funksie |  |
+| hyperbolic sine (sinh) | hiperboliese sinus, sinh |  |
+| hyperbolic tangent (tanh) | hiperboliese tangens, tanh |  |
+| hyperboloid | hiperbolo<ed |  |
+| hyperboloidal reflector | hiperbolo<edreflektor |  |
+| hyphen | koppelteken |  |
+| hypoid axle | hipo<edas |  |
+| hypoid bevel gear (hypoid gear) | hipo<edrat |  |
+| hypotenuse | hipotenusa, skuinssy |  |
+| hypothesis testing | hipotesetoesing |  |
+| hypothetical current | hipotetiese stroom |  |
+| hypothetical exchange | hipotetiese sentrale |  |
+| hypothetical reference circuit | hipotetiese vergelykingskring |  |
+| hypothetical route | hipotetiese roete |  |
+| hypsogram | hipsogram |  |
+| hysteresis coefficient | histeresekoeffisient |  |
+| hysteresis curve | histeresekromme |  |
+| hysteresis factor | histeresefaktor |  |
+| hysteresis loop | histereselus |  |
+| hysteresis loss | histereseverlies |  |
+| hysteresis | histerese |  |
+| ice balance (spring balance) | trekskaal, veerbalans |  |
+| ice loading | yslas |  |
+| ice pellet | yskorrel |  |
+| iconoscope | ikonoskoop |  |
+| ideal articulation | ideale artikulasie |  |
+| ideal crystal | ideale kristal |  |
+| ideal instant {digital modulation} | ideale tydstip |  |
+| ideal telegraphic signal | ideale telegraafsein |  |
+| ideal transducer | ideale oordraer |  |
+| idempotence {mathematics} | idempotensie |  |
+| identification bit | uitkenbis |  |
+| identification card | identifikasiekaart |  |
+| identification number {Defence Force} | kennommer |  |
+| identification number {data processing} | kennommer |  |
+| identification signal | identifikasiesein |  |
+| identification tab (identification tag) | kenplaatjie |  |
+| identification unit | identifikasie-eenheid |  |
+| identification | herkenning, identifikasie |  |
+| identifier code {numbering device} | uitkenkode |  |
+| identifier | identifiseerder |  |
+| identifying information | keninligting |  |
+| identifying number {of Saponet user} | uitkennommer |  |
+| identity card | persoonskaart |  |
+| identity laws {mathematics} | identiteitswette |  |
+| identity number {person} | identiteitsnommer |  |
+| identity number | kennommer |  |
+| identity papers | identiteitsdokumente |  |
+| identity | identiteit |  |
+| idle capacity {distribution cabinet} | onbenutte kapasiteit |  |
+| idle character (padding character) | vulkarakter |  |
+| idle circuit condition | onbenutte kringtoestand |  |
+| idle condition | vry toestand |  |
+| idle discharge port | luieruitlaatpoort |  |
+| idle line | vry lyn |  |
+| idle period {PCM} | rusperiode |  |
+| idle period {tube} | stroomlose periode |  |
+| idle period | onbenutte tyd |  |
+| idle port {data transmission} | vry poort |  |
+| idle port {mechanics} | luierpoort |  |
+| idle signal | tussensein |  |
+| idle time {computer} | leeglooptyd |  |
+| idle time | ledige tyd |  |
+| idle time | onbenutte tyd |  |
+| idle timer {PAD} | rustydreelaar |  |
+| idle v. | luier |  |
+| idle-channel noise {PCM} | rustoestandruis |  |
+| idle-channel state | ruskanaalstaat |  |
+| idler (idler crystal) {microwave} | kontrolekristal |  |
+| idler circuit | luierkring |  |
+| idler crystal | luierkristal |  |
+| idler drum | meelooptrommel |  |
+| idler filter | luierfilter |  |
+| idler gear (idler wheel) | tussenrat |  |
+| idler output {microwave} | kontrolekristaluitset |  |
+| idler spindle | tussenratspil |  |
+| idler {eg oil pump} | meelooprat |  |
+| idler {eg three or more gears} | tussenrat |  |
+| idler-gear plate (idler plate) {MU} | tussenratplaat |  |
+| idling jet | luierstraler |  |
+| if and only if (iff) | as en slegs as, ass |  |
+| igniter | ontsteker |  |
+| ignition cable | ontstekingskabel |  |
+| ignition coil | ontstekingspoel |  |
+| ignition electrode | ontstekingselektrode |  |
+| ignition switch | ontstekingskakelaar |  |
+| ignition system | ontstekingstelsel |  |
+| ignition timing | ontsteektydreeling, vonkreeling |  |
+| ignition voltage | ontsteekspanning |  |
+| ignition | ontsteking |  |
+| ignitron | ignitron |  |
+| ill-defined ailment | vaag omskrewe siekte |  |
+| ill-health | sieklikheid, slegte gesondheid |  |
+| illegal state | ongeldige staat |  |
+| illegal use | onwettige gebruik |  |
+| illiterate depositor | ongeletterde deponeerder |  |
+| illuminated display | verligte vertoning |  |
+| illuminated key | verligte sleutel |  |
+| illuminated record key | verligte rekordsleutel |  |
+| illuminated rotary button | verligte draaiknop |  |
+| illuminated surface-grid pattern {solar panel} | verligte oppervlakroosterpatroon |  |
+| illumination efficiency {lamp} | verligtingsrendement |  |
+| illumination efficiency {system} | verligtingsdoeltreffendheid |  |
+| illumination | verligting |  |
+| illustrative learning programme | voorbeeldleerprogram |  |
+| illustrative programme | voorbeeldprogram |  |
+| image antenna | beeldantenne |  |
+| image attenuation coefficient | beeldverswakkingskoeffisient |  |
+| image attenuation constant | beeldverswakkingskonstante |  |
+| image camera tube | beeldkamerabuis |  |
+| image conductor | beeldgeleier |  |
+| image converter | beeldomsetter |  |
+| image dissector {television} | beeldontleder |  |
+| image drift {television} | beelddrif |  |
+| image frequency | beeldfrekwensie |  |
+| image impedance | beeldimpedansie |  |
+| image intensification | beeldverskerping |  |
+| image interference | beeldsteuring |  |
+| image orthicon {television} | beeldortikon |  |
+| image phase-change coefficient | beeldfaseverskuiwingskoëffisiënt |  |
+| image phase-constant | beeldfasekonstante |  |
+| image point | beeldpunt |  |
+| image rejection {superheterodyne receiver} | beeldverwerping |  |
+| image response {eg television} | beeldweergawe |  |
+| image signal | beeldsein |  |
+| image suppression | beeldonderdrukking |  |
+| image transmission | beeldoorsending |  |
+| image-frequency rejection (image rejection) | beeldfrekwensiesperring |  |
+| image-parameter filter | beeldparameterfilter |  |
+| image-transfer coefficient | beeldoordragskoëffisiënt |  |
+| image-transfer constant | beeldoordragskonstante |  |
+| image | beeld |  |
+| imitation stamp | nagemaakte seël |  |
+| immediate addressing {computer} | onmiddellike adressering |  |
+| immediate controlling officer | onmiddellike beherende beampte |  |
+| immediate search facility | oomblikliksoekfasiliteit |  |
+| immersed electrode {microphone} | koolbed-elektrode |  |
+| immersion dip | onderdompeling |  |
+| immersion type {coolant pump} | dompeltipe |  |
+| immoral article | onsedelike artikel |  |
+| immovable property | onroerende goed, vaste eiendom |  |
+| immunisation | immunisering |  |
+| impact printer | slagdrukker |  |
+| impact-sensitive paper | slagsensitiewe papier |  |
+| impair v. {service} | belemmer |  |
+| impedance angle | impedansiehoek |  |
+| impedance bridge | impedansiebrug |  |
+| impedance coupling | impedansiekoppeling |  |
+| impedance matching | impedansieaanpassing |  |
+| impedance mismatch | impedansiewanaanpassing |  |
+| impedance ratio | impedansieverhouding |  |
+| impedance run | impedansietoetsreeks |  |
+| impedance transformation ratio | impedansietransformeerverhouding |  |
+| impedance transformer | impedansietransformator |  |
+| impedance variation | impedansiewisseling |  |
+| impedance-matching device | impedansie-aanpasser |  |
+| impedance/frequency characteristic curve | impedansie/frekwensie-kenkromme |  |
+| impedance/frequency run | impedansie/frekwensie-toetsreeks |  |
+| impedance | impedansie |  |
+| impeller | stuwer |  |
+| imperfection | imperfeksie |  |
+| imperforate | ongeperforeer, ongetand |  |
+| impermeable container | ondeurdringbare houer, ondeurlatende houer |  |
+| impervious to moisture (moisture-proof) | vogdig |  |
+| impingement filter | aanslaanfilter |  |
+| implausible | onwaarskynlik |  |
+| implement {eg decision, plan} | uitvoer |  |
+| implementation (execution) | uitvoering, implementering |  |
+| implementation | implementering |  |
+| implementation | implementering |  |
+| implicit function | implisiete funksie |  |
+| implosion | inploffing |  |
+| import article | invoerartikel |  |
+| import authority | invoermagtiging |  |
+| import charges | invoerkoste |  |
+| import control | invoerbeheer |  |
+| import duty | invoerreg |  |
+| import permit | invoerpermit |  |
+| import restriction | invoerbeperking |  |
+| impose {fine, limit, punishment, secrecy} | ople |  |
+| impound {eg savings bank book} | beslag le op |  |
+| impregnated graphite | ge<mpregneerde grafiet |  |
+| impregnated paper | ge<mpregneerde papier |  |
+| impregnated pole | ge<mpregneerde paal |  |
+| impregnated yarn covering | ge<mpregneerde garingbedekking |  |
+| impressed stamp | afdrukseel |  |
+| impression (printing) {book} | druk |  |
+| impression {stamp} | afdruk |  |
+| impression | indruk |  |
+| imprest account | voorskotrekening |  |
+| imprest stock | voorskotvoorraad |  |
+| imprint n. {printing} | impressum |  |
+| improper behaviour | onbetaamlike gedrag, onfatsoenlike gedrag |  |
+| improper enclosure {in mail} | ongeoorloofde insluiting |  |
+| improper payment | onbehoorlike betaling |  |
+| improved method | verbeterde metode |  |
+| improvise | improviseer |  |
+| impulse action | impulsaksie, impulswerking |  |
+| impulse cam | impulsnok |  |
+| impulse chasing | impulsvolging |  |
+| impulse circuit | impulskring |  |
+| impulse conversion | impulsomsetting |  |
+| impulse corrector | impulskorrektor |  |
+| impulse count | impulstelling |  |
+| impulse distortion | impulsvervorming |  |
+| impulse frequency | impulsfrekwensie |  |
+| impulse generator | impulsgenerator |  |
+| impulse machine | impulsmasjien |  |
+| impulse noise | impulsruis |  |
+| impulse operation | impulswerking |  |
+| impulse pallet | impulspalet |  |
+| impulse pawl | impulspal |  |
+| impulse period | impulsperiode |  |
+| impulse pump (jerk pump) {diesel engine} | impulspomp |  |
+| impulse push-button dial (IPB dial) | impulsdrukknopskakelskyf, IDK-skakelskyf |  |
+| impulse ratio | impulsverhouding |  |
+| impulse regenerator {telephone} | impulsterugvormer |  |
+| impulse relay | impulsrele |  |
+| impulse repeater | impulsherhaler |  |
+| impulse repetition | impulsherhaling |  |
+| impulse response | impulsrespons |  |
+| impulse response | impulsresponsie, impulsweergawe |  |
+| impulse signal (impulsing signal) | impulssein |  |
+| impulse spring | impulsveer |  |
+| impulse storage | impulsbewaring |  |
+| impulse train | impulsreeks |  |
+| impulse waveform | impulsgolfvorm |  |
+| impulse weight, speed and count circuit {dial testing} | impulsbeswaring-, impulsspoed- en impulstelkring |  |
+| impulse-correction element | impulskorrigeerelement |  |
+| impulse-correction timer | impulskorreksiereelaar |  |
+| impulse-counting chain | impulstelketting |  |
+| impulse-counting circuit | impulstelkring |  |
+| impulse-selecting wheel | impulskiesrat |  |
+| impulse-sending element | impulssendelement |  |
+| impulse | impuls |  |
+| impulses per second (i/s) | impulse per sekonde, i/s |  |
+| impulsing limit | impulsgrens |  |
+| impulsing lug {dial} | pulseeroor, impulseeroor |  |
+| impulsing performance | impulseerprestasie |  |
+| impulsing performance | impulsprestasie |  |
+| impulsing relay | impulsrele |  |
+| impulsing test | impulseertoets |  |
+| impulsing test | impulstoets |  |
+| impulsing {PABX} | impulsering |  |
+| impulsive noise | impulsiewe ruis |  |
+| impurity semiconductor | onsuiwerheidshalfgeleier |  |
+| impurity | onsuiwerheid |  |
+| in advance {payment} | vooruit |  |
+| in advance | by voorbaat |  |
+| in arrear (in arrears) | agterstallig |  |
+| in attendance (on duty) | op diens |  |
+| in attendance | diensdoende |  |
+| in bad faith | te kwader trou |  |
+| in bond | in doeanepakhuis |  |
+| in brackets | tussen hakies |  |
+| in bulk | by die groot maat, in massa |  |
+| in cascade | in kaskade |  |
+| in case of emergency | in geval van nood |  |
+| in circuit {transistor tester} | in kring |  |
+| in compliance with | ingevolge, ooreenkomstig, ter voldoening aan |  |
+| in conformity with | in ooreenstemming met |  |
+| in conjunction with | in samewerking met, saam met |  |
+| in consideration of {eg in contracts} | as teenprestasie vir |  |
+| in consideration of | met die oog op |  |
+| in contravention of | in stryd met |  |
+| in course of construction (under construction) | in aanbou |  |
+| in default of payment | by wanbetaling |  |
+| in delay {telephone} | onder vertraging |  |
+| in due course | later, mettertyd |  |
+| in duplicate | in duplikaat, in tweevoud |  |
+| in exchange for | in ruil vir |  |
+| in extent adj. {size of plot etc} | groot |  |
+| in favour of | ten gunste van |  |
+| in full settlement | ter volle vereffening |  |
+| in general terms | in algemene terme, in bree trekke |  |
+| in good faith | bona fide, te goeder trou |  |
+| in good working condition | in goeie werkende toestand |  |
+| in his capacity as | in sy hoedanigheid van |  |
+| in lieu of | in die plek van, in plaas van |  |
+| in line with {be equal} | op een lyn met |  |
+| in line with | in lyn met |  |
+| in manuscript | in handskrif |  |
+| in opposition {also electricity} | teengestel |  |
+| in order of merit | in merietevolgorde, in volgorde van meriete |  |
+| in part payment | ter gedeeltelike vereffening |  |
+| in payment of | ter betaling van |  |
+| in person | persoonlik |  |
+| in phase | gelykfasig |  |
+| in pursuance of | ingevolge, ooreenkomstig |  |
+| in push-pull {modulation} | in balans, in stoot-trek |  |
+| in push-push {modulation} | in stoot-stoot |  |
+| in quadrature {electricity} | haaksfasig |  |
+| in recognition of | ter erkenning van |  |
+| in replacement of | ter vervanging van |  |
+| in respect of | ten aansien van, ten opsigte van |  |
+| in response to a summons | ingevolge 'n dagvaarding |  |
+| in rotation | beurtelings, om die beurt |  |
+| in rotation | in volgorde |  |
+| in series aiding | seriemeewerkend |  |
+| in series opposing | serieteenwerkend |  |
+| in series | in serie |  |
+| in settlement of | ter vereffening van |  |
+| in situ repair | in situ-herstelwerk |  |
+| in situ service | in situ-diens |  |
+| in stock | in voorraad |  |
+| in substitution for | ter vervanging van |  |
+| in supersession of {person} | ter vervanging van |  |
+| in sympathy with | simpaties met |  |
+| in tandem | in tandem |  |
+| in tee with | in T-verbinding met |  |
+| in the employ of | in diens van |  |
+| in time | betyds, op tyd |  |
+| in time | mettertyd |  |
+| in transit | in transito |  |
+| in triplicate | in drievoud |  |
+| in witness of | ten bewyse van, ten getuie van |  |
+| in-band signalling | binnebandseining |  |
+| in-circuit emulator | inkringemuleerder |  |
+| in-depth interview | diepteonderhoud |  |
+| in-dialling (inward dialling) | in-skakeling |  |
+| in-dialling | binnewaartse skakeling |  |
+| in-handling costs {agri-trade} | inhanteringskoste |  |
+| in-house training | interne opleiding |  |
+| in-house | intern |  |
+| in-line filter | leidingfilter, pyplynfilter |  |
+| in-plant waste | binneaanlegafval |  |
+| in-sequence frame | inreeks-raam |  |
+| in-service training | indiensopleiding |  |
+| in-station test | instasietoets |  |
+| in-task training | taakopleiding |  |
+| in/out instruction | in/uit-instruksie |  |
+| inactive account | onaktiewe rekening |  |
+| inactive month {job control system} | onaktiewe maand |  |
+| inactive terminal {carrier system} | onaktiewe eindpunt |  |
+| inactive | onaktief |  |
+| inaptitude | ongeskiktheid |  |
+| inboard side {wood lathe} | dryfkopkant |  |
+| incandescence | gloeiing |  |
+| incandescent filament | gloeidraad, gloeifilament |  |
+| incandescent lamp | gloeilamp |  |
+| incentive bonus | aansporingsbonus |  |
+| incentive plan | aansporingplan |  |
+| incentive scheme | aansporingskema |  |
+| incentive scheme | aansporingstelsel |  |
+| incentive-bonus scheme | aansporingsbonusskema |  |
+| incentive | aansporing |  |
+| incentive | aansporing |  |
+| incentive | aansporing, aansporingsmaatreel |  |
+| inch v. {eg printing press} | por |  |
+| inching {by itself} | kruiping |  |
+| inching | porring |  |
+| incident energy | invalenergie |  |
+| incident ray | invalstraal |  |
+| incident solar-radiation flux | invallende sonbestralingsvloed |  |
+| incident voltage | invalspanning |  |
+| incident wave | invalsgolf |  |
+| incidental characteristic | toevallige eienskap |  |
+| incidental expenses | onvoorsiene uitgawe |  |
+| incidental fitting | onvoorsiene toebehore |  |
+| incidental service | bykomende diens |  |
+| incidentation | insidentering |  |
+| incineration facility | verbrandfasiliteit |  |
+| incinerator | verbrander |  |
+| incipient failure | beginfaling |  |
+| inclined gauge manometer | skuinsbuismanometer |  |
+| inclined plane | skuins vlak |  |
+| inclusive allowance | inklusiewe toelae |  |
+| inclusive charge | inklusiewe koste |  |
+| inclusive-OR function | insluitend-OF-funksie |  |
+| income (revenue) | inkomste |  |
+| income and expenditure pattern | inkomste-en-bestedingspatroon |  |
+| income and expenditure patterns {marketing} | inkomste- en bestedingspatrone |  |
+| income elasticity coefficient | inkomste-elastisiteitkoeffisient |  |
+| income tax return | inkomstebelastingopgawe |  |
+| income tax | inkomstebelasting |  |
+| incoming (inward) | inkomend |  |
+| incoming access {switched data network} | inkomende toegang |  |
+| incoming call (inward call) | inkomende oproep |  |
+| incoming circuit | inkomende kring |  |
+| incoming exchange | ontvangsentrale |  |
+| incoming first numerical | inkomende eerstesyferkieser |  |
+| incoming junction | inkomende koppellyn |  |
+| incoming line | inkomende lyn |  |
+| incoming mail | inkomende pos |  |
+| incoming occupant | nuwe okkupeerder |  |
+| incoming position | inkomende bedienpunt |  |
+| incoming ringing current | inkomende luistroom |  |
+| incoming ringing | inkomende lui |  |
+| incoming side | inkomende kant |  |
+| incoming signal | inkomende sein |  |
+| incoming subscriber | inkomende huurder |  |
+| incoming suite {switchboard} | inkomende stel |  |
+| incoming-call packet | inkomendeoproep-pakkie |  |
+| incoming-junction repeater | inkomendekoppellyn-herhaler |  |
+| incompatible closed user group | onaanpasbare geslote gebruikergroep |  |
+| incompatible {apparatus} | onaanpasbaar |  |
+| inconsistent rating | inkonsekwente aanslag |  |
+| inconsistent | strydig |  |
+| incorporate {components} | inbegryp, inbou, inkorporeer |  |
+| increase {eg expenditure} | styging |  |
+| increase {eg frequency, rental, salary} | verhoging |  |
+| increase | toename |  |
+| increment borer {wood sampling} | inkrementboor |  |
+| increment register | inkrementregister |  |
+| increment {salary} | inkrement |  |
+| increment | inkrementeer |  |
+| incremental computer | inkrementrekenaar |  |
+| incremental date | verhogingsdatum |  |
+| incremental noise | inkrementruis |  |
+| incremental progression {salary} | kerfvordering |  |
+| incremental voltage (voltage increment) | spanningsinkrement |  |
+| incremental voltage step | spanningsinkrementtrap |  |
+| inculcate {knowledge} | indreun |  |
+| incumbent (occupant) {post} | bekleër |  |
+| incumbent | posbekleër |  |
+| incumbent | posbekleër |  |
+| incuse n. {metal defect} | stempel |  |
+| incuse v. | stempel |  |
+| indecent language | onbetaamlike taal, onwelvoeglike taal |  |
+| indecent matter (obscene matter) | onbetaamlike stukke, onsedelike stukke, onwelvoeglike stukke |  |
+| indecent | onbetaamlik, onsedelik, onwelvoeglik |  |
+| indecision | besluiteloosheid |  |
+| indeflectible | ondeflekteerbaar |  |
+| indelible ink | onuitwisbare ink |  |
+| indelible pencil | inkpotlood |  |
+| indemnification | proses van skadeloosstelling |  |
+| indemnify {against possible damage} | vrywaar |  |
+| indemnify {for damage incurred} | skadeloos stel |  |
+| indemnity clause | vrywaringsklousule |  |
+| indemnity form | vrywaringsvorm |  |
+| indemnity | skadeloosstelling |  |
+| indemnity | vrywaring |  |
+| indent n. {foreign order} | indent |  |
+| indent series | rekwisisiereeks |  |
+| indent v. {typing} | inkeep, inspring |  |
+| indent v. | indenteer |  |
+| indented entry | inspringende inskrywing |  |
+| indenture n. | leerkontrak |  |
+| indenture v. | inboek |  |
+| independent sideband | onafhanklike syband |  |
+| independent-sideband receiver | onafhanklikesyband-ontvanger |  |
+| independent-sideband transmission | onafhanklikesyband-transmissie |  |
+| independent-sideband transmitter | onafhanklikesyband-sender |  |
+| indestructible wire | onvernietigbare draad |  |
+| index cabinet | indekskabinet |  |
+| index card | indekskaart |  |
+| index centre {dividing head} | indekssenter, instelsenter |  |
+| index crank {dividing head} | indeksslinger, instelslinger |  |
+| index letter | indeksletter |  |
+| index method {marketing} | indeksmetode |  |
+| index method | indeksmetode |  |
+| index n. {also number of 1's in logic permutation} | indeks |  |
+| index n. | indeks, inhoudsopgawe |  |
+| index of co-operation {facsimile} | aanpassingsindeks |  |
+| index of refraction (refractive index) | refraksie-indeks |  |
+| index plate | indeksplaat |  |
+| index stop | indeksstop |  |
+| index v. {also lathe} | indekseer |  |
+| index wheel (number ring) {uniselector} | nommerwiel |  |
+| index wheel | nommerwiel |  |
+| indexing base | indeksbasis |  |
+| indexing device | indekseertoestel |  |
+| indexing feature (indexing mechanism) {lathe} | indekseermeganisme |  |
+| indexing procedure | stelprosedure |  |
+| indexing/filing equipment | indekseer/liasseer-toerusting |  |
+| india-rubber (rubber) | rubber |  |
+| india-rubber stamp (rubber stamp) | rubberstempel |  |
+| indian tag | lêerveter |  |
+| indicated horsepower <preferred term - indicated power> | indikateurdrywing |  |
+| indicating lamp | aanwyslamp |  |
+| indicating point {PABX} | aanwyspunt |  |
+| indicating tone {eg night-watch system} | erkenningstoon |  |
+| indication board | aanwysbord |  |
+| indication switch | aanwysskakelaar |  |
+| indications display {RICE system} | toestandaanduiding |  |
+| indicator coil | aanwyserspoel |  |
+| indicator diagram {steam engine} | indikateurdiagram |  |
+| indicator flap | aanwyserklappie |  |
+| indicator insert {telephone-alarm system} | aanwyserkop |  |
+| indicator light | aanwyserlig |  |
+| indicator number | aanwysernommer |  |
+| indicator relay | aanwyserrele |  |
+| indicator shutter | aanwysersluiter |  |
+| indicator window | aanwyservenster |  |
+| indicator {also phonetic alphabet} | aanwyser |  |
+| indicator {telegraphy} | adres |  |
+| indigenisation {demographics, in national states} | verburgering |  |
+| indirect access | indirekte toegang |  |
+| indirect addressing {computer} | indirekte adressering |  |
+| indirect back-scatter | indirekte terugstrooiing |  |
+| indirect costs {marketing} | indirekte koste |  |
+| indirect costs | indirekte koste |  |
+| indirect costs | indirekte koste |  |
+| indirect finder {automatic telephone} | indirekte vinder |  |
+| indirect loss | indirekte verlies |  |
+| indirect primary finder {automatic telephone} | indirekte primere vinder |  |
+| indirect ray | indirekte straal |  |
+| indirect route | indirekte roete |  |
+| indirect scanning | indirekte aftasting |  |
+| indirect transmission {television} | indirekte transmissie |  |
+| indirectly connected finder | indirek verbinde vinder |  |
+| indirectly connected line finder | indirekte lynvinder |  |
+| indirectly heated cathode | indirek verhitte katode |  |
+| indirectly heated thermocouple | indirek verhitte termokoppel |  |
+| indirectly heated valve | indirek verhitte buis |  |
+| indisposed | ongesteld |  |
+| indium | indium |  |
+| individual distortion | afsonderlike vervorming |  |
+| individual step control (step-by-step control) | stap-vir-stap-beheer |  |
+| individual trunk {automatic telephone} | individuele baan |  |
+| individual-channel modulation | afsonderlikekanaal-modulasie |  |
+| individually screened | afsonderlik afgeskerm |  |
+| indoor antenna | binnenshuise antenne |  |
+| indoor distribution strip | binnenshuise verdeelstrook |  |
+| indoor lead | binnenshuise leiding |  |
+| indoor telephone booth | binnenshuise telefoonhokkie |  |
+| indoor transfer | binnenshuise verplasing |  |
+| indoor twin (twin indoor wire) | dubbele binnedraad |  |
+| indoor wiring | binnebedrading |  |
+| indoor | binne-, binnenshuis |  |
+| induce {electricity} | induseer |  |
+| induced current | ge<nduseerde stroom |  |
+| induced draught {air conditioning} | kunsmatige trek |  |
+| induced magnetism | ge<nduseerde magnetisme |  |
+| induced noise | ge<nduseerde ruis |  |
+| induced voltage | ge<nduseerde spanning |  |
+| induced-flow pump | ge<nduseerdevloei-pomp |  |
+| induced-flow pump | suigvloeipomp |  |
+| inductance (inductor) | induktor |  |
+| inductance bridge | induktansiebrug |  |
+| inductance-capacitance drive (LC drive) | LC-drywer |  |
+| inductance/capacitance coupling (inductor/capacitor coupling, LC coupling) | induktor/kapasitor-koppeling, |  |
+| inductance | induktansie |  |
+| induction coil | induksiespoel |  |
+| induction course | inlywingskursus |  |
+| induction current | induksiestroom |  |
+| induction field | induksieveld |  |
+| induction heating | induksieverhitting |  |
+| induction motor | induksiemotor |  |
+| induction stroke | inlaatslag |  |
+| induction | induksie |  |
+| inductive circuit | induktiewe kring |  |
+| inductive co-ordination | induktiewe ko”rdinasie |  |
+| inductive coupling | induktiewe koppeling |  |
+| inductive disturbance (inductive interference) | induktiewe steuring |  |
+| inductive feedback | induktiewe terugkoppeling |  |
+| inductive iris {waveguide} | induktiewe iris |  |
+| inductive post {waveguide} | induktiewe pen |  |
+| inductive reactance | induktiewe reaktansie |  |
+| inductive tuning | induktiewe instemming |  |
+| inductive winding | induktiewe wikkeling |  |
+| inductometer | induktometer |  |
+| inductor-type tone generator | induktortipe toongenerator |  |
+| industrial TV | industriële televisie, nywerheidstelevisie |  |
+| industrial action | industriële aksie, nywerheidsaksie |  |
+| industrial area | industriële gebied, nywerheidsgebied |  |
+| industrial communication | bedryfskommunikasie |  |
+| industrial council level | nywerheidsraadvlak |  |
+| industrial council | nywerheidsraad |  |
+| industrial court | nywerheidshof |  |
+| industrial engineer | bedryfsingenieur |  |
+| industrial market {marketing} | nywerheidsmark |  |
+| industrial market | nywerheidmark |  |
+| industrial marketing research | nywerheidbemarkingsnavorsing |  |
+| industrial metallurgy | industriële metallurgie, nywerheidsmetallurgie |  |
+| industrial meter | industriële meter |  |
+| industrial sector (operational sector) | bedryfsektor |  |
+| ineffective call | mislukte oproep |  |
+| ineffective time (unoccupied time) {human resources} | onbenutte tyd |  |
+| ineffective time {computer} | onbenutte tyd |  |
+| ineffective traffic | mislukte verkeer |  |
+| ineffective-call-meter key | sleutel vir mislukteoproepe-teller |  |
+| ineffective | uitwerkingloos |  |
+| inefficiency {of person} | onbekwaamheid |  |
+| inert cell | inerte sel, onaktiewe sel |  |
+| inert gas | trae gas |  |
+| inert terminal {data transmission} | onaktiewe terminaal |  |
+| inertia base | inersievoetstuk |  |
+| inertia | inersie, traagheid |  |
+| infeed milling (up-cut milling) | teenloopfreeswerk |  |
+| inferior work | minderwaardige werk |  |
+| infiltration heat gain | infiltrasiehittewins |  |
+| infinite baffle {sound reproduction} | oneindige klankskerm |  |
+| infinite length | oneindige lengte |  |
+| infinitesimal dipole (radiating doublet) | straaldipool |  |
+| infinitesimal element | oneindig klein element |  |
+| infinity | oneindige, oneindigheid |  |
+| inflow | instroming |  |
+| influence factor | invloedfaktor |  |
+| influencing ability | be<nvloedingsvermoë |  |
+| informal organisation | informele organisasie |  |
+| informal tender | informele tender |  |
+| information bureau | inligtingsburo |  |
+| information centre | inligtingsentrum |  |
+| information field | inligtingsveld |  |
+| information overload | inligtingoorlading |  |
+| information position | inligtingspunt |  |
+| information processing | inligtingsverwerking |  |
+| information provider (IP) {Beltel} | inligtingaanbieder, IA |  |
+| information rate | inligtingstempo |  |
+| information system {marketing} | inligtingstelsel |  |
+| information system | inligtingstelsel |  |
+| information theory | inligtingsteorie |  |
+| information transfer format (I) | inligtingoorplaasformaat, I |  |
+| information {unconfirmed information, unevaluated information} | informasie |  |
+| information | informasie, inligting |  |
+| infrared perimeter alarm | infrarooi-grensheiningalarm |  |
+| infrared ray | infrarooi straal |  |
+| infringe {contract, oath} | breek |  |
+| infringe {law} | oortree |  |
+| infringe {rights} | skend |  |
+| ingot lead | loodblok |  |
+| ingot ton | gietblokton |  |
+| ingot | gietblok, rublok |  |
+| ingress of dust | stofindringing |  |
+| inherent distortion | inherente vervorming |  |
+| inherent regulation | inherente regulering |  |
+| inherent series resistance | inherente serieweerstand |  |
+| inhibit driver | sperdrywer |  |
+| inhibit fail (inhibit failure) | sperfaling |  |
+| inhibit wire | sperdraad |  |
+| inhibit | inhibeer, sper |  |
+| inhibitor {eg rust} | inhibeerder |  |
+| initial balance {duplex} | beginbalans |  |
+| initial charge {capacitor} | aanvangslading |  |
+| initial charge | eerste lading |  |
+| initial column {savings bank book} | paraafkolom |  |
+| initial cost | aanvangskoste |  |
+| initial force | aanvangsfors, aanvangskrag |  |
+| initial line-up {carrier system} | eerste instelling |  |
+| initial pick-up condition | aanvanklike tewerksteltoestand |  |
+| initial pick-up {automatic telephone} | aanvanklike tewerkstelling |  |
+| initial position | aanvangsposisie |  |
+| initial reading | aanvangslesing |  |
+| initial rental | aanvangshuur |  |
+| initial supply | aanvangsvoorraad |  |
+| initial torque {electric motor} | aanvangswringkrag |  |
+| initial v. | parafeer |  |
+| initialise {computer} | aanvoor |  |
+| initials | paraaf |  |
+| initials | voorletters |  |
+| initiating explosive | inisieerspringstof |  |
+| injection card | invoerkaart |  |
+| injection circuit | invoerkring |  |
+| injection grid | invoerrooster |  |
+| injection moulding {process} | inspuitvormwerk |  |
+| injection moulding | inspuitvorming |  |
+| injection tube {cable joint} | inspuitpyp |  |
+| injection welding {method} | inspuitsweising |  |
+| injection welding {process} | inspuitsweiswerk |  |
+| injection-cylinder nozzle | inspuitsilindernossel |  |
+| injection-moulded insert {drawer} | spuitgietgevormde insetsel |  |
+| injection-moulding tool | inspuitvormer |  |
+| injector pump | inspuitpomp |  |
+| injector | inspuiter |  |
+| injurious article {included in mail} | skadelike voorwerp |  |
+| ink cartridge {computer} | inkkasset |  |
+| ink jet | inkstraal, inkspuit |  |
+| ink ribbon | inklint |  |
+| ink roller | inkroller |  |
+| ink tank {stamp-cancelling machine} | inktenk |  |
+| ink-feed control {apparatus} | inkvoerkontrole |  |
+| ink-feed control | inkvoerbeheer |  |
+| ink-jet printer | inkstraaldrukker |  |
+| ink-ribbon bearer plate | inklintdraplaat |  |
+| ink-ribbon feed wheel | inklintvoerrat |  |
+| ink-ribbon feed {device} | inklintvoerder |  |
+| ink-ribbon feed | inklintvoer |  |
+| ink-ribbon guard | inklintskerm |  |
+| ink-ribbon guide | inklintleier |  |
+| ink-ribbon jumper | inklintligter |  |
+| ink-ribbon reverse facility | inklintomsteller |  |
+| ink-ribbon roller | inklintroller |  |
+| ink-ribbon spool | inklinttol |  |
+| ink-ribbon support plate | inklintsteunplaat |  |
+| ink-ribbon support | inklintsteun |  |
+| ink-ribbon unit | inklinteenheid |  |
+| ink-roller holder {stamp-cancelling machine} | inkrollerhouer |  |
+| inker | inktoestel |  |
+| inking disc | inkskyf |  |
+| inking pad (ink pad) | inkkussing |  |
+| inking wheel | inkwiel |  |
+| inking-pad roller felt {stamp-cancelling machine} | inkkussingviltroller |  |
+| inking-pad spring {stamp-cancelling machine} | inkkussingveer |  |
+| inking-pad wooden hub {stamp-cancelling machine} | inkkussinghoutnaaf |  |
+| inland bill | binnelandse wissel |  |
+| inland mail (inland post) | binnelandse pos |  |
+| inland money order | binnelandse poswissel |  |
+| inland revenue | binnelandse inkomste |  |
+| inland revenue | binnelandse inkomste |  |
+| inland telegram | binnelandse telegram |  |
+| inland traffic | binnelandse verkeer |  |
+| inlay {clothing} | inlasstuk |  |
+| inlet port | inlaatpoort |  |
+| inlet stem {injection welding} | inlaatpyp |  |
+| inlet valve | inlaatklep |  |
+| inner box | binnekis |  |
+| inner conductor | binnegeleier |  |
+| inner dead centre (top dead centre) | boonste dooiepunt |  |
+| inner finning | binnevinne |  |
+| inner layer | binnelaag |  |
+| inner pair | binnepaar |  |
+| inner shell | binnedop |  |
+| inner spring {telephone jack} | binneveer |  |
+| inner surface | binnevlak |  |
+| inoperative | nie-werkend |  |
+| inpayment money order | terbetalingsposwissel |  |
+| input U-link | inset-U-skakel |  |
+| input address | insetadres |  |
+| input admittance | insetadmittansie |  |
+| input amplifier | insetversterker |  |
+| input arrangement | insetrangskikking |  |
+| input block {microwave} | insetblok |  |
+| input capacitance | insetkapasitansie |  |
+| input capacitor | insetkapasitor |  |
+| input cavity | insetholte |  |
+| input choke | insetsmoorspoel |  |
+| input circuit | insetkring |  |
+| input connector | insetverbinder |  |
+| input conveyor {LSM} | invoerband |  |
+| input criterion | insetkriterium |  |
+| input current | insetstroom |  |
+| input damping | insetdemping |  |
+| input document | insetdokument |  |
+| input electrode | insetelektrode |  |
+| input equaliser | inseteffenaar |  |
+| input filter | insetfilter |  |
+| input flange | insetflens |  |
+| input frequency | insetfrekwensie |  |
+| input gap | insetspleet |  |
+| input gate | insethek |  |
+| input impedance | insetimpedansie |  |
+| input information | insetinligting |  |
+| input level | insetpeil |  |
+| input mixer | insetmenger |  |
+| input modulator equaliser | insetmodulatoreffenaar |  |
+| input module | insetmodule |  |
+| input n. (input power, power input) | inset, insetkrag |  |
+| input n. {computer} | inset, invoer |  |
+| input n. {physical point} | ingang |  |
+| input n. | inset |  |
+| input noise figure | insetruissyfer |  |
+| input offset voltage | insetverskilspanning |  |
+| input pad | insetlid |  |
+| input peak | insetpiek |  |
+| input potentiometer | insetpotensiometer |  |
+| input power | insetkrag |  |
+| input request | insetversoek |  |
+| input resistance | insetweerstand |  |
+| input resonator | insetresonator |  |
+| input section | insetdeel |  |
+| input selection | insetkeuse |  |
+| input selector switch | insetkiesskakelaar |  |
+| input signal break | insetseinverbreking |  |
+| input signal level | insetseinpeil |  |
+| input signal make | insetseinsluiting |  |
+| input signal | insetsein |  |
+| input socket | insetsok |  |
+| input source | insetbron |  |
+| input tap (input tapping) | insettap |  |
+| input trace | insetspoor |  |
+| input trigger | insetsneller |  |
+| input v. {mail} | inveer |  |
+| input v. | invoer |  |
+| input voltage | insetspanning |  |
+| input winding | insetwikkeling |  |
+| input-output analysis {human resources} | inset/uitset-ontleding |  |
+| input-output analysis {marketing} | inset-uitsetontleding |  |
+| input/output (I/O) | inset/uitset, I/U |  |
+| input/output device | inset/uitset-toestel |  |
+| input/output ratio | inset/uitset-verhouding |  |
+| inquiries {marketing} | navrae |  |
+| inquiry | ondersoek |  |
+| inrush current | aanskakelstroom |  |
+| inscribed figure | ingeskrewe figuur |  |
+| inscription plate | inskripsieplaat |  |
+| inscription | inskripsie |  |
+| insecticide | insekdoder, insekmiddel |  |
+| insert n. | insetsel, invoegsel |  |
+| insert v. (stuff) | koeverteer |  |
+| insert v. {eg money in coin box} | ingooi |  |
+| insert v. {plug} | insteek |  |
+| insert v. | invoeg |  |
+| inserted-nut-type abrasive disc | skuurskyf met ingevoegde moer |  |
+| inserted-tooth cutter | lostandfrees |  |
+| inserter | invoeger |  |
+| insertion attenuation | invoegingsverswakking |  |
+| insertion gain | invoegingswins |  |
+| insertion loss | invoegverlies |  |
+| insertion parameter filter | invoegingsparameterfilter |  |
+| insertion phase change | invoegingsfaseverskuiwing |  |
+| insertion test signal (ITS) | invoegtoetssein, ITS |  |
+| insertion transfer function | invoegingsoordragfunksie |  |
+| insertion-loss/frequency characteristic curve | invoegverlies/frekwensie-kenkromme |  |
+| inset receiver <preferred term - capsule receiver> | kapsulegehoorstuk |  |
+| inset transmitter <preferred term - capsule transmitter> | kapsulemikrofoon |  |
+| inset | inlas |  |
+| inside construction {telephone fitter} | binnewerk |  |
+| inside front cover | binnevooromslag |  |
+| inside leg seam {trousers} | binnepypnaat |  |
+| inside wire | binnedraad |  |
+| insolation | sonbestraling |  |
+| insoluble | onoplosbaar |  |
+| insolvency law | insolvensiereg |  |
+| insolvency | bankrotskap, insolvensie |  |
+| insolvent estate | insolvente boedel |  |
+| inspect | inspekteer |  |
+| inspecting officer | inspeksiebeampte |  |
+| inspection certificate | inspeksiesertifikaat |  |
+| inspection fee {telegram} | insaegeld |  |
+| inspection journal | inspeksiejoernaal |  |
+| inspection mirror | inspeksiespieël |  |
+| inspection {documents} | insae |  |
+| inspection | inspeksie |  |
+| inspector of explosives | inspekteur van ontplofbare stowwe |  |
+| inspector of uniformed staff | inspekteur van uniformpersoneel |  |
+| inspector of works | inspekteur van werke |  |
+| inspector | inspekteur |  |
+| instable | onstabiel |  |
+| install | installeer |  |
+| installation | installasie, installering |  |
+| instalment | paaiement |  |
+| instant of interruption | onderbreektydstip |  |
+| instant replay {film projector} | onmiddellike terugspeel |  |
+| instant {work study} | tydstip |  |
+| instant-to-instant traffic | oomblik-tot-oomblik-verkeer |  |
+| instantaneous binder | knyprugbinder |  |
+| instantaneous companding | oomblikskompandering |  |
+| instantaneous frequency | oombliksfrekwensie |  |
+| instantaneous value | oomblikswaarde |  |
+| instill (imprint) {knowledge} | vaslê |  |
+| institute proceedings | geregtelike stappe doen |  |
+| institutional medicine | inrigtingsgeneeskunde |  |
+| institutionalising | institusionalisering |  |
+| instruction card | instruksiekaart |  |
+| instruction cycle | instruksiesiklus |  |
+| instruction decoder {computer} | instruksiedekodeerder |  |
+| instruction register | instruksieregister |  |
+| instruction set {computer} | instruksiestel |  |
+| instruction sheet | instruksieblad |  |
+| instruction word | instruksiewoord |  |
+| instruction {also computer} | instruksie |  |
+| instruction {method of work} | instruksie |  |
+| instruction | instruksie, opdrag |  |
+| instruction | onderrig |  |
+| instructions {book} | voorskrif |  |
+| instructions | instruksies, opdragte |  |
+| instrument case | instrumentdop, toesteldop |  |
+| instrument case | instrumenttas |  |
+| instrument cord | instrumentsnoer, toestelsnoer |  |
+| instrument error | instrumentfout |  |
+| instrument jack | instrumentklink, toestelklink |  |
+| instrument table | instrumenttafel |  |
+| instrument | instrument, toestel |  |
+| insufficiently prepaid article (underfranked article) | ondergefrankeerde stuk, ondergefrankeerde artikel |  |
+| insulant | isoleermiddel |  |
+| insulate | isoleer |  |
+| insulated copper conductor | ge<soleerde kopergeleier |  |
+| insulated joint | ge<soleerde las |  |
+| insulated neutral | ge<soleerde neutrale geleier |  |
+| insulated segment | ge<soleerde segment |  |
+| insulated stay wire | ge<soleerde ankerdraad |  |
+| insulated surface | ge<soleerde oppervlak |  |
+| insulated wire | ge<soleerde draad |  |
+| insulating bar | isoleerstaaf |  |
+| insulating bush | isoleerbus |  |
+| insulating compound | isoleermengsel |  |
+| insulating covering | isoleerbedekking |  |
+| insulating material | isoleermateriaal |  |
+| insulating plate | isoleerplaat |  |
+| insulating property | isoleereienskap |  |
+| insulating sheath | isoleeromhulsel |  |
+| insulating sleeving | isoleerhuls |  |
+| insulating strip | isoleerstrook |  |
+| insulating stud {relê} | isoleerbuffer |  |
+| insulating tape | isoleerband |  |
+| insulating tool | isoleerwerktuig |  |
+| insulation breakdown | isolasiedeurslag |  |
+| insulation clearance | isolasietussenruimte |  |
+| insulation fault | isolasiefout |  |
+| insulation resistance | isolasieweerstand |  |
+| insulation tape | isoleerband |  |
+| insulation test | isolasietoets |  |
+| insulation | isolasie |  |
+| insulator groove | isolatorgroef |  |
+| insulator leakage | isolatorlek |  |
+| insulator neck | isolatorhals |  |
+| insulator resistance | isolatorweerstand |  |
+| insulator spindle | isolatorspil |  |
+| insulator support | isolatorsteun |  |
+| insulator | isolator |  |
+| insurance deduction | versekeringsaftrekking |  |
+| insurance fee | versekeringskoste |  |
+| insurance policy | versekeringspolis |  |
+| insurance {short-term} | versekering |  |
+| insurance | assuransie, versekering |  |
+| insured letter | versekerde brief |  |
+| insured mail | versekerde pos |  |
+| insured parcel (IP) | versekerde pakket, VP |  |
+| insured value | versekerde waarde |  |
+| insured-parcel service | pakketversekeringsdiens |  |
+| intact {postal article} | onoopgemaak |  |
+| intaglio | diepdruk, intaglio |  |
+| intake manifold | inlaatspruitstuk |  |
+| integer | heelgetal, heeltal |  |
+| integral non-inductive shunt | ingeboude induksievry sjunt |  |
+| integrate | integreer |  |
+| integrated-services digital network (ISDN) | ge<ntegreerdedienste digitale netwerk, IDDN |  |
+| integrating circuit | integreerkring |  |
+| integrating wattmeter | integrerende wattmeter |  |
+| integrator | integreerder |  |
+| integrity test | integriteitstoets |  |
+| intelligence {confirmed information} | inligting, intelligensie |  |
+| intelligent terminal (smart terminal) {computer} | intelligente terminaal, slim terminaal |  |
+| intelligibility | verstaanbaarheid |  |
+| intelligible cross-talk | verstaanbare steurspraak |  |
+| intending tenderer | voornemende tenderaar |  |
+| intensifying circuit {television} | verskerpkring |  |
+| intensity control | intensiteitskontrole |  |
+| intensity modulation {television} | intensiteitsmodulasie |  |
+| intensity of magnetisation | magnetiseerintensiteit |  |
+| intensity of radiation | stralingsintensiteit |  |
+| intensity of sound | geluidsintensiteit |  |
+| intensity of traffic | verkeersdrukte, verkeersintensiteit |  |
+| intensity | intensiteit |  |
+| inter ring tone (IRT, interrupted ringing tone) | onderbroke luitoon, OLT |  |
+| inter-DSE trunk fault | tussen-DSS-hooflynfout |  |
+| inter-account transfer | interrekeningoorplasing |  |
+| inter-exchange system | tussensentralestelsel |  |
+| inter-exchange traffic | tussensentraleverkeer |  |
+| inter-pulse pause | tussenpulspouse |  |
+| interact (interface) v. | wisselwerk |  |
+| interacting relay | wisselwerkrele |  |
+| interacting-rele drive | wisselreleaandrywing |  |
+| interaction cross-talk | wisselsteurspraak |  |
+| interaction factor | wisselwerkingsfaktor |  |
+| interaction impedance | wisselwerkingsimpedansie |  |
+| interaction loss | wisselwerkingsverlies |  |
+| interaction | wisselwerking |  |
+| interbank rate | interbankkoers |  |
+| intercalation {television} | interliniering |  |
+| intercept n. | afsnit, intersep |  |
+| intercept v. | onderskep |  |
+| intercepting relay | onderskeprele |  |
+| interception circuit | onderskepkring |  |
+| interception service | onderskepdiens |  |
+| interception | onderskepping |  |
+| interchange circuit (interface circuit) {eg data modem} | koppelvlakkring |  |
+| interchange parties | uitruilpartye |  |
+| interchange point | verwisselpunt |  |
+| interchange signal | verwisselsein |  |
+| interchange | uitruil, verwissel |  |
+| interchangeable parts | verwisselbare onderdele |  |
+| interchangeable promotion | uitruilbaarheidsbevordering |  |
+| interchannel interference | interkanaalsteuring |  |
+| interchannel modulation | interkanaalmodulasie |  |
+| intercircuit cross-talk | tussenkringsteurspraak |  |
+| intercom traffic | interkomverkeer |  |
+| intercom | interkom |  |
+| intercommunication system | interkommunikasiestelsel |  |
+| intercommunication telephone system | interkomtelefoonstelsel |  |
+| intercommunication | interkommunikasie |  |
+| interconnect | onderling verbind, tussenverbind |  |
+| interconnecting feeder | tussenverbindvoerder |  |
+| interconnecting method | gradeermetode |  |
+| interconnecting wiring | koppelbedrading |  |
+| interconnection | onderlinge verbinding, tussenverbinding |  |
+| interconnector | tussenverbinder |  |
+| intercontinental exchange | interkontinentale sentrale |  |
+| intercrystalline corrosion | tussenkristalkorrosie |  |
+| intercrystalline disintegration | tussenkristalverbrokkeling |  |
+| interdepartmental committee | interdepartementele komitee |  |
+| interdependent | onderling afhanklik |  |
+| interdialling | tussenskakeling |  |
+| interelectrode capacitance | tussenelektrodekapasitansie |  |
+| interelectrode gap | tussenelektrodegaping |  |
+| interest adjustment slip | renteaansuiweringstrook |  |
+| interest and redemption | rente en aflossing, rente en delging |  |
+| interest liability | rentelas |  |
+| interest {on investment} | rente |  |
+| interest | belang |  |
+| interested party | belanghebbende |  |
+| interface adapter | koppelvlakaanpasser, koppelvlakpasstuk |  |
+| interface bus | koppelvlakbus |  |
+| interface circuit | koppelvlakkring |  |
+| interface connector pin assignment | koppelvlakverbinder-pentoewysing |  |
+| interface connector | koppelvlakverbinder |  |
+| interface equipment | koppelvlaktoerusting |  |
+| interface n. {eg data modem} | koppelvlak |  |
+| interface n. | intervlak, koppelvlak, tussenvlak |  |
+| interface pod (pod) | aanpasmodule, koppelmodule |  |
+| interface unit {eg data transmission} | koppeleenheid |  |
+| interface v. {computer technology} | aanpas |  |
+| interface v. {devices} | verbind via koppelvlak |  |
+| interface v. {eg protocol} | aanpas |  |
+| interface v. | aanpasverbind |  |
+| interface with v. {by means of interface} | aanpas by |  |
+| interface | raakvlak |  |
+| interference area {plug in cable sheath} | stuitpasdeel |  |
+| interference field | steuringsveld |  |
+| interference fit | stuitpassing |  |
+| interference level | steuringspeil |  |
+| interference pattern {optics} | interferensiepatroon |  |
+| interference pattern | steuringspatroon |  |
+| interference signal level amplitude | steurseinpeilamplitude |  |
+| interference suppressor | steuringsonderdrukker |  |
+| interference tone {optics} | interferensietoon |  |
+| interference {optics} | interferensie |  |
+| interference-blocking filter | steuringsperfilter |  |
+| interfering tone | steurtoon |  |
+| interferometer {optics} | interferometer |  |
+| interfold stationery | ineengevoude skryfbehoeftes |  |
+| interframe time-fill | tussenraamvulling |  |
+| intergranular corrosion | tussenkorrelkorrosie |  |
+| interim correction | voorlopige verbetering |  |
+| interim interest | tussentydse rente |  |
+| interim report | tussentydse verslag |  |
+| interim stage | tussenstadium |  |
+| interlaced rhombic antenna | oorslagruitantenne |  |
+| interlacing wire | stropdraad |  |
+| interleaved message | tussengelaagde boodskap |  |
+| interleaved sample {PCM} | tussengedeelde monster |  |
+| interleaved sheet | deurskietvel, tussenvel |  |
+| interleaved windings | tussengelaagde wikkelings |  |
+| interlined {clothing} | tussengevoer |  |
+| interlined | afwisselend |  |
+| interlining {clothing} | tussenvoering |  |
+| interlink v. {electron paths} | koppel |  |
+| interlinked orbits | gekoppelde bane |  |
+| interlinking | onderlinge verbinding |  |
+| interlock n. | grendel |  |
+| interlock v. {metal seam} | inmekaarsluit |  |
+| interlock v. {sewing} | omkap |  |
+| interlock v. | grendel, onderling grendel |  |
+| interlocked system | vergrendelde stelsel |  |
+| interlocked {electronics} | onderling gegrendel |  |
+| interlocking combination | grendelkombinasie |  |
+| interlocking slide fastener (zip, zipper, slide fastener, zip-fastener) | ritssluiter |  |
+| interlocking stencil | grendelsjabloon |  |
+| interlocking switch | grendelskakelaar |  |
+| interlocking {electronics} | grendeling |  |
+| intermediate administration | tussenadministrasie |  |
+| intermediate amplifier | tussenversterker |  |
+| intermediate distribution frame | tussenverdeelraam |  |
+| intermediate divider | tussendeler |  |
+| intermediate echo suppressor | tusseneggo-onderdrukker |  |
+| intermediate exchange | tussensentrale |  |
+| intermediate frequency | tussenfrekwensie |  |
+| intermediate gear | tussenrat |  |
+| intermediate jack | tussenklink |  |
+| intermediate lever | tussenhefboom |  |
+| intermediate link {rele rod} | oordrastang |  |
+| intermediate loading | tussenbelasting |  |
+| intermediate office | tussenkantoor |  |
+| intermediate point | tussenpunt |  |
+| intermediate position | tussenstand |  |
+| intermediate selector | tussenkieser |  |
+| intermediate set | tussentoestel |  |
+| intermediate ship station | tussenskeepstasie |  |
+| intermediate spur | tussentaklyn |  |
+| intermediate stacker {LSM} | tussenstapelaar |  |
+| intermediate station | tussenstasie |  |
+| intermediate switching point | tussenskakelpunt |  |
+| intermediate tap | tussensnytap |  |
+| intermediate transformer | tussentransformator |  |
+| intermediate value | tussenwaarde |  |
+| intermediate voltage | tussenspanning |  |
+| intermediate {PABX} | middelslag |  |
+| intermitted bell (intermittent ringing) | onderbroke lui |  |
+| intermittent fault | intermitterende fout |  |
+| intermittent | intermitterend |  |
+| intermodulation component | intermodulasiekomponent |  |
+| intermodulation distortion | intermodulasievervorming |  |
+| intermodulation noise | intermodulasieruis |  |
+| intermodulation | intermodulasie |  |
+| air service | binnelandse lugdiens |  |
+| arrangement | interne reeling |  |
+| audit | interne oudit |  |
+| cabling | binnebekabeling |  |
+| call | interne oproep, binne-oproep |  |
+| check | interne kontrole |  |
+| combustion engine | binnebrandenjin |  |
+| component | binnekomponent |  |
+| connection | interne verbinding, interne konneksie |  |
+| container | binnehouer |  |
+| depth | binnediepte |  |
+| grinding | binneslypwerk |  |
+| impedance | interne impedansie, inwendige impedansie |  |
+| lamp {telephone} | interne lamp |  |
+| legislation | interne wetgewing |  |
+| magnetic field | inwendige magnetiese veld |  |
+| micrometer | binnemikrometer |  |
+| product thread | produkmoerdraad |  |
+| regulation | huishoudelike regulasie |  |
+| resistance {battery} | inwendige weerstand |  |
+| screwcutting | moerdraadsnywerk |  |
+| secondary data {marketing} | interne sekondere data |  |
+| secondary data | interne sekondere data |  |
+| sector {of communication line} | binnelandse sektor |  |
+| shield | inwendige skerm |  |
+| store | interne geheue |  |
+| sweep | interne stryking |  |
+| telephone line | interne telefoonlyn |  |
+| transistor ringer | interne transistorluier |  |
+| tube {pneumatic tube} | binnepyp |  |
+| validity {marketing} | interne geldigheid |  |
+| validity | interne geldigheid |  |
+| width | binnebreedte |  |
+| wiring | binnebedrading |  |
+| work | binnewerk |  |
+|  | binnelands |  |
+|  | huishoudelik |  |
+| Q code | internasionale Q-kode |  |
+| agreement | internasionale ooreenkoms |  |
+| air service | internasionale lugdiens |  |
+| bureau | internasionale buro |  |
+| call | internasionale oproep |  |
+| exchange | internasionale sentrale |  |
+| number | internasionale nommer |  |
+| obligation | internasionale verpligting |  |
+| organisation | internasionale organisasie |  |
+| postal law | internasionale poswet |  |
+| postal service | internasionale posdiens |  |
+| postal statistics | internasionale posstatistieke |  |
+| reply coupon | internasionale antwoordkoepon |  |
+| system | internasionale stelsel |  |
+| telegraph circuit | internasionale telegraafverbinding |  |
+| telephone exchange (ITE) | internasionale telefoonsentrale, ITS |  |
+| traffic | internasionale verkeer |  |
+| transit centre | internasionale deurgangsentrum |  |
+| -standard equipment practice (ISEP) | internasionalestandaard-toerustingpraktyk |  |
+| internist (physician) | internis |  |
+| internship {medical practitioner} | huisdokterjaar |  |
+| internship | internskap |  |
+| interpanel wiring | tussenpaneelbedrading |  |
+| interpersonal relationships | tussenpersoonsverhoudings |  |
+| interpolate | interpoleer |  |
+| interpolated working frequency | ge<nterpoleerde werkfrekwensie |  |
+| interpolation oscillator | interpolasie-ossillator |  |
+| interpolation | interpolasie, interpolering |  |
+| interpolator {telegraphy} | interpoleerder |  |
+| interpose | tussenin plaas, tussenplaas |  |
+| interposition | tussenplasing |  |
+| interpretation of an act | interpretasie van 'n wet, uitleg van 'n wet, vertolking van 'n wet |  |
+| interpretation of survey results {marketing} | interpretasie van opnameresultate |  |
+| interpreter {punched card} | vertolker |  |
+| interpreter | tolk |  |
+| interprimary channel {channel between primary exchanges} | tussenprimer-kanaal |  |
+| interprimary link | interprimere verbinding |  |
+| interprimary private wire circuit | tussenprimer privaat lyn |  |
+| interprimary telegraph circuit | interprimeertelegraafkring |  |
+| interprimary trunk circuit | interprimerhooflynkring |  |
+| interprocessor control (IPC) | tussenverwerkerbeheer, tvB |  |
+| interprocessor highway {computer} | tussenverwerkerhoofweg |  |
+| interprocessor {telephone alarm system} | interverwerker |  |
+| interrack cabling | tussenraambekabeling |  |
+| interrogate (question) {human resources} | ondervra |  |
+| interrogate signal | ondervrasein |  |
+| interrogate | ondervra |  |
+| interrogation {computer} | ondervraging |  |
+| interrogator {computer} | ondervraer |  |
+| interrow connector | tussenryverbinder |  |
+| interrupt line {computer} | onderbreeklyn |  |
+| interrupt n. {also computer} | onderbreking |  |
+| interrupt n. {computer} | onderbreker |  |
+| interrupted continuous wave | onderbroke gelykgolf |  |
+| interrupted earth | onderbroke aarde |  |
+| interrupted ringing | onderbroke lui |  |
+| interrupted trunk-tone negative | onderbroke hooflyntoonnegatief |  |
+| interrupter contact | onderbrekerkontak |  |
+| interrupter disc | onderbrekerskyf |  |
+| interrupter drum | onderbrekertrommel |  |
+| interrupter gear | onderbrekertuig |  |
+| interrupter rele set | onderbrekerrelestel |  |
+| interrupter spring | onderbrekerveer |  |
+| interrupter stirrup | onderbrekerstiebeuel |  |
+| interrupter striker | onderbrekerslagvurk |  |
+| interrupter-spring assembly | onderbrekerveersamestel |  |
+| interrupter-spring set | onderbrekerveerstel |  |
+| interrupter | onderbreker |  |
+| interruption allowance {human resources} | onderbrekingstoelating |  |
+| interruption of service | diensonderbreking |  |
+| interruption time | onderbreektyd |  |
+| interruption | onderbreking |  |
+| interscrew binder | skroefbindomslag |  |
+| intersect | sny |  |
+| intership frequency {maritime radiotelephone service} | tussenskeepse frekwensie |  |
+| interstage coupling | tussentrapkoppeling |  |
+| interstage pressure | tussentrapdruk |  |
+| interstage transformer | tussentraptransformator |  |
+| interstate secondment allowance (ISA) | IST, interstaat-sekonderingstoelae |  |
+| interstation noise suppression | ruisonderdrukking tussen stasies |  |
+| interstice pair | tussenpaar |  |
+| intersystem cross-talk | tussenstelselsteurspraak |  |
+| intersystem interference | tussenstelselsteuring |  |
+| interterritorial call | interterritoriale oproep |  |
+| interterritorial telegram | interterritoriale telegram |  |
+| interterritorial telephone traffic | interterritoriale telefoonverkeer |  |
+| intertrain pause | interreekspouse, tussenreekspouse |  |
+| intertube transformer | tussenbuistransformator |  |
+| interurban service | tussenstedelike diens |  |
+| interval data {human resources} | intervaldata |  |
+| interval data {marketing} | intervaldata |  |
+| interval of time (time interval) | tydinterval |  |
+| interval timer {packet switching} | intervalreelaar |  |
+| interval timer | intervaltyder, intervaltydreelaar |  |
+| interval {eg maths} | interval |  |
+| interval | pouse, tussenpoos |  |
+| interval | tussenruimte |  |
+| intervalve coupling | tussenbuiskoppeling |  |
+| intervening administration | tussenkomende administrasie |  |
+| interview n. | onderhoud |  |
+| interview n. | onderhoud |  |
+| interview v. | 'n onderhoud he met, 'n onderhoud voer met |  |
+| interview v. | onderhoud voer |  |
+| interviewer error {marketing} | ondervraersfout |  |
+| interviewer error | onderhoudvoerderfout |  |
+| interviewer {marketing} | ondervraer |  |
+| interviewer | onderhoudvoerder |  |
+| interviewing {marketing} | ondervraging |  |
+| interviewing | onderhoudvoering |  |
+| interworking | interwerking |  |
+| interzone call | tussensoneoproep |  |
+| intestate | intestaat |  |
+| intraband telegraphy | binnebandtelegrafie |  |
+| intransitive (sag) | slap hang |  |
+| intrinsic impedance | intrinsieke impedansie |  |
+| intrinsic semiconductor | intrinsieke halfgeleier |  |
+| intrinsic stand-off ratio | intrinsieke wegstaanverhouding |  |
+| intrinsic temperature | intrinsieke temperatuur |  |
+| intrinsic value | intrinsieke waarde |  |
+| intrinsically safe telephone | intrinsiek veilige telefoon |  |
+| introductory course | inleidende kursus |  |
+| introductory training | vooropleiding |  |
+| intrude {telephone facility} | insny |  |
+| intruder alarm | oortrederalarm |  |
+| intrusion tone | indringtoon |  |
+| invalid frame | ongeldige raam |  |
+| invalid stamp | ongeldige seel |  |
+| invalidate | ongeldig maak |  |
+| invalidate | ongeldig verklaar |  |
+| inventory | inventaris |  |
+| inverse impedance | omgekeerde impedansie |  |
+| inverse square law | omgekeerdekwadrate-wet, wet van omgekeerde kwadrate |  |
+| inversion | omkering |  |
+| invert lip {pipe} | bodemlip |  |
+| inverted curve | omgekeerde kromme |  |
+| inverted die | omgekeerde snyblok |  |
+| inverted die | omgekeerde vormblok |  |
+| inverted pleat {clothing} | omgekeerde plooi |  |
+| inverted roller-steady box tool | omgekeerde rollerteenhouer met beitelhouer |  |
+| inverted speech | omgekeerde spraak |  |
+| inverted vacuum-type brake | omgekeerde vakuumrem |  |
+| inverted-V antenna | wydsbeenantenne |  |
+| inverted | omgekeer, onderstebo |  |
+| inverter circuit | omkeerkring |  |
+| inverter noise | wisselrigterruis |  |
+| inverter {current} | wisselrigter |  |
+| inverter {eg logics, TV} | omkeerder |  |
+| inverter | omkeerder |  |
+| inverting gate | omkeerhek |  |
+| inverting input | omkeeringang |  |
+| inverting transmitter | omkeersender |  |
+| investigation (study, enquiry) | ondersoek |  |
+| investigation branch | ondersoektak |  |
+| investigation officer | ondersoekbeampte |  |
+| investigation procedure | ondersoekprosedure |  |
+| investigation | ondersoek |  |
+| investigator | ondersoeker |  |
+| investment brochure | beleggingsbrosjure |  |
+| investment | belegging |  |
+| investor | beleer |  |
+| invigilator | eksamenopsiener |  |
+| inviolability | onskendbaarheid |  |
+| invisible exports | onsigbare uitvoer |  |
+| invisible imports | onsigbare invoer |  |
+| invisible ray | onsigbare straal |  |
+| invitation to tender (tender invitation) | tenderversoek |  |
+| invoice cost price | faktuurkosprys |  |
+| invoice n. | faktuur |  |
+| invoice v. | faktureer |  |
+| invoice value | faktuurwaarde |  |
+| invoke | oproep |  |
+| involute tooth | evolvente tand |  |
+| inward land rate | binnekomslandtarief |  |
+| inward office of exchange | binnekomswisselkantoor |  |
+| inward rate | binnekomstarief |  |
+| inward tick section {mailbags} | inmerkseksie |  |
+| ion bombardment | ioonbombardement |  |
+| ion burn | ioonbrandmerk |  |
+| ion density | ioondigtheid |  |
+| ion engine | ioonenjin |  |
+| ion trap | ioonvanger |  |
+| ion | ioon |  |
+| ionic conductor | ioongeleier |  |
+| ionic heated cathode | ioonverhitte katode |  |
+| ionic oscillation | ioonossillasie |  |
+| ionic semiconductor | ioonhalfgeleier |  |
+| ionisation chamber | ioniseerkamer |  |
+| ionisation current | ionisasiestroom |  |
+| ionisation gauge | ionisasiemeter |  |
+| ionisation potential | ioniseerpotensiaal |  |
+| ionisation rate | ioniseertempo |  |
+| ionisation time | ioniseertyd |  |
+| ionisation voltage | ionisasiespanning |  |
+| ionisation | ionisasie, ionisering |  |
+| ionised layer | ge<oniseerde laag |  |
+| ionising radiation | ioniseerstraling |  |
+| ionosonde (ionospheric recorder) | ionosfeerregistreerder, ionosonde |  |
+| ionosphere sounder | ionosfeerpeiler |  |
+| ionosphere wave (ionospheric wave, sky-wave) | ionosfeergolf |  |
+| ionosphere | ionosfeer |  |
+| ionospheric abnormality | ionosferiese abnormaliteit |  |
+| ionospheric absorption | ionosferiese absorpsie |  |
+| ionospheric cloud | ionosfeerwolk |  |
+| ionospheric cross-modulation | ionosferiese kruismodulasie |  |
+| ionospheric data | ionosferiese data, ionosferiese gegewens |  |
+| ionospheric defocusing | ionosferiese defokussering |  |
+| ionospheric disturbance | ionosfeersteuring |  |
+| ionospheric focusing | ionosferiese fokussering |  |
+| ionospheric forecast | ionosfeervoorspelling |  |
+| ionospheric layer | ionosfeerlaag |  |
+| ionospheric propagation | ionosferiese voortplanting |  |
+| ionospheric ray | ionosfeerstraal |  |
+| ionospheric refraction | ionosferiese refraksie |  |
+| ionospheric storm | ionosfeerstorm |  |
+| ionospheric-path error {wave} | ionosfeerbaanfout |  |
+| iridescence | irisering |  |
+| iris {of eye} | iris |  |
+| iris {waveguide} | iris |  |
+| iron core | ysterkern |  |
+| iron filings | ystervylsels |  |
+| iron loss | ysterverlies |  |
+| iron pole | ysterpaal |  |
+| iron wire | ysterdraad |  |
+| iron work | ysterwerk |  |
+| iron-core choke | ysterkernsmoorspoel |  |
+| iron-core inductor | ysterkerninduktor |  |
+| iron-core transformer | ysterkerntransformator |  |
+| iron-sheath indicator | ysteromhulde aanwyser |  |
+| iron-shod rod | ysterpuntsok |  |
+| ironclad magnet | mantelmagneet |  |
+| ironclad switch | ysteromhulde skakelaar |  |
+| irradiance | bestraling |  |
+| irradiation | bestraling |  |
+| irrecoverable debt | oninbare skuld, onverhaalbare skuld |  |
+| irrecoverable revenue | oninbare inkomste, onverhaalbare inkomste |  |
+| irregular enclosure {in mail} | ongeoorloofde insluiting |  |
+| irregular practice | onreëlmatige praktyk |  |
+| irregular reading | onreëlmatige aflesing |  |
+| irregularity | onreëlmatigheid |  |
+| irregularly posted | onreëlmatig gepos |  |
+| island frame | eilandraam |  |
+| isobar {meteorological line} | isobaar |  |
+| isoceraunic level (isokeraunic level) | isokerouniese vlak, isoserouniese vlak |  |
+| isochrone determination | isochroonbepaling |  |
+| isochrone | isochroon |  |
+| isochronism | isochronisme |  |
+| isochronous distortion | isochrone vervorming |  |
+| isochronous modulation | isochrone modulasie |  |
+| isochronous restitution | isochrone weergawe |  |
+| isochronous | isochroon |  |
+| isoclinic line | isoklien |  |
+| isogonic line | isogoon |  |
+| isolate {also electrical apparatus} | afsonder |  |
+| isolating coil | afsonderspoel |  |
+| isolating link unit | afsonderskakeleenheid |  |
+| isolating screw | afsonderskroef |  |
+| isolating switch (isolator) | afsonderskakelaar |  |
+| isolating transformer | afsondertransformator |  |
+| isolation valve | afsonderingsklep |  |
+| isolator {waveguide} | gerigte verswakker |  |
+| isolator | afsonderaar |  |
+| isotope | isotoop |  |
+| isotropic antenna | isotropiese antenne |  |
+| isotropic radiator | isotrope straler |  |
+| isotropic source {radio} | isotrope bron |  |
+| issuance | uitreiking |  |
+| issue n. {book, drawing} | uitgawe |  |
+| issue n. {command, embargo} | uitvaardiging |  |
+| issue n. {postage stamp, stocks} | uitgifte |  |
+| issue n. {stock} | uitreiking |  |
+| issue side | uitreikingsy |  |
+| issue v. {book, postage stamp, stocks} | uitgee |  |
+| issue v. {command, embargo} | uitvaardig |  |
+| issue v. {stores} | uitreik |  |
+| issue voucher | uitreikbewys |  |
+| issuing administration | uitreikadministrasie |  |
+| issuing office (office of issue) | kantoor van uitreiking, uitreikkantoor |  |
+| issuing office {special postage stamps} | kantoor van uitgifte |  |
+| issuing officer | uitreikbeampte |  |
+| isthmus armature | nekanker |  |
+| isthmus {relê} | nek |  |
+| item | item |  |
+| itemise | itemiseer |  |
+| itemised billing | gespesifiseerde fakturering |  |
+| itemised total | gespesifiseerde totaal |  |
+| itemiser | itemiseerder |  |
+| iterative attenuation constant | iteratiewe verswakkingskonstante |  |
+| iterative impedance {quadripole} | iteratiewe impedansie |  |
+| iterative phase factor | iteratiewe fasefaktor |  |
+| iterative phase-change coefficient | iteratiewe faseverskuiwingskoëffisiënt |  |
+| iterative phase-change constant | iteratiewe faseverskuiwingskonstante |  |
+| iterative transfer coefficient | iteratiewe oordragkoëffisiënt |  |
+| iterative transfer constant | iteratiewe oordragkonstante |  |
+| itinerant supervisor | reisende opsigter |  |
+| itinerant supervisory staff | reisende toesigpersoneel |  |
+| itinerary | reisplan |  |
+| ivorine wedge | ivorine-wig |  |
+| jack (lifting jack) | domkrag |  |
+| jack field | klinkveld |  |
+| jack multiple | klinkmultipel |  |
+| jack panel | klinkpaneel |  |
+| jack shaft | primêre as |  |
+| jack strip | klinkstrook |  |
+| jack-ended junction | klinkentkoppellyn |  |
+| jack-in terminal | insteekaansluiter |  |
+| jack-in type mounting | insteekmontasie |  |
+| jackbolt | klampbout |  |
+| jacket {clothing} | baadjie |  |
+| jacket | mantel |  |
+| jackhammer (pneumatic rock drill) | klopboor |  |
+| jacking-in point | insteekpunt |  |
+| jade green | jadegroen |  |
+| jam detection unit {sorting machine} | verstoppingsdetektor, verstoppingsdetektoreenheid |  |
+| jam n. {sorting machine} | verstopping |  |
+| jam v. {eg punching machine} | vasslaan |  |
+| jam v. {punch card} | blokkeer |  |
+| jam v. | vassit |  |
+| jamming {radio} | belemmering |  |
+| japanned eyelet {clothing} | vervlakte ogie |  |
+| jaw clutch yoke | kloukoppelaarjuk |  |
+| jaw {eg bench-vice} | wangstuk |  |
+| jaw {eg compasses, spanner} | kaak |  |
+| jaw | klou |  |
+| jaws {spanner} | bek |  |
+| jelly electrolyte | jellie-elektroliet |  |
+| jennying machine | flensbuigmasjien |  |
+| jennying wheel | flensbuigwiel |  |
+| jerrican | jerriekan |  |
+| jet n. {carburettor} | straler |  |
+| jet n. | straal |  |
+| jetted pocket {clothing} | sak met randstroke |  |
+| jewel inset | juweelinsetsel |  |
+| jewel light | juweelliggie |  |
+| jewelled bearing | juweellaer |  |
+| jeweller's broach | juweliersruimer |  |
+| jib {eg lathe slide} | teenspy |  |
+| jig {cable} | leigerei |  |
+| jig | setapparaat, setmaat |  |
+| jig | setmaat |  |
+| jitter | bibbereffek |  |
+| job (task) | taak |  |
+| job analysis | taakontleding |  |
+| job analysis | werkontleding |  |
+| job assignment | taaktoewysing |  |
+| job bag {printing house} | taaksak |  |
+| job breakdown | elementspesifisering, taaksplitsing |  |
+| job breakdown | werkspesifisering |  |
+| job classification | werkindeling |  |
+| job content | posinhoud |  |
+| job control system | taakbeheerstelsel |  |
+| job creation {new posts} | werkskepping |  |
+| job description | posbeskrywing, taakbeskrywing, werkbeskrywing |  |
+| job designation (job title) | postitel |  |
+| job evaluation officer | posevalueringsbeampte |  |
+| job evaluation | werkevaluering |  |
+| job grading | posgradering |  |
+| job level advancement | posvlakvordering |  |
+| job level | posvlak |  |
+| job order | taakorder |  |
+| job rate | werktarief |  |
+| job security | werksekerheid |  |
+| job sheet | werkstaat |  |
+| job title | postitel |  |
+| jobbing {in building trade} | los werkies |  |
+| jockey lever {teleprinter} | jokkiehefboom |  |
+| jockey relay | jokkierele |  |
+| jockey roller {teleprinter} | jokkieroller |  |
+| jockey sounder | jokkieklopper |  |
+| jockey spring {teleprinter} | jokkieveer |  |
+| jogging device | skudtoestel |  |
+| joggle {punched cards} | regskud |  |
+| joggling wheel | joggelwiel |  |
+| join (join up) | aansluit, verbind |  |
+| join in parallel | parallel verbind |  |
+| joinery | skrynwerk |  |
+| joining strip | lasstrook |  |
+| joint account | gesamentlike rekening |  |
+| joint agreement | gesamentlike ooreenkoms |  |
+| joint box | laskas |  |
+| joint closure (jointing closure) | lasomhulsel |  |
+| joint cutter {wireman's pliers} | skarnierknipper |  |
+| joint encapsulation | lasinkapseling |  |
+| joint management | gesamentlike bestuur |  |
+| joint marker | laswyser |  |
+| joint n. {eg pantograph} | gewrig |  |
+| joint n. {for antenna rotation on satellite} | lasstuk |  |
+| joint service (shared service) | gesamentlike diens |  |
+| joint subscriber (sharing subscriber) | deelhuurder, medehuurder |  |
+| joint tape {chilled-water pipes} | pyplasband, verseelband |  |
+| joint testing | lastoetse |  |
+| joint use | medegebruik |  |
+| joint user | medegebruiker |  |
+| joint-use fee | medegebruiksgeld |  |
+| jointer's mate | lassersmaat |  |
+| jointer | lasser |  |
+| jointing allowance | lastoelating |  |
+| jointing chamber {in building} | laskamer |  |
+| jointing collar | laskraag |  |
+| jointing combination | laskombinasie |  |
+| jointing flange | lasflens |  |
+| jointing former (spacer) {cable jointing} | spasieerder |  |
+| jointing initiation {PNA} | gemeenskaplike beginpunt |  |
+| jointing instruction | lasinstruksie |  |
+| jointing party | lasspan |  |
+| jointing pillar | laspilaar |  |
+| jointing pit | lasput |  |
+| jointing schedule | laslys |  |
+| jointing section | lasvak |  |
+| jointing sheet | lasblad |  |
+| jointing | laswerk |  |
+| jointly and severally | gesamentlik en afsonderlik |  |
+| jointly-owned route | mede-eienaarsroete |  |
+| journal bearing | astaplaer |  |
+| journal entry slip | joernaalinskrywingstrook |  |
+| journal entry | joernaalinskrywing |  |
+| journal {bookkeeping} | joernaal |  |
+| journal {crankshaft} | astap |  |
+| journal | tydskrif |  |
+| journalise | joernaliseer |  |
+| joystick cursor control | stoktipe loperkontrole |  |
+| joystick {computer} | beheerstok |  |
+| judder | siddering |  |
+| judgement sampling {human resources} | oordeelsteekproeftrekking |  |
+| judgement sampling {marketing} | oordeelsteekproeftrekking |  |
+| judicial management | geregtelike bestuur |  |
+| judicial procedure | wetlike proses |  |
+| judicial sale | eksekusieverkoping, geregtelike verkoping |  |
+| jumbo group | makrogroep |  |
+| jump table | sprongtabel |  |
+| jump | sprong |  |
+| jumper (jumper bar) | boorstaaf |  |
+| jumper (jumper wire) | verdeeldraad |  |
+| jumper connection | verdeeldraadverbinding |  |
+| jumper drill (jumper) | stampboor |  |
+| jumper drum | verdeeldraadtol |  |
+| jumper ring | verdeeldraadring |  |
+| jumper schedule | kruisverbindstaat |  |
+| jumper side {tag block} | kruisverbindkant |  |
+| jumper {teleprinter} | ligter |  |
+| junction (junction circuit, junction line) | koppellyn |  |
+| junction area | voegvlakgebied |  |
+| junction base {headset} | aftakstuk |  |
+| junction box | aansluitkas, aftakkas |  |
+| junction cable | koppellynkabel |  |
+| junction call | koppellynoproep |  |
+| junction capacitance | voegvlakkapasitansie |  |
+| junction circulator | koppelsirkuleerder |  |
+| junction diode | voegvlakdiode |  |
+| junction discrimination | koppellynonderskeiding |  |
+| junction exchange {telegraphy} | koppelsentrale |  |
+| junction finder | koppellynvinder |  |
+| junction group | koppellyngroep |  |
+| junction guard relay | koppellynwaakrele |  |
+| junction hunter | koppellynsoeker |  |
+| junction network | koppellynnetwerk |  |
+| junction point | koppelpunt |  |
+| junction pole | aansluitpaal, aftakpaal |  |
+| junction rele set | koppellynrelestel |  |
+| junction release key | koppellynvrymaaksleutel |  |
+| junction repeater | koppellynherhaler |  |
+| junction resistance | voegvlakweerstand |  |
+| junction switch | koppelskakelaar |  |
+| junction traffic | koppellynverkeer |  |
+| junction train | koppellynreeks |  |
+| junction transistor | voegvlaktransistor |  |
+| junction {also between sleeve and sheath} | aansluiting |  |
+| junction {semiconductor} | voegvlak |  |
+| junction-jumpering chart | koppellynverbindingskaart |  |
+| junctor | junktor |  |
+| jurisdiction | jurisdiksie, regsbevoegdheid |  |
+| jute braiding | jute-omvlegting |  |
+| jute yarn | jutegaring |  |
+| kHz (kilohertz) | kHz, kilohertz |  |
+| keep a claim alive | 'n eis in stand hou |  |
+| keep aside | opsy hou |  |
+| keep record | aantekening hou, rekord hou |  |
+| keep-alive electrode | instandhou-elektrode |  |
+| keeper plate (keep plate, lock plate) | sluitplaat |  |
+| keeper {magnet} | sluitstuk |  |
+| keeper | bewaarder |  |
+| kepie {kasregister} | cut |  |
+| keramot stud {insulation} | keramot-buffer |  |
+| keramot | keramot |  |
+| kerb side (near side) | randsteenkant |  |
+| kern v. {printing} | krimp |  |
+| key a number | 'n nommer sleutel |  |
+| key blank | sleutelblanko |  |
+| key button | sleutelknop |  |
+| key caller | sleutelroeper |  |
+| key click | sleutelklik |  |
+| key contact | sleutelkontak |  |
+| key control | sleutelbeheer |  |
+| key filter | sleutelfilter |  |
+| key handle {manual board} | sleuteldoppie |  |
+| key in (enter) {data} | invoer, insleutel |  |
+| key in {data} | insleutel |  |
+| key in {mail-sorting information} | invoer |  |
+| key lever | sleutelhefboom |  |
+| key man | sleutelman |  |
+| key map | sleutelkaart |  |
+| key n. {eg microwave apparatus} | drukknop |  |
+| key n. {teleprinter} | toets |  |
+| key n. {television} | beeldtoon |  |
+| key n. {wedge-shaped piece of metal} | spy |  |
+| key n. | sleutel |  |
+| key pad {key sender} | sleutelbord |  |
+| key pad {smaller unit than keyboard} | sleutelblok |  |
+| key panel | sleutelpaneel |  |
+| key plan | sleutelplan |  |
+| key plate | sleutelplaat |  |
+| key position | sleutelstand |  |
+| key sending {telephone} | sleutelsending |  |
+| key shelf {switchboard} | sleutelrak |  |
+| key slot cutter | spygleuffrees |  |
+| key slot | spygleuf |  |
+| key switching | sleutelskakeling |  |
+| key unit {keysender} | drukknopeenheid |  |
+| key unit | sleuteleenheid |  |
+| key v. {telegraphy} | sleutel |  |
+| key v. {telephone} | sleutelsend |  |
+| key-actuation recogniser | sleutelwerkingherkenner |  |
+| key-and-lamp unit | sleutel-en-lampeenheid |  |
+| key-calling cabinet | sleutelroeperkabinet |  |
+| key-controlled function | sleutelbeheerde funksie |  |
+| key-ended circuit | sleutelentkring |  |
+| key-ended switching relay | sleutelentskakelrele |  |
+| key-lock connector | aandrukverbinder |  |
+| key-lock shaft {of key-lock connector} | sluitlas |  |
+| key-sender electronics (KSE) | sleutelsenderelektroniek, SSE |  |
+| key-sender register (key-sending register) | sleutelsendregister |  |
+| key-sending position {telephone} | sleutelsendpunt |  |
+| key-shelf brace {telephone} | sleutelpaneelsteun |  |
+| key-to-disk system | sleutel-na-skyf-stelsel |  |
+| key-type chuck | sleutelkloukop |  |
+| keybar projection {teleprinter} | sleutelstaafuitsteeksel |  |
+| keyboard clutch | sleutelbordkoppelaar |  |
+| keyboard frame | sleutelbordraam |  |
+| keyboard guard | sleutelbordskerm |  |
+| keyboard locking lever | sleutelbordsluithefboom |  |
+| keyboard mechanism | sleutelbordmeganisme |  |
+| keyboard pad {computer} | sleutelblok |  |
+| keyboard perforator | sleutelbordperforeerder |  |
+| keyboard transmitter | sleutelbordsender |  |
+| keyboard trip bar | sleutelborduitklinkstaaf |  |
+| keyboard unit | sleutelbordeenheid |  |
+| keyboard {telephone} | sleutelbord |  |
+| keycoding | sleutelkodering |  |
+| keyed continuous wave | gesleutelde gelykgolf |  |
+| keyed modulated wave | gesleutelde gemoduleerde golf |  |
+| keyed number | gesleutelde nommer |  |
+| keyer (keying device) {telegraphy} | sleutelingtoestel |  |
+| keying contact | sleutelingkontak |  |
+| keying filter {radiotelegraphy} | sleutelingsfilter |  |
+| keying ratio | sleutelingverhouding |  |
+| keying spot {resin} | vatplek |  |
+| keying transient {telegraphy} | sleutelingoorgangseffek |  |
+| keying {telegraphy} | sleuteling |  |
+| keyless combination lock | sleutellose kombinasieslot |  |
+| keyless-ringing system | outomatiese luistelsel |  |
+| keysender | sleutelsender |  |
+| keystrip | sleutelstrook |  |
+| keystroke | sleuteldruk |  |
+| keystroke | sleutelslag |  |
+| keytone | sleuteltoon |  |
+| keyway | spygleuf |  |
+| kg (kilogram) | kg, kilogram |  |
+| khaki drill uniform | kakiedriluniform |  |
+| kick circuit | skopkring |  |
+| kicker plate {milling} | uitskopplaat |  |
+| kicker spring {jig} | skopveer |  |
+| kicking board (kick plate) | skopbord |  |
+| kilohm | kilohm, kilo”hm |  |
+| kilomanhour (kmanh) | kilomanuur, kmanh |  |
+| kilometre (km) | kilometer, km |  |
+| kilometre distance | kilometerafstand |  |
+| kilometre life | kilometerlewe |  |
+| kilometre schedule tariff {SATS} | kilometerskeduletarieflys |  |
+| kilometric wave | kilometergolf |  |
+| kilovolt (kV) | kilovolt, kV |  |
+| kilovolt-ampere | kilovoltampere |  |
+| kilowatt (kW) | kilowatt, kW |  |
+| kilowatt-hour | kilowattuur |  |
+| kinetic energy | kinetiese energie |  |
+| kinetic potential | kinetiese potensiaal |  |
+| kink | kink, kinkel |  |
+| kit {clothes} | uitrusting |  |
+| kit | stel |  |
+| klagtetoonbank | complaints desk |  |
+| klaxon horn | klaxon |  |
+| klemverskil | shift in emphasis |  |
+| klystron | klistron |  |
+| knee tool-holder | kniebeitelhouer |  |
+| knee {curve} | knie |  |
+| knee {milling machine} | knie |  |
+| knee-point {graph} | kniepunt |  |
+| knife contact | meskontak |  |
+| knife drill | mesdril |  |
+| knife edge | meskant |  |
+| knife n. {eg planing machine} | beitel |  |
+| knife switch | messkakelaar |  |
+| knife tool | mesbeitel |  |
+| knife-blade connector | lemverbinder |  |
+| knife-edge obstruction {microwave} | meskantobstruksie |  |
+| knife-edge relay | meskantrele |  |
+| knife-pleat {clothing} | mesplooi |  |
+| knob | knop |  |
+| knock and drop {marketing} | klop en stop, gooi en strooi |  |
+| knock up {joint} | opklop |  |
+| knock-up joint {sheet-metal work} | opkloplas |  |
+| knockout shaft | uitstampas |  |
+| knockout {cutting and drawing dies} | uitstamper |  |
+| knockout | uitslaanstuk |  |
+| knot {wood} | kwas |  |
+| know-how | kundigheid |  |
+| knurl n. | kartel |  |
+| knurl v. | kartel |  |
+| knurl {lathe} | kartelwiel |  |
+| knurled clamping ring | kartelklemring |  |
+| knurled feed roller | kartelvoerroller |  |
+| knurled head (milled head) | kartelkop |  |
+| knurled knob | kartelknop |  |
+| knurled nut | kartelmoer |  |
+| knurled roller | kartelroller |  |
+| knurled screw | kartelskroef |  |
+| knurling tool holder | kartelwielhouer |  |
+| kraft cover | kraftomslag |  |
+| kymograph | kimograaf |  |
+| lCR bridge | LCR-brug |  |
+| label n. (tag) | etiket |  |
+| label n. {exchange equipment} | kenplaatjie |  |
+| label n. | etiket |  |
+| label v. | etiketteer |  |
+| label v. | merk |  |
+| labour appeal court | arbeidsappelhof |  |
+| labour broker's office | arbeidsmakelaarkantoor |  |
+| labour broker | arbeidsmakelaar |  |
+| labour force | arbeidskorps |  |
+| labour force | arbeidsmag |  |
+| labour market | arbeidsmark |  |
+| labour power | arbeidsmag |  |
+| labour relationship | arbeidsverhouding |  |
+| labour shortage | arbeidstekort |  |
+| labour union | vakbond |  |
+| labour union | vakbond <die Wet gebruik die term - vakvereniging> |  |
+| labour unrest | arbeidsonrus |  |
+| labour utilisation | arbeidbenutting |  |
+| labour-saving device | arbeidsbesparende toestel |  |
+| labour-variance account {job control system} | arbeidsverskilrekening |  |
+| lace n. | kant |  |
+| lace v. {cable} | vasryg |  |
+| lace {cable butt} | opbind |  |
+| lacing board {cables} | rygbord |  |
+| ladder-type filter | leerfilter |  |
+| lag n. {phases} | naloop |  |
+| lag v. {eg piping} | beklee |  |
+| lag v. | naloop |  |
+| lag-behind characteristic | naloopkenkromme |  |
+| lagging distortion | naloopvervorming |  |
+| lagging rope | bekleetou |  |
+| lagging sense {eg distortion} | naloopsin |  |
+| lagging {eg pipes} | bekleding |  |
+| laid paper | dwarsribpapier |  |
+| lamellar magnetisation | lamelmagnetisering |  |
+| laminated board | lamelbord |  |
+| laminated paper | lamelpapier |  |
+| lamination {steel defect} | blaar |  |
+| lamination {steel defect} | blaarvorming |  |
+| lamination | lamel |  |
+| lamination | lamellering |  |
+| lamp (lamp fitting) | lamp |  |
+| lamp jack | lampklink |  |
+| lamp stabiliser | lampstabiliseerder |  |
+| lamp switch battery | lampskakelbattery |  |
+| lamp-bridge stabiliser | lampbrugstabiliseerder |  |
+| lamp-driver amplifier | lampdryfversterker |  |
+| lamp-signalling multiple switchboard | lampseinmultipelskakelbord |  |
+| lance assembly {steam cleaner} | lanssamestel |  |
+| lance type {needle of meter} | lanstipe |  |
+| land mobile service | land mobiele diens |  |
+| land mobile station licence | land mobielestasie-lisensie |  |
+| land mobile station | land mobiele stasie |  |
+| land n. {printed circuit, spur} | veld |  |
+| land relief {piston} | veldwegsnyding |  |
+| land route (surface route, overland route) | landroete |  |
+| land transit charges | landdeurgangkoste |  |
+| land transmission | landtransmissie |  |
+| land v. {sea cable, goods} | land |  |
+| landed in excess {goods} | te veel geland |  |
+| landing and shipping {mail} | landing en verskeping |  |
+| landing charges {goods} | landingskoste |  |
+| landing charges | landingskoste, ontskeepkoste |  |
+| landing procedure {goods} | landingsprosedure |  |
+| landing {staircase} | bordes |  |
+| landline | landlyn |  |
+| landmark | landmerk |  |
+| landowner | grondbesitter, grondeienaar |  |
+| landscape {printing} | landskap |  |
+| lane | laan |  |
+| language digit | taalsyfer |  |
+| language group | taalgroep |  |
+| language {also computer} | taal |  |
+| lap dissolve {television image} | mengoorgang |  |
+| lap n. | fynslyper |  |
+| lap v. {eg cable, pipe} | omwikkel |  |
+| lap v. {eg crystal face} | fynslyp |  |
+| lap winding | luswikkeling |  |
+| lap-screened | windselafgeskerm |  |
+| lapel break {clothing} | lapelomslaanlyn |  |
+| lapped screen | omwikkelafskerming |  |
+| lapping cable {aerial cable} | woeldraad |  |
+| lapping machine (lashing machine) {eg aerial cable} | woelmasjien |  |
+| lapping paper | windselpapier |  |
+| lapping plate | fynslypplaat |  |
+| lapping test | omwikkeltoets |  |
+| lapping {cables} | omwindsel |  |
+| lapse {policy, a right} | verval |  |
+| laptop | skootrekenaar |  |
+| large letters {class of mail} | grootbriewe |  |
+| large uniform (outsize uniform) | grootgrootte-uniform |  |
+| large-capacity battery | grootkapasiteitbattery |  |
+| large-scale integration {integrated circuit} | grootskaalse integrasie |  |
+| large-signal amplifier | sterkseinversterker |  |
+| lase | laseer |  |
+| laser diode (LD) | laserdiode, LD |  |
+| laser print {completed product} | laserdrukwerk |  |
+| laser printing {process} | laserdrukwerk |  |
+| lasering | laserdruk |  |
+| lash n. {eg valves} | speling |  |
+| lash v. | vaswoel |  |
+| lashing strip {posting box} | versterkstrook |  |
+| lasing molecule | laseermolekule |  |
+| lasing | lasering |  |
+| lassa virus | lassavirus |  |
+| last-choice route | laastekeuse-roete |  |
+| last-in-first-out (LIFO) | laaste-in-eerste-uit, LIFO |  |
+| last-party release (last-subscriber release) | vrymaking deur laaste terugplaser |  |
+| latch armature | knipanker |  |
+| latch contact spring | knipkontakveer |  |
+| latch contact | knipkontak |  |
+| latch logic {logic} | grendellogika |  |
+| latch magnet | knipmagneet |  |
+| latch n. {logic} | grendel |  |
+| latch n. {logic} | houwipkring |  |
+| latch n. | knip |  |
+| latch on {logic} | aanle op |  |
+| latch unit {logic} | grendeleenheid |  |
+| latch v. {logic} | grendel, vashou |  |
+| latch v. | inknip |  |
+| latch-armature bearing | knipankerlaer |  |
+| latch-restoring spring | knipterugstelveer |  |
+| latch-spindle clamp | knipspilklamp |  |
+| latching mechanism {teleprinter} | knipmeganisme |  |
+| late attendance (late duty) | laatdiens |  |
+| late attendance | laat kom op kantoor, laat vir diens |  |
+| late fee | laatport |  |
+| late-break contact | laatverbreekkontak |  |
+| late-choice relay | laatkeuserele |  |
+| late-choice selector {automatic exchange} | laatkeusekieser |  |
+| late-delivery fee | laatafleweringskoste |  |
+| late-distortion margin | laatvervormingsgrens |  |
+| late-fee article | laatportstuk |  |
+| late-fee letter | laatportbrief |  |
+| late-make contact | laatsluitkontak |  |
+| latent heat | latente hitte |  |
+| lateral branch cable | laterale takkabel |  |
+| lateral development | laterale uitbreiding |  |
+| lateral deviation {direction-finding} | laterale afwyking |  |
+| lateral feed | laterale voeding |  |
+| lateral inversion {television} | laterale omkering |  |
+| lateral main cable | laterale hoofkabel |  |
+| lateral movement | laterale beweging |  |
+| lathe tool | draaibankbeitel |  |
+| latitude | breedtegraad |  |
+| lattice section {eg wave filter} | kruisseksie |  |
+| launch vehicle {satellite} | lanseertuig |  |
+| launch {signal into waveguide} | invoer |  |
+| lay n. {cables} | slag |  |
+| lay out v. {cables, cable pairs} | indeel |  |
+| lay out v. | uitle |  |
+| lay v. {cables} | le |  |
+| layer height {ionosphere} | laaghoogte |  |
+| layer quad {coaxial cable} | laagvierling |  |
+| layer tape | laagband |  |
+| layout n. {cables, cable pairs} | indeling |  |
+| layout n. | konfigurasie |  |
+| layout n. | uitleg |  |
+| layout | uitleg |  |
+| leach v. {eg creosote from treated poles} | uitsyfer |  |
+| leach v. | loog, uitloog |  |
+| leach v. | uitsyfer, uitsypel |  |
+| lead angle {electricity} | voorloophoek |  |
+| lead angle {thread, worm gear} | stygingshoek |  |
+| lead dispenser | loodpunthouer |  |
+| lead end | voorloopent |  |
+| lead in {cables} | inlei |  |
+| lead n. & v. {electricity} | voorloop |  |
+| lead n. {helix, worm gear} | steek |  |
+| lead n. {helix} | steek |  |
+| lead n. {phases} | voorloop |  |
+| lead n. {thread} | styging |  |
+| lead n. | leiding |  |
+| lead seal | loodseel |  |
+| lead sheath | loodhulsel |  |
+| lead time (turn-about time) {orders} | wagtyd |  |
+| lead-covered cable (lead-sheathed cable) | loodomhulde kabel |  |
+| lead-foil tap | loodfoelieband |  |
+| lead-in arrangement (lead-in method) | inleimetode |  |
+| lead-lined box | loodgevoerde kas |  |
+| lead-sealing pliers | loodseeltang |  |
+| lead-through capacitor | deurleikapasitor |  |
+| lead/acid cell | lood/suur-sel |  |
+| lead/antimony tube | lood/antimoon-pyp |  |
+| leader (leading article) | hoofartikel |  |
+| leader (pilot streamer) {lightning} | leistraal |  |
+| leadership | leierskap |  |
+| leading dimension (main dimension) | hoofafmeting |  |
+| leading distortion | voorloopvervorming |  |
+| leading edge {eg pulse} | front, leirand |  |
+| leading edge | leirand |  |
+| leading power factor | voorlooparbeidsfaktor |  |
+| leading question {marketing} | leidende vraag |  |
+| leading question | leidende vraag |  |
+| leading sense {eg distortion} | voorloopsin |  |
+| leading series {marketing} | leierreeks |  |
+| leading series | leierreeks |  |
+| leadscrew reverse lever | leiskroefomstelhefboom, leiskroeftruhefboom |  |
+| leaf chain | bladketting |  |
+| leaf jig | bladsetmaat |  |
+| leaf {gate} | vleuel |  |
+| leaf-edge {collar} | buiterand |  |
+| leaflet | blaadjie |  |
+| leak {electricity} | lek |  |
+| leakage current | lekstroom |  |
+| leakage switch {AVO meter} | lekskakelaar |  |
+| leakage tendency | lekgeneigdheid |  |
+| leakance | lekkonduktansie |  |
+| leaky {impedance} | lekkerig |  |
+| leaky-line failure | leklynfaling |  |
+| lean-to stack | leunstapel |  |
+| learner allowance {human resources} | leerlingtoelating |  |
+| learner with barriers to learning | leerder met versperrings tov leer |  |
+| learner | leerder |  |
+| learnership | leerderskap |  |
+| learning area (LA) | leerarea, LA |  |
+| leased line {also data transmission} | huurlyn |  |
+| leased-line working {data transmission} | huurlynwerking |  |
+| leasehold scheme | huurpagstelsel |  |
+| least significant bit (LSB) | mins beduidende bis, MIBB |  |
+| least significant nibble (LSN) | mins beduidende halfgreep, MIBH |  |
+| leather cloth | leerkledingstof |  |
+| leather skirt | leersuierwaster |  |
+| leave credit | verlofkrediet, verloftegoed |  |
+| leave of absence | afwesigheidsverlof |  |
+| leave {wiper of bank} | verlaat |  |
+| leave-behind n. {promotional gift} | agterlater |  |
+| leaving edge {bank contact} | agterrand |  |
+| leaving temperature {eg chilled water} | uitgaande temperatuur |  |
+| ledge {eg teleprinter lever} | lip |  |
+| left-and-right-hand chart | linker-en-regterhand-kaart |  |
+| left-hand side {mathematics} | linkerkant |  |
+| leg gear {semi-trailer} | pootstel |  |
+| leg {of a circuit} | been |  |
+| legal (valid) {computer} | geldig |  |
+| legal document | regsdokument |  |
+| legal liability | wetlike aanspreeklikheid |  |
+| legalise | wettig |  |
+| legend {eg maps} | verklaring |  |
+| legitimately {eg transform methods} | met reg |  |
+| lend | uitleen |  |
+| length n. {eg three lengths of pipe} | lengte |  |
+| length of back {pattern} | ruglengte |  |
+| length of span (span length) | spanlengte |  |
+| lens antenna {microwaves} | lensantenne |  |
+| lens disc {television} | lensskyf |  |
+| lens slide | lensslee |  |
+| letter aperture | briewegleuf |  |
+| letter bag | briewesak |  |
+| letter balance (letter scale) | brieweskaal |  |
+| letter bill | briewelys |  |
+| letter box | huisposbus |  |
+| letter bundle | briewebondel |  |
+| letter file | brieweleer |  |
+| letter guide | briefleier |  |
+| letter mail (letter post) | briefpos |  |
+| letter of acceptance | aanvaardingsbrief |  |
+| letter of appointment | aanstellingsbrief |  |
+| letter of authority | magtigingsbrief |  |
+| letter of curatorship | brief van aanstelling as kurator |  |
+| letter of demand | aanmaningsbrief |  |
+| letter of executorship {Estates Act} | eksekuteursbrief |  |
+| letter of refusal | afwysbrief |  |
+| letter packet | briefpakkie |  |
+| letter punch | letterpons |  |
+| letter quality | briefgehalte |  |
+| letter rate (letter rate of postage) | briefpostarief, brieftarief |  |
+| letter sheet {philately} | briefvel |  |
+| letter stacker | briefstapelaar |  |
+| letter tray {mail sorting} | briewepan |  |
+| letter type (typeface, font) | lettertipe |  |
+| letter-feed dog | lettervoermeenemer |  |
+| letter-feed lever | lettervoerhefboom |  |
+| letter-feed link | lettervoerskakel |  |
+| letter-post service | briefposdiens |  |
+| letter-sorting machine (LSM) | briefsorteermasjien, BSM |  |
+| letter-tray bracket | briewebaksteun |  |
+| letter | brief |  |
+| letter | letter |  |
+| lettercard | briefkaart |  |
+| lettered dial | letterskakelskyf |  |
+| letterhead | briefhoof |  |
+| lettering drawing | letterwerktekening |  |
+| lettering template {pantograph machine} | karakterleiplaat |  |
+| lettering | letterwerk |  |
+| letterpress (letterpress printing) | boekdruk |  |
+| letters case | letterkas |  |
+| letters of administration | briewe van administrasie |  |
+| level changer {eg signals} | peilomsetter |  |
+| level control {automatic telephone} | laagbeheer |  |
+| level control {transmission} | peilbeheer |  |
+| level converter | peilomsetter |  |
+| level lamp {automatic telephone} | laaglamp |  |
+| level measurement | peilmeting |  |
+| level multiple {telephone} | laagmultipel |  |
+| level n. {automatic telephone} | laag |  |
+| level n. | hoogte, peil |  |
+| level n. | waterpas |  |
+| level reading | peillesing |  |
+| level resolution | peildefinisie |  |
+| level test key {automatic telephone} | laagtoetssleutel |  |
+| level test key {transmission} | peiltoetssleutel |  |
+| level tracer | peilspoorder |  |
+| level v. | gelykmaak |  |
+| level v. | gelykstel |  |
+| level v. | nivelleer, waterpas maak |  |
+| level-failure alarm {carrier system} | peilfaalalarm |  |
+| level-measuring set (LMS) | peilmeetstel, PMS |  |
+| level-regulation equipment | peilreëltoerusting |  |
+| level-setting attenuator | peilstelverswakker |  |
+| level-spring cam | laagveernok |  |
+| level-spring operating lever | laagveerwerkarm |  |
+| levelling device {of machine on gradient} | gelyksteller |  |
+| levelling screw | gelykstelskroef |  |
+| levelling-off | afplatting |  |
+| evelling | gelykmaking |  |
+| ever shears | hefboomskêr |  |
+| ever {key} | klawer |  |
+| everage off | manipuleer |  |
+| everage v. | hefboom |  |
+| everage {length from fulcrum} | hefboomlengte |  |
+| everage | hefvermoë |  |
+| everage | hefvoordeel |  |
+| evy n. | heffing |  |
+| evy v. {tax, right} | hef |  |
+| evy v. | hef, oplê |  |
+| iability to the Department | las vir die Departement |  |
+| iability | aanspreeklikheid |  |
+| iable to contribution | bydraepligtig |  |
+| iable to customs duty {person} | doeanepligtig |  |
+| iable to customs duty | aan doeanereg onderworpe |  |
+| iaise | skakel |  |
+| iaison officer | skakelbeampte |  |
+| iaison | skakeling, skakelwerk |  |
+| icence | lisensie |  |
+| icensee | lisensiehouer |  |
+| id check {bag} | dekselkeerder |  |
+| id contact | klapskakelaar |  |
+| id switch {eg tape reader} | klapskakelaar |  |
+| ife context | lewensverband |  |
+| ife expectancy | lewensverwagting |  |
+| ife {also of equipment} | lewe |  |
+| ife-threatening | lewensgevaarlik, lewensbedreigend |  |
+| ifeline | reddingstou |  |
+| ifeline | veiligheidstou |  |
+| ift n. | hysbak, hyser |  |
+| ift n. | lighoogte |  |
+| ift-cylinder block | ligsilinderstop |  |
+| ift-off door (removable door) | verwyderbare deur |  |
+| ifting bar {break-down van} | ligbalk |  |
+| lifting beam | hysbalk |  |
+| lifting capacity (lifting power) | hysvermoe, ligvermoe |  |
+| lifting eye | hysoor, opligoog |  |
+| lifting pin (operating pin) {spring set} | ligpen |  |
+| lifting stud {rele} | lignaeltjie |  |
+| lifting trunnion {teleprinter} | ligtap |  |
+| light current | swakstroom |  |
+| light fitting | ligtoebehore |  |
+| light image {television} | ligbeeld |  |
+| light load {electricity} | ligte las |  |
+| light load | ligte vrag |  |
+| light spot | ligstip |  |
+| light table (rule-up/line-up table) | ligtafel |  |
+| light well | ligskag |  |
+| light-bar check {sorting machine} | ligstraalkontrole |  |
+| light-face entry | maerbeeldinskrywing |  |
+| lighting (illumination) | beligting, verligting |  |
+| lighting busbar | liggeleistam |  |
+| lighting heat gain | verligtingshittewins |  |
+| lighting plant | ligtoestel |  |
+| lighting set | ligtoestel |  |
+| lighting technology | verligtingtegnologie |  |
+| lightning and power protector | blits-en-kragafleier |  |
+| lightning area | weerliggebied |  |
+| lightning arrester (lightning protector) | blitsafleier |  |
+| lightning conductor | blitsgeleier |  |
+| lightning current | blitsstroom |  |
+| lightning discharge | blitsontlading |  |
+| lightning flash (lightning stroke) | blitsslag, blitsstraal |  |
+| lightning incidence | blitsvoorkomsyfer |  |
+| lightning interference | blitssteuring |  |
+| lightning protection system | blitsafleistelsel |  |
+| lightning surge | blitsstuwing |  |
+| lightning-induced surge | blitsge<nduseerde stuwing |  |
+| lightning | bliksem, blits, weerlig |  |
+| like poles | gelyknamige pole, gelyksoortige pole |  |
+| like signs | eenderse tekens |  |
+| limit (minimise) | beperk |  |
+| limit calliper (limit calliper gauge) | grensspeersetmaat |  |
+| limit n. {mathematics, financial} | limiet |  |
+| limit n. | beperking |  |
+| limit n. | grens, perk |  |
+| limit of a function | funksielimiet |  |
+| limit of expenditure (LOE) | uitgaweperk, UP |  |
+| limit of interference | steuringperk |  |
+| limit stop | grensstop |  |
+| limit v. | begrens |  |
+| limited access (restricted access) | beperkte toegang |  |
+| limited availability {telephone} | beperkte toeganklikheid |  |
+| limited-liability company | maatskappy met beperkte aanspreeklikheid |  |
+| limiter {microwave} | begrenser |  |
+| limiting amplifier | begrensversterker |  |
+| limiting coil | begrensspoel |  |
+| limiting frequency | begrensfrekwensie |  |
+| limiting position {armature} | begrensstand |  |
+| limiting valve | begrensbuis |  |
+| limits of size | grootteperke |  |
+| lincompex {LINked COMpressor EXpander} | lincompex |  |
+| line adapter | lynaanpasser |  |
+| line allocation | lyntoewysing |  |
+| line balance lamp | lynbalanslamp |  |
+| line blanking {television} | lynonderdrukking |  |
+| line circuit <correct English term - exchange-line circuit> | sentralelynkring |  |
+| line circuit <correct English term - subscriber-line circuit> | huurderlynkring |  |
+| line construction | lynaanleg, lynkonstruksie |  |
+| line count | lyntelling |  |
+| line display unit | lynvertooneenheid |  |
+| line display | lynvertoning |  |
+| line feed {eg teleprinter} | reëlaanskuiwing |  |
+| line feed | lyntoevoer |  |
+| line finder {automatic telephone} | lynvinder |  |
+| line fixture {milling} | lynrigklem |  |
+| line function | lynfunksie |  |
+| line function | lynfunksie |  |
+| line group | lyngroep |  |
+| line hit | lynstuwing |  |
+| line indicator | lynaanwyser |  |
+| line is on hold | lyn word gehou |  |
+| line lengthener {waveguide} | lynverlenger |  |
+| line level {carrier system} | lynpeil |  |
+| line loss | lynverlies |  |
+| line material | lynmateriaal |  |
+| line n. {LSM} | baan |  |
+| line n. | lyn |  |
+| line n. | reël |  |
+| line of action {vectors} | werkrigting |  |
+| line of communication | kommunikasiekanaal, kommunikasielyn |  |
+| line of force {magnetism} | forslyn |  |
+| line of sight (LOS, sight line, visual line) | siglyn |  |
+| line of thought | gedagterigting |  |
+| line repetitive test waveform | lynherhalingstoetsgolfvorm |  |
+| line residual equaliser | lynreseffenaar |  |
+| line scan period | lynaftasduur, lynaftasperiode |  |
+| line simulator | lynnabootser, lynsimuleerder |  |
+| line socket | lynsok |  |
+| line space | reëlspasie |  |
+| line spacing | reëlspasiëring |  |
+| line stretcher {waveguide} | lynrekker |  |
+| line supervision | lyntoesig |  |
+| line surge | lynstuwing |  |
+| line trace {television} | lynspoor |  |
+| line voltage slide switch | lynspanningskuifskakelaar |  |
+| line work | lynwerk |  |
+| line-access protocol | lyntoegangprotokol |  |
+| line-blanking interval {television} | lynonderdruktussenpoos |  |
+| line-feed suppression {teleprinter} | reëlaanskuifonderdrukking |  |
+| line-finder bank | lynvinderbank |  |
+| line-finder circuit {automatic telephone} | lynvinderkring |  |
+| line-hit eliminator | stuwingelimineerder |  |
+| line-location connector | lynliggingverbinder |  |
+| line-of-sight propagation | siglynvoortplanting |  |
+| line-plant practice | lyntoerustingpraktyk |  |
+| line-seal {line} | riffelseël |  |
+| line-side hybrid | lynkantdifferensiaal |  |
+| line-signal detector | lynseindetektor |  |
+| line-sorting press {mail sorting} | lynsorteerrak |  |
+| line-synchronising pulse | lynsinchroniseerpuls |  |
+| line-terminating equipment | lynafsluittoerusting |  |
+| line-up frequency | instelfrekwensie |  |
+| line/earth voltage (line-to-earth voltage) | lyn/aarde-spanning, lyn-tot-aarde-spanning |  |
+| linear array {antennas} | lineere rignet |  |
+| linear discriminant analysis {marketing} | lineere diskriminantontleding |  |
+| linear discriminant analysis | linierediskriminant-ontleding, lineerediskriminant-ontleding |  |
+| linear iris-diaphragm lens | lineere irisdiafragmalens |  |
+| linear sawtooth sweep voltage | lineere saagtandstrykspanning |  |
+| linear trace {television} | lineere spoor |  |
+| linear | lineer |  |
+| linearity control | lineariteitsbeheer |  |
+| linearly polarised wave | lineer gepolariseerde golf |  |
+| linen thread {clothing} | vlasgaring |  |
+| liner bush | voeringbus |  |
+| lines of authority | gesagslyne |  |
+| linework | lynwerk |  |
+| lining {clothing} | voering |  |
+| link address | skakeladres |  |
+| link channel | verbindkanaal |  |
+| link circuit <correct English term - connect circuit> {PABX} | verbindkring |  |
+| link connector {PABX} | verbindskakelverbinder |  |
+| link escape | groepwysigkarakter |  |
+| link mounting {distribution frame} | skakelmontering |  |
+| link n. <correct English term - connect circuit> {PABX} | verbindkring |  |
+| link n. {eg as in radio link} | verbinding |  |
+| link n. | verbindlid, verbindskakel |  |
+| link pair {cable distribution} | koppelpaar |  |
+| link process | koppelproses |  |
+| link selector | verbindskakelkieser |  |
+| link switch <correct English term - connect selector> {PABX} | verbindkieser |  |
+| link trunking | verbindskakelbaning |  |
+| link v. | verbind |  |
+| link-address selection | skakeladreskiesing |  |
+| link-addressing method | skakeladresseermetode |  |
+| link-bar arrangement {adjustable tow-bar} | skakelarminrigting |  |
+| link-base station <correct English term - repeater station> {radio} | herhalerbasisstasie |  |
+| link-by-link signalling | lid-vir-lid-seining |  |
+| link-by-link signalling | skakel/skakel-seining |  |
+| linkage {eg electricity, magnetic flux} | koppeling |  |
+| linkage {mechanical} | skakeling |  |
+| linked offices {international telecommunication services} | gekoppelde kantore |  |
+| linked {computer} | gekoppel |  |
+| lip angle {drill} | liphoek |  |
+| lip blunting {drill} | lipafstomping |  |
+| liquid fuel | vloeibare brandstof, vloeibrandstof |  |
+| liquid receiver | vloeistofhouer |  |
+| liquid refrigerant | vloeibare koelmiddel |  |
+| liquid slugging (slugging) {in air-conditioning system} | loperslag |  |
+| liquid-line sightglass | vloeistofleidingsigglas |  |
+| liquid-line solenoid valve {Trane water chiller} | vloeistofleidingsoleno<edklep |  |
+| list broker {address lists} | lysmakelaar |  |
+| list cleaning | lysopruiming |  |
+| list n. | lys |  |
+| list v. | lys |  |
+| listen in {furtively} | afluister |  |
+| listen in {with permission} | meeluister |  |
+| listener's-licence fee zone | luisteraarslisensiegeldsone |  |
+| listening watch | luisterwag |  |
+| listing card {punching machine} | lyskaart |  |
+| literal (typo) | setfout, drukfout |  |
+| lithochromo paper {stamps} | litochromopapier |  |
+| lithographic contrast (lithocontrast) | litokontras |  |
+| live broadcast | direkte uitsending |  |
+| live knot {wood} | vaste kwas |  |
+| live load | lewendige las |  |
+| live part | lewendige deel |  |
+| live {electricity} | lewendig |  |
+| load back rest | vragagterstut |  |
+| load current | lasstroom |  |
+| load line | belastinglyn, laslyn |  |
+| load n. {electricity} | belasting |  |
+| load n. | lading, vrag |  |
+| load receptor {weighbridge} | weegplaat |  |
+| load resistance | belastingweerstand |  |
+| load resistor | belasresistor, lasresistor |  |
+| load terminal | belastingaansluiter |  |
+| load terminal | belastingaansluitpunt |  |
+| load transient | lastransient |  |
+| load v. {also data bits} | laai |  |
+| load v. {bank cleaning tool} | oortrek |  |
+| load v. {eg information, parameter} | invoer |  |
+| load v. | laai |  |
+| load variation | belastingwisseling |  |
+| load-distribution selector | lasverspreikieser |  |
+| load/impedance diagram | las/impedansie-diagram |  |
+| loaded core {cables} | belaste kern |  |
+| loader program {computer} | laaiprogram |  |
+| loading bay | laaiplek, laaivak |  |
+| loading coil | belastingspoel |  |
+| loading differentiator | lasdifferensieerder |  |
+| loading distance | belasafstand |  |
+| loading factor | lasfaktor |  |
+| loading hopper | laaibak |  |
+| loading layout | belastinguitleg |  |
+| loading point {electricity} | belaspunt |  |
+| loading point | laaiplek |  |
+| loading pot (LP) | belastingkas, BK |  |
+| loading ramp | laaioprit |  |
+| loading scheme | belastingskema |  |
+| loading step | laaitrap |  |
+| loading {eg cable impedance-matching} | belasting |  |
+| loading {grinding wheels} | aanpakking |  |
+| loading-coil case (loading-coil pot, loading pot) | belastingspoelkas |  |
+| loading-pot tail | belastingkasstert, belastingspoelkasstert |  |
+| loaf v. | laat slap le |  |
+| loaf | laat slap le |  |
+| loan vote | leningspos |  |
+| loan-levy certificate | leningsheffingsertifikaat |  |
+| loan-redemption instalment | leningsdelgingspaaiement |  |
+| loan-vote fund | leningsposfonds |  |
+| loan-vote programme | leningsposprogram |  |
+| lobby model | portaalmodel |  |
+| lobby | portaal |  |
+| lobe {antennas} | lob |  |
+| local action | plaaslike werking |  |
+| local authority | plaaslike owerheid |  |
+| local battery circuit | plaaslikebattery-kring |  |
+| local delivery | plaaslike aflewering |  |
+| local government | plaaslike regering |  |
+| local jig | plaaslike setmaat |  |
+| local link <correct English term - connect circuit> {PABX} | verbindkring |  |
+| local link circuit {PABX} | plaaslike verbindskakelkring |  |
+| local link {PABX} | plaaslike verbindskakel |  |
+| local management body | plaaslike bestuursliggaam |  |
+| local order | plaaslike bestelling |  |
+| local record | plaaslike rekord |  |
+| local sensitivity | plaaslike sensitiwiteit |  |
+| local-call discrimination | plaaslike-oproeponderskeiding |  |
+| local-operation circuit | plaaslikewerking-kring |  |
+| local-purchase requisition | rekwisisie vir plaaslike aankope |  |
+| localisation programme | lokaliseerprogram |  |
+| localisation {posts at independance of homelands} | verburgering |  |
+| localise | lokaliseer |  |
+| locality sketch | liggingskets |  |
+| locate v. (position) | in posisie sit, posisioneer |  |
+| locating comb | standkam |  |
+| locating dimple | standholte |  |
+| locating latch | standknip |  |
+| locating pin (nest pin) | standpen |  |
+| locating stop {rubber jointing sleeve} | standstop |  |
+| locating stop | standstop |  |
+| locating system | standstelsel |  |
+| locating tab | standplaatjie |  |
+| locating tag (positioning tag) {connecting washer} | standtong |  |
+| location pin {air conditioning} | posisiepen |  |
+| location {process} | lokalisering, opsporing |  |
+| location | ligging, plek |  |
+| locator {input device for use with computer screen} | lokaliseerder |  |
+| lock n. | slot |  |
+| lock out v. {labour} | uitsluit |  |
+| lock pulse | sluitpuls |  |
+| lock range | sluitstrek |  |
+| lock stitch {clothing} | sluitsteek |  |
+| lock up | toesluit |  |
+| lock v. {franking machine} | verseel |  |
+| lock v. | sluit |  |
+| lock-forming tools | sluitvoegvormgereedskap |  |
+| lock-on (pointing) | vassluiting |  |
+| lock-on tube connector {body and frame straightener} | vassluitpypverbinder |  |
+| lock-out n. {labour} | uitsluiting |  |
+| lock-out {VTI process} | uitsluiting |  |
+| lock-up {circuit} | vassluiting |  |
+| lockable compartment | sluitkassie |  |
+| locked in synchronism | sinchroon gesluit |  |
+| locked-rotor current | geklemderotor-stroom |  |
+| locker {telephone attachment} | sluiter |  |
+| locker | kas, kassie, sluitkas |  |
+| locking bail {teleprinter} | sluitstiebeuel |  |
+| locking break key | sluittipe verbreeksleutel |  |
+| locking change-over key | sluittipe oorskakelsleutel |  |
+| locking device | sluittoestel |  |
+| locking make key | sluittipe sluitsleutel |  |
+| locking make-before-break key | sluittipe sluit-voor-verbreek-sleutel |  |
+| locking nut (locknut) | sluitmoer |  |
+| locking pin | sluitpen |  |
+| locking projection | sluitlip |  |
+| locking snatch block | sluittipe grypkatrol |  |
+| locking stirrup | sluitstiebeuel |  |
+| locking-bar arm | sluitstaafarm |  |
+| locking-bar pivot | sluitstaafspil |  |
+| loctal base {vacuum valve} | agtpensluitvoet |  |
+| lodge a complaint against | 'n klag indien teen |  |
+| lodge a complaint with | 'n klag indien by |  |
+| lodge {complaint} | indien |  |
+| lodging | kamerlosies, slaapplek |  |
+| log in (log onto) {eg computer} | aanlog by, aanteken op |  |
+| log off {eg computer} | aflog van, afteken van |  |
+| log v. | aanteken |  |
+| log v. | registreer |  |
+| log-periodic antenna | logperiodiese antenne |  |
+| logarithmic reception | logaritmiese ontvangs |  |
+| logatom (logatome) | logatoom |  |
+| logbook | logboek |  |
+| logic analyser | logikaontleder |  |
+| logic circuit | logikakring |  |
+| logic clip | logikaklem |  |
+| logic display clip | aankniplogikavertoner |  |
+| logic element | logika-element |  |
+| logic probe (logic test probe) | logikatoetspen |  |
+| logic trainer | logikaopleier |  |
+| logic-circuit element | logikakringelement |  |
+| logical truth (logic truth, truth of logic) | logikawaarheid |  |
+| logo | logo |  |
+| logotype | logoletterwerk, embleemlettertipe |  |
+| long coin | skelmmunt |  |
+| long-distance control position | langafstandbeheerbedienpunt |  |
+| long-distance scatter {radio} | langafstandstrooiing |  |
+| long-distance subscriber's repeater {telegraphy} | langafstandhuurdersherhaler |  |
+| long-distance system (longhaul system) | langafstandstelsel |  |
+| long-duration fault | langdurige fout |  |
+| long-holding equipment | lankhou-toerusting |  |
+| long-line failure | langlynfaling |  |
+| long-nose pliers | langbektang |  |
+| long-range service | langafstanddiens |  |
+| long-run master {duplicating machine} | grootoplaagmoeder |  |
+| long-term deterioration | langtermyn-verswakking |  |
+| longitude | lengtegraad |  |
+| longitudinal cantilever test | langsvrydratoets |  |
+| longitudinal feed rate | langsvoertempo |  |
+| longitudinal section {drawing} | langssnit |  |
+| longitudinal stop coil | langsspanningsperspoel |  |
+| longitudinally induced voltage | langsge<nduseerde spanning |  |
+| look angle {earth station antenna} | righoek |  |
+| look-ahead carry | vooruitkykoordrag |  |
+| look-up table | naslaantabel |  |
+| loop antenna | lusantenne |  |
+| loop detector and delay circuit | lusdetekteer-en-vertraagkring |  |
+| loop dial circuit (loop dialling circuit) | lusskakelkring |  |
+| loop dialling (loop-disconnect dialling) | lusskakeling |  |
+| loop impulsing | lusimpulsering |  |
+| loop kilometre | luskilometer |  |
+| loop n. {Karnaugh map} | ring |  |
+| loop n. | lus |  |
+| loop responsive relay | lusgevoelige relé |  |
+| loop v. | lus |  |
+| loop-alignment error {antenna} | lusrigfout |  |
+| loop-back n. | teruglus |  |
+| loop-dialling circuit | lusskakelverbinding |  |
+| loop-disconnect signalling | lusverbreekseining |  |
+| loop-disconnect tandem junction | lusverbreektandemkoppellyn |  |
+| loop-free routing | luslose roetering |  |
+| loop-gain technique | luswinstegniek |  |
+| loop-resistance limit | lusweerstandsgrens |  |
+| loop-time delay | lustydvertraging |  |
+| looping {Karnaugh map} | ringing |  |
+| loose connection | los konneksie |  |
+| loose coupling | los koppeling |  |
+| loose rating | los aanslag |  |
+| loose time value | los tydwaarde |  |
+| loose {electron binding} | swak |  |
+| loose-wove bandage | losweefverband |  |
+| loosely-bound electron | swak gebonde elektron |  |
+| lorry | lorrie, trok, vragmotor |  |
+| loss measurement {internal termination} | afsluitmeting |  |
+| loss measurement {network} | verliesmeting |  |
+| loss reading {transmission} | verlieslesing |  |
+| loss {also electricity} | verlies |  |
+| loss/frequency characteristic (loss/frequency characteristic curve) | verlies/frekwensie-kenkromme |  |
+| loss/frequency measurement | verlies/frekwensie-meting |  |
+| loss/level measurement | afsluit/peil-meting |  |
+| lossless antenna | verlieslose antenne |  |
+| lossless line | verlieslose lyn |  |
+| lossy network | verliesnetwerk |  |
+| lossy vane | verliesvaan |  |
+| lost time | verlore tyd |  |
+| lost-book transfer {Savings Bank} | oorplasing van verloreboek-balans |  |
+| loud-hailer | luidroeper |  |
+| loud-hailer | megafoon |  |
+| loud-receive telephone | luidontvangtelefoon |  |
+| loudspeaker call {eg intercom system} | luidsprekeroproep |  |
+| louver (louvre) | hortjie |  |
+| louvering tools | hortjiegereedskap |  |
+| low n. | laag |  |
+| low orbit | lae baan |  |
+| low order {computer} | lae orde |  |
+| low performance | lae prestasie |  |
+| low pressure | lae druk |  |
+| low resistivity | lae resistiwiteit |  |
+| low tension {eg spring} | lae spanning |  |
+| low-capacitance quad | laekapasitansie-vierling |  |
+| low-compression position | laekompressie-stand |  |
+| low-electron-velocity camera tube | lae-elektronsnelheid-kamerabuis |  |
+| low-frequency current | laefrekwensie-stroom |  |
+| low-fuel alarm | laebrandstof-alarm |  |
+| low-incidence lightning area | ligteblitsgebied |  |
+| low-level modulation | laepeil-modulasie |  |
+| low-order address {computer} | lae-orde-adres |  |
+| low-order bit | laeorde-bis |  |
+| low-pass filter | onderdeurlaatfilter |  |
+| low-pilot alarm | laeloods-alarm |  |
+| low-power free radiating paging system | laekragroepstelsel, laekragvrystraalroepstelsel |  |
+| low-power modulation | laedrywing-modulasie |  |
+| low-powered radiotelephony | laedrywingradiotelefonie |  |
+| low-pressure gauge | laedruk-meter |  |
+| low-pressure overload device | laedrukoorbelastingtoestel |  |
+| low-resistance earth feed | laeweerstand-aardvoeding |  |
+| low-resistance earth | laeweerstand-aarde |  |
+| low-speed circuitry | laespoedkringwerk |  |
+| low-speed switched circuit | laespoedskakelverbinding |  |
+| low-tension battery {valve technology} | laespanning-battery |  |
+| low-voltage cable | laespanning-kabel |  |
+| low-voltage supply | laespanning-toevoer |  |
+| low-voltage switchgear | laespanning-skakeltoerusting |  |
+| low-voltage test | laespanning-toets |  |
+| low-voltage wire | laespanning-draad |  |
+| lower limit | onderste grens, onderste perk |  |
+| lower sideband (LSB) | ondersyband, OSB |  |
+| lower trip point (LTP) | onderste klinkpunt, OKP |  |
+| lower voltage limit | onderste spanningsgrens |  |
+| lower winding | verlaagwikkeling |  |
+| lower window edge | onderste vensterrand |  |
+| lower-case character {typography} | onderkaskarakter |  |
+| lower-order half-adder | laerorde-halfopteller |  |
+| lowest usable frequency (LUF) | laagste bruikbare frekwensie, LBF |  |
+| lowest usable high frequency | laagste bruikbare hoë frekwensie |  |
+| lubricating brush | smeerkwas |  |
+| lubricating-oil system | smeeroliestelsel |  |
+| lug | lip, oor |  |
+| lumenaire {lighting} | armatuur |  |
+| luminance band (luminance bar) | luminansieband |  |
+| luminance component | luminansiekomponent |  |
+| luminance measurement | luminansiemeting |  |
+| luminance random noise | luminansie toevallige ruis |  |
+| luminance signal | luminansiesein |  |
+| luminescence diode <correct term - light-emitting diode> | LED |  |
+| luminous | luminisserend |  |
+| lump loading {of cable} | gekonsentreerde belasting |  |
+| lump sum | enkelbedrag |  |
+| lumped-circuit multiplier | gekonsentreerdekring-vermenigvuldiger |  |
+| lumped-circuit technique | gekonsentreerdekring-tegniek |  |
+| luxury stamp album | luukse seëlalbum |  |
+| m-derived L-section filter | m-afgeleide L-seksiefilter |  |
+| mA (milliampère) | mA, milliampère |  |
+| macadamise | macadamiseer |  |
+| machine article {mail sorting} | masjienstuk |  |
+| machine base plate | masjienfondamentplaat |  |
+| machine coated {paper} | masjienbedek |  |
+| machine code {also computer} | masjienkode |  |
+| machine drill | masjienboor |  |
+| machine face (machine surface) | gemasjineerde vlak |  |
+| machine fold | masjienvou |  |
+| machine operator | masjienoperateur |  |
+| machine shop | masjienwinkel |  |
+| machine stub {accounting} | masjienteenblad |  |
+| machine tools | masjiengereedskap |  |
+| machine utilisation index | masjienbenuttingindeks |  |
+| machine v. | masjineer |  |
+| machine-controlled time | masjienbeheerde tyd |  |
+| machine-fail alarm | masjienfaalalarm |  |
+| machine-relieved cutter | masjienteruggesnyde frees |  |
+| machine-slotted frame | masjiengegleufde raam |  |
+| macro-call {computer} | makrobevel |  |
+| macro-execution {computer} | makro-uitvoering |  |
+| macro-string {computer} | makrostring |  |
+| made-up ground | opvulgrond |  |
+| magazine | magasyn |  |
+| magisterial district | landdrosdistrik |  |
+| magnesuim sulphate | magnesiumsulfaat |  |
+| magnet bobbin | magneetbobyn |  |
+| magnet clamp | magneetklamp |  |
+| magnet coil | magneetspoel |  |
+| magnet pole | magneetpool |  |
+| magnetic bearing {navigation} | magnetiese peiling |  |
+| magnetic chuck | magnetiese klouplaat |  |
+| magnetic core | magnetiese kern |  |
+| magnetic deflection | magnetiese defleksie |  |
+| magnetic dipole | magnetiese dipool |  |
+| magnetic disc | magnetiese skyf |  |
+| magnetic drum | magnetiese trommel |  |
+| magnetic force | magnetiese fors, magnetiese krag |  |
+| magnetic line of force | magnetieseveld-lyn |  |
+| magnetic media | magneetmedia, magnetiese media |  |
+| magnetic medium | magnetiese medium |  |
+| magnetic pick-up {gramophone} | magnetiese opteller |  |
+| magnetic pole | magnetiese pool |  |
+| magnetic sensitivity | magnetiese sensitiwiteit |  |
+| magnetic tape | magneetband, magnetiese band |  |
+| magnetic-ink-character recognition (MICR) | magnetiese-inkkarakterherkenning, MICR |  |
+| magnetic-tape clearer and certifier | skoonmaker en sertifiseerder vir magnetiese band |  |
+| magnetically biased | magneties voorgespan |  |
+| magnetics | magnetika, magnetisme |  |
+| magnetisable | magnetiseerbaar |  |
+| magnetisation characteristic | magnetiseereienskap |  |
+| magnetisation current | magnetiseerstroom |  |
+| magnetisation curve | magnetiseerkromme |  |
+| magnetisation line | magnetiseerlyn |  |
+| magnetisation | magnetisasie, magnetisering |  |
+| magnetise | magnetiseer |  |
+| magnetising force | magnetiseerfors, magnetiseerkrag |  |
+| magneto ringer | magnetoluier |  |
+| magneto-exchange system | magnetosentralestelsel |  |
+| magnetomotive force (MMF) | MMF, magnetomotoriese fors |  |
+| magnetostrictive delay line storage | magnetostriktiewevertraaglyn-geheue |  |
+| magnification factor | vergrotingsfaktor |  |
+| magnification | vergroting |  |
+| magnitude | magnitude |  |
+| mail advertising (direct mail advertising) | posreklame |  |
+| mail allowance <see - mail conveyance allowance> | posvervoertoelae |  |
+| mail barrow | poswaentjie |  |
+| mail carrier {person} | posdraer |  |
+| mail centre | possentrum |  |
+| mail clerk | posklerk |  |
+| mail closing time | possluitingstyd |  |
+| mail concourse | poslaaiplek |  |
+| mail connection | posaansluiting |  |
+| mail contract <see - mail-conveyance contract> | posvervoerkontrak |  |
+| mail conveyance | posvervoer |  |
+| mail count | postelling |  |
+| mail dispatch | posversending |  |
+| mail distribution centre | posverspreidingsentrum |  |
+| mail in transit | deurgaande pos |  |
+| mail irregularity | posonreelmatigheid |  |
+| mail list | poslys |  |
+| mail mass | posmassa |  |
+| mail matter (postal articles) | posstukke |  |
+| mail n. {between post offices} | posbesending |  |
+| mail n. | pos |  |
+| mail officer | posbeampte |  |
+| mail order buyer | posbestellingkoper |  |
+| mail room {eg of business} | poskamer |  |
+| mail room {eg on railway station} | posbewaarkamer |  |
+| mail room | poskamer |  |
+| mail route (postal route) | posroete |  |
+| mail runner (runner) | posdrawwer |  |
+| mail service (postal service) | posdiens |  |
+| mail survey {marketing} | posopname |  |
+| mail survey | posopname |  |
+| mail ticksheet (ticksheet) | posaantekenblad |  |
+| mail train | postrein |  |
+| mail transfer list | posoordraglys |  |
+| mail truck (mail van, mail vehicle, postal truck) | posvoertuig |  |
+| mail waybill | posgeleibrief |  |
+| mail-collection point | posafhaalpunt |  |
+| mail-concentration office | poskonsentrasiekantoor, poskonsentreerkantoor |  |
+| mail-conveyance allowance | posvervoertoelae |  |
+| mail-conveying flight | posvervoervlug |  |
+| mail-delivery record | posafleweringsrekord |  |
+| mail-distribution pattern | posverspreidingspatroon |  |
+| mail-exchange centre | posuitruilsentrum |  |
+| mail-exchange office | poswisselingkantoor |  |
+| mail-order customer | posbestellingklant |  |
+| mail-order firm | posbestellingfirma |  |
+| mail-route map (postal-route map) | posroetekaart |  |
+| mail-sorting | possortering |  |
+| mail-vouching | poswisseling |  |
+| mailbag (postbag) | possak |  |
+| mailbag depot | possakdepot |  |
+| mailbag room | possakkamer |  |
+| mailboat (mailship) | posboot |  |
+| mailcount | postelling |  |
+| envelope} | posgram |  |
+| mailing house | posreklameagentskap, posreklamefirma |  |
+| mailing house | posreklamefirma |  |
+| mailing room | posafdeling |  |
+| mails | posbesendings |  |
+| main alarm | hoofalarm |  |
+| main beam {antenna} | hoofbundel |  |
+| main cable | hoofkabel |  |
+| main display (main display panel) | hoofvertoonpaneel |  |
+| main distribution frame (MDF) | hoofdistribusieraam, HDR |  |
+| main drive spindle | hoofaandryfspil |  |
+| main feed roller | hoofvoerroller |  |
+| main line radio cubicle | hoofradiokabinet |  |
+| main lobe {antenna} | hooflob |  |
+| main pole {MU selector} | hoofpool |  |
+| main relief valve (MRV) | HOK, hoofontlasklep |  |
+| main trunk route | hoof-hooflynroete |  |
+| main user | hoofgebruiker |  |
+| mainframe computer | hoofraamrekenaar |  |
+| mainframe processor {data} | hoofraamverwerker |  |
+| mains (power mains) {electricity} | kragnet |  |
+| mains failure {electricity} | netonderbreking |  |
+| mains frequency (mains supply frequency) | nettoevoerfrekwensie |  |
+| mains hum (power hum) | netbrom |  |
+| mains load current | kragnetlasstroom |  |
+| mains pole | kragnetpool |  |
+| mains power supply | netkragtoevoer |  |
+| mains reconnection | kragnetheraansluiting |  |
+| mains restoration | kragnetherstelling |  |
+| mains supply | nettoevoer |  |
+| mains transformer | nettransformator |  |
+| mains-borne interference | kragnetgedraagde steuring |  |
+| mains-fail extension {PABX} | netonderbrekingsbylyn |  |
+| mains-induced surge | kragnetge<nduseerde stuwing |  |
+| maintain weatherproofness {clothing} | waterdig bly |  |
+| maintain {correspondence} | voer |  |
+| maintain {discipline} | handhaaf |  |
+| maintain {register} | hou |  |
+| maintain | beheer, volhou |  |
+| maintain | in stand hou |  |
+| maintaining amplifier {oscillator circuit} | instandhouversterker |  |
+| maintaining section {oscillator circuit} | instandhoudeel |  |
+| maintenance (upkeep) | instandhouding |  |
+| maintenance handbook (maintenance manual) | instandhoudingshandboek, instandhoudingshandleiding |  |
+| maintenance store | instandhoudingstoor |  |
+| major alarm | groot alarm |  |
+| major characteristic | belangrike eienskap |  |
+| major diameter {screw thread} | buitediameter |  |
+| major gang | grootwerk-span |  |
+| major group {FDM} | meestergroep (FDM) |  |
+| major group {eg telephony, transmission} | grootgroep |  |
+| major group {general} | hoofgroep |  |
+| major-construction stock | grootaanleg-voorraad |  |
+| major-path satellite | hoofbaansatelliet |  |
+| majoritarianism | meerderheidsbeginsel, meerderheidsoorheersing |  |
+| majority system | meerderheidstelsel |  |
+| make (originate) {calls} | begin, maak |  |
+| make good {damage} | herstel |  |
+| make good {eg loss} | vergoed |  |
+| make good {in building trade} | bywerk, gaaf maak |  |
+| make meaning | betekenis vorm |  |
+| make n. {clothing} | samestelling |  |
+| make new again (renew) | vernuwe, weer nuut maak |  |
+| make off {cable} | afmaak |  |
+| make off {eg stay wire} | afheg |  |
+| make period | sluitperiode |  |
+| make spring | sluitveer |  |
+| make time-out period | sluitaftelperiode |  |
+| make up v. {cable} | opbou |  |
+| make up v. {dispute} | byle |  |
+| make up v. {inventory, mail} | opmaak |  |
+| make up v. {lost time} | inhaal |  |
+| make up v. {shortage} | aanvul |  |
+| make up v. {telegram serial number} | aansuiwer |  |
+| make-contact screw | sluitkontakskroef |  |
+| make-up n. {of a person} | disposisie |  |
+| make-up n. {of cable} | bou |  |
+| make-up water | aanvulwater |  |
+| make/break key {telegraphy} | sluit/verbreek-sleutel |  |
+| make/break ratio (make-to-break ratio) | sluit/verbreek-verhouding |  |
+| making-up {clothing} | opmaak |  |
+| maladjustment | wanstelling |  |
+| malaria risk area | malariagevaargebied |  |
+| male connector | insteekverbinder |  |
+| male core-pin | vaarkernpen |  |
+| male-and-female type {eg press stud} | inpastipe |  |
+| malfunction n. | foutiewe werking |  |
+| malfunction v. | foutief werk |  |
+| malicious call | steuroproep |  |
+| malleable cast iron | smeebare gietyster |  |
+| mallet | klophamer |  |
+| man and machine chart | mens-en-masjien-kaart |  |
+| man-day | mandag |  |
+| man-hour | man-uur |  |
+| man-made noise | mensveroorsaakte ruis |  |
+| man-type flow process chart | werkervloeiproseskaart |  |
+| management by objectives | doelwitbestuur |  |
+| management by walking around (mbwa) | bestuur-deur-rondbeweeg, rondbeweegbestuur |  |
+| management competence | bestuursbevoegdheid |  |
+| management information report | bestuursinligtingverslag |  |
+| management practice | bestuurspraktyk |  |
+| management skill | bestuursvernuf |  |
+| managerial post | bestuurspos |  |
+| mandrel (mandril) {grinding wheel} | wielspil |  |
+| mandrel (mandril) {lathe} | spil |  |
+| mandrel (mandril) | rigstang |  |
+| mandrel {machining of rings} | draspil |  |
+| manganese/nickel alloy | mangaan/nikkel-legering |  |
+| manhole face | mangataansig |  |
+| manifold depression | spruitdrukverlaging, spruitvakuum |  |
+| manifold sheet {human resources} | deurslagblad |  |
+| manipulate | manipuleer |  |
+| manipulative function {eg computer} | manipuleerfunksie |  |
+| manpower control | mannekragbeheer |  |
+| mantle {pressure lamp} | gloeikousie |  |
+| manual adjustment | handstelling |  |
+| manual busying | handbesetmaking |  |
+| manual charger | handlaaier |  |
+| manual control {apparatus} | handkontrole |  |
+| manual control | handbeheer |  |
+| manual gain control | handwinsbeheer |  |
+| manual gain potentiometer | handwinspotensiometer |  |
+| manual operating (manual operation) | handbediening |  |
+| manual override | handoorheersing |  |
+| manual phase shifter (MPS) | handfaseverskuiwer, HFV |  |
+| manual platen stop key {punch-card machine} | handrolstoptoets |  |
+| manual retransmission | handheroorsending |  |
+| manual signature {not stamped or printed} | handgeskrewe handtekening |  |
+| manual stepping operation {automatic telephone} | handstapwerking |  |
+| manual switching key | handskakelsleutel |  |
+| manual technique {marketing} | handtegniek |  |
+| manual technique | handtegniek |  |
+| manual test box | handtoetskas |  |
+| manual test set | handtoetsstel |  |
+| manual tester | handtoetser |  |
+| manual-lift stacker | handgewerkte stapelaar |  |
+| manual/auto relê set (manual-to-auto relê set) | hand/outo-relêstel |  |
+| manual | handleiding |  |
+| manually adv. | manueel, met die hand, per hand |  |
+| manually propelled stacker | stoottipe stapelaar |  |
+| manually-prepared account | ongerekenariseerde rekening |  |
+| manufacturer's deficit | vervaardigerstekort |  |
+| manufacturer's handbook | vervaardigershandleiding |  |
+| manufacturer's instructions | fabrieksinstruksies, vervaardigersinstruksies |  |
+| manufacturer's length cable | fabriekslengtekabel |  |
+| manufacturer's number | fabrieksnommer, vervaardigersnommer |  |
+| manufacturer | vervaardiger |  |
+| manuscript entry | handinskrywing |  |
+| map v. {also path through matrix} | karteer |  |
+| map v. {logic} | korrespondeer |  |
+| mapping {logic} | korrespondensie |  |
+| mapping | kartering |  |
+| margin for error (error margin) {human resources} | fouttoelating |  |
+| margin of error | foutgrens |  |
+| margin of safety (safety margin) | veiligheidsgrens |  |
+| margin {drill bit} | kant, rand |  |
+| margin {stamp} | rand |  |
+| margin {telegraphy} | vervormingsgrens |  |
+| margin | grens |  |
+| margin | kantlyn, kantruimte |  |
+| margin | speling |  |
+| marginal number | kantnommer |  |
+| marginally indicated | in kantruimte aangedui |  |
+| marine plyboard (marine plywood) | skeepslaaghout |  |
+| maritime mobile band {frequency} | seemobielediens-band |  |
+| maritime mobile service | see mobiele diens |  |
+| maritime radio | maritime radio,seeradio |  |
+| mark n. {telephone} | merk |  |
+| mark off (tick off) | afmerk |  |
+| mark out {eg pattern on material} | afmerk |  |
+| mark pulse {PCM} | merkpuls |  |
+| mark signal | merksein |  |
+| mark up {drawing} | wysig |  |
+| mark up {on map etc} | aanmerk |  |
+| mark v. {telephone} | merk |  |
+| mark-contact screw | merkkontakskroef |  |
+| mark-setting valve | merkstelbuis |  |
+| mark-to-space ratio {logic technique} | merk/spasie-verhouding |  |
+| marked lamination {Siemens pulse-repeater} | gemerkte vinger |  |
+| marker-seizing chain | merkerinbeslagneemketting |  |
+| market analysis {marketing} | markontleding |  |
+| market forecasting {marketing} | markvooruitskatting |  |
+| market potential {marketing} | markpotensiaal |  |
+| market profile | markprofiel |  |
+| market research {marketing} | marknavorsing |  |
+| market segment {marketing} | marksegment |  |
+| marketing information system {marketing} | bemarkingsinligtingstelsel |  |
+| marketing research {marketing} | bemarkingsnavorsing |  |
+| marketplace | markplek, mark |  |
+| marking arc | merkboog |  |
+| marking bias | merkvoorspanning |  |
+| marking current | merkstroom |  |
+| marking lead | merkleiding |  |
+| marking lever {impulse regenerator} | merkhefboom |  |
+| marking magnet {impulse regenerator} | merkmagneet |  |
+| marking percentage {telegraphy} | merkpersentasie |  |
+| marking rod | merkstang |  |
+| marking wave | merkgolf |  |
+| marking {telegraphy} | merkstand |  |
+| marking {telephone} | merk, merking |  |
+| marking-out n. | afmerking |  |
+| marking-signal set | merkseinstel |  |
+| markings | merke |  |
+| marriage gratuity | huweliksgratifikasie |  |
+| married name | getroude van |  |
+| married quarters | getroudekwartiere |  |
+| mask n. {stamp display frame} | omlysting |  |
+| mask v. {eg signal by noise} | oorheers |  |
+| mask v. | maskeer |  |
+| mask {printing} | maskeer |  |
+| mask-programmed | maskergeprogrammeer |  |
+| masonry saw | steensaag |  |
+| masonry | messelwerk |  |
+| mass piece | massastuk |  |
+| mass-storage device {data} | grootmaatbewaarmiddel |  |
+| mast radiator {antenna} | masstraler |  |
+| master art work | meestertekenwerk, moederveltekenwerk |  |
+| master card {punching machine} | moederkaart |  |
+| master check | hoofkontrole |  |
+| master copy {copying machine} | meester |  |
+| master copy | hoofkopie |  |
+| master disk | meesterskyf |  |
+| master extension | hoofbylyn |  |
+| master group | meestergroep |  |
+| master key | loper |  |
+| master modem {data transmission} | hoofmodem |  |
+| master oscillator | hoofossillator, moederossillator |  |
+| master reference system | standaard vergelykingstelsel |  |
+| master set {copying machine} | moederstel |  |
+| master unit | hoofeenheid |  |
+| master-clock frequency {logic} | moederklokfrekwensie |  |
+| master-slave flip-flop {logic systems} | lei/volg-wipkring |  |
+| mastergroup link | meestergroepverbinding |  |
+| mastergroup section | meestergroepseksie |  |
+| matched assembly | aangepaste samestel |  |
+| matched junction {waveguide} | aangepaste aansluiting |  |
+| matched load {waveguide} | aangepaste las |  |
+| matched sample | gepaste monster |  |
+| matched termination | aangepaste afsluiting |  |
+| matching and tuning device | aanpas-en-instemtoestel |  |
+| matching flag {waveguide} | aanpasvaan |  |
+| matching pad {electricity} | aanpaslid |  |
+| matching section {waveguide} | aanpasstuk |  |
+| material | materiaal |  |
+| mating joint | pasnaat |  |
+| mating member (mating part) | pasdeel |  |
+| mating track | pasbaan |  |
+| matrix {eg die-casting} | matrys |  |
+| matrix {eg logic circuits} | matriks |  |
+| matrixing error | matrikseerfout |  |
+| matrixing | matriksering |  |
+| mature (run down) | afloop |  |
+| mature {call} | tot stand kom |  |
+| mature {savings certificate} | verval |  |
+| maturity benefit {insurance} | uitkeervoordeel |  |
+| maximise | maksimeer |  |
+| maximum intensity | maksimum intensiteit |  |
+| maximum permissible speed | maksimum toelaatbare spoed |  |
+| maximum size | maksimum grootte |  |
+| maximum timing information | maksimumtydreelinligting |  |
+| maximum usable frequency (MUF) | hoogste bruikbare frekwensie, HBF |  |
+| maximum useful electrical output power (MUEOP) | maksimum nuttige elektriese uitset, MNEU |  |
+| mbit/s | mbis/s |  |
+| mean distance | gemiddelde afstand |  |
+| mean n. | rekenkundige gemiddelde, gemiddelde |  |
+| mean reading | gemiddelde lesing |  |
+| mean time between failures (MTBF) | gemiddelde tydsduur tussen falings, GTTF |  |
+| meaningful reply | sinvolle antwoord |  |
+| means of communication | kommunikasiemiddel |  |
+| means of identification | identifikasiemiddel, identifiseermiddel |  |
+| means of remuneration | vergoedingsmiddel |  |
+| means of reward | beloningsmiddel |  |
+| measure | maatreel |  |
+| measure | maatstaf |  |
+| measured work | gemete werk |  |
+| measurement centre {telephone} | meetsentrum |  |
+| measurement interval | meetinterval |  |
+| measurement range | meetstrek |  |
+| measurement | afmeting |  |
+| measurements {people} | mate |  |
+| measures of central tendency {marketing} | maatstawe van sentrale neiging |  |
+| measures of dispersion {marketing} | maatstawe van verspreiding |  |
+| measuring apparatus | meetapparaat |  |
+| measuring magnifier {microfilming} | meetvergroter |  |
+| measuring point | meetpunt |  |
+| measuring run | meetloop |  |
+| measuring tape (tape measure) | maatband, meetband |  |
+| measuring wheel | meetwiel |  |
+| measuring-point exchange | meetpuntsentrale |  |
+| mechanical advantage | meganiese voordeel |  |
+| mechanical aid | meganiese hulpmiddel |  |
+| mechanical art (final artwork) | meganiese kuns |  |
+| mechanical artwork | meganiese kunswerk |  |
+| mechanical assessment | meganiese beoordeling |  |
+| mechanical construction | meganiese bou, meganiese konstruksie |  |
+| mechanical horse | voorhaker |  |
+| mechanical technique {marketing} | meganiese tegniek |  |
+| mechanical testing {marketing} | meganiese toetsing |  |
+| mechanical vibration | meganiese trilling, meganiese vibrasie |  |
+| mechanical | meganies |  |
+| mechanical | meganies |  |
+| mechanically de-spun antenna | meganies onttolde antenne |  |
+| mechanically restored indicator | meganiesteruggestelde aanwyser |  |
+| mechanically-generated impulse train | meganies opgewekte impulsreeks |  |
+| mechanisation | meganisasie, meganisering |  |
+| mechanised accounting | gemeganiseerde boekhouding |  |
+| mechanised mail sorting | masjienpossortering, gemeganiseerde possortering |  |
+| mechanism | meganisme |  |
+| mechanite | mechaniet |  |
+| media mix | mediamengsel |  |
+| media research {marketing} | medianavorsing |  |
+| median | mediaan |  |
+| medical loan depot | mediese uitleendepot |  |
+| medical savings account | mediese spaarrekening |  |
+| medical supplies | mediese voorrade |  |
+| medicine | medisyne |  |
+| medium fit {screw thread} | medium passing |  |
+| medium pressure | medium druk |  |
+| medium-blow fuse | medium sekering |  |
+| medium-incidence lightning area | mediumweerliggebied |  |
+| medium-scale integration {computer} | mediumskaalintegrasie |  |
+| medium-speed switched circuit | mediumspoedskakelverbinding |  |
+| megabyte {computer} | megagreep |  |
+| megahertz | megahertz |  |
+| megohm standard | megohmstandaard |  |
+| member body | lidliggaam |  |
+| member country | lidland |  |
+| member {antenna} | deel |  |
+| member | raamdeel |  |
+| membrane cylinder {air-pressure brakes} | membraansilinder |  |
+| memory (storage, store) | geheue |  |
+| memory access time {logic} | geheueaksesseertyd |  |
+| memory core | geheuekern |  |
+| memory corruption | geheueverminking |  |
+| memory cycle | geheuesiklus |  |
+| memory element | geheue-element |  |
+| memory mapping | geheuekorrespondering |  |
+| memory reference | geheueverwysing |  |
+| memory stack {logic} | geheuestapel |  |
+| memory test {marketing} | geheuetoets |  |
+| memory test | geheuetoets |  |
+| memory {computer technology} | geheue |  |
+| mental block | dinkblokkasie |  |
+| mental hospital | psigiatriese hospitaal |  |
+| mental institution <see - psychiatric institution> | psigiatriese inrigting |  |
+| mental institution | psigiatriese inrigting |  |
+| mental shift | denksprong |  |
+| mentor-prot,g, relationship | mentor/prot,g,-verhouding |  |
+| mentor-prot,g, training | mentorskapopleiding |  |
+| mentor | mentor |  |
+| mentorship {human resources} | mentoring |  |
+| menu bar | kieslysbalk |  |
+| menu creation {computer} | kieslysskepping |  |
+| menu pad {computer} | kieslysblok |  |
+| menu tablet {computer} | kieslystablet |  |
+| menu {also computer} | kieslys |  |
+| meranti {wood} | meranti |  |
+| mercerised cotton | gemerceriseerde katoen |  |
+| mercerised finish {clothing} | gemerceriseerde afwerking |  |
+| mercury tube {eg contact} | kwikbuis |  |
+| mercury tube {rectifier} | kwikbuis |  |
+| mercury-arc rectifier (pool rectifier) | kwikbooggelykrigter, plasgelykrigter |  |
+| mercury-blended fluorescent lamp | kwikmengfluoresseerlamp |  |
+| mercury-blended lamp | kwikmenglamp |  |
+| mercury-contact relay | kwikkontakrele |  |
+| mercury-wetted reed relay | kwikbenattetong-rele |  |
+| merge and purge {address lists} | saamvoeg en suiwer |  |
+| merge event {PNA} | saamvloeigebeurtenis |  |
+| merge {punched cards} | saamvoeg |  |
+| merge | saamsmelt |  |
+| merge | saamvoeg |  |
+| merged pocket {punched cards} | saamvoegvak |  |
+| merit assessment | merietebeoordeling, merietebepaling, verdienstelikheidsbepaling |  |
+| merit barrier | verdienstelikheidslagboom |  |
+| merit classification | merieteklassifikasie |  |
+| merit report form | merieteverslagvorm |  |
+| merit system | merietestelsel |  |
+| merit | meriete, verdienstelikheid |  |
+| mesh connection | maaskonneksie, multihoekkonneksie |  |
+| mesh guard | maasskut |  |
+| mesh n. {circuits} | maas |  |
+| mesh n. {eg sieve} | maas |  |
+| mesh v. {gears} | inkam |  |
+| message basket (telegram basket) | telegrammandjie |  |
+| message block | berigblok |  |
+| message carrier (telegram carrier) | telegramhouer |  |
+| message exchange (telegraph exchange) | telegraafsentrale |  |
+| message form (telegram form) | telegramvorm |  |
+| message format | berigformaat |  |
+| message heading | berigopskrif |  |
+| message rack (telegram rack) | telegramrak |  |
+| message rack {teleprinter} | bladhouer |  |
+| message rele centre (telegram rele centre) | telegramoordrasentrum |  |
+| message sorting (telegram sorting) | telegramsortering |  |
+| message switching | berigskakeling |  |
+| message telephone service | boodskaptelefoondiens |  |
+| message {general} | boodskap |  |
+| message {telecommunication} | berig |  |
+| message-handling service | boodskaphanteerdiens |  |
+| message-rate exchange | gesprektariefsentrale |  |
+| messaging service | boodskapdiens |  |
+| messenger-service call | bodediensoproep |  |
+| messenger-service fee | besteldiensgeld |  |
+| metal circuit (metallic circuit) | metaalkring |  |
+| metal envelope (metallic envelope) {valves} | metaalhulsel |  |
+| metal etch primer | metaaletsgrondverf |  |
+| metal filament lamp | metaalfilamentlamp |  |
+| metal foil | metaalfoelie |  |
+| metal foot {teleprinter} | metaalvoet |  |
+| metal plate | metaalplaat |  |
+| metal shorting disc | metaalkortsluitskyf |  |
+| metal snap seal {for mailbag} | metaalknipseel |  |
+| metal spraying | metaalaanspuiting |  |
+| metal wire | metaaldraad |  |
+| metal-cased capacitor | metaalomhulde kapasitor |  |
+| metal-clad switch | metaalomhulde skakelaar |  |
+| metal-oxide rectifier | metaaloksiedgelykrigter |  |
+| metal-oxide semiconductor field-effect transistor (MOSFET) | metaaloksiedhalfgeleierveldeffektransistor, |  |
+| metal-oxide varistor (MOV) | MOV, metaaloksiedvaristor |  |
+| metallic circuit (MC) | MK, metaalkring |  |
+| metallic compound {chemical} | metaalverbinding |  |
+| metallise | metalliseer |  |
+| metallised screen | gemetalliseerde skerm |  |
+| metalloid | metallo<ed |  |
+| meteorological telegram | weertelegram |  |
+| meter battery | tellerbattery |  |
+| meter button | meterknoppie |  |
+| meter camera | tellerkamera |  |
+| meter capture | telversekering |  |
+| meter check {calls} | tellerkontrole |  |
+| meter circuit | meterkring |  |
+| meter credit return | tellerkredietopgawe |  |
+| meter credit | tellerkrediet |  |
+| meter fee-discrimination and timing rele set | relestel vir koste-onderskeiding en tydmeting |  |
+| meter fee | telkoste |  |
+| meter n. {call, franking machine} | teller |  |
+| meter n. {general} | meter |  |
+| meter panel {telephone} | tellerpaneel |  |
+| meter panel | meterpaneel |  |
+| meter pulse sender (MPS) | telpulssender, TPS |  |
+| meter pulse | meetpuls |  |
+| meter range | meterstrek |  |
+| meter reading {calls} | tellerlesing |  |
+| meter reading | meterlesing |  |
+| meter reversal | telomkeersein |  |
+| meter signal | telsein |  |
+| meter test set | tellertoetsstel |  |
+| meter v. {calls} | tel |  |
+| meter v. {produce measured quantities} | uitmeet |  |
+| meter zone | telsone |  |
+| meter-fee discrimination (MFD) | telkoste-onderskeiding, TKO |  |
+| meter-fee pulse <correct term - meter pulse> | telpuls |  |
+| meter-fee zone (meter zone) | telsone |  |
+| meter-pulse machine | telpulsmasjien |  |
+| meter-range switch (meter switch) {AVO meter} | meterstrekskakelaar |  |
+| metering control | tellingbeheer |  |
+| metering over junction (MOJ) | telling oor koppellyn, TOK |  |
+| metering valve | uitmeetklep |  |
+| metering {calls} | telling |  |
+| metering-and-alarm card | meter-en-alarmkaart |  |
+| method delay sampling | metodevertraging-steekproefneming |  |
+| method development | metode-ontwikkeling |  |
+| method of similar triangles (similar-triangle method) {enlargement of drawing} | gelykvormigedriehoek- |  |
+| method of squares {reduction of drawing} | vierkantmetode |  |
+| method study | metodestudie |  |
+| metre bridge {potentiometer} | meterbrug |  |
+| metre per second (m/s) | meter per sekonde, m/s |  |
+| metric thread {screws} | metrieke draad |  |
+| metric wave | metergolf |  |
+| mho <obsolete term see - siemens> | siemens |  |
+| micaceous iron-oxide paint | mika-ysteroksiedverf |  |
+| micro-adjustment screw | fynstelskroef |  |
+| micro-instruction | mikro-instruksie |  |
+| micro-register adjustment {printing press} | mikroregisterstelling |  |
+| microbiocide {water treatment} | mikrobiododer |  |
+| microchronometer | mikrochronometer |  |
+| microdesign | mikro”ntwerp |  |
+| microdisk | mikroskyf |  |
+| microfiche carrier | mikrofichedraer |  |
+| microfilm n. | mikrofilm |  |
+| microfilm v. | mikroverfilm, vermikrofilm |  |
+| microfilming | mikroverfilming |  |
+| microfilming | mikroverfilming |  |
+| microfine point {pen} | mikrofyn punt |  |
+| microhm | mikrohm |  |
+| microphone current | mikrofoonstroom |  |
+| microphone effect | mikrofoniese effek |  |
+| microphone response | mikrofoonrespons, mikrofoonweergawe |  |
+| microphone {handset} | mikrofoon |  |
+| microprocessor unit {computer} | mikroverwerkeenheid |  |
+| microprocessor {data} | mikroverwerker |  |
+| microprogram pulse | mikroprogrampuls |  |
+| microprogram {computer} | mikroprogram |  |
+| microstrip {waveguide} | mikrostrook |  |
+| microwave cavity resonator | mikrogolfholteresonator |  |
+| microwave route | mikrogolfroete |  |
+| microwave-link analyser (MLA) | MVO, mikrogolfverbindingontleder |  |
+| mid-line battery (MLB) | midlynbattery, MLB |  |
+| mid-telegraph battery (MTB) | midtelegraafbattery, MTB |  |
+| midband {frequency} | middelband |  |
+| midfrequency | middelfrekwensie, midfrekwensie |  |
+| midget ram {body and frame straightener} | dwergram |  |
+| midlife crisis | middellewenskrisis, middelleeftydkrisis |  |
+| midordinate | midordinaat |  |
+| mild steel | sagtestaal, weekstaal |  |
+| mild-steel sheet (MS sheet) | weekstaalplaat, WS-plaat |  |
+| mild-steel tape | sagtestaal-band, weekstaalband |  |
+| mild-steel upper {poles} | sagtestaal-bostuk |  |
+| military pension | militêre pensioen |  |
+| mill scale | walsskaal |  |
+| mill speed {wind generator} | draaispoed |  |
+| mill v. | patroonvreet |  |
+| millboard {postal order} | verdeelkaart |  |
+| milled nut | kartelmoer |  |
+| milled screw | kartelskroef |  |
+| milliammeter | milliammeter |  |
+| millimetre (mm) | millimeter, mm |  |
+| millimetric wave | millimetergolf |  |
+| milling machine | freesmasjien |  |
+| mind map | ideekaart |  |
+| mindmapping | denkekartering |  |
+| mineral oil | mineraalolie |  |
+| mineral turpentine | mineraalterpentyn |  |
+| mineral-insulated cable | mineraalge<soleerde kabel |  |
+| mineral-oil base | mineraaloliebasis |  |
+| miniature block (miniblock) | miniblok, miniatuurblok |  |
+| miniature component | miniatuuronderdeel |  |
+| miniature part | miniatuurdeel |  |
+| miniature sheet (stamp sheet) | seelvel, miniatuurseel |  |
+| miniature tube | miniatuurbuis |  |
+| miniaturised | verminiatuur |  |
+| minicalculator (pocket calculator) | sakrekenaar |  |
+| minicomputer | minirekenaar |  |
+| minimise (limit) | beperk |  |
+| minimise | minimeer |  |
+| minimum amount | minimum bedrag |  |
+| minimum-make operation | minimumsluitwerking |  |
+| minimum-make period | minimumsluittyd |  |
+| minimum-rental area | minimumhuurgebied |  |
+| mining title | mynbrief |  |
+| minipack {clutch} | drukhulpeenheid |  |
+| miniscule | diensbrief |  |
+| minor alarm | ondergeskikte alarm |  |
+| minor cable work | klein kabelwerk |  |
+| minor cable | ondergeskikte kabel |  |
+| minor characteristic | minder belangrike eienskap, onbelangrike eienskap |  |
+| minor diameter {screw thread} | kerndiameter |  |
+| minor exchange | ondergeskikte sentrale |  |
+| minor gang | kleinwerkspan |  |
+| minor n. | minderjarige |  |
+| minor survey | klein opmeting |  |
+| minor trunk | ondergeskikte hooflyn, onderhooflyn |  |
+| minor work | klein werk |  |
+| minor-construction stock | kleinkonstruksievoorraad |  |
+| minor-trunk selector | ondergeskiktehooflyn-kieser, onderhooflyn-kieser |  |
+| minority carrier | minderheidsdraer |  |
+| minority sample frame {marketing} | steekproefraam van minderheidsgroep |  |
+| minority sample frame | minderheidgroep-steekproefraam |  |
+| minority-carrier storage | minderheidsdraerbewaring |  |
+| mint stamp | posvars seel |  |
+| minuend | aftrektal |  |
+| minute pawl | minuutpal |  |
+| minute ratchet wheel | minuutsperrat |  |
+| minute stepping pulse {numbering device} | minuutpuls |  |
+| minute wheel drive | minuutrataandrywing |  |
+| minute {time} | minuut |  |
+| minute | diensbrief |  |
+| minutes {meeting} | notule |  |
+| mirror (reflector) {antennas} | kaatser, reflektor |  |
+| mirror galvanometer | spieelgalvanometer |  |
+| misappropriate {eg budgeted amount} | wanbestee |  |
+| misappropriate {eg goods} | wederregtelik toe-eien |  |
+| misappropriate {eg trust monies} | verduister |  |
+| misappropriation | verduistering, wederregtelike toe-eiening |  |
+| misbagged article | verkeerd gesakte stuk |  |
+| miscast v. | verkeerd optel |  |
+| miscellaneous bay | algemene raam |  |
+| miscellaneous expenses | diverse uitgawes |  |
+| miscellaneous impedance coupling | diverse impedansiekoppeling |  |
+| miscellaneous position {test desk} | algemene bedienpunt |  |
+| miscellaneous rack | algemene raam |  |
+| miscellaneous receipt | diverse kwitansie |  |
+| misconduct charge | wangedragklag |  |
+| misconduct | wangedrag |  |
+| misdelivery | verkeerde aflewering |  |
+| misfire n. {explosives} | weierskoot |  |
+| misfire v. (miss) {engine} | kets |  |
+| misfire v. {eg explosives, fire-arm} | weier |  |
+| misfired hole | weiergat |  |
+| mismanage | wanbestuur |  |
+| mismatch factor | wanaanpassingfaktor |  |
+| mismatch loss | wanaanpassingverlies |  |
+| mismatch | wanaanpassing |  |
+| misoperation by extension | wanbediening deur bylyn |  |
+| misoperation | wanbediening |  |
+| misprint | misdruk |  |
+| misroute | misroeteer, verkeerd roeteer |  |
+| missend {eg postal article} | verkeerd stuur |  |
+| missing element {marketing} | ontbrekende element |  |
+| missing element | ontbrekende element |  |
+| missort n. | verkeerd gesorteerde posstuk |  |
+| missort v. | verkeerd sorteer |  |
+| missorting | verkeerdsortering |  |
+| misuse v. | verkeerd gebruik |  |
+| mitred point {eg shoulder loop} | verstekpunt |  |
+| mitred strap {clothing} | lus met verstekpunt |  |

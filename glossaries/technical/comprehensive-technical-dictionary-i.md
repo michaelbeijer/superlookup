@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - I
 slug: comprehensive-technical-dictionary-i
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - I
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | I | CHEM.TECHN., (jood) iodine |  |
 | I-band | TELECOM., I-band |  |
 | i-geleiding | ~, (intrinsieke geleiding) intrinsic conduction |  |

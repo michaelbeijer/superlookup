@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl f
 slug: autowoordenboek-gerritspeek-nl-f
 description: Terminology from autowoordenboek gerritspeek.nl f
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | F (fluorine) | F (fluor) |  |
 | F-head engine | motor met één hangende en één staande klep per cilinder |  |
 | F.B.P. (final boiling point) | eindkookpunt |  |

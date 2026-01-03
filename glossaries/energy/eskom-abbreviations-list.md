@@ -2,6 +2,7 @@
 title: Eskom Abbreviations List
 slug: eskom-abbreviations-list
 description: Terminology from Eskom Abbreviations List
+type: glossary
 source_lang: nl
 target_lang: en
 domain: energy
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | ABOM | Agreement Between Operating Members |  |
 | AFS | Audited Financial Statements |  |
 | AM | Asset Management |  |

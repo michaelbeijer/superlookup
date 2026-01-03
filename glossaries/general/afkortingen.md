@@ -2,6 +2,7 @@
 title: Afkortingen (etymologie.nl)
 slug: afkortingen
 description: Terminology from Afkortingen (etymologie.nl)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | * | gereconstrueerde vorm |  |
 | < | is ontstaan uit, of ontleend aan |  |
 | > | is geworden tot, of uitgeleend aan |  |

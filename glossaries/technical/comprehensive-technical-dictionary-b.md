@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - B
 slug: comprehensive-technical-dictionary-b
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - B
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | B | CHEM.TECHN., (boor) boron |  |
 | baggersilo | ~, (voor suikerbiet) pulp silo |  |
 | B-boom | ~, B-tree |  |

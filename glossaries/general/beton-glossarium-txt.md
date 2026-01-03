@@ -2,6 +2,7 @@
 title: beton-glossarium.txt
 slug: beton-glossarium-txt
 description: Terminology from beton-glossarium.txt
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | (filigree) wideslab floor | breedplaatvloer |  |
 | abrams cone | kegel van Abrams |  |
 | abrasion resistance | slijtweerstand |  |

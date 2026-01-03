@@ -2,6 +2,7 @@
 title: 1,826 3-letter acronyms (TLAs)
 slug: 1-826-3-letter-acronyms
 description: Terminology from 1,826 3-letter acronyms (TLAs)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | AAI | Appalling Apathetic Indifference (see also IAA) |  |
 | AAP | [1] Accelerated Attrition Program |  |
 | AAP | [2] Arbitrary Approval Process |  |

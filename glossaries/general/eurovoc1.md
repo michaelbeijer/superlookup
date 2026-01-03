@@ -2,6 +2,7 @@
 title: EuroVoc1
 slug: eurovoc1
 description: Terminology from EuroVoc1
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 04 POLITIEK | 04 POLITICS |  |
 | 0406 politieke organisatie | 0406 political framework |  |
 | 0411 politieke partij | 0411 political party |  |

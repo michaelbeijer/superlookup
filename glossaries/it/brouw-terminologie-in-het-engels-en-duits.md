@@ -2,6 +2,7 @@
 title: Brouw Terminologie in het Engels en Duits (brouwblog.nl)
 slug: brouw-terminologie-in-het-engels-en-duits
 description: Terminology from Brouw Terminologie in het Engels en Duits (brouwblog.nl)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Aeration | Beluchten, Beluftung, …van de wort (voor de vergisting) |  |
 | Alcohol by Volume (ABV) | Alcoholpercentage, Alcohol Volumenprozent |  |
 | Alpha Acid | Alphazuur, Alphasäure, …in Hop (uitgedrukt in %) |  |

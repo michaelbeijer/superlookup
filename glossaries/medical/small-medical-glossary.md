@@ -2,6 +2,7 @@
 title: Small medical glossary (77 Dutch-English entries)
 slug: small-medical-glossary
 description: Terminology from Small medical glossary (77 Dutch-English entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: medical
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 3x per dag 1 stuk | 3x  a day 1 piece |  |
 | aanvallen | attacks |  |
 | BISOPROLOL FUMARAAT | BISOPROLOL  FUMARATE |  |

@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl j
 slug: autowoordenboek-gerritspeek-nl-j
 description: Terminology from autowoordenboek gerritspeek.nl j
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | J/B (Junction Block) | aftakblok, lasdoos, verbindingsblok (elektrisch), zekeringkast |  |
 | jack down vehicle, to | auto laten zakken |  |
 | jack fixing strap | vastzetband voor krik |  |

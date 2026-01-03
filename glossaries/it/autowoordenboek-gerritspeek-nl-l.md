@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl l
 slug: autowoordenboek-gerritspeek-nl-l
 description: Terminology from autowoordenboek gerritspeek.nl l
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | L-driver (learner-driver) | leerling automobilist |  |
 | L-head motor | zijklepmotor |  |
 | L-shaped | L-vormig |  |

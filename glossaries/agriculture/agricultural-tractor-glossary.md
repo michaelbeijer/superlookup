@@ -2,6 +2,7 @@
 title: agricultural tractor glossary
 slug: agricultural-tractor-glossary
 description: Terminology from agricultural tractor glossary
+type: glossary
 source_lang: nl
 target_lang: en
 domain: agriculture
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 4WD Switch | 4WD-schakelaar |  |
 | Adjustable Pin | Verstelbare pen |  |
 | Advanced Sensor List | Geavanceerde sensorlijst |  |

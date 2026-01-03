@@ -2,6 +2,7 @@
 title: Dutch-English diplomatic terms
 slug: dutch-english-diplomatic-terms
 description: Terminology from Dutch-English diplomatic terms
+type: glossary
 source_lang: nl
 target_lang: en
 domain: legal
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Minbeb – Ministry of Foreign Trade (USSR context | Ministry of Foreign Economic Relations) |  |
 | b.l.a.w. / blaw – ''bericht langs automatische weg'' (previous telex/communication) → communication / message (see also | b.l.a.w. / bij laatst aangewend schrijven) |  |
 | '''verneem gaarne | ''' – please inform us: / kindly advise: |  |

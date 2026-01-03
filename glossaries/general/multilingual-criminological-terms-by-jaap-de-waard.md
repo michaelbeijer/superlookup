@@ -2,6 +2,7 @@
 title: Multilingual Criminological Terms, by Jaap de Waard (693 entries)
 slug: multilingual-criminological-terms-by-jaap-de-waard
 description: Terminology from Multilingual Criminological Terms, by Jaap de Waard (693 entries)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Aangiftebereidheid | Citizen crime reporting |  |
 | Aanklacht | Indictment |  |
 | Ademtest | Breath test |  |

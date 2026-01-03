@@ -2,6 +2,7 @@
 title: Glossary of chemistry related terms (320 German-English terms)
 slug: glossary-of-chemistry-related-terms
 description: Terminology from Glossary of chemistry related terms (320 German-English terms)
+type: glossary
 source_lang: de
 target_lang: en
 domain: chemistry
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | German | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | 1-komponentig | 1-component |  |
 | 1K-PUR | 1C-PUR |  |
 | 1K-PUR PVC-Einschichtlack | 1C-PUR PVC single-layer coating |  |

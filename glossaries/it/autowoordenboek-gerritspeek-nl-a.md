@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl a
 slug: autowoordenboek-gerritspeek-nl-a
 description: Terminology from autowoordenboek gerritspeek.nl a
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | a little at a time | in kleine stapjes (een klein beetje) |  |
 | A-pillar | linkervoorstijl |  |
 | A.A.P. (Auxiliary Acceleration Pump) | aanvullende acceleratiepomp, hulpacceleratiepomp |  |

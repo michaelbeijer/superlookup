@@ -2,6 +2,7 @@
 title: OHIM Glossary (Office for Harmonization in the Internal Market)(de, en, fr, es, it)
 slug: ohim-glossary
 description: Terminology from OHIM Glossary (Office for Harmonization in the Internal Market)(de, en, fr, es, it)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | unregistered design | nicht eingetragenes Geschmacksmuster, EN: unregistered design, DE: nicht eingetragenes Geschmacksmuster, ES: dibujo o modelo no registrado, IT: disegno e modello non registrato, FR: dessin ou modèle non enregistré, IATE ID: 3500759 |  |
 | uncertified extract | unbeglaubigter Auszug, EN: uncertified extract, DE: unbeglaubigter Auszug, ES: extracto no certificado, FR: extrait non certifié, IT: estratto non autenticato, IATE ID: 3500751 |  |
 | uncertified copy | unbeglaubigte Kopie, EN: uncertified copy, DE: unbeglaubigte Kopie, IT: copia non autenticata, ES: copia no certificada, FR: copie non certifiée, IATE ID: 3500750 |  |

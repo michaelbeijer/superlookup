@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - E
 slug: comprehensive-technical-dictionary-e
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - E
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | E-2-buteen | CHEM.TECHN., E-2-butene |  |
 | e-boek | COMP., (digitaal boek) e-book, electronic book |  |
 | e-cash | COMP., e-cash, electronic money |  |

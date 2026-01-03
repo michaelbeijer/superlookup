@@ -2,6 +2,7 @@
 title: Librarylingo (Bibliotheekwoorden Nederlands-Engels)(Glossary of Dutch-English library related terms)
 slug: librarylingo
 description: Terminology from Librarylingo (Bibliotheekwoorden Nederlands-Engels)(Glossary of Dutch-English library related terms)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aandachtsveld | Priority area; |  |
 | aangepast lezen | Adapted Reading; |  |
 | aanhangsel | Appendix; |  |

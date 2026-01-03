@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - H
 slug: comprehensive-technical-dictionary-h
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - H
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | h | ~, (uur) hour |  |
 | H | PHYS., 1. (waterstof) hydrogen; 2. Henry |  |
 | H-balk | HYDROL., CIV.ENG., H-beam, H-section |  |

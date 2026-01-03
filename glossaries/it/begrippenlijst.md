@@ -2,6 +2,7 @@
 title: Begrippenlijst (dpggrow.nl)
 slug: begrippenlijst
 description: Terminology from Begrippenlijst (dpggrow.nl)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | '''Adblocker | ''' een advertentiestopper die het weergeven van advertenties in de browser van je pc, tablet of smartphone blokkeert. |  |
 | '''IDFA (Apple's Identifier For Advertisers) | ''' Een unieke, willekeurige apparaat identificatie die Apple genereert en aan elk apparaat toekent. Gebruikers kunnen zich afmelden via de instelling 'Ad tracking beperken'. |  |
 | App Tracking Transparency (ATT)-framework | Een nieuwe technologie waarbij gebruikers toestemming geven hun activiteiten (lees- en clickgedrag) te tracken, zodat de ontwikkelaars gerichte advertenties kunnen tonen. Dit gebeurt via een pop-in, die wordt getoond wanneer de app voor het eerst wordt geopend. |  |

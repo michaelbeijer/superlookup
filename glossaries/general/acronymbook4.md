@@ -2,6 +2,7 @@
 title: acronymbook4
 slug: acronymbook4
 description: Terminology from acronymbook4
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -20,7 +21,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Abbreviation | Meaning |  |
 | DBS; DBS | direct broadcasting satellite; omroepsatelliet |  |
 | DBS; DBS | direct broadcasting by satellite; directe omroep per satelliet |  |

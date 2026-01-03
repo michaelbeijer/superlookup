@@ -2,6 +2,7 @@
 title: autowoordenboek gerritspeek.nl p
 slug: autowoordenboek-gerritspeek-nl-p
 description: Terminology from autowoordenboek gerritspeek.nl p
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | P.K.B. (Parking Brake) switch | parkeerremschakelaar |  |
 | p.o.d. (paid on delivery) | betaald bij aflevering |  |
 | p.p.b. (parts per billion) | aantal deeltjes per miljard eenheden |  |

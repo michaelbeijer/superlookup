@@ -2,6 +2,7 @@
 title: Zestalige woordenlijst invullen fytosanitair certificaat (Nederlandse Voedsel- en Warenautoriteit, NVWA)
 slug: zestalige-woordenlijst-invullen-fytosanitair-certificaat
 description: Terminology from Zestalige woordenlijst invullen fytosanitair certificaat (Nederlandse Voedsel- en Warenautoriteit, NVWA)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | (Rozen) ogen | Eyes, ojo, oeil, Auge, olho |  |
 | Aantal  verpakkingseenheden | Number of package units, Unidades de embalaje, Unités d'emballage, Anzahl der Pakete, Unidades de embalagem |  |
 | Adres | address, direccion, adresse, Adresse, Enderezo |  |

@@ -2,6 +2,7 @@
 title: Comprehensive Technical Dictionary (Dutch-English) - C
 slug: comprehensive-technical-dictionary-c
 description: Terminology from Comprehensive Technical Dictionary (Dutch-English) - C
+type: glossary
 source_lang: nl
 target_lang: en
 domain: technical
@@ -16,7 +17,7 @@ tags: []
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | C | CHEM.TECHN., (koolstof) carbon |  |
 | C-band | ELECTRON., C band |  |
 | C-dakstijl | AUTOMOT., C-pillar, C-post, pillar C-post |  |

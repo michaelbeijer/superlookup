@@ -2,6 +2,7 @@
 title: nederbrackets
 slug: nederbrackets
 description: Terminology from nederbrackets
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | (afval)water | water (specifically wastewater) |  |
 | (af)leverdatum | ???, delivery date; date of delivery |  |
 | (lever)termijn | delivery period |  |

@@ -2,6 +2,7 @@
 title: Centraal Register Opleidingen Hoger Onderwijs (CROHO)(Dutch-English)
 slug: centraal-register-opleidingen-hoger-onderwijs
 description: Terminology from Centraal Register Opleidingen Hoger Onderwijs (CROHO)(Dutch-English)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -18,7 +19,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Ad Accountancy | Ad Accountancy, ~ Avans Hogeschool Breda-Tilburg -  HISTORISCH |  |
 | Ad Bedrijfskunde en  Agribusiness | Ad Agribusiness and Business Administration, ~ Christelijke Agrarische  Hogeschool - HISTORISCH |  |
 | Ad Dier- en Veehouderij | Ad Animal Husbandry, ~ Christelijke Agrarische  Hogeschool - HISTORISCH |  |

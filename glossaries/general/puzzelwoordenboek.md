@@ -2,6 +2,7 @@
 title: Puzzelwoordenboek
 slug: puzzelwoordenboek
 description: Terminology from Puzzelwoordenboek
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Original source (of this slightly mysterious document) | http://www.stolk.nu/pa.htm |  |
 | Archived at | https://superlookup.wiki/archives/Puzzelwoordenboek/ |  |
 | [[Puzzelwoordenboek | A]] • Puzzelwoordenboek: B • Puzzelwoordenboek: C • Puzzelwoordenboek: D |  |

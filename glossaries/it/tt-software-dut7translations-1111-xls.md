@@ -2,6 +2,7 @@
 title: TT-Software - Dut7Translations 1111.xls
 slug: tt-software-dut7translations-1111-xls
 description: Terminology from TT-Software - Dut7Translations 1111.xls
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | aannemen | hypothese [v]: assume; suppose, waarschijnlijkheid [v]: assume; presume; suppose; take for  granted; surmise [formal]; guess [informal], methode [v]: adopt; imitate, wetten [v]: adopt; vote to accept; pass, feit [v]: presume; postulate [formal]; posit [formal], kind [v]: adopt, beroep [v]: employ; hire; take on; appoint to a job; give a  job to; put to work, kleur [v]: take on, accepteren [v]: accept; receive; take, aanvaarden [v]: accept; acknowledge, geloven [v]: accept; believe |  |
 | fout | antwoord [a]: false; erroneous [formal]; incorrect; wrong, idee [a]: mistaken; wrong, incorrect [a]: incorrect; not correct, karakter [n]: defect; shortcoming; fault; frailty; vice, voorwerpen [n]: fault; defect; flaw, persoon [n]: fault, tekort [n]: demerit; fault, vergissing [n]: error; mistake; fault, gebrek [n]: flaw; imperfection; weakness, plan [o]: awry; amiss [formal]; wrong, verkeerd [o]: wrong; incorrectly; wrongly; amiss |  |
 | gelijktijdig plaatshebben | samenvallen [v]:  coincide; occur simultaneously; happen together |  |

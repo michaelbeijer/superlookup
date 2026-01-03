@@ -2,6 +2,7 @@
 title: Export View TYPO3.core.form Dutch Pootle.html
 slug: export-view-typo3-core-form-dutch-pootle-html
 description: Terminology from Export View TYPO3.core.form Dutch Pootle.html
+type: glossary
 source_lang: nl
 target_lang: en
 domain: general
@@ -17,7 +18,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | Push this button | Druk op deze knop |  |
 | Submit form | Formulier verzenden |  |
 | Clear form | Formulier wissen |  |

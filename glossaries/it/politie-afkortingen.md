@@ -2,6 +2,7 @@
 title: Politie afkortingen (regio17.info) (345 Dutch acronyms)
 slug: politie-afkortingen
 description: Terminology from Politie afkortingen (regio17.info) (345 Dutch acronyms)
+type: glossary
 source_lang: nl
 target_lang: en
 domain: it
@@ -19,7 +20,7 @@ tags:
 ## Terms
 
 | Dutch | English | Notes |
-|-------|---------|-------|
+|--------|---------|-------|
 | '''Dutch acronym | Dutch meaning''' |  |
 | AC | Alarmcentrale |  |
 | AE | Aanhoudingseenheden |  |
