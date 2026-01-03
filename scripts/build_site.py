@@ -169,14 +169,17 @@ def load_all_content() -> tuple[list[dict], list[dict]]:
 def generate_site_header(current_page: str = "home") -> str:
     """Generate the site header with navigation."""
     home_active = 'class="active"' if current_page == "home" else ''
+    tagline = '<span class="header-tagline">Open source multilingual terminology</span>' if current_page == "home" else ''
     return f'''<header class="site-header">
         <div class="header-content">
-            <a href="/superlookup/" class="site-brand">
-                <img src="{'../' if current_page != 'home' else ''}sv-icon.svg" alt="" class="site-logo">
-                <span>Superlookup</span>
-            </a>
+            <div class="header-left">
+                <a href="/superlookup/" class="site-brand">
+                    <img src="{'../' if current_page != 'home' else ''}sv-icon.svg" alt="" class="site-logo">
+                    <span>Superlookup</span>
+                </a>
+                {tagline}
+            </div>
             <nav class="header-nav">
-                <a href="/superlookup/" {home_active}>Home</a>
                 <a href="https://github.com/michaelbeijer/superlookup" target="_blank">GitHub</a>
                 <a href="https://supervertaler.com" target="_blank">Supervertaler</a>
             </nav>
@@ -405,11 +408,6 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
     {site_header}
 
     <div class="page-container">
-        <div class="hero-section">
-            <h1>Superlookup</h1>
-            <p>Open source multilingual terminology database</p>
-        </div>
-
         <main>
                 <section class="search-section">
                     <div id="search"></div>

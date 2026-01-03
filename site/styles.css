@@ -1038,3 +1038,45 @@ main {
     vertical-align: middle;
     margin-right: 0.5rem;
 }
+
+/* Header left section with brand and tagline */
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.header-tagline {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.95rem;
+    font-weight: 400;
+    padding-left: 1.5rem;
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+@media (max-width: 768px) {
+    .header-tagline {
+        display: none;
+    }
+}
+
+/* Header left section with brand and tagline */
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.header-tagline {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.95rem;
+    font-weight: 400;
+    padding-left: 1.5rem;
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+@media (max-width: 768px) {
+    .header-tagline {
+        display: none;
+    }
+}
