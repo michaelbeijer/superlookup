@@ -24,6 +24,7 @@ import shutil
 GLOSSARIES_DIR = Path("glossaries")
 SITE_DIR = Path("site")
 OUTPUT_DIR = Path("_site")
+GITHUB_BASE_URL = "https://github.com/michaelbeijer/superlookup/blob/main/glossaries"
 
 
 def parse_frontmatter(content: str) -> tuple[dict, str]:
@@ -101,15 +102,21 @@ def load_all_content() -> tuple[list[dict], list[dict]]:
         if not frontmatter:
             continue
 
+        # Build GitHub source URL
+        relative_path = md_file.relative_to(GLOSSARIES_DIR)
+        github_url = f"{GITHUB_BASE_URL}/{relative_path}".replace("\\", "/")
+
         item = {
             "file": str(md_file),
             "category": md_file.parent.name,
             "body": body,
+            "source_url": github_url,  # Override with GitHub URL
             **frontmatter,
         }
 
-        # Check if it's a Term (dictionary entry) or Glossary (table)
-        if frontmatter.get("type") == "term" or md_file.parent.name == "terms":
+        # Determine type: ONLY files in the "terms" folder are terms
+        # Everything else is a glossary
+        if md_file.parent.name == "terms":
             item["type"] = "term"
             item["html_content"] = markdown_to_html(body)
             terms.append(item)
@@ -128,7 +135,11 @@ def load_sidebar_content() -> str:
     if not sidebar_file.exists():
         return ""
     with open(sidebar_file, "r", encoding="utf-8") as f:
-        return f.read()
+        md_content = f.read()
+    
+    # Convert markdown to HTML
+    html = markdown.markdown(md_content, extensions=['tables', 'fenced_code'])
+    return html
 
 
 def generate_search_index(glossaries: list[dict], terms: list[dict]) -> list[dict]:
