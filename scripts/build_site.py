@@ -228,7 +228,7 @@ def generate_html_index(glossaries: list[dict], categories: dict) -> str:
     </main>
     
     <footer>
-        <p>Data is open source and available on <a href="https://github.com/michaelbeijer/superlookup-glossaries">GitHub</a></p>
+        <p>Data is open source and available on <a href="https://github.com/michaelbeijer/superlookup">GitHub</a></p>
         <p>Built with ❤️ by <a href="https://michaelbeijer.co.uk">Michael Beijer</a></p>
     </footer>
     
@@ -350,7 +350,7 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
     </main>
     
     <footer>
-        <p><a href="https://github.com/michaelbeijer/superlookup-glossaries/blob/main/{glossary['file']}">Edit this glossary on GitHub</a></p>
+        <p><a href="https://github.com/michaelbeijer/superlookup/blob/main/{glossary['file']}">Edit this glossary on GitHub</a></p>
     </footer>
     
     <script src="../pagefind/pagefind-ui.js"></script>
