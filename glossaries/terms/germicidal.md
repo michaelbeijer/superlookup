@@ -1,11 +1,11 @@
 ---
 title: germicidal
 slug: germicidal
-description: Translation and definition of germicidal
-type: term
+description: Terminology from germicidal
 source_lang: nl
 target_lang: en
 domain: general
+term_count: 3
 source_url: "https://superlookup.wiki/wiki/germicidal"
 last_updated: 2026-01-03
 tags: []
@@ -13,6 +13,10 @@ tags: []
 
 # germicidal
 
-- kiemdodend = germicidal
-- kiemdodende straling = germicidal radiation
-- kiemdodend middel = germicide
+## Terms
+
+| Dutch | English | Notes |
+|-------|---------|-------|
+| kiemdodend | germicidal |  |
+| kiemdodende straling | germicidal radiation |  |
+| kiemdodend middel | germicide |  |

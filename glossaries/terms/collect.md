@@ -1,11 +1,11 @@
 ---
 title: Collect
 slug: collect
-description: Translation and definition of Collect
-type: term
+description: Terminology from Collect
 source_lang: nl
 target_lang: en
 domain: general
+term_count: 6
 source_url: "https://superlookup.wiki/wiki/Collect"
 last_updated: 2026-01-03
 tags: []
@@ -13,29 +13,13 @@ tags: []
 
 # Collect
 
-See also: collection
-; collect
-: [ENVIRON.] inzamelen
-: [opvangen](Opvangen) (verzamelen)
-: verzamelen 
-: sparen
-: bijeenbrengen 
-: vergaren
-: innen
-: innemen (verzamelen)
-: halen, ophalen, afhalen
-: accumuleren
-: incasseren, heffen, innen [recover; Synonym of: cash, receive](cf.:) 
-: invorderen van belasting [levy](cf.:) 
-: ophalen, collecteren 
-: afleiden, concluderen
-: (weer) onder controle krijgen [one's thoughts / ideas = zijn gedachten bijeenrapen](collect) 
+## Terms
 
-1. ## Phrases
-- collecting pipe = verzamelpijp; verzamelbuis; vergaarpijp
-- collecting basin = verzamelbekken 
-- collecting flue = verzamelrookkanaal; vergaarrookkanaal
-- collecting main = verzamelleiding
-- collecting system vergaarsysteem
-- collecting tank = verzameltank [PETROCHEM.] 
-- collecting works = drainagewerken [CIV.ENG.](HYDROL.,)
+| Dutch | English | Notes |
+|-------|---------|-------|
+| collecting pipe | verzamelpijp; verzamelbuis; vergaarpijp |  |
+| collecting basin | verzamelbekken |  |
+| collecting flue | verzamelrookkanaal; vergaarrookkanaal |  |
+| collecting main | verzamelleiding |  |
+| collecting tank | verzameltank [PETROCHEM.] |  |
+| collecting works | drainagewerken [HYDROL., CIV.ENG.] |  |

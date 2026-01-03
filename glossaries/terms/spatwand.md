@@ -1,11 +1,11 @@
 ---
 title: spatwand
 slug: spatwand
-description: Translation and definition of spatwand
-type: term
+description: Terminology from spatwand
 source_lang: nl
 target_lang: en
 domain: general
+term_count: 3
 source_url: "https://superlookup.wiki/wiki/spatwand"
 last_updated: 2026-01-03
 tags: []
@@ -13,13 +13,10 @@ tags: []
 
 # spatwand
 
-A panel behind a sink or cooker that protects the wall from splashes.
+## Terms
 
-- splashback (British English)
-- backsplash (North American)
-- splash panel
-
-1. # References
-- [https://dictionary.cambridge.org/dictionary/english/splashback](https://dictionary.cambridge.org/dictionary/english/splashback)
-- [https://dictionary.cambridge.org/dictionary/english/backsplash](https://dictionary.cambridge.org/dictionary/english/backsplash)
-- [https://www.oed.com/search/dictionary/?scope=Entries&q=backsplash](https://www.oed.com/search/dictionary/?scope=Entries&q=backsplash)
+| Dutch | English | Notes |
+|-------|---------|-------|
+| https | //dictionary.cambridge.org/dictionary/english/splashback |  |
+| https | //dictionary.cambridge.org/dictionary/english/backsplash |  |
+| https | //www.oed.com/search/dictionary/?scope=Entries&q=backsplash |  |

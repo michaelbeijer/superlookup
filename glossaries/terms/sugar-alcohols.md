@@ -1,11 +1,11 @@
 ---
 title: Sugar alcohols
 slug: sugar-alcohols
-description: Translation and definition of Sugar alcohols
-type: term
+description: Terminology from Sugar alcohols
 source_lang: nl
 target_lang: en
 domain: general
+term_count: 3
 source_url: "https://superlookup.wiki/wiki/Sugar_alcohols"
 last_updated: 2026-01-03
 tags: []
@@ -13,9 +13,10 @@ tags: []
 
 # Sugar alcohols
 
-**English = Dutch**
- sugar alcohols = suikeralcoholen
- polyhydric alcohols = meerwaardige alcoholen
- polyalcohols
- alditols
- glycitols
+## Terms
+
+| Dutch | English | Notes |
+|-------|---------|-------|
+| '''English | Dutch''' |  |
+| sugar alcohols | suikeralcoholen |  |
+| polyhydric alcohols | meerwaardige alcoholen |  |

@@ -1,11 +1,11 @@
 ---
 title: Pattern recognition
 slug: pattern-recognition
-description: Translation and definition of Pattern recognition
-type: term
+description: Terminology from Pattern recognition
 source_lang: nl
 target_lang: en
 domain: it
+term_count: 4
 source_url: "https://superlookup.wiki/wiki/Pattern_recognition"
 last_updated: 2026-01-03
 tags: []
@@ -13,9 +13,11 @@ tags: []
 
 # Pattern recognition
 
-- English: pattern_recognition
-- Dutch: patroonherkenning; vormherkenning; patroonidentificatie
+## Terms
 
-1. # External links
-- [https://en.wikipedia.org/wiki/Pattern_recognition](https://en.wikipedia.org/wiki/Pattern_recognition)
-- [https://nl.wikipedia.org/wiki/Patroonherkenning](https://nl.wikipedia.org/wiki/Patroonherkenning)
+| Dutch | English | Notes |
+|-------|---------|-------|
+| English | pattern_recognition |  |
+| Dutch | patroonherkenning; vormherkenning; patroonidentificatie |  |
+| https | //en.wikipedia.org/wiki/Pattern_recognition |  |
+| https | //nl.wikipedia.org/wiki/Patroonherkenning |  |

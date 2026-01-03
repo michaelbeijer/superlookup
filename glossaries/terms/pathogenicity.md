@@ -1,11 +1,11 @@
 ---
 title: pathogenicity
 slug: pathogenicity
-description: Translation and definition of pathogenicity
-type: term
+description: Terminology from pathogenicity
 source_lang: nl
 target_lang: en
 domain: it
+term_count: 3
 source_url: "https://superlookup.wiki/wiki/pathogenicity"
 last_updated: 2026-01-03
 tags: []
@@ -13,7 +13,10 @@ tags: []
 
 # pathogenicity
 
-See also: pathogen
+## Terms
 
- English: pathogenicity
- Dutch: pathogeniteit
+| Dutch | English | Notes |
+|-------|---------|-------|
+| See also | pathogen |  |
+| English | pathogenicity |  |
+| Dutch | pathogeniteit |  |
