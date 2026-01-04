@@ -746,7 +746,7 @@ def generate_table_for_items(items: list[dict], categories: dict, item_type: str
                     <thead>
                         <tr>
                             <th>Title</th>
-                            <th>Category</th>
+                            <th>Tags</th>
                             <th>Languages</th>
                             <th>Terms</th>
                         </tr>
@@ -754,12 +754,20 @@ def generate_table_for_items(items: list[dict], categories: dict, item_type: str
                     <tbody>'''
             
             for item in by_letter[letter]:
-                cat_info = categories.get(item["category"], {"name": item["category"], "color": "#666"})
                 link = f"glossary/{item['slug']}.html"
+                # Generate tag badges for all tags
+                tags = item.get('tags', [])
+                tags_data_attr = ','.join(t.lower() for t in tags) if tags else ''
+                if tags:
+                    tag_badges = ' '.join(f'<span class="tag-badge clickable-tag" data-tag="{t.lower()}">{t}</span>' for t in tags[:3])  # Show first 3
+                    if len(tags) > 3:
+                        tag_badges += f' <span class="tag-more">+{len(tags) - 3}</span>'
+                else:
+                    tag_badges = '<span class="tag-badge">—</span>'
                 sections += f'''
-                        <tr>
+                        <tr data-tags="{tags_data_attr}">
                             <td><a href="{link}">{item['title']}</a></td>
-                            <td><span class="category-badge" style="background-color: {cat_info.get('color', '#666')}">{cat_info.get('name', item['category'])}</span></td>
+                            <td class="tags-cell">{tag_badges}</td>
                             <td>{item.get('source_lang', '')} &rarr; {item.get('target_lang', '')}</td>
                             <td>{item.get('term_count', 0):,}</td>
                         </tr>'''
@@ -959,6 +967,92 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
                 color: #93c5fd;
             }}
         }}
+        /* Clickable tags in table */
+        .clickable-tag {{
+            cursor: pointer;
+            transition: all 0.2s;
+        }}
+        .clickable-tag:hover {{
+            background: #3b82f6;
+            color: white;
+        }}
+        .tag-more {{
+            color: #64748b;
+            font-size: 0.75rem;
+            font-style: italic;
+        }}
+        .tags-cell {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            align-items: center;
+        }}
+        /* Tag filter bar */
+        .tag-filter-bar {{
+            background: #f1f5f9;
+            padding: 10px 16px;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            display: none;
+            align-items: center;
+            gap: 12px;
+        }}
+        .tag-filter-bar.active {{
+            display: flex;
+        }}
+        .tag-filter-label {{
+            font-size: 0.9rem;
+            color: #475569;
+        }}
+        .tag-filter-value {{
+            background: #3b82f6;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }}
+        .tag-filter-count {{
+            color: #64748b;
+            font-size: 0.85rem;
+        }}
+        .tag-filter-clear {{
+            background: #e2e8f0;
+            border: none;
+            padding: 4px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            color: #475569;
+            margin-left: auto;
+        }}
+        .tag-filter-clear:hover {{
+            background: #cbd5e1;
+        }}
+        @media (prefers-color-scheme: dark) {{
+            .clickable-tag:hover {{
+                background: #3b82f6;
+            }}
+            .tag-more {{
+                color: #94a3b8;
+            }}
+            .tag-filter-bar {{
+                background: #1f2937;
+            }}
+            .tag-filter-label {{
+                color: #9ca3af;
+            }}
+            .tag-filter-count {{
+                color: #9ca3af;
+            }}
+            .tag-filter-clear {{
+                background: #374151;
+                color: #e5e7eb;
+            }}
+            .tag-filter-clear:hover {{
+                background: #4b5563;
+            }}
+        }}
     </style>
 </head>
 <body>
@@ -1003,7 +1097,13 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
                     </div>
 
                     <div id="tab-glossaries" class="tab-content active">
-                        <p class="tab-description">Terminology lists and glossaries with multiple term entries each.</p>
+                        <p class="tab-description">Terminology lists and glossaries with multiple term entries each. Click any tag to filter.</p>
+                        <div id="tag-filter-bar" class="tag-filter-bar">
+                            <span class="tag-filter-label">Filtering by:</span>
+                            <span id="tag-filter-value" class="tag-filter-value"></span>
+                            <span id="tag-filter-count" class="tag-filter-count"></span>
+                            <button class="tag-filter-clear" onclick="clearTagFilter()">Clear filter</button>
+                        </div>
                         <nav class="alphabet-nav">
                             {glossary_nav}
                         </nav>
@@ -1097,6 +1197,87 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
             }});
             document.getElementById('tab-' + tabName).classList.add('active');
             btn.classList.add('active');
+        }}
+
+        // Tag filtering functionality
+        let activeTagFilter = null;
+        
+        document.addEventListener('click', function(e) {{
+            if (e.target.classList.contains('clickable-tag')) {{
+                const tag = e.target.dataset.tag;
+                filterByTag(tag);
+            }}
+        }});
+        
+        function filterByTag(tag) {{
+            activeTagFilter = tag;
+            const filterBar = document.getElementById('tag-filter-bar');
+            const filterValue = document.getElementById('tag-filter-value');
+            const filterCount = document.getElementById('tag-filter-count');
+            
+            // Show filter bar
+            filterBar.classList.add('active');
+            filterValue.textContent = tag;
+            
+            // Filter rows
+            const rows = document.querySelectorAll('#tab-glossaries tr[data-tags]');
+            let visibleCount = 0;
+            
+            rows.forEach(row => {{
+                const tags = row.dataset.tags.split(',');
+                if (tags.includes(tag)) {{
+                    row.style.display = '';
+                    visibleCount++;
+                }} else {{
+                    row.style.display = 'none';
+                }}
+            }});
+            
+            // Hide empty letter sections
+            document.querySelectorAll('#tab-glossaries .letter-section').forEach(section => {{
+                const visibleRows = section.querySelectorAll('tr[data-tags]:not([style*=\"display: none\"])');
+                section.style.display = visibleRows.length > 0 ? '' : 'none';
+            }});
+            
+            // Update alphabet nav
+            updateAlphabetNav();
+            
+            filterCount.textContent = `(${{visibleCount}} glossar${{visibleCount === 1 ? 'y' : 'ies'}})`;
+        }}
+        
+        function clearTagFilter() {{
+            activeTagFilter = null;
+            const filterBar = document.getElementById('tag-filter-bar');
+            filterBar.classList.remove('active');
+            
+            // Show all rows
+            document.querySelectorAll('#tab-glossaries tr[data-tags]').forEach(row => {{
+                row.style.display = '';
+            }});
+            
+            // Show all letter sections
+            document.querySelectorAll('#tab-glossaries .letter-section').forEach(section => {{
+                section.style.display = '';
+            }});
+            
+            // Update alphabet nav
+            updateAlphabetNav();
+        }}
+        
+        function updateAlphabetNav() {{
+            document.querySelectorAll('#tab-glossaries .alphabet-nav a').forEach(link => {{
+                const letter = link.getAttribute('href').replace('#letter-glossary-', '');
+                const section = document.getElementById('letter-glossary-' + letter);
+                if (section && section.style.display === 'none') {{
+                    link.classList.add('disabled');
+                    link.style.opacity = '0.3';
+                    link.style.pointerEvents = 'none';
+                }} else {{
+                    link.classList.remove('disabled');
+                    link.style.opacity = '';
+                    link.style.pointerEvents = '';
+                }}
+            }});
         }}
     </script>
 {SCROLL_TO_TOP_HTML}
