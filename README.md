@@ -1,6 +1,6 @@
 # Beijerterm
 
-[![Version](https://img.shields.io/badge/version-v1.0.1-blue.svg)](https://github.com/michaelbeijer/beijerterm/releases)
+[![Version](https://img.shields.io/badge/version-v1.0.2-blue.svg)](https://github.com/michaelbeijer/beijerterm/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/hosted-GitHub%20Pages-orange.svg)](https://michaelbeijer.github.io/beijerterm/)
 
@@ -24,26 +24,29 @@ Every glossary is a Markdown file. Full-text search powered by Pagefind.
 
 ```
 Beijerterm/
- glossaries/
-    automotive/
-       _category.yaml       # Category metadata
-       land-rover-dictionary.md
-       autowoordenboek.md
-    aviation/
-       _category.yaml
-       schiphol-glossary.md
-       easa-glossary.md
-    medical/
-       ...
-    ...
- site/
-    styles.css
-    sv-icon.svg
- scripts/
-    build_site.py            # Generates HTML from Markdown
- .github/
-     workflows/
-         deploy.yaml          # Auto-deploy on push
+├── glossaries/               # Multi-term glossary files
+│   ├── automotive/
+│   │   ├── _category.yaml   # Category metadata
+│   │   ├── land-rover-dictionary.md
+│   │   └── autowoordenboek.md
+│   ├── aviation/
+│   │   ├── _category.yaml
+│   │   ├── schiphol-glossary.md
+│   │   └── easa-glossary.md
+│   └── medical/
+│       └── ...
+├── terms/                    # Single-term definition pages
+│   ├── soepel.md
+│   ├── track-tracking.md
+│   └── ...
+├── site/
+│   ├── styles.css
+│   └── sv-icon.svg
+├── scripts/
+│   └── build_site.py        # Generates HTML from Markdown
+└── .github/
+    └── workflows/
+        └── deploy.yaml      # Auto-deploy on push
 ```
 
 ##  Glossary File Format

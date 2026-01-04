@@ -106,9 +106,9 @@ superlookup-glossaries/
 
 The site is built by `scripts/build_site.py`:
 
-1. **Load Content**: Reads all `.md` files from `glossaries/` folder
+1. **Load Content**: Reads all `.md` files from `glossaries/` and `terms/` folders
 2. **Parse Frontmatter**: Extracts YAML metadata (title, slug, languages, etc.)
-3. **Categorize**: Files in `glossaries/terms/` → Terms tab; others → Glossaries tab
+3. **Categorize**: Files in `terms/` folder → Terms tab; files in `glossaries/` → Glossaries tab
 4. **Generate HTML**: Creates index.html, glossary/*.html, term/*.html
 5. **Copy Assets**: Copies styles.css, favicon, logo to `_site/`
 6. **Search Index**: Pagefind indexes all pages for full-text search
@@ -247,7 +247,7 @@ Parses MediaWiki markup:
 
 2. **Frontmatter source_url**: The build script overrides `source_url` from frontmatter with GitHub URLs. The override happens AFTER `**frontmatter` unpacking.
 
-3. **Terms vs Glossaries**: Files in `glossaries/terms/` folder → Terms tab. Everything else → Glossaries tab. This is folder-based detection.
+3. **Terms vs Glossaries**: Files in root `terms/` folder → Terms tab. Files in `glossaries/` folder → Glossaries tab. This is folder-based detection.
 
 4. **Pagefind indexing**: Only indexes pages with `data-pagefind-body` attribute. Make sure content sections have this attribute.
 
@@ -278,11 +278,17 @@ Parses MediaWiki markup:
 - Bug was: `**frontmatter` unpacking overwrote generated GitHub URL
 - Fix: Set `source_url` AFTER unpacking frontmatter
 
+### January 4, 2026 - Folder Restructure (v1.0.2)
+
+- Moved `terms/` folder from `glossaries/terms/` to root level `terms/`
+- Updated build script to scan both directories separately
+- Cleaner separation: `glossaries/` for glossaries, `terms/` for single-term pages
+
 ### January 3, 2026 - File Organization
 
-- Physically moved 159 files with <10 terms to `glossaries/terms/` folder
+- Physically moved 159 files with <10 terms to separate `terms/` folder
 - These appear in Terms tab instead of Glossaries tab
-- Folder-based detection: `terms/` folder = Terms, everything else = Glossaries
+- Folder-based detection: `terms/` folder = Terms, `glossaries/` = Glossaries
 
 ### January 3, 2026 - Tabbed Interface
 
