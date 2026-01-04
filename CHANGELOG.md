@@ -6,6 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.0.7] - 2026-01-04
+
+### Added
+- **Clickable tag filtering**: Click any tag in the Glossaries or Terms table to filter the list
+  - Filter bar shows active tag with count of matching items
+  - Alphabet navigation dims letters with no matches
+  - "Clear filter" button to reset
+- **Tags in About sections**: Glossary and term detail pages now show tags in the "About" section
+- **Tags column in Terms tab**: Terms tab now shows clickable tags instead of description
+
+### Changed
+- **New tagline**: "Open-source, GitHub-hosted multilingual terminology database"
+- **Removed Domain field**: Domain removed from all glossary files and UI (redundant with folder structure)
+- **Column header renamed**: "Category" → "Tags" in both Glossaries and Terms tables
+
+### Removed
+- **Domain field**: Removed from all 207 glossary YAML files (folder already indicates domain)
+- **Domain in About sections**: Removed Domain row from glossary/term info panels
+
 ## [1.0.6] - 2026-01-04
 
 ### Added

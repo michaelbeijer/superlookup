@@ -425,14 +425,14 @@ def load_all_content() -> tuple[list[dict], list[dict]]:
 def generate_site_header(current_page: str = "home") -> str:
     """Generate the site header with navigation."""
     home_active = 'class="active"' if current_page == "home" else ''
-    tagline = '<span class="header-tagline">Open source multilingual terminology</span>' if current_page == "home" else ''
+    tagline = '<span class="header-tagline">Open-source, GitHub-hosted multilingual terminology database</span>' if current_page == "home" else ''
     return f'''<header class="site-header">
         <div class="header-content">
             <div class="header-left">
                 <a href="/beijerterm/" class="site-brand" title="Beijerterm homepage">
                     <img src="{'../' if current_page != 'home' else ''}mb-icon.svg" alt="Beijerterm" class="site-logo">
                     <span>Beijerterm</span>
-                    <span class="version-badge">v1.0.6</span>
+                    <span class="version-badge">v1.0.7</span>
                 </a>
                 {tagline}
             </div>
@@ -451,7 +451,7 @@ def generate_site_footer() -> str:
         <div class="footer-content">
             <div class="footer-section">
                 <h4>Beijerterm</h4>
-                <p>Open source multilingual terminology database for translators.</p>
+                <p>Open-source, GitHub-hosted multilingual terminology database for translators.</p>
             </div>
             <div class="footer-section">
                 <h4>Links</h4>
@@ -835,7 +835,7 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beijerterm - Open Source Multilingual Terminology</title>
+    <title>Beijerterm - Open-Source Multilingual Terminology Database</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="pagefind/pagefind-ui.css">
