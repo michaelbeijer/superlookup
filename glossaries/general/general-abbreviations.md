@@ -5,7 +5,6 @@ description: Terminology from General Abbreviations (Who’s Who 2024)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 5243
 source_url: "https://superlookup.wiki/wiki/General_Abbreviations_(Who’s_Who_2024)"
 last_updated: 2026-01-03

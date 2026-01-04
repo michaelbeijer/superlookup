@@ -5,7 +5,6 @@ description: Terminology from autowoordenboek gerritspeek.nl q
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 100
 source_url: "https://superlookup.wiki/wiki/autowoordenboek_gerritspeek.nl_q"
 last_updated: 2026-01-03

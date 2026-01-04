@@ -5,7 +5,6 @@ description: "Terminology from Covid-19 Terminology: English-Dutch, Engels-Neder
 type: glossary
 source_lang: en
 target_lang: nl
-domain: general
 term_count: 74
 source_url: "https://superlookup.wiki/wiki/Covid-19_Terminology:_English-Dutch,_Engels-Nederlands_(Oxford_Languages)"
 last_updated: 2026-01-03

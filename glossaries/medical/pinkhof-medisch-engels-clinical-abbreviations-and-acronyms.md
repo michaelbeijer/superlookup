@@ -5,7 +5,6 @@ description: Terminology from Pinkhof Medisch Engels - Clinical Abbreviations an
 type: glossary
 source_lang: nl
 target_lang: en
-domain: medical
 term_count: 416
 source_url: "https://superlookup.wiki/wiki/Pinkhof_Medisch_Engels_-_Clinical_Abbreviations_and_Acronyms"
 last_updated: 2026-01-03

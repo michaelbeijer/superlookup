@@ -5,7 +5,6 @@ description: Terminology from Healthcare professionals and training programmes G
 type: glossary
 source_lang: nl
 target_lang: en
-domain: medical
 term_count: 171
 source_url: "https://superlookup.wiki/wiki/Healthcare_professionals_and_training_programmes_Glossary_(178_Dutch-English_entries)"
 last_updated: 2026-01-03

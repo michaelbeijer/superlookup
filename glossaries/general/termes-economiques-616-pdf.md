@@ -5,7 +5,6 @@ description: Terminology from TERMES ECONOMIQUES 616.pdf
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 6827
 source_url: "https://superlookup.wiki/wiki/TERMES_ECONOMIQUES_616.pdf"
 last_updated: 2026-01-03

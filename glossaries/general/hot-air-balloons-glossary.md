@@ -5,7 +5,6 @@ description: Terminology from Hot Air Balloons Glossary (bized.co.uk)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 83
 source_url: "https://superlookup.wiki/wiki/Hot_Air_Balloons_Glossary_(bized.co.uk)"
 last_updated: 2026-01-03

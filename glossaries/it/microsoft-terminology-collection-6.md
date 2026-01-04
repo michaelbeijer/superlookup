@@ -5,7 +5,6 @@ description: Terminology from Microsoft Terminology Collection (33,004 Dutch-Eng
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 9999
 source_url: "https://superlookup.wiki/wiki/Microsoft_Terminology_Collection_(33,004_Dutch-English_entries)(Part_2)"
 last_updated: 2026-01-03

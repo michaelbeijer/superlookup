@@ -5,7 +5,6 @@ description: Terminology from Glossary of Dutch Procedural Terminology (Netherla
 type: glossary
 source_lang: nl
 target_lang: en
-domain: legal
 term_count: 562
 source_url: "https://superlookup.wiki/wiki/Glossary_of_Dutch_Procedural_Terminology_(Netherlands_Commercial_Court,_NCC)"
 last_updated: 2026-01-03

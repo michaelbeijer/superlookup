@@ -5,7 +5,6 @@ description: Terminology from 268 mainly Dutch acronyms.xls
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 267
 source_url: "https://superlookup.wiki/wiki/268_mainly_Dutch_acronyms.xls"
 last_updated: 2026-01-03

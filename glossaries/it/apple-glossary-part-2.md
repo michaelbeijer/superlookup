@@ -5,7 +5,6 @@ description: Terminology from Apple glossary (45,000 Dutch-English entries) - Pa
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 16066
 source_url: "https://superlookup.wiki/wiki/Apple_glossary_(45,000_Dutch-English_entries)_-_Part_2"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from Verklarende woordenlijst naaitermen Engels-Nederla
 type: glossary
 source_lang: en
 target_lang: nl
-domain: textile
 term_count: 471
 source_url: "https://superlookup.wiki/wiki/Verklarende_woordenlijst_naaitermen_Engels-Nederlands_(naaipatronen.nl)"
 last_updated: 2026-01-03

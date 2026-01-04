@@ -5,7 +5,6 @@ description: Terminology from A to Z of Diamonds Glossary (24carat.co.uk)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: automotive
 term_count: 641
 source_url: "https://superlookup.wiki/wiki/A_to_Z_of_Diamonds_Glossary_(24carat.co.uk)"
 last_updated: 2026-01-03

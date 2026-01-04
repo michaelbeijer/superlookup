@@ -4,7 +4,6 @@ slug: land-rover-dictionary
 description: Multilingual Land Rover and off-road vehicle terminology
 source_lang: en
 target_lang: nl
-domain: automotive
 term_count: 42
 source_url: https://www.landrover.com/
 author: Peter Kutschera (adapted)

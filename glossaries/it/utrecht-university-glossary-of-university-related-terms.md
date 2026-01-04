@@ -5,7 +5,6 @@ description: "Terminology from Utrecht University: Glossary of university-relate
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 585
 source_url: "https://superlookup.wiki/wiki/Utrecht_University:_Glossary_of_university-related_terms_(585_Dutch-English_entries)"
 last_updated: 2026-01-03

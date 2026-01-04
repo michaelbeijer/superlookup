@@ -5,7 +5,6 @@ description: Terminology from KMEHR glossary of drug administration units, in En
 type: glossary
 source_lang: nl
 target_lang: en
-domain: medical
 term_count: 58
 source_url: "https://superlookup.wiki/wiki/KMEHR_glossary_of_drug_administration_units,_in_English,_Dutch,_Frech_and_German"
 last_updated: 2026-01-03

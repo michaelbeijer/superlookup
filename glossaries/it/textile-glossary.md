@@ -5,7 +5,6 @@ description: Terminology from Textile Glossary (Dutch, English, German, French)(
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 2001
 source_url: "https://superlookup.wiki/wiki/Textile_Glossary_(Dutch,_English,_German,_French)(‘2000-textieltermen.xls’)"
 last_updated: 2026-01-03

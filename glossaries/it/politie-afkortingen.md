@@ -5,7 +5,6 @@ description: Terminology from Politie afkortingen (regio17.info) (345 Dutch acro
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 345
 source_url: "https://superlookup.wiki/wiki/Politie_afkortingen_(regio17.info)_(345_Dutch_acronyms)"
 last_updated: 2026-01-03

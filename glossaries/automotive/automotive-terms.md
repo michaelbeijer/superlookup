@@ -5,7 +5,6 @@ description: Terminology from Automotive terms (W.P. Barendsen & D. Belau, 2001)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: automotive
 term_count: 165
 source_url: "https://superlookup.wiki/wiki/Automotive_terms_(W.P._Barendsen_&_D._Belau,_2001)"
 last_updated: 2026-01-03

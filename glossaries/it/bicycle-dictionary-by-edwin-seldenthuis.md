@@ -5,7 +5,6 @@ description: Terminology from Bicycle Dictionary (Dutch-English) by Edwin Selden
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 145
 source_url: "https://superlookup.wiki/wiki/Bicycle_Dictionary_(Dutch-English)_by_Edwin_Seldenthuis"
 last_updated: 2026-01-03

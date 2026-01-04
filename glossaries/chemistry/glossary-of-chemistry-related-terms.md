@@ -5,7 +5,6 @@ description: Terminology from Glossary of chemistry related terms (320 German-En
 type: glossary
 source_lang: de
 target_lang: en
-domain: chemistry
 term_count: 318
 source_url: "https://superlookup.wiki/wiki/Glossary_of_chemistry_related_terms_(320_German-English_terms)"
 last_updated: 2026-01-03

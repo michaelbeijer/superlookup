@@ -5,7 +5,6 @@ description: Terminology from Pump glossary with 1,134 Dutch-English terms
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 1127
 source_url: "https://superlookup.wiki/wiki/Pump_glossary_with_1,134_Dutch-English_terms"
 last_updated: 2026-01-03

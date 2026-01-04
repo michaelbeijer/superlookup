@@ -5,7 +5,6 @@ description: Terminology from IMF Glossary Web 2015 (imf.org)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 1250
 source_url: "https://superlookup.wiki/wiki/IMF_Glossary_Web_2015_(imf.org)"
 last_updated: 2026-01-03

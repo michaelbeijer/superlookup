@@ -5,7 +5,6 @@ description: Terminology from DUTCH-ENGLISH DICTIONARY V.05.2011 - Jerzy Kazojć
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 29873
 source_url: "https://superlookup.wiki/wiki/DUTCH-ENGLISH_DICTIONARY_V.05.2011_-_Jerzy_Kazojć_(2011)"
 last_updated: 2026-01-03

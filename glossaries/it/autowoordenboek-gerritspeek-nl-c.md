@@ -5,7 +5,6 @@ description: Terminology from autowoordenboek gerritspeek.nl c
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 3142
 source_url: "https://superlookup.wiki/wiki/autowoordenboek_gerritspeek.nl_c"
 last_updated: 2026-01-03

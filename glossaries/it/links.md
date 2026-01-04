@@ -5,7 +5,6 @@ description: Terminology from links
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 30
 source_url: "https://superlookup.wiki/wiki/links"
 last_updated: 2026-01-03

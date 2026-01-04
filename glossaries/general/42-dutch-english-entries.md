@@ -5,7 +5,6 @@ description: Terminology from 42 Dutch-English entries
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 42
 source_url: "https://superlookup.wiki/wiki/42_Dutch-English_entries"
 last_updated: 2026-01-03

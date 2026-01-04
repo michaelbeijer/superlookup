@@ -5,7 +5,6 @@ description: Terminology from HVAC and water treatment systems glossary
 type: glossary
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 683
 source_url: "https://superlookup.wiki/wiki/HVAC_and_water_treatment_systems_glossary"
 last_updated: 2026-01-03

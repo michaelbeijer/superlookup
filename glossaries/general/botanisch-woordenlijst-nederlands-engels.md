@@ -5,7 +5,6 @@ description: Terminology from Botanisch woordenlijst Nederlands/Engels (John Bru
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 98
 source_url: "https://superlookup.wiki/wiki/Botanisch_woordenlijst_Nederlands/Engels_(John_Bruinsma_en_Wim_van_der_Ven)"
 last_updated: 2026-01-03

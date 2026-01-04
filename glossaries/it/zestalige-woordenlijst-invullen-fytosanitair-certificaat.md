@@ -5,7 +5,6 @@ description: Terminology from Zestalige woordenlijst invullen fytosanitair certi
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 213
 source_url: "https://superlookup.wiki/wiki/Zestalige_woordenlijst_invullen_fytosanitair_certificaat_(Nederlandse_Voedsel-_en_Warenautoriteit,_NVWA)"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from Statistics Glossary (3,517 Dutch-English entries)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 3516
 source_url: "https://superlookup.wiki/wiki/Statistics_Glossary_(3,517_Dutch-English_entries)"
 last_updated: 2026-01-03

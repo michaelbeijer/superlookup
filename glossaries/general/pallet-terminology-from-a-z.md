@@ -5,7 +5,6 @@ description: Terminology from Pallet Terminology from A-Z (Palletconsultants.com
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 37
 source_url: "https://superlookup.wiki/wiki/Pallet_Terminology_from_A-Z_(Palletconsultants.com)"
 last_updated: 2026-01-03

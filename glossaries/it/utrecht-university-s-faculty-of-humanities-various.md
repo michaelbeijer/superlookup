@@ -5,7 +5,6 @@ description: Terminology from Utrecht University’s Faculty of Humanities’ va
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 51
 source_url: "https://superlookup.wiki/wiki/Utrecht_University’s_Faculty_of_Humanities’_various_departments"
 last_updated: 2026-01-03

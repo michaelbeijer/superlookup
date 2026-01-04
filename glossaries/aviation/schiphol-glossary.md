@@ -4,7 +4,6 @@ slug: schiphol-glossary
 description: Dutch-English aviation terminology from Amsterdam Schiphol Airport
 source_lang: nl
 target_lang: en
-domain: aviation
 term_count: 48
 source_url: https://www.schiphol.nl/
 author: Schiphol Group (adapted)

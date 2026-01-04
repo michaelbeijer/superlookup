@@ -5,7 +5,6 @@ description: "Terminology from MISSOC: Glossary on European social security syst
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 304
 source_url: "https://superlookup.wiki/wiki/MISSOC:_Glossary_on_European_social_security_systems_(German,_French,_English_and_Dutch)"
 last_updated: 2026-01-03

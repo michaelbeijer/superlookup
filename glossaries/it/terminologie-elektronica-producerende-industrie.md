@@ -5,7 +5,6 @@ description: Terminology from Terminologie Elektronica Producerende Industrie (p
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 132
 source_url: "https://superlookup.wiki/wiki/Terminologie_Elektronica_Producerende_Industrie_(piektraining.com)"
 last_updated: 2026-01-03

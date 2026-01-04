@@ -5,7 +5,6 @@ description: Terminology from EASA Glossary (European Union Aviation Safety Agen
 type: glossary
 source_lang: nl
 target_lang: en
-domain: aviation
 term_count: 419
 source_url: "https://superlookup.wiki/wiki/EASA_Glossary_(European_Union_Aviation_Safety_Agency)(419_Dutch-English_entries)"
 last_updated: 2026-01-03

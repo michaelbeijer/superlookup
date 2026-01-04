@@ -5,7 +5,6 @@ description: Terminology from Eurocode vertaallijst
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 724
 source_url: "https://superlookup.wiki/wiki/Eurocode_vertaallijst"
 last_updated: 2026-01-03

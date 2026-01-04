@@ -4,7 +4,6 @@ slug: dutch-english-glossary
 description: Terminology from Dutch-English glossary (31224 entries)(Part 2)
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 15559
 source_url: "https://superlookup.wiki/wiki/Dutch-English_glossary_(31224_entries)(Part_2)"
 last_updated: 2026-01-03

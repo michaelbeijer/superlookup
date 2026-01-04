@@ -5,7 +5,6 @@ description: Terminology from Dutch-English glossary with 1,654 entries (origin 
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 1655
 source_url: "https://superlookup.wiki/wiki/Dutch-English_glossary_with_1,654_entries_(origin_unknown)"
 last_updated: 2026-01-03

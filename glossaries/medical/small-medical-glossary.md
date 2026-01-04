@@ -5,7 +5,6 @@ description: Terminology from Small medical glossary (77 Dutch-English entries)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: medical
 term_count: 75
 source_url: "https://superlookup.wiki/wiki/Small_medical_glossary_(77_Dutch-English_entries)"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from Palletiser glossary (Palletizing.com)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 41
 source_url: "https://superlookup.wiki/wiki/Palletiser_glossary_(Palletizing.com)"
 last_updated: 2026-01-03

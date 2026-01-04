@@ -4,7 +4,6 @@ slug: keldergat-kelkvormig
 description: Terminology from keldergat - kelkvormig
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 12
 source_url: "https://superlookup.wiki/wiki/keldergat_-_kelkvormig"
 last_updated: 2026-01-03

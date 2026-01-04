@@ -5,7 +5,6 @@ description: Terminology from Glossary of terms – Court Events (justice.gov.uk
 type: glossary
 source_lang: nl
 target_lang: en
-domain: legal
 term_count: 49
 source_url: "https://superlookup.wiki/wiki/Glossary_of_terms_–_Court_Events_(justice.gov.uk)"
 last_updated: 2026-01-03

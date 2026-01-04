@@ -5,7 +5,6 @@ description: Terminology from digitalSkillsCollection (ESCO classification)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 1201
 source_url: "https://superlookup.wiki/wiki/digitalSkillsCollection_(ESCO_classification)"
 last_updated: 2026-01-03

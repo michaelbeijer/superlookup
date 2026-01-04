@@ -5,7 +5,6 @@ description: Terminology from Standaard Bedrijfsindeling codes (SBI-codes)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 1492
 source_url: "https://superlookup.wiki/wiki/Standaard_Bedrijfsindeling_codes_(SBI-codes)"
 last_updated: 2026-01-03

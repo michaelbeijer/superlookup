@@ -4,7 +4,6 @@ slug: ontvanger
 description: Terminology from ontvanger
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 12
 source_url: "https://superlookup.wiki/wiki/ontvanger"
 last_updated: 2026-01-03

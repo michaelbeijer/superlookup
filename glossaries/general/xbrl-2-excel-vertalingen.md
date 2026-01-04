@@ -5,7 +5,6 @@ description: "Terminology from XBRL 2 Excel: Vertalingen (in Dutch, English, Fre
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 257
 source_url: "https://superlookup.wiki/wiki/XBRL_2_Excel:_Vertalingen_(in_Dutch,_English,_French_and_German)"
 last_updated: 2026-01-03

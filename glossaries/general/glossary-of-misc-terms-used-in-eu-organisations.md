@@ -5,7 +5,6 @@ description: Terminology from Glossary of misc. terms used in EU organisations (
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 141
 source_url: "https://superlookup.wiki/wiki/Glossary_of_misc._terms_used_in_EU_organisations_(142_Dutch-English_terms)"
 last_updated: 2026-01-03

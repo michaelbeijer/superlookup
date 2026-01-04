@@ -5,7 +5,6 @@ description: Terminology from Eskom Abbreviations List
 type: glossary
 source_lang: nl
 target_lang: en
-domain: energy
 term_count: 294
 source_url: "https://superlookup.wiki/wiki/Eskom_Abbreviations_List"
 last_updated: 2026-01-03

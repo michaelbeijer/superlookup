@@ -5,7 +5,6 @@ description: Terminology from CINOP terminologielijst NL-EN (81 Dutch-English en
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 81
 source_url: "https://superlookup.wiki/wiki/CINOP_terminologielijst_NL-EN_(81_Dutch-English_entries)"
 last_updated: 2026-01-03

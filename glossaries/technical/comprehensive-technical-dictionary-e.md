@@ -5,7 +5,6 @@ description: Terminology from Comprehensive Technical Dictionary (Dutch-English)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 4577
 source_url: "https://superlookup.wiki/wiki/Comprehensive_Technical_Dictionary_(Dutch-English)_-_E"
 last_updated: 2026-01-03

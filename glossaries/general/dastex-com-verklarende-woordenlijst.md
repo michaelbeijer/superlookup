@@ -5,7 +5,6 @@ description: Terminology from Dastex.com Verklarende woordenlijst
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 17
 source_url: "https://superlookup.wiki/wiki/Dastex.com_Verklarende_woordenlijst"
 last_updated: 2026-01-03

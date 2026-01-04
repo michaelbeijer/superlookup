@@ -4,7 +4,6 @@ slug: dutch-procedural-terminology
 description: Legal terms from the Netherlands Commercial Court (NCC)
 source_lang: nl
 target_lang: en
-domain: legal
 term_count: 38
 source_url: https://www.rechtspraak.nl/English/NCC
 author: Netherlands Commercial Court

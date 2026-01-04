@@ -5,7 +5,6 @@ description: Terminology from German, English, Spanish, Dutch, Portuguese, Chine
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 91
 source_url: "https://superlookup.wiki/wiki/German,_English,_Spanish,_Dutch,_Portuguese,_Chinese_glossary_(93_terms)"
 last_updated: 2026-01-03

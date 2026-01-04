@@ -5,7 +5,6 @@ description: Terminology from Technical glossary (1,674 Dutch-English terms)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 1670
 source_url: "https://superlookup.wiki/wiki/Technical_glossary_(1,674_Dutch-English_terms)"
 last_updated: 2026-01-03

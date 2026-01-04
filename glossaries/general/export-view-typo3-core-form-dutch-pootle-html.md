@@ -5,7 +5,6 @@ description: Terminology from Export View TYPO3.core.form Dutch Pootle.html
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 764
 source_url: "https://superlookup.wiki/wiki/Export_View_TYPO3.core.form_Dutch_Pootle.html"
 last_updated: 2026-01-03

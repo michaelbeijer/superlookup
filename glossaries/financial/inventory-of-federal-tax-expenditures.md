@@ -5,7 +5,6 @@ description: Terminology from Inventory of Federal Tax Expenditures (PFPS Financ
 type: glossary
 source_lang: nl
 target_lang: en
-domain: financial
 term_count: 359
 source_url: "https://superlookup.wiki/wiki/Inventory_of_Federal_Tax_Expenditures_(PFPS_Finance)(Dutch,_English,_French)"
 last_updated: 2026-01-03

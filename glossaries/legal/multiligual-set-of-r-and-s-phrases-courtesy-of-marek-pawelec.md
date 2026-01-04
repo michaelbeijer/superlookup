@@ -5,7 +5,6 @@ description: Terminology from Multiligual set of R and S phrases, courtesy of Ma
 type: glossary
 source_lang: nl
 target_lang: en
-domain: legal
 term_count: 210
 source_url: "https://superlookup.wiki/wiki/Multiligual_set_of_R_and_S_phrases,_courtesy_of_Marek_Pawelec"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: "Terminology from LOINC: Abbreviations and acronyms used in LOINC"
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 920
 source_url: "https://superlookup.wiki/wiki/LOINC:_Abbreviations_and_acronyms_used_in_LOINC"
 last_updated: 2026-01-03

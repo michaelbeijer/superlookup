@@ -5,7 +5,6 @@ description: "Terminology from Patitia.net: Multilingual Glossary of Nice Classi
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 6181
 source_url: "https://superlookup.wiki/wiki/Patitia.net:_Multilingual_Glossary_of_Nice_Classification_System_of_goods_and_services_relating_to_trademarks)(6,264_Dutch-English_entries)"
 last_updated: 2026-01-03

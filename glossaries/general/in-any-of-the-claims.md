@@ -4,7 +4,6 @@ slug: in-any-of-the-claims
 description: Terminology from in any of the claims
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 16
 source_url: "https://superlookup.wiki/wiki/in_any_of_the_claims"
 last_updated: 2026-01-03

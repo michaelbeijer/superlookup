@@ -5,7 +5,6 @@ description: Terminology from Tilburg University - Dutch-English Glossary of Uni
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 1656
 source_url: "https://superlookup.wiki/wiki/Tilburg_University_-_Dutch-English_Glossary_of_University_related_terms_(1,657_entries)"
 last_updated: 2026-01-03

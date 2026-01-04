@@ -5,7 +5,6 @@ description: Terminology from Glossary of Terms (Brillopak.co.uk)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 17
 source_url: "https://superlookup.wiki/wiki/Glossary_of_Terms_(Brillopak.co.uk)"
 last_updated: 2026-01-03

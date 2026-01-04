@@ -5,7 +5,6 @@ description: Terminology from Dictionary for Building Technology Terminology (Te
 type: glossary
 source_lang: nl
 target_lang: en
-domain: construction
 term_count: 3314
 source_url: "https://superlookup.wiki/wiki/Dictionary_for_Building_Technology_Terminology_(Technische_Universiteit_Delft)"
 last_updated: 2026-01-03

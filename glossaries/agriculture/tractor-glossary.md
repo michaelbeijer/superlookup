@@ -5,7 +5,6 @@ description: Terminology from Tractor Glossary (English-Dutch)
 type: glossary
 source_lang: en
 target_lang: nl
-domain: agriculture
 term_count: 288
 source_url: "https://superlookup.wiki/wiki/Tractor_Glossary_(English-Dutch)"
 last_updated: 2026-01-03

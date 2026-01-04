@@ -5,7 +5,6 @@ description: Terminology from countries
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 242
 source_url: "https://superlookup.wiki/wiki/countries"
 last_updated: 2026-01-03

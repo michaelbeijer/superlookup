@@ -5,7 +5,6 @@ description: Terminology from Avans University of Applied Sciences - Terminologi
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 1269
 source_url: "https://superlookup.wiki/wiki/Avans_University_of_Applied_Sciences_-_Terminologielijst_Avans_Hogeschool"
 last_updated: 2026-01-03

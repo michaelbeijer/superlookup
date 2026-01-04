@@ -5,7 +5,6 @@ description: Terminology from Woordenlijst Waterbeheerprogramma (WBP6) Rijnland
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 71
 source_url: "https://superlookup.wiki/wiki/Woordenlijst_Waterbeheerprogramma_(WBP6)_Rijnland"
 last_updated: 2026-01-03

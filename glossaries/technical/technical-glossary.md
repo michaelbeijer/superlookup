@@ -4,7 +4,6 @@ slug: technical-glossary
 description: Terminology from Technical glossary (2636 Dutch-English entries)
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 2636
 source_url: "https://superlookup.wiki/wiki/Technical_glossary_(2636_Dutch-English_entries)"
 last_updated: 2026-01-03

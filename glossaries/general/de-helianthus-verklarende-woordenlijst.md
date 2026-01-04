@@ -5,7 +5,6 @@ description: Terminology from De Helianthus - Verklarende woordenlijst
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 5729
 source_url: "https://superlookup.wiki/wiki/De_Helianthus_-_Verklarende_woordenlijst"
 last_updated: 2026-01-03

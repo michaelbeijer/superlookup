@@ -5,7 +5,6 @@ description: Terminology from Glossary of Mechanical Engineering and Industrial 
 type: glossary
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 738
 source_url: "https://superlookup.wiki/wiki/Glossary_of_Mechanical_Engineering_and_Industrial_Equipment_(Dutch,_German,_English,_French;_800_terms)"
 last_updated: 2026-01-03

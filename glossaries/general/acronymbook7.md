@@ -5,7 +5,6 @@ description: Terminology from acronymbook7
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 8048
 source_url: "https://superlookup.wiki/wiki/acronymbook7"
 last_updated: 2026-01-03

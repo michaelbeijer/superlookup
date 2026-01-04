@@ -5,7 +5,6 @@ description: Terminology from List of Abbreviations 2 (Origin unknown)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 296
 source_url: "https://superlookup.wiki/wiki/List_of_Abbreviations_2_(Origin_unknown)"
 last_updated: 2026-01-03

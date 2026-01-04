@@ -5,7 +5,6 @@ description: Terminology from Van Houtum woordenlijst 5 talen (239 entries, 5 la
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 237
 source_url: "https://superlookup.wiki/wiki/Van_Houtum_woordenlijst_5_talen_(239_entries,_5_languages)"
 last_updated: 2026-01-03

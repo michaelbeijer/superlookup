@@ -4,7 +4,6 @@ slug: kleefbreker
 description: Terminology from kleefbreker
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 10
 source_url: "https://superlookup.wiki/wiki/kleefbreker"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from European Insurance and Occupational Pensions Autho
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 214
 source_url: "https://superlookup.wiki/wiki/European_Insurance_and_Occupational_Pensions_Authority_(EIOPA)_Glossary_(214_Dutch-English_entries)"
 last_updated: 2026-01-03

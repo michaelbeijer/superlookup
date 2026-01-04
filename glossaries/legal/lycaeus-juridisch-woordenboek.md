@@ -5,7 +5,6 @@ description: Terminology from Lycaeus Juridisch Woordenboek
 type: glossary
 source_lang: nl
 target_lang: en
-domain: legal
 term_count: 3965
 source_url: "https://superlookup.wiki/wiki/Lycaeus_Juridisch_Woordenboek"
 last_updated: 2026-01-03

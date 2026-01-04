@@ -5,7 +5,6 @@ description: Terminology from Eskom Dictionary for power generation and distribu
 type: glossary
 source_lang: en
 target_lang: af
-domain: it
 term_count: 32193
 source_url: "https://superlookup.wiki/wiki/Eskom_Dictionary_for_power_generation_and_distribution_(English-Afrikaans)"
 last_updated: 2026-01-03

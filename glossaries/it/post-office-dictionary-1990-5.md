@@ -5,7 +5,6 @@ description: Terminology from Post Office Dictionary 1990 (English-Afrikaans)(Pa
 type: glossary
 source_lang: en
 target_lang: af
-domain: it
 term_count: 9577
 source_url: "https://superlookup.wiki/wiki/Post_Office_Dictionary_1990_(English-Afrikaans)(Part_3)"
 last_updated: 2026-01-03

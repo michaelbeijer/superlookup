@@ -4,7 +4,6 @@ slug: technical-glossary-with-6-017-dutch-english-terms
 description: Terminology from Technical glossary with 6,017 Dutch-English terms (origin unknown)
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 5992
 source_url: "https://superlookup.wiki/wiki/Technical_glossary_with_6,017_Dutch-English_terms_(origin_unknown)"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from handboek geotechnisch bodemonderzoek ondergrond
 type: glossary
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 88
 source_url: "https://superlookup.wiki/wiki/handboek_geotechnisch_bodemonderzoek_ondergrond"
 last_updated: 2026-01-03

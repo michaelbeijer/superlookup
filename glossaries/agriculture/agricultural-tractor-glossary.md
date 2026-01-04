@@ -5,7 +5,6 @@ description: Terminology from agricultural tractor glossary
 type: glossary
 source_lang: nl
 target_lang: en
-domain: agriculture
 term_count: 324
 source_url: "https://superlookup.wiki/wiki/agricultural_tractor_glossary"
 last_updated: 2026-01-03

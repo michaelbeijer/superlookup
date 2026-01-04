@@ -5,7 +5,6 @@ description: Terminology from PRADO glossary (Technical terms related to securit
 type: glossary
 source_lang: nl
 target_lang: en
-domain: technical
 term_count: 399
 source_url: "https://superlookup.wiki/wiki/PRADO_glossary_(Technical_terms_related_to_security_features_and_documents)(nl-en)(Council_of_the_European_Union)"
 last_updated: 2026-01-03

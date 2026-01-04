@@ -5,7 +5,6 @@ description: Terminology from Insect glossary (79 Dutch-English-Latin entries)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 186
 source_url: "https://superlookup.wiki/wiki/Insect_glossary_(79_Dutch-English-Latin_entries)"
 last_updated: 2026-01-03

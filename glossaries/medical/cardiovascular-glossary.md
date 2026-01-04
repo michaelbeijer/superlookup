@@ -4,7 +4,6 @@ slug: cardiovascular-glossary
 description: Terminology related to the heart and cardiovascular system
 source_lang: nl
 target_lang: en
-domain: medical
 term_count: 45
 source_url: https://www.hartstichting.nl/
 author: Adapted from various sources

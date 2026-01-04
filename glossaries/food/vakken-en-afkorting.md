@@ -5,7 +5,6 @@ description: Terminology from Vakken en afkorting (Hubertus & Berkhoff - De Culi
 type: glossary
 source_lang: nl
 target_lang: en
-domain: food
 term_count: 36
 source_url: "https://superlookup.wiki/wiki/Vakken_en_afkorting_(Hubertus_&_Berkhoff_-_De_Culinaire_Vakschool)"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from Librarylingo (Bibliotheekwoorden Nederlands-Engels
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 785
 source_url: "https://superlookup.wiki/wiki/Librarylingo_(Bibliotheekwoorden_Nederlands-Engels)(Glossary_of_Dutch-English_library_related_terms)"
 last_updated: 2026-01-03

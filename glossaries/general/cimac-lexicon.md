@@ -5,7 +5,6 @@ description: Terminology from CIMAC Lexicon
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 567
 source_url: "https://superlookup.wiki/wiki/CIMAC_Lexicon"
 last_updated: 2026-01-03

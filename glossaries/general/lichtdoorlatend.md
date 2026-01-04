@@ -4,7 +4,6 @@ slug: lichtdoorlatend
 description: Terminology from lichtdoorlatend
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 20
 source_url: "https://superlookup.wiki/wiki/lichtdoorlatend"
 last_updated: 2026-01-03

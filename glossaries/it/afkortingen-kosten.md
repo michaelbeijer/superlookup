@@ -5,7 +5,6 @@ description: Terminology from Afkortingen kosten (Koninklijk Besluit van 30 nove
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 40
 source_url: "https://superlookup.wiki/wiki/Afkortingen_kosten_(Koninklijk_Besluit_van_30_november_1976)"
 last_updated: 2026-01-03

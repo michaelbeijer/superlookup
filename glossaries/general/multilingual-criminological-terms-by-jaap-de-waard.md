@@ -5,7 +5,6 @@ description: Terminology from Multilingual Criminological Terms, by Jaap de Waar
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 692
 source_url: "https://superlookup.wiki/wiki/Multilingual_Criminological_Terms,_by_Jaap_de_Waard_(693_entries)"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from Glossary of important terms used in the Dutch Inco
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 219
 source_url: "https://superlookup.wiki/wiki/Glossary_of_important_terms_used_in_the_Dutch_Income_Tax_Act_2001_(tax-consultants-international.com)"
 last_updated: 2026-01-03

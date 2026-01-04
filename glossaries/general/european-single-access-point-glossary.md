@@ -5,7 +5,6 @@ description: Terminology from European Single Access Point (ESAP) Glossary
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 139
 source_url: "https://superlookup.wiki/wiki/European_Single_Access_Point_(ESAP)_Glossary"
 last_updated: 2026-01-03

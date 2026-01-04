@@ -5,7 +5,6 @@ description: Terminology from Microsoft Excel function translations (481 Dutch-E
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 480
 source_url: "https://superlookup.wiki/wiki/Microsoft_Excel_function_translations_(481_Dutch-English_entries)"
 last_updated: 2026-01-03

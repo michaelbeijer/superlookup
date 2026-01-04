@@ -4,7 +4,6 @@ slug: ach
 description: Terminology from Ach
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 15
 source_url: "https://superlookup.wiki/wiki/Ach"
 last_updated: 2026-01-03

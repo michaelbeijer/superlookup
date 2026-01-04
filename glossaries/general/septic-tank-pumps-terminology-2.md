@@ -5,7 +5,6 @@ description: Terminology from Septic Tank Pumps Terminology (waterpumpsupply.com
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 362
 source_url: "https://superlookup.wiki/wiki/Septic_Tank_Pumps_Terminology_(waterpumpsupply.com)"
 last_updated: 2026-01-03

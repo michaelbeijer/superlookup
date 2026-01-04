@@ -5,7 +5,6 @@ description: Terminology from European Monitoring Centre for Drugs and Drug Addi
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 107
 source_url: "https://superlookup.wiki/wiki/European_Monitoring_Centre_for_Drugs_and_Drug_Addiction_(EMCDDA)_Glossary"
 last_updated: 2026-01-03

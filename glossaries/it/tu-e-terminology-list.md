@@ -5,7 +5,6 @@ description: Terminology from TU/e Terminology list
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 1107
 source_url: "https://superlookup.wiki/wiki/TU/e_Terminology_list"
 last_updated: 2026-01-03

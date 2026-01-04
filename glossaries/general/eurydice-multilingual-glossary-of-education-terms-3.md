@@ -5,7 +5,6 @@ description: Terminology from Eurydice multilingual glossary of education terms 
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 1387
 source_url: "https://superlookup.wiki/wiki/Eurydice_multilingual_glossary_of_education_terms_(1,388_terms)(nl,_en,_de,_fr)"
 last_updated: 2026-01-03

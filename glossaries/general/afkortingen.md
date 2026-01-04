@@ -5,7 +5,6 @@ description: Terminology from Afkortingen (etymologie.nl)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 73
 source_url: "https://superlookup.wiki/wiki/Afkortingen_(etymologie.nl)"
 last_updated: 2026-01-03

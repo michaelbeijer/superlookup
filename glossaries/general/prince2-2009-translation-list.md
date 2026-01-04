@@ -5,7 +5,6 @@ description: "Terminology from PRINCE2:2009 – Translation List (Dutch)"
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 426
 source_url: "https://superlookup.wiki/wiki/PRINCE2:2009_–_Translation_List_(Dutch)"
 last_updated: 2026-01-03

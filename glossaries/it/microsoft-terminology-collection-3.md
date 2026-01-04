@@ -4,7 +4,6 @@ slug: microsoft-terminology-collection
 description: Terminology from Microsoft Terminology Collection (33,004 Dutch-English entries)(Part 3)
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 13006
 source_url: "https://superlookup.wiki/wiki/Microsoft_Terminology_Collection_(33,004_Dutch-English_entries)(Part_3)"
 last_updated: 2026-01-03

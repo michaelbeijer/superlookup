@@ -5,7 +5,6 @@ description: Terminology from Thesaurus Zorg en Welzijn (TZW)(extract)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: medical
 term_count: 1828
 source_url: "https://superlookup.wiki/wiki/Thesaurus_Zorg_en_Welzijn_(TZW)(extract)"
 last_updated: 2026-01-03

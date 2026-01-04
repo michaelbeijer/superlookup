@@ -5,7 +5,6 @@ description: Terminology from OHIM Glossary (Office for Harmonization in the Int
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 86
 source_url: "https://superlookup.wiki/wiki/OHIM_Glossary_(Office_for_Harmonization_in_the_Internal_Market)(de,_en,_fr,_es,_it)"
 last_updated: 2026-01-03

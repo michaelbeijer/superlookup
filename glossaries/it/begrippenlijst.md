@@ -5,7 +5,6 @@ description: Terminology from Begrippenlijst (dpggrow.nl)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 29
 source_url: "https://superlookup.wiki/wiki/Begrippenlijst_(dpggrow.nl)"
 last_updated: 2026-01-03

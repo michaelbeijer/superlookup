@@ -5,7 +5,6 @@ description: Terminology from Afkortingenlijst van Team Taaladvies (de taaladvie
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 3580
 source_url: "https://superlookup.wiki/wiki/Afkortingenlijst_van_Team_Taaladvies_(de_taaladviesdienst_van_de_Vlaamse_overheid)"
 last_updated: 2026-01-03

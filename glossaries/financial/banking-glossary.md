@@ -5,7 +5,6 @@ description: Terminology from Banking glossary (165 Dutch-English terms)
 type: glossary
 source_lang: nl
 target_lang: en
-domain: financial
 term_count: 165
 source_url: "https://superlookup.wiki/wiki/Banking_glossary_(165_Dutch-English_terms)"
 last_updated: 2026-01-03

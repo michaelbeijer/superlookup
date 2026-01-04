@@ -4,7 +4,6 @@ slug: bis-ter-quarter-etc
 description: Terminology from bis, ter, quarter, etc.
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 26
 source_url: "https://superlookup.wiki/wiki/bis,_ter,_quarter,_etc."
 last_updated: 2026-01-03

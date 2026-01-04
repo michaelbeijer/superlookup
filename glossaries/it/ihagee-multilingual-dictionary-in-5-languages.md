@@ -5,7 +5,6 @@ description: Terminology from Ihagee Multilingual Dictionary in 5 Languages (nl-
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 431
 source_url: "https://superlookup.wiki/wiki/Ihagee_Multilingual_Dictionary_in_5_Languages_(nl-en-fr-de-sp)(432_entries)"
 last_updated: 2026-01-03

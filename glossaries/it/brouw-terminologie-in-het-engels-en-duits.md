@@ -5,7 +5,6 @@ description: Terminology from Brouw Terminologie in het Engels en Duits (brouwbl
 type: glossary
 source_lang: nl
 target_lang: en
-domain: it
 term_count: 32
 source_url: "https://superlookup.wiki/wiki/Brouw_Terminologie_in_het_Engels_en_Duits_(brouwblog.nl)"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from Centraal Register Opleidingen Hoger Onderwijs (CRO
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 832
 source_url: "https://superlookup.wiki/wiki/Centraal_Register_Opleidingen_Hoger_Onderwijs_(CROHO)(Dutch-English)"
 last_updated: 2026-01-03

@@ -5,7 +5,6 @@ description: Terminology from EuroVoc1
 type: glossary
 source_lang: nl
 target_lang: en
-domain: general
 term_count: 4631
 source_url: "https://superlookup.wiki/wiki/EuroVoc1"
 last_updated: 2026-01-03
