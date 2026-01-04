@@ -252,6 +252,31 @@ a:hover {
     font-size: 0.9rem;
 }
 
+/* Tags */
+.tags-row {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-left: auto;
+}
+
+.tag-badge {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    background: #e2e8f0;
+    color: #475569;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+@media (prefers-color-scheme: dark) {
+    .tag-badge {
+        background: #334155;
+        color: #cbd5e1;
+    }
+}
+
 /* Glossary meta */
 .glossary-meta {
     display: flex;
@@ -1090,6 +1115,205 @@ main {
 @media (max-width: 768px) {
     .header-tagline {
         display: none;
+    }
+}
+
+/* =====================================================
+   TERM PAGE STYLES
+   ===================================================== */
+
+/* Term meta badges */
+.term-meta {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.type-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.type-badge.term {
+    background: #e0f2fe;
+    color: #0369a1;
+}
+
+/* Term content styling */
+.term-content {
+    line-height: 1.7;
+}
+
+/* Section headers with shading */
+.term-content h2 {
+    font-size: 1.4rem;
+    color: var(--text-color);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 0.75rem 1rem;
+    background: linear-gradient(135deg, #f8fafc, #f1f5f9);
+    border-left: 4px solid var(--primary-color);
+    border-radius: 0 8px 8px 0;
+}
+
+.term-content h3 {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    padding: 0.5rem 1rem;
+    background: #f8fafc;
+    border-left: 3px solid #94a3b8;
+    border-radius: 0 4px 4px 0;
+}
+
+/* Lists with proper indentation */
+.term-content ul,
+.term-content ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;
+}
+
+.term-content li {
+    margin-bottom: 0.5rem;
+    padding-left: 0.25rem;
+}
+
+/* Nested lists */
+.term-content ul ul,
+.term-content ol ol,
+.term-content ul ol,
+.term-content ol ul {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Paragraphs */
+.term-content p {
+    margin-bottom: 1rem;
+}
+
+/* Tables in term content */
+.term-content table {
+    width: 100%;
+    margin: 1rem 0 1.5rem;
+    border-collapse: collapse;
+}
+
+.term-content th,
+.term-content td {
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border-color);
+    text-align: left;
+}
+
+.term-content th {
+    background: var(--bg-secondary);
+    font-weight: 600;
+}
+
+.term-content tbody tr:nth-child(even) {
+    background: #fafafa;
+}
+
+/* Code and preformatted text */
+.term-content code {
+    background: #f1f5f9;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-family: var(--font-mono);
+}
+
+.term-content pre {
+    background: #1e293b;
+    color: #e2e8f0;
+    padding: 1rem;
+    border-radius: 8px;
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+
+.term-content pre code {
+    background: none;
+    padding: 0;
+    color: inherit;
+}
+
+/* Links in term content */
+.term-content a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.term-content a:hover {
+    text-decoration: underline;
+}
+
+/* Term info box */
+.term-info {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+}
+
+.term-info h3 {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    background: none;
+    padding: 0;
+    border: none;
+}
+
+.term-info dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.5rem 1rem;
+}
+
+.term-info dt {
+    font-weight: 600;
+    color: var(--text-light);
+}
+
+.term-info dd {
+    color: var(--text-color);
+}
+
+/* Dark mode for term pages */
+@media (prefers-color-scheme: dark) {
+    .type-badge.term {
+        background: #0c4a6e;
+        color: #7dd3fc;
+    }
+    
+    .term-content h2 {
+        background: linear-gradient(135deg, #1e293b, #334155);
+        border-left-color: #60a5fa;
+    }
+    
+    .term-content h3 {
+        background: #1e293b;
+        border-left-color: #64748b;
+    }
+    
+    .term-content th {
+        background: #374151;
+    }
+    
+    .term-content tbody tr:nth-child(even) {
+        background: #1f2937;
+    }
+    
+    .term-content code {
+        background: #374151;
     }
 }
 

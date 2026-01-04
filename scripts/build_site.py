@@ -365,6 +365,24 @@ def load_all_content() -> tuple[list[dict], list[dict]]:
         item["type"] = "glossary"
         item["terms"] = parse_markdown_table(body)
         item["term_count"] = len(item["terms"])
+        
+        # Auto-add category folder name as a tag (if not already present)
+        existing_tags = item.get("tags", [])
+        # Normalize tags - handle mix of strings and dicts
+        normalized_tags = []
+        for t in existing_tags:
+            if isinstance(t, dict):
+                normalized_tags.append(t.get("name", str(t)))
+            else:
+                normalized_tags.append(str(t))
+        
+        existing_tag_names_lower = [t.lower() for t in normalized_tags]
+        category_tag = md_file.parent.name.replace("-", " ").title()
+        if category_tag.lower() not in existing_tag_names_lower:
+            item["tags"] = [category_tag] + normalized_tags
+        else:
+            item["tags"] = normalized_tags
+        
         glossaries.append(item)
 
     # Load terms from terms/ directory (at root level)
@@ -473,6 +491,63 @@ def generate_search_index(glossaries: list[dict], terms: list[dict]) -> list[dic
     return index
 
 
+def generate_categories_content(glossaries: list[dict], terms: list[dict], categories: dict) -> str:
+    """Generate the categories tab content showing all categories with their counts."""
+    
+    # Count glossaries and terms per category
+    cat_counts = {}
+    for g in glossaries:
+        cat = g.get("category", "uncategorized")
+        if cat not in cat_counts:
+            cat_counts[cat] = {"glossaries": 0, "terms": 0, "term_entries": 0}
+        cat_counts[cat]["glossaries"] += 1
+        cat_counts[cat]["term_entries"] += g.get("term_count", 0)
+    
+    for t in terms:
+        cat = t.get("category", "terms")
+        if cat not in cat_counts:
+            cat_counts[cat] = {"glossaries": 0, "terms": 0, "term_entries": 0}
+        cat_counts[cat]["terms"] += 1
+    
+    # Build category cards
+    cards_html = ""
+    for cat_slug, counts in sorted(cat_counts.items(), key=lambda x: x[0]):
+        cat_info = categories.get(cat_slug, {"name": cat_slug.replace("-", " ").title(), "color": "#666", "description": ""})
+        cat_name = cat_info.get("name", cat_slug.replace("-", " ").title())
+        cat_color = cat_info.get("color", "#666")
+        cat_desc = cat_info.get("description", "")
+        
+        glossary_count = counts["glossaries"]
+        term_count = counts["terms"]
+        entry_count = counts["term_entries"]
+        
+        cards_html += f'''
+        <div class="category-card">
+            <div class="category-card-header" style="background-color: {cat_color}">
+                <h3>{cat_name}</h3>
+            </div>
+            <div class="category-card-body">
+                <p class="category-description">{cat_desc}</p>
+                <div class="category-stats">
+                    <div class="cat-stat">
+                        <span class="cat-stat-value">{glossary_count}</span>
+                        <span class="cat-stat-label">Glossaries</span>
+                    </div>
+                    <div class="cat-stat">
+                        <span class="cat-stat-value">{term_count}</span>
+                        <span class="cat-stat-label">Terms</span>
+                    </div>
+                    <div class="cat-stat">
+                        <span class="cat-stat-value">{entry_count:,}</span>
+                        <span class="cat-stat-label">Entries</span>
+                    </div>
+                </div>
+            </div>
+        </div>'''
+    
+    return f'''<div class="categories-grid">{cards_html}</div>'''
+
+
 def generate_table_for_items(items: list[dict], categories: dict, item_type: str) -> tuple[str, str]:
     """Generate HTML table sections for a list of items."""
     sorted_items = sorted(items, key=lambda x: x["title"].upper())
@@ -576,6 +651,7 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
 
     glossary_nav, glossary_sections = generate_table_for_items(glossaries, categories, "glossary")
     terms_nav, terms_sections = generate_table_for_items(terms, categories, "term")
+    categories_content = generate_categories_content(glossaries, terms, categories)
 
     return f'''<!DOCTYPE html>
 <html lang="en">
@@ -633,6 +709,82 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
             margin-bottom: 1rem;
             font-style: italic;
         }}
+        /* Category cards */
+        .categories-grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }}
+        .category-card {{
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }}
+        .category-card:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+        }}
+        .category-card-header {{
+            padding: 1rem 1.25rem;
+            color: white;
+        }}
+        .category-card-header h3 {{
+            margin: 0;
+            font-size: 1.1rem;
+        }}
+        .category-card-body {{
+            padding: 1rem 1.25rem;
+        }}
+        .category-description {{
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+            min-height: 2.4em;
+        }}
+        .category-stats {{
+            display: flex;
+            gap: 1rem;
+            justify-content: space-around;
+            padding-top: 0.75rem;
+            border-top: 1px solid #eee;
+        }}
+        .cat-stat {{
+            text-align: center;
+        }}
+        .cat-stat-value {{
+            display: block;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #333;
+        }}
+        .cat-stat-label {{
+            font-size: 0.75rem;
+            color: #888;
+            text-transform: uppercase;
+        }}
+        @media (prefers-color-scheme: dark) {{
+            .category-card {{
+                background: #1f2937;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            }}
+            .category-card:hover {{
+                box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+            }}
+            .category-description {{
+                color: #9ca3af;
+            }}
+            .category-stats {{
+                border-top-color: #374151;
+            }}
+            .cat-stat-value {{
+                color: #f3f4f6;
+            }}
+            .cat-stat-label {{
+                color: #9ca3af;
+            }}
+        }}
     </style>
 </head>
 <body>
@@ -671,6 +823,9 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
                         <button class="tab-button" onclick="showTab('terms', this)">
                             &#128214; Terms<span class="count">{total_terms_pages:,}</span>
                         </button>
+                        <button class="tab-button" onclick="showTab('tags', this)">
+                            &#127991; Tags<span class="count">{len(categories)}</span>
+                        </button>
                     </div>
 
                     <div id="tab-glossaries" class="tab-content active">
@@ -687,6 +842,11 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
                             {terms_nav}
                         </nav>
                         {terms_sections}
+                    </div>
+
+                    <div id="tab-tags" class="tab-content">
+                        <p class="tab-description">Browse content by tag. Each glossary is automatically tagged with its category.</p>
+                        {categories_content}
                     </div>
                 </section>
         </main>
@@ -771,6 +931,13 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
         cells = "".join(f"<td>{term.get(h, '')}</td>" for h in headers)
         term_rows += f"<tr>{cells}</tr>\n"
 
+    # Generate tags HTML if tags exist
+    tags = glossary.get("tags", [])
+    tags_html = ""
+    if tags:
+        tag_badges = " ".join(f'<span class="tag-badge">{tag}</span>' for tag in tags)
+        tags_html = f'<div class="tags-row">{tag_badges}</div>'
+
     site_header = generate_site_header("glossary")
     site_footer = generate_site_footer()
 
@@ -799,6 +966,7 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
                 <span class="category-badge" style="background-color: {cat_info.get('color', '#666')}">{cat_info.get('name', '')}</span>
                 <span class="lang-badge">{glossary.get('source_lang', '')} &rarr; {glossary.get('target_lang', '')}</span>
                 <span class="term-count">{glossary.get('term_count', 0):,} terms</span>
+                {tags_html}
             </section>
 
             <section class="glossary-content" data-pagefind-body>
@@ -837,6 +1005,14 @@ def generate_term_page(term: dict, categories: dict) -> str:
     """Generate an individual term page."""
     cat_info = categories.get(term.get("category", "terms"), {"name": "Terms", "color": "#34495e"})
     html_content = term.get("html_content", "")
+    
+    # Generate tags HTML if tags exist
+    tags = term.get("tags", [])
+    tags_html = ""
+    if tags:
+        tag_badges = " ".join(f'<span class="tag-badge">{tag}</span>' for tag in tags)
+        tags_html = f'<div class="tags-row">{tag_badges}</div>'
+    
     site_header = generate_site_header("term")
     site_footer = generate_site_footer()
 
@@ -865,6 +1041,7 @@ def generate_term_page(term: dict, categories: dict) -> str:
                 <span class="type-badge term">Term</span>
                 <span class="category-badge" style="background-color: {cat_info.get('color', '#666')}">{cat_info.get('name', 'Terms')}</span>
                 <span class="lang-badge">{term.get('source_lang', 'nl')} &rarr; {term.get('target_lang', 'en')}</span>
+                {tags_html}
             </section>
 
             <section class="term-content" data-pagefind-body>
