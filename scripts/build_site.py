@@ -423,7 +423,7 @@ def generate_site_header(current_page: str = "home") -> str:
                 <a href="/beijerterm/" class="site-brand" title="Beijerterm homepage">
                     <img src="{'../' if current_page != 'home' else ''}mb-icon.svg" alt="Beijerterm" class="site-logo">
                     <span>Beijerterm</span>
-                    <span class="version-badge">v1.0.3</span>
+                    <span class="version-badge">v1.0.4</span>
                 </a>
                 {tagline}
             </div>
@@ -885,6 +885,22 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
                 showSubResults: true,
                 showImages: false
             }});
+
+            // Support URL search parameter: ?q=searchterm
+            const urlParams = new URLSearchParams(window.location.search);
+            const searchQuery = urlParams.get('q');
+            if (searchQuery) {{
+                // Wait for Pagefind UI to initialize, then trigger search
+                setTimeout(() => {{
+                    const searchInput = document.querySelector('.pagefind-ui__search-input');
+                    if (searchInput) {{
+                        searchInput.value = searchQuery;
+                        searchInput.dispatchEvent(new Event('input', {{ bubbles: true }}));
+                        // Scroll to search results
+                        document.getElementById('search').scrollIntoView({{ behavior: 'smooth' }});
+                    }}
+                }}, 100);
+            }}
 
             // Intercept ALL link clicks to pass search query (Pagefind uses shadow DOM)
             document.addEventListener('click', function(e) {{

@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.0.4] - 2026-01-04
+
+### Added
+- **URL Search Parameter**: Site now supports `?q=searchterm` URL parameter for programmatic search
+- Enables integration with external tools like Supervertaler's Superlookup
+- Auto-scrolls to search results when query parameter is provided
+
 ## [1.0.3] - 2026-01-04
 
 ### Added
