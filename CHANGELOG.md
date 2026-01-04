@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-01-04
+
+### Added
+- **Actionable Tag Cards**: Tags tab now shows clickable links to glossaries and terms instead of just statistics
+- Each tag card displays lists of glossary and term links for that category
+- Summary line shows total entry count per tag
+
+### Changed
+- Tag card layout redesigned with dedicated sections for "📚 Glossaries" and "📄 Terms"
+- Grid layout widened from 280px to 320px minimum card width for better readability
+
 ## [1.0.2] - 2026-01-04
 
 ### Changed
