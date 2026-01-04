@@ -402,16 +402,17 @@ def generate_site_header(current_page: str = "home") -> str:
     return f'''<header class="site-header">
         <div class="header-content">
             <div class="header-left">
-                <a href="/beijerterm/" class="site-brand">
-                    <img src="{'../' if current_page != 'home' else ''}sv-icon.svg" alt="" class="site-logo">
+                <a href="/beijerterm/" class="site-brand" title="Beijerterm homepage">
+                    <img src="{'../' if current_page != 'home' else ''}bt-icon.svg" alt="Beijerterm" class="site-logo">
                     <span>Beijerterm</span>
                     <span class="version-badge">v1.0.2</span>
                 </a>
                 {tagline}
             </div>
             <nav class="header-nav">
-                <a href="https://github.com/michaelbeijer/beijerterm" target="_blank">GitHub</a>
-                <a href="https://supervertaler.com" target="_blank">Supervertaler</a>
+                <a href="https://michaelbeijer.co.uk" target="_blank" title="Author's website">Michael Beijer</a>
+                <a href="https://github.com/michaelbeijer/beijerterm" target="_blank" title="View source code and contribute">GitHub</a>
+                <a href="https://supervertaler.com" target="_blank" title="AI-powered translation workbench">Supervertaler</a>
             </nav>
         </div>
     </header>'''
@@ -932,8 +933,8 @@ def build_site():
     print("Copying static assets...")
     if (SITE_DIR / "styles.css").exists():
         shutil.copy(SITE_DIR / "styles.css", OUTPUT_DIR / "styles.css")
-    if (SITE_DIR / "sv-icon.svg").exists():
-        shutil.copy(SITE_DIR / "sv-icon.svg", OUTPUT_DIR / "sv-icon.svg")
+    if (SITE_DIR / "bt-icon.svg").exists():
+        shutil.copy(SITE_DIR / "bt-icon.svg", OUTPUT_DIR / "bt-icon.svg")
     if (SITE_DIR / "favicon.ico").exists():
         shutil.copy(SITE_DIR / "favicon.ico", OUTPUT_DIR / "favicon.ico")
 
