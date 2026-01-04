@@ -1,4 +1,4 @@
-# BeijerTerm
+# Beijerterm
 
 [![Version](https://img.shields.io/badge/version-v1.0.1-blue.svg)](https://github.com/michaelbeijer/superlookup/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -23,7 +23,7 @@ Every glossary is a Markdown file. Full-text search powered by Pagefind.
 ##  Structure
 
 ```
-BeijerTerm/
+Beijerterm/
  glossaries/
     automotive/
        _category.yaml       # Category metadata
