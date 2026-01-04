@@ -1,14 +1,14 @@
 # Beijerterm
 
-[![Version](https://img.shields.io/badge/version-v1.0.1-blue.svg)](https://github.com/michaelbeijer/superlookup/releases)
+[![Version](https://img.shields.io/badge/version-v1.0.1-blue.svg)](https://github.com/michaelbeijer/beijerterm/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/hosted-GitHub%20Pages-orange.svg)](https://michaelbeijer.github.io/superlookup/)
+[![GitHub Pages](https://img.shields.io/badge/hosted-GitHub%20Pages-orange.svg)](https://michaelbeijer.github.io/beijerterm/)
 
 **An open-source, GitHub-hosted multilingual terminology database.**
 
 Every glossary is a Markdown file. Full-text search powered by Pagefind.
 
- **Live site**: [michaelbeijer.github.io/superlookup](https://michaelbeijer.github.io/superlookup/)
+ **Live site**: [michaelbeijer.github.io/beijerterm](https://michaelbeijer.github.io/beijerterm/)
 
 ##  Features
 

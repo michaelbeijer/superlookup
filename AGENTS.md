@@ -14,8 +14,8 @@
 | **Name** | BeijerTerm |
 | **Type** | Static website (GitHub Pages) |
 | **Language** | Python (build scripts), HTML/CSS/JS (frontend) |
-| **Repository** | https://github.com/michaelbeijer/superlookup |
-| **Live Site** | https://michaelbeijer.github.io/superlookup/ |
+| **Repository** | https://github.com/michaelbeijer/beijerterm |
+| **Live Site** | https://michaelbeijer.github.io/beijerterm/ |
 | **Build System** | Python + Pagefind (search indexing) |
 | **Hosting** | GitHub Pages via GitHub Actions |
 | **Related Project** | [Supervertaler](https://supervertaler.com) - Desktop translation app |
@@ -127,7 +127,7 @@ source_lang: en
 target_lang: nl
 domain: agriculture
 term_count: 288
-source_url: "https://github.com/michaelbeijer/superlookup/blob/main/glossaries/..."
+source_url: \"https://github.com/michaelbeijer/beijerterm/blob/main/glossaries/...\"
 last_updated: 2026-01-03
 tags:
   - Agriculture
@@ -326,13 +326,13 @@ python -m http.server 8080
 
 ## 🔗 Useful Links
 
-- **Live Site**: https://michaelbeijer.github.io/superlookup/
-- **GitHub Repository**: https://github.com/michaelbeijer/superlookup
-- **GitHub Actions**: https://github.com/michaelbeijer/superlookup/actions
+- **Live Site**: https://michaelbeijer.github.io/beijerterm/
+- **GitHub Repository**: https://github.com/michaelbeijer/beijerterm
+- **GitHub Actions**: https://github.com/michaelbeijer/beijerterm/actions
 - **Supervertaler**: https://supervertaler.com
 - **Author**: https://michaelbeijer.co.uk
 
 ---
 
 *This file is the single source of truth for AI coding assistants working on this project.*
-*Last updated: January 3, 2026*
+*Last updated: January 4, 2026*

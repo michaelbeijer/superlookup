@@ -106,4 +106,4 @@ Each `.md` file contains:
 ---
 
 *BeijerTerm - Open source multilingual terminology database*
-*https://michaelbeijer.github.io/superlookup/*
+*https://michaelbeijer.github.io/beijerterm/*

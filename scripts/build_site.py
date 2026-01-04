@@ -19,7 +19,7 @@ import shutil
 GLOSSARIES_DIR = Path("glossaries")
 SITE_DIR = Path("site")
 OUTPUT_DIR = Path("_site")
-GITHUB_BASE_URL = "https://github.com/michaelbeijer/superlookup/blob/main/glossaries"
+GITHUB_BASE_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/glossaries"
 
 # Scroll to top button HTML snippet
 SCROLL_TO_TOP_HTML = '''
@@ -381,7 +381,7 @@ def generate_site_header(current_page: str = "home") -> str:
     return f'''<header class="site-header">
         <div class="header-content">
             <div class="header-left">
-                <a href="/superlookup/" class="site-brand">
+                <a href="/beijerterm/" class="site-brand">
                     <img src="{'../' if current_page != 'home' else ''}sv-icon.svg" alt="" class="site-logo">
                     <span>BeijerTerm</span>
                     <span class="version-badge">v1.0.1</span>
@@ -389,7 +389,7 @@ def generate_site_header(current_page: str = "home") -> str:
                 {tagline}
             </div>
             <nav class="header-nav">
-                <a href="https://github.com/michaelbeijer/superlookup" target="_blank">GitHub</a>
+                <a href="https://github.com/michaelbeijer/beijerterm" target="_blank">GitHub</a>
                 <a href="https://supervertaler.com" target="_blank">Supervertaler</a>
             </nav>
         </div>
@@ -407,7 +407,7 @@ def generate_site_footer() -> str:
             <div class="footer-section">
                 <h4>Links</h4>
                 <ul>
-                    <li><a href="https://github.com/michaelbeijer/superlookup">GitHub Repository</a></li>
+                    <li><a href="https://github.com/michaelbeijer/beijerterm">GitHub Repository</a></li>
                     <li><a href="https://supervertaler.com">Supervertaler</a></li>
                     <li><a href="https://michaelbeijer.co.uk">Michael Beijer</a></li>
                 </ul>
