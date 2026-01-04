@@ -403,7 +403,7 @@ def generate_site_header(current_page: str = "home") -> str:
         <div class="header-content">
             <div class="header-left">
                 <a href="/beijerterm/" class="site-brand" title="Beijerterm homepage">
-                    <img src="{'../' if current_page != 'home' else ''}bt-icon.svg" alt="Beijerterm" class="site-logo">
+                    <img src="{'../' if current_page != 'home' else ''}mb-icon.svg" alt="Beijerterm" class="site-logo">
                     <span>Beijerterm</span>
                     <span class="version-badge">v1.0.2</span>
                 </a>
@@ -933,10 +933,10 @@ def build_site():
     print("Copying static assets...")
     if (SITE_DIR / "styles.css").exists():
         shutil.copy(SITE_DIR / "styles.css", OUTPUT_DIR / "styles.css")
-    if (SITE_DIR / "bt-icon.svg").exists():
-        shutil.copy(SITE_DIR / "bt-icon.svg", OUTPUT_DIR / "bt-icon.svg")
-    if (SITE_DIR / "favicon.ico").exists():
-        shutil.copy(SITE_DIR / "favicon.ico", OUTPUT_DIR / "favicon.ico")
+    if (SITE_DIR / "mb-icon.svg").exists():
+        shutil.copy(SITE_DIR / "mb-icon.svg", OUTPUT_DIR / "mb-icon.svg")
+    if (SITE_DIR / "MB.ico").exists():
+        shutil.copy(SITE_DIR / "MB.ico", OUTPUT_DIR / "favicon.ico")
 
     print(f"Site built successfully in {OUTPUT_DIR}/")
     print(f"\nSummary:")
