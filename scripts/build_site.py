@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build script for Superlookup.
+Build script for BeijerTerm.
 
 Reads all Markdown glossary and term files, generates HTML pages,
 and creates a JSON index for search functionality.
@@ -383,7 +383,7 @@ def generate_site_header(current_page: str = "home") -> str:
             <div class="header-left">
                 <a href="/superlookup/" class="site-brand">
                     <img src="{'../' if current_page != 'home' else ''}sv-icon.svg" alt="" class="site-logo">
-                    <span>Superlookup</span>
+                    <span>BeijerTerm</span>
                     <span class="version-badge">v1.0.1</span>
                 </a>
                 {tagline}
@@ -401,7 +401,7 @@ def generate_site_footer() -> str:
     return '''<footer class="site-footer">
         <div class="footer-content">
             <div class="footer-section">
-                <h4>Superlookup</h4>
+                <h4>BeijerTerm</h4>
                 <p>Open source multilingual terminology database for translators.</p>
             </div>
             <div class="footer-section">
@@ -560,7 +560,7 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], categories: d
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Superlookup - Open Source Multilingual Terminology</title>
+    <title>BeijerTerm - Open Source Multilingual Terminology</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="pagefind/pagefind-ui.css">
@@ -757,7 +757,7 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{glossary['title']} - Superlookup</title>
+    <title>{glossary['title']} - BeijerTerm</title>
     <link rel="stylesheet" href="../styles.css">
     <link rel="icon" href="../favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../pagefind/pagefind-ui.css">
@@ -823,7 +823,7 @@ def generate_term_page(term: dict, categories: dict) -> str:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{term['title']} - Superlookup</title>
+    <title>{term['title']} - BeijerTerm</title>
     <link rel="stylesheet" href="../styles.css">
     <link rel="icon" href="../favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../pagefind/pagefind-ui.css">
@@ -872,7 +872,7 @@ def generate_term_page(term: dict, categories: dict) -> str:
 
 def build_site():
     """Main build function."""
-    print("Building Superlookup site...")
+    print("Building BeijerTerm site...")
 
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)

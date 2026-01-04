@@ -1,17 +1,17 @@
-# Superlookup - AI Agent Documentation
+# BeijerTerm - AI Agent Documentation
 
 > **This is the single source of truth for AI coding assistants working on this project.**
-> **Last Updated:** January 3, 2026
+> **Last Updated:** January 4, 2026
 
 ---
 
 ## 🎯 Project Overview
 
-**Superlookup** is an open-source multilingual terminology database and glossary website. It provides a searchable collection of Dutch-English translation glossaries, terminology lists, and individual term definitions for professional translators.
+**BeijerTerm** is an open-source multilingual terminology database and glossary website. It provides a searchable collection of Dutch-English translation glossaries, terminology lists, and individual term definitions for professional translators.
 
 | Property | Value |
 |----------|-------|
-| **Name** | Superlookup |
+| **Name** | BeijerTerm |
 | **Type** | Static website (GitHub Pages) |
 | **Language** | Python (build scripts), HTML/CSS/JS (frontend) |
 | **Repository** | https://github.com/michaelbeijer/superlookup |
@@ -319,7 +319,7 @@ python -m http.server 8080
 | Project | Description | Link |
 |---------|-------------|------|
 | **Supervertaler** | Desktop translation app (PyQt6) | https://supervertaler.com |
-| **Superlookup (in-app)** | Unified lookup in Supervertaler | Part of Supervertaler |
+| **Superlookup (in-app)** | Unified lookup panel in Supervertaler | Part of Supervertaler |
 | **Supermemory** | Vector-indexed semantic TM search | Part of Supervertaler |
 
 ---

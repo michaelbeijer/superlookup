@@ -1,4 +1,4 @@
-# Superlookup
+# BeijerTerm
 
 [![Version](https://img.shields.io/badge/version-v1.0.1-blue.svg)](https://github.com/michaelbeijer/superlookup/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -23,7 +23,7 @@ Every glossary is a Markdown file. Full-text search powered by Pagefind.
 ##  Structure
 
 ```
-Superlookup/
+BeijerTerm/
  glossaries/
     automotive/
        _category.yaml       # Category metadata
@@ -116,7 +116,7 @@ npx serve _site
 
 ##  Versioning
 
-Superlookup uses [Semantic Versioning](https://semver.org/):
+BeijerTerm uses [Semantic Versioning](https://semver.org/):
 
 - **MAJOR** (1.x.x): Breaking changes to data format or API
 - **MINOR** (x.1.x): New features (backward compatible)

@@ -1,4 +1,4 @@
-# Contributing to Superlookup Glossaries
+# Contributing to BeijerTerm Glossaries
 
 Thank you for your interest in contributing! This project aims to build the world's largest open-source multilingual terminology database.
 
