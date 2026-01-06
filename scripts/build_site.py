@@ -321,7 +321,7 @@ def parse_markdown_table(body: str) -> list[dict]:
 
 def markdown_to_html(md_content: str) -> str:
     """Convert Markdown to HTML."""
-    html = markdown.markdown(md_content, extensions=['tables', 'fenced_code'])
+    html = markdown.markdown(md_content, extensions=['tables', 'fenced_code', 'footnotes'])
     return html
 
 
