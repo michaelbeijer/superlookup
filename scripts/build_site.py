@@ -434,7 +434,7 @@ def generate_site_header(current_page: str = "home") -> str:
     else:
         asset_prefix = "../"
     home_active = 'class="active"' if current_page == "home" else ''
-    tagline = '<span class="header-tagline">Open-source, GitHub-hosted multilingual terminology database</span>'
+    tagline = '<span class="header-tagline">Open-source, multilingual terminology database</span>'
     return f'''<header class="site-header">
         <div class="header-content">
             <div class="header-left">
