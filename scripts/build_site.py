@@ -16,12 +16,12 @@ from datetime import datetime
 import shutil
 
 # Configuration
-GLOSSARIES_DIR = Path("glossaries")
-TERMS_DIR = Path("terms")
+GLOSSARIES_DIR = Path("content/glossaries")
+TERMS_DIR = Path("content/terms")
 SITE_DIR = Path("site")
 OUTPUT_DIR = Path("_site")
-GITHUB_GLOSSARIES_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/glossaries"
-GITHUB_TERMS_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/terms"
+GITHUB_GLOSSARIES_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/content/glossaries"
+GITHUB_TERMS_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/content/terms"
 
 # Scroll to top button HTML snippet
 SCROLL_TO_TOP_HTML = '''
