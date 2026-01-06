@@ -1482,16 +1482,16 @@ def generate_term_page(term: dict, categories: dict) -> str:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{term['title']} - Beijerterm</title>
-    <link rel="stylesheet" href="../styles.css">
-    <link rel="icon" href="../favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="../pagefind/pagefind-ui.css">
+    <link rel="stylesheet" href="../../styles.css">
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../pagefind/pagefind-ui.css">
 </head>
 <body>
     {site_header}
 
     <div class="page-container">
         <div class="page-header">
-            <nav class="breadcrumb"><a href="../index.html">&larr; Back to all content</a></nav>
+            <nav class="breadcrumb"><a href="../../index.html">&larr; Back to all content</a></nav>
             <h1>{term['title']}</h1>
             <p class="page-description">{term.get('description', '')}</p>
         </div>
@@ -1516,7 +1516,7 @@ def generate_term_page(term: dict, categories: dict) -> str:
 
     {site_footer}
 
-    <script src="../pagefind/pagefind-ui.js"></script>
+    <script src="../../pagefind/pagefind-ui.js"></script>
 {SEARCH_HIGHLIGHT_HTML}
 {SCROLL_TO_TOP_HTML}
 </body>
