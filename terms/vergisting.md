@@ -19,12 +19,14 @@ tags:
 **vergisting**  
 Process waarbij organisch (biologisch) materiaal door micro-organismen wordt afgebroken, doorgaans onder **anaerobe** omstandigheden, met vorming van onder meer **digestaat** en vaak **biogas** (methaanrijk gas).
 
-### Related Dutch terms
-- anaerobe vergisting  
-- anaerobe afbraak  
-- vergisten (werkwoord)  
-- vergister  
-- vergistingstank  
+### Related terms
+- vergisting → digestion
+- vergisten (v.) → to digest / is digested
+- vergister → digester
+- vergistingstank → digestion tank
+- betonnen tank voor vergisting → concrete tank for digestion
+- vergisting van biomassa → digestion of biomass
+- anaerobe vergisting → anaerobic digestion
 
 ---
 
