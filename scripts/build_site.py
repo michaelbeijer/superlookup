@@ -424,15 +424,22 @@ def load_all_content() -> tuple[list[dict], list[dict]]:
 
 def generate_site_header(current_page: str = "home") -> str:
     """Generate the site header with navigation."""
-    # Pages in root directory: home, tags. Pages in subdirectories: glossary, term
-    is_root_page = current_page in ("home", "tags")
+    # Pages in root directory: home, tags
+    # Pages one level deep: glossary (in /glossary/)
+    # Pages two levels deep: term (in /terms/slug/)
+    if current_page in ("home", "tags"):
+        asset_prefix = ""
+    elif current_page == "term":
+        asset_prefix = "../../"
+    else:
+        asset_prefix = "../"
     home_active = 'class="active"' if current_page == "home" else ''
     tagline = '<span class="header-tagline">Open-source, GitHub-hosted multilingual terminology database</span>'
     return f'''<header class="site-header">
         <div class="header-content">
             <div class="header-left">
-                <a href="/beijerterm/" class="site-brand" title="Beijerterm homepage">
-                    <img src="{'' if is_root_page else '../'}mb-icon.svg" alt="Beijerterm" class="site-logo">
+                <a href="/" class="site-brand" title="Beijerterm homepage">
+                    <img src="{asset_prefix}mb-icon.svg" alt="Beijerterm" class="site-logo">
                     <span>Beijerterm</span>
                     <span class="version-badge">v1.2.0</span>
                 </a>
