@@ -1,7 +1,17 @@
 ---
 title: 1,016 Dutch-English technical terms
 slug: 1-016-dutch-english-technical-terms
-description: Terminology from 1,016 Dutch-English technical terms
+description: |
+  This glossary covers **Dutch environmental terminology** commonly found 
+  in EIA reports and permit applications.
+  
+  Special attention is given to terms that are frequently mistranslated.
+  
+  **Sources:**
+  - RIVM terminology database
+  - EU environmental glossary
+  
+  See also: [Wastewater glossary](/glossaries/wastewater/)
 type: glossary
 source_lang: nl
 target_lang: en
