@@ -736,7 +736,8 @@ def generate_table_for_items(items: list[dict], categories: dict, item_type: str
             by_letter[first_letter] = []
         by_letter[first_letter].append(item)
 
-    all_letters = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    # Include # for items starting with special characters (numbers, brackets, etc.)
+    all_letters = ["#"] + list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
     
     alphabet_nav = ""
     for letter in all_letters:
