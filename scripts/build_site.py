@@ -1591,9 +1591,8 @@ def build_site():
     if (SITE_DIR / "MB.ico").exists():
         shutil.copy(SITE_DIR / "MB.ico", OUTPUT_DIR / "favicon.ico")
     
-    # Create CNAME file for custom domain
-    with open(OUTPUT_DIR / "CNAME", "w", encoding="utf-8") as f:
-        f.write("beijerterm.com")
+    # Note: CNAME file should be added via GitHub Pages settings, not here
+    # This avoids redirect loops when testing without custom domain
 
     print(f"Site built successfully in {OUTPUT_DIR}/")
     print(f"\nSummary:")
