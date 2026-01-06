@@ -18,10 +18,12 @@ import shutil
 # Configuration
 GLOSSARIES_DIR = Path("content/glossaries")
 TERMS_DIR = Path("content/terms")
+RESOURCES_DIR = Path("content/resources")
 SITE_DIR = Path("site")
 OUTPUT_DIR = Path("_site")
 GITHUB_GLOSSARIES_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/content/glossaries"
 GITHUB_TERMS_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/content/terms"
+GITHUB_RESOURCES_URL = "https://github.com/michaelbeijer/beijerterm/blob/main/content/resources"
 
 # Scroll to top button HTML snippet
 SCROLL_TO_TOP_HTML = '''
@@ -336,10 +338,11 @@ def load_categories() -> dict:
     return categories
 
 
-def load_all_content() -> tuple[list[dict], list[dict]]:
-    """Load all glossary and term files."""
+def load_all_content() -> tuple[list[dict], list[dict], list[dict]]:
+    """Load all glossary, term, and resource files."""
     glossaries = []
     terms = []
+    resources = []
 
     # Load glossaries from glossaries/ directory
     for md_file in GLOSSARIES_DIR.rglob("*.md"):
@@ -419,17 +422,45 @@ def load_all_content() -> tuple[list[dict], list[dict]]:
             item["html_content"] = markdown_to_html(body)
             terms.append(item)
 
-    return glossaries, terms
+    # Load resources from resources/ directory
+    if RESOURCES_DIR.exists():
+        for md_file in RESOURCES_DIR.rglob("*.md"):
+            with open(md_file, "r", encoding="utf-8") as f:
+                content = f.read()
+
+            frontmatter, body = parse_frontmatter(content)
+            if not frontmatter:
+                continue
+
+            # Build GitHub source URL for resources
+            relative_path = md_file.relative_to(RESOURCES_DIR)
+            github_url = f"{GITHUB_RESOURCES_URL}/{relative_path}".replace("\\", "/")
+
+            item = {
+                "file": str(md_file),
+                "category": "resources",
+                "body": body,
+                **frontmatter,
+            }
+            item["source_url"] = github_url
+            item["type"] = "resource"
+            item["html_content"] = markdown_to_html(body)
+            resources.append(item)
+
+    return glossaries, terms, resources
 
 
 def generate_site_header(current_page: str = "home") -> str:
     """Generate the site header with navigation."""
     # Pages in root directory: home, tags
-    # Pages two levels deep: glossary (in /glossaries/slug/), term (in /terms/slug/)
+    # Pages one level deep: glossaries_index, terms_index, resources_index (in /glossaries/, /terms/, /resources/)
+    # Pages two levels deep: glossary, term, resource (in /glossaries/slug/, /terms/slug/, /resources/slug/)
     if current_page in ("home", "tags"):
         asset_prefix = ""
+    elif current_page in ("glossaries_index", "terms_index", "resources_index"):
+        asset_prefix = "../"
     else:
-        # glossary and term pages are both 2 levels deep
+        # glossary, term, and resource pages are 2 levels deep
         asset_prefix = "../../"
     home_active = 'class="active"' if current_page == "home" else ''
     tagline = '<span class="header-tagline">Open-source, multilingual terminology database</span>'
@@ -1534,6 +1565,107 @@ def generate_terms_index(terms: list[dict], glossaries: list[dict], categories: 
 </html>'''
 
 
+def generate_resources_index(resources: list[dict], glossaries: list[dict], terms: list[dict], categories: dict, tag_index: dict) -> str:
+    """Generate the /resources/ index page listing all resource pages."""
+    site_header = generate_site_header("resources_index")
+    site_footer = generate_site_footer()
+    
+    total_glossaries = len(glossaries)
+    total_terms_pages = len(terms)
+    total_resources = len(resources)
+    total_term_entries = sum(g.get('term_count', 0) for g in glossaries)
+    total_tags = len(tag_index)
+    
+    # Build resource list
+    resource_items = ""
+    for resource in sorted(resources, key=lambda x: x.get('title', '').upper()):
+        tags = resource.get('tags', [])
+        tags_html = ' '.join(f'<span class="tag-badge">{t}</span>' for t in tags[:3]) if tags else ''
+        if len(tags) > 3:
+            tags_html += f' <span class="tag-more">+{len(tags) - 3}</span>'
+        
+        resource_items += f'''
+            <div class="resource-card">
+                <h3><a href="/resources/{resource['slug']}/">{resource['title']}</a></h3>
+                <p>{resource.get('description', '')}</p>
+                <div class="resource-meta">
+                    {tags_html}
+                    <span class="date">Updated: {resource.get('last_updated', 'Unknown')}</span>
+                </div>
+            </div>'''
+    
+    return f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources - Beijerterm</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+</head>
+<body>
+    {site_header}
+
+    <div class="page-container">
+        <main>
+            <section class="search-section">
+                <div id="search"></div>
+            </section>
+
+            <section class="stats">
+                <div class="stat">
+                    <span class="stat-value">{total_glossaries}</span>
+                    <span class="stat-label">Glossaries</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value">{total_terms_pages:,}</span>
+                    <span class="stat-label">Term Pages</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value">{total_resources}</span>
+                    <span class="stat-label">Resources</span>
+                </div>
+                <div class="stat">
+                    <a href="../tags.html" class="stat-link">
+                        <span class="stat-value">{total_tags}</span>
+                        <span class="stat-label">🏷️ Tags</span>
+                    </a>
+                </div>
+            </section>
+
+            <section class="content-browser">
+                <div class="tabs">
+                    <a href="/glossaries/" class="tab-button">
+                        &#128218; Glossaries<span class="count">{total_glossaries}</span>
+                    </a>
+                    <a href="/terms/" class="tab-button">
+                        &#128214; Terms<span class="count">{total_terms_pages:,}</span>
+                    </a>
+                    <a href="/resources/" class="tab-button active">
+                        📄 Resources<span class="count">{total_resources}</span>
+                    </a>
+                </div>
+
+                <div class="tab-content active">
+                    <p class="tab-description">Articles, guides, dictionary reviews, and other reference materials.</p>
+                    <div class="resources-grid">
+                        {resource_items if resource_items else '<p class="empty-message">No resources yet. <a href="https://github.com/michaelbeijer/beijerterm">Contribute one!</a></p>'}
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    {site_footer}
+    <script src="../pagefind/pagefind-ui.js"></script>
+    <script>
+        new PagefindUI({{ element: "#search", showSubResults: true }});
+    </script>
+{SCROLL_TO_TOP_HTML}
+</body>
+</html>'''
+
+
 def generate_glossary_page(glossary: dict, categories: dict) -> str:
     """Generate an individual glossary page."""
     cat_info = categories.get(glossary["category"], {"name": glossary["category"], "color": "#666"})
@@ -1558,6 +1690,10 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
         tag_badges = " ".join(f'<span class="tag-badge">{tag}</span>' for tag in tags)
         tags_html = f'<div class="tags-row">{tag_badges}</div>'
 
+    # Render description as markdown for rich content support
+    description_raw = glossary.get('description', '')
+    description_html = markdown_to_html(description_raw) if description_raw else '<p>No description available</p>'
+
     site_header = generate_site_header("glossary")
     site_footer = generate_site_footer()
 
@@ -1576,17 +1712,26 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
 
     <div class="page-container">
         <div class="page-header">
-            <nav class="breadcrumb"><a href="../../index.html">&larr; Back to all glossaries</a></nav>
+            <nav class="breadcrumb"><a href="/glossaries/">&larr; Back to all glossaries</a></nav>
             <h1>{glossary['title']}</h1>
-            <p class="page-description">{glossary.get('description', '')}</p>
         </div>
 
         <main>
-            <section class="glossary-meta">
-                <span class="category-badge" style="background-color: {cat_info.get('color', '#666')}">{cat_info.get('name', '')}</span>
-                <span class="lang-badge">{glossary.get('source_lang', '')} &rarr; {glossary.get('target_lang', '')}</span>
-                <span class="term-count">{glossary.get('term_count', 0):,} terms</span>
-                {tags_html}
+            <section class="glossary-info">
+                <h3>About this glossary</h3>
+                <div class="glossary-description">{description_html}</div>
+                <dl class="glossary-meta-list">
+                    <dt>Languages</dt>
+                    <dd>{glossary.get('source_lang', '?')} → {glossary.get('target_lang', '?')}</dd>
+                    <dt>Terms</dt>
+                    <dd>{glossary.get('term_count', 0):,}</dd>
+                    <dt>Tags</dt>
+                    <dd>{', '.join(tags) if tags else '—'}</dd>
+                    <dt>Last Updated</dt>
+                    <dd>{glossary.get('last_updated', 'Unknown')}</dd>
+                    <dt>Source</dt>
+                    <dd><a href="{glossary.get('source_url', '#')}" target="_blank">View on GitHub</a></dd>
+                </dl>
             </section>
 
             <section class="glossary-content" data-pagefind-body>
@@ -1598,26 +1743,6 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
                         {term_rows}
                     </tbody>
                 </table>
-            </section>
-
-            <section class="glossary-info">
-                <h3>About this glossary</h3>
-                <dl>
-                    <dt>Title</dt>
-                    <dd>{glossary.get('title', 'Unknown')}</dd>
-                    <dt>Description</dt>
-                    <dd>{glossary.get('description', 'No description available')}</dd>
-                    <dt>Languages</dt>
-                    <dd>{glossary.get('source_lang', '?')} → {glossary.get('target_lang', '?')}</dd>
-                    <dt>Tags</dt>
-                    <dd>{', '.join(tags) if tags else '—'}</dd>
-                    <dt>Terms</dt>
-                    <dd>{glossary.get('term_count', 0):,}</dd>
-                    <dt>Source</dt>
-                    <dd><a href="{glossary.get('source_url', '#')}" target="_blank">{glossary.get('source_url', 'Unknown')}</a></dd>
-                    <dt>Last Updated</dt>
-                    <dd>{glossary.get('last_updated', 'Unknown')}</dd>
-                </dl>
             </section>
         </main>
     </div>
@@ -1693,6 +1818,65 @@ def generate_term_page(term: dict, categories: dict) -> str:
 </html>'''
 
 
+def generate_resource_page(resource: dict, categories: dict) -> str:
+    """Generate an individual resource page (free-form articles, guides, reviews)."""
+    html_content = resource.get("html_content", "")
+    
+    # Generate tags HTML if tags exist
+    tags = resource.get("tags", [])
+    tags_html = ""
+    if tags:
+        tag_badges = " ".join(f'<span class="tag-badge">{tag}</span>' for tag in tags)
+        tags_html = f'<div class="tags-row">{tag_badges}</div>'
+    
+    site_header = generate_site_header("resource")
+    site_footer = generate_site_footer()
+
+    return f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{resource['title']} - Beijerterm</title>
+    <link rel="stylesheet" href="../../styles.css">
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../pagefind/pagefind-ui.css">
+</head>
+<body>
+    {site_header}
+
+    <div class="page-container">
+        <div class="page-header">
+            <nav class="breadcrumb"><a href="/resources/">&larr; Back to all resources</a></nav>
+            <h1>{resource['title']}</h1>
+            <p class="page-description">{resource.get('description', '')}</p>
+        </div>
+
+        <main>
+            <section class="resource-meta">
+                <span class="type-badge resource">Resource</span>
+                {tags_html}
+            </section>
+
+            <section class="resource-content" data-pagefind-body>
+                {html_content}
+            </section>
+
+            <section class="resource-source">
+                <p>📝 <a href="{resource.get('source_url', '#')}" target="_blank">Edit this page on GitHub</a> · Last updated: {resource.get('last_updated', 'Unknown')}</p>
+            </section>
+        </main>
+    </div>
+
+    {site_footer}
+
+    <script src="../../pagefind/pagefind-ui.js"></script>
+{SEARCH_HIGHLIGHT_HTML}
+{SCROLL_TO_TOP_HTML}
+</body>
+</html>'''
+
+
 def build_site():
     """Main build function."""
     print("Building Beijerterm site...")
@@ -1704,8 +1888,8 @@ def build_site():
 
     print("Loading content...")
     categories = load_categories()
-    glossaries, terms = load_all_content()
-    print(f"   Found {len(glossaries)} glossaries and {len(terms)} terms in {len(categories)} categories")
+    glossaries, terms, resources = load_all_content()
+    print(f"   Found {len(glossaries)} glossaries, {len(terms)} terms, and {len(resources)} resources in {len(categories)} categories")
 
     print("Generating tag registry...")
     tag_index = collect_all_tags(glossaries, terms)
@@ -1769,6 +1953,23 @@ def build_site():
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(page_html)
 
+    # Generate /resources/ index page
+    if resources:
+        resources_index_html = generate_resources_index(resources, glossaries, terms, categories, tag_index)
+        resources_index_dir = OUTPUT_DIR / "resources"
+        resources_index_dir.mkdir(parents=True, exist_ok=True)
+        with open(resources_index_dir / "index.html", "w", encoding="utf-8") as f:
+            f.write(resources_index_html)
+
+    for resource in resources:
+        page_html = generate_resource_page(resource, categories)
+        # Clean URLs: /resources/slug/
+        resource_dir = OUTPUT_DIR / "resources" / resource['slug']
+        resource_dir.mkdir(parents=True, exist_ok=True)
+        output_path = resource_dir / "index.html"
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(page_html)
+
     print("Copying static assets...")
     if (SITE_DIR / "styles.css").exists():
         shutil.copy(SITE_DIR / "styles.css", OUTPUT_DIR / "styles.css")
@@ -1785,6 +1986,7 @@ def build_site():
     print(f"\nSummary:")
     print(f"   - Glossaries: {len(glossaries)}")
     print(f"   - Term pages: {len(terms)}")
+    print(f"   - Resources: {len(resources)}")
     print(f"   - Total term entries: {sum(g.get('term_count', 0) for g in glossaries):,}")
     print(f"   - Unique tags: {len(tag_index)}")
     print(f"   - Generated: TAGS.md, tags.json, tags.html")
