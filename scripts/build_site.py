@@ -14,6 +14,8 @@ import markdown
 from pathlib import Path
 from datetime import datetime
 import shutil
+import subprocess
+import sys
 
 # Configuration
 GLOSSARIES_DIR = Path("content/glossaries")
@@ -2007,6 +2009,25 @@ def build_site():
     print(f"   - Total term entries: {sum(g.get('term_count', 0) for g in glossaries):,}")
     print(f"   - Unique tags: {len(tag_index)}")
     print(f"   - Generated: TAGS.md, tags.json, tags.html")
+    
+    # Run Pagefind indexing automatically
+    print("\nRunning Pagefind indexing...")
+    try:
+        # Use shell=True for Windows to find npx in PATH
+        result = subprocess.run(
+            f"npx pagefind --site {OUTPUT_DIR}",
+            shell=True,
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        print(result.stdout)
+        print("✅ Pagefind indexing complete!")
+    except subprocess.CalledProcessError as e:
+        print(f"⚠️ Warning: Pagefind indexing failed: {e.stderr}")
+        print("You may need to run manually: npx pagefind --site _site")
+    except FileNotFoundError:
+        print("⚠️ Warning: npx not found. Please install Node.js or run manually: npx pagefind --site _site")
 
 
 if __name__ == "__main__":
