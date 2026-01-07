@@ -10,7 +10,6 @@ tags:
   - anaerobic digestion
   - wastewater treatment
   - biomass
----
 
 # vergisting
 
@@ -27,8 +26,6 @@ Proces waarbij organisch (biologisch) materiaal door micro-organismen wordt afge
 - vergistingstank → digestion tank
 - anaerobe vergisting → anaerobic digestion
 - vergisting van biomassa → digestion of biomass
-
----
 
 ## English
 
@@ -48,15 +45,11 @@ These may be suitable in scientific or descriptive contexts, but are less standa
 
 - **AD** – common shorthand for *anaerobic digestion* in technical literature and patents
 
----
-
 ## Usage notes
 
 In English-language patents, engineering documentation and wastewater/biogas literature, the process described by *vergisting* of biomass (e.g. manure, organic waste, sludge) is most precisely and idiomatically rendered as **anaerobic digestion**.[^1][^2]
 
 Although the broader microbiological term **fermentation** can sometimes be defended scientifically,[^3] it is less specific and can be misleading where methane production and digestate formation are central. For biogas and wastewater contexts, **anaerobic digestion** is therefore normally preferred unless applicant or project-specific terminology dictates otherwise.
-
----
 
 ## Examples
 
@@ -66,15 +59,11 @@ Although the broader microbiological term **fermentation** can sometimes be defe
 | Na vergisting wordt het digestaat gescheiden in een dunne en een dikke fractie. | After digestion, the digestate is separated into a thin fraction and a thick fraction. | Patent text |
 | De vergisting vindt plaats in één of meerdere vergistingstanken. | The digestion takes place in one or more digestion tanks. | Patent text |
 
----
-
 ## External links
 
 - [Wikipedia: Anaerobic digestion](https://en.wikipedia.org/wiki/Anaerobic_digestion)
 - [IEA Bioenergy – Anaerobic digestion](https://www.ieabioenergy.com/topics/anaerobic-digestion/)
 - [European Commission – Biogas and biomethane](https://energy.ec.europa.eu/topics/renewable-energy/bioenergy/biogas-and-biomethane_en)
-
----
 
 ## References
 
