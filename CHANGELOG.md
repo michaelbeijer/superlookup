@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.3.1] - 2026-01-07
+
+### Added
+- **Glossary pages in search**: Glossary metadata (title, description, tags) now indexed as searchable entities
+- **Automated PageFind indexing**: Build script now automatically runs PageFind after generating HTML
+
+### Fixed
+- **Search functionality**: Searching for glossary titles now returns the glossary page itself, not just term entries
+- **Markdown in table cells**: Markdown now properly renders in glossary table cells (links, formatting)
+
 ## [1.3.0] - 2026-01-07
 
 ### Added
