@@ -327,17 +327,6 @@ def markdown_to_html(md_content: str) -> str:
     return html
 
 
-def load_categories() -> dict:
-    """Load all category metadata."""
-    categories = {}
-    for cat_file in GLOSSARIES_DIR.rglob("_category.yaml"):
-        with open(cat_file, "r", encoding="utf-8") as f:
-            cat_data = yaml.safe_load(f)
-            if cat_data:
-                categories[cat_data.get("slug", cat_file.parent.name)] = cat_data
-    return categories
-
-
 def load_all_content() -> tuple[list[dict], list[dict], list[dict]]:
     """Load all glossary, term, and resource files."""
     glossaries = []
@@ -754,7 +743,7 @@ def generate_categories_content(glossaries: list[dict], terms: list[dict], categ
     return f'''{header_html}<div class="categories-grid">{cards_html}</div>'''
 
 
-def generate_table_for_items(items: list[dict], categories: dict, item_type: str) -> tuple[str, str]:
+def generate_table_for_items(items: list[dict], item_type: str) -> tuple[str, str]:
     """Generate HTML table sections for a list of items."""
     sorted_items = sorted(items, key=lambda x: x["title"].upper())
     
@@ -861,7 +850,7 @@ def generate_table_for_items(items: list[dict], categories: dict, item_type: str
     return alphabet_nav, sections
 
 
-def generate_html_index(glossaries: list[dict], terms: list[dict], resources: list[dict], categories: dict, tag_index: dict) -> str:
+def generate_html_index(glossaries: list[dict], terms: list[dict], resources: list[dict], tag_index: dict) -> str:
     """Generate the main index.html page with tabs."""
     
     site_header = generate_site_header("home")
@@ -872,8 +861,8 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], resources: li
     total_term_entries = sum(g.get('term_count', 0) for g in glossaries)
     total_tags = len(tag_index)
 
-    glossary_nav, glossary_sections = generate_table_for_items(glossaries, categories, "glossary")
-    terms_nav, terms_sections = generate_table_for_items(terms, categories, "term")
+    glossary_nav, glossary_sections = generate_table_for_items(glossaries, "glossary")
+    terms_nav, terms_sections = generate_table_for_items(terms, "term")
 
     return f'''<!DOCTYPE html>
 <html lang="en">
@@ -1405,12 +1394,12 @@ def generate_html_index(glossaries: list[dict], terms: list[dict], resources: li
 </html>'''
 
 
-def generate_glossaries_index(glossaries: list[dict], terms: list[dict], resources: list[dict], categories: dict, tag_index: dict) -> str:
+def generate_glossaries_index(glossaries: list[dict], terms: list[dict], resources: list[dict], tag_index: dict) -> str:
     """Generate the /glossaries/ index page listing all glossaries."""
     site_header = generate_site_header("glossaries_index")
     site_footer = generate_site_footer()
     
-    glossary_nav, glossary_sections = generate_table_for_items(glossaries, categories, "glossary")
+    glossary_nav, glossary_sections = generate_table_for_items(glossaries, "glossary")
     
     total_glossaries = len(glossaries)
     total_terms_pages = len(terms)
@@ -1492,12 +1481,12 @@ def generate_glossaries_index(glossaries: list[dict], terms: list[dict], resourc
 </html>'''
 
 
-def generate_terms_index(terms: list[dict], glossaries: list[dict], resources: list[dict], categories: dict, tag_index: dict) -> str:
+def generate_terms_index(terms: list[dict], glossaries: list[dict], resources: list[dict], tag_index: dict) -> str:
     """Generate the /terms/ index page listing all term pages."""
     site_header = generate_site_header("terms_index")
     site_footer = generate_site_footer()
     
-    terms_nav, terms_sections = generate_table_for_items(terms, categories, "term")
+    terms_nav, terms_sections = generate_table_for_items(terms, "term")
     
     total_glossaries = len(glossaries)
     total_terms_pages = len(terms)
@@ -1579,7 +1568,7 @@ def generate_terms_index(terms: list[dict], glossaries: list[dict], resources: l
 </html>'''
 
 
-def generate_resources_index(resources: list[dict], glossaries: list[dict], terms: list[dict], categories: dict, tag_index: dict) -> str:
+def generate_resources_index(resources: list[dict], glossaries: list[dict], terms: list[dict], tag_index: dict) -> str:
     """Generate the /resources/ index page listing all resource pages."""
     site_header = generate_site_header("resources_index")
     site_footer = generate_site_footer()
@@ -1680,9 +1669,8 @@ def generate_resources_index(resources: list[dict], glossaries: list[dict], term
 </html>'''
 
 
-def generate_glossary_page(glossary: dict, categories: dict) -> str:
+def generate_glossary_page(glossary: dict) -> str:
     """Generate an individual glossary page."""
-    cat_info = categories.get(glossary["category"], {"name": glossary["category"], "color": "#666"})
 
     terms = glossary.get("terms", [])
     if terms:
@@ -1694,7 +1682,8 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
 
     term_rows = ""
     for term in terms:
-        cells = "".join(f"<td>{term.get(h, '')}</td>" for h in headers)
+        # Render markdown in table cells (for links, bold, etc.)
+        cells = "".join(f"<td>{markdown_to_html(str(term.get(h, '')))}</td>" for h in headers)
         term_rows += f"<tr>{cells}</tr>\n"
 
     # Generate tags HTML if tags exist
@@ -1771,9 +1760,8 @@ def generate_glossary_page(glossary: dict, categories: dict) -> str:
 </html>'''
 
 
-def generate_term_page(term: dict, categories: dict) -> str:
+def generate_term_page(term: dict) -> str:
     """Generate an individual term page."""
-    cat_info = categories.get(term.get("category", "terms"), {"name": "Terms", "color": "#34495e"})
     html_content = term.get("html_content", "")
     
     # Generate tags HTML if tags exist
@@ -1809,7 +1797,6 @@ def generate_term_page(term: dict, categories: dict) -> str:
         <main>
             <section class="term-meta">
                 <span class="type-badge term">Term</span>
-                <span class="category-badge" style="background-color: {cat_info.get('color', '#666')}">{cat_info.get('name', 'Terms')}</span>
                 <span class="lang-badge">{term.get('source_lang', 'nl')} &rarr; {term.get('target_lang', 'en')}</span>
                 {tags_html}
             </section>
@@ -1833,7 +1820,7 @@ def generate_term_page(term: dict, categories: dict) -> str:
 </html>'''
 
 
-def generate_resource_page(resource: dict, categories: dict) -> str:
+def generate_resource_page(resource: dict) -> str:
     """Generate an individual resource page (free-form articles, guides, reviews)."""
     html_content = resource.get("html_content", "")
     
@@ -1902,9 +1889,8 @@ def build_site():
     # Note: glossary and term pages use clean URLs: /glossaries/{slug}/ and /terms/{slug}/
 
     print("Loading content...")
-    categories = load_categories()
     glossaries, terms, resources = load_all_content()
-    print(f"   Found {len(glossaries)} glossaries, {len(terms)} terms, and {len(resources)} resources in {len(categories)} categories")
+    print(f"   Found {len(glossaries)} glossaries, {len(terms)} terms, and {len(resources)} resources")
 
     print("Generating tag registry...")
     tag_index = collect_all_tags(glossaries, terms)
@@ -1932,26 +1918,26 @@ def build_site():
     print(f"   Indexed {len(search_index)} entries")
 
     print("Generating HTML pages...")
-    index_html = generate_html_index(glossaries, terms, resources, categories, tag_index)
+    index_html = generate_html_index(glossaries, terms, resources, tag_index)
     with open(OUTPUT_DIR / "index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
 
     # Generate /glossaries/ index page
-    glossaries_index_html = generate_glossaries_index(glossaries, terms, resources, categories, tag_index)
+    glossaries_index_html = generate_glossaries_index(glossaries, terms, resources, tag_index)
     glossaries_index_dir = OUTPUT_DIR / "glossaries"
     glossaries_index_dir.mkdir(parents=True, exist_ok=True)
     with open(glossaries_index_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(glossaries_index_html)
 
     # Generate /terms/ index page
-    terms_index_html = generate_terms_index(terms, glossaries, resources, categories, tag_index)
+    terms_index_html = generate_terms_index(terms, glossaries, resources, tag_index)
     terms_index_dir = OUTPUT_DIR / "terms"
     terms_index_dir.mkdir(parents=True, exist_ok=True)
     with open(terms_index_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(terms_index_html)
 
     for glossary in glossaries:
-        page_html = generate_glossary_page(glossary, categories)
+        page_html = generate_glossary_page(glossary)
         # Clean URLs: /glossaries/slug/ instead of /glossary/slug.html
         glossary_dir = OUTPUT_DIR / "glossaries" / glossary['slug']
         glossary_dir.mkdir(parents=True, exist_ok=True)
@@ -1960,7 +1946,7 @@ def build_site():
             f.write(page_html)
 
     for term in terms:
-        page_html = generate_term_page(term, categories)
+        page_html = generate_term_page(term)
         # Clean URLs: /terms/vergisting/ instead of /term/vergisting.html
         term_dir = OUTPUT_DIR / "terms" / term['slug']
         term_dir.mkdir(parents=True, exist_ok=True)
@@ -1970,14 +1956,14 @@ def build_site():
 
     # Generate /resources/ index page
     if resources:
-        resources_index_html = generate_resources_index(resources, glossaries, terms, categories, tag_index)
+        resources_index_html = generate_resources_index(resources, glossaries, terms, tag_index)
         resources_index_dir = OUTPUT_DIR / "resources"
         resources_index_dir.mkdir(parents=True, exist_ok=True)
         with open(resources_index_dir / "index.html", "w", encoding="utf-8") as f:
             f.write(resources_index_html)
 
     for resource in resources:
-        page_html = generate_resource_page(resource, categories)
+        page_html = generate_resource_page(resource)
         # Clean URLs: /resources/slug/
         resource_dir = OUTPUT_DIR / "resources" / resource['slug']
         resource_dir.mkdir(parents=True, exist_ok=True)
