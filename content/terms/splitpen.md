@@ -123,7 +123,7 @@ Although *split pin* is used in British English, **cotter pin** is preferred in:
 
 ## Image (open-source)
 
-![Image](https://henssgenhardware.com/wp-content/uploads/6103-6105-scaled-6-2.jpg)
+<img src="https://henssgenhardware.com/wp-content/uploads/6103-6105-scaled-6-2.jpg" alt="Cotter pin" width="300">
 
 ![Image](https://dpk3n3gg92jwt.cloudfront.net/domains/pivotpoint/images/products/double-loop-hair-pin_Image.jpg)
 
