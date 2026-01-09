@@ -1823,8 +1823,20 @@ def generate_term_page(term: dict) -> str:
                 {html_content}
             </section>
 
-            <section class="term-source">
-                <p>📝 <a href="{term.get('source_url', '#')}" target="_blank">Edit this term on GitHub</a> · Last updated: {term.get('last_updated', 'Unknown')}</p>
+            <section class="term-info">
+                <h3>About this term</h3>
+                <dl class="term-meta-list">
+                    <dt>Languages</dt>
+                    <dd>{term.get('source_lang', '?')} → {term.get('target_lang', '?')}</dd>
+                    <dt>Description</dt>
+                    <dd>{term.get('description', 'No description available')}</dd>
+                    <dt>Tags</dt>
+                    <dd>{', '.join(tags) if tags else '—'}</dd>
+                    <dt>Last Updated</dt>
+                    <dd>{term.get('last_updated', 'Unknown')}</dd>
+                    <dt>Source</dt>
+                    <dd><a href="{term.get('source_url', '#')}" target="_blank">Edit this term on GitHub</a></dd>
+                </dl>
             </section>
         </main>
     </div>
