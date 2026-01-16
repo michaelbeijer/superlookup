@@ -1,7 +1,7 @@
 # Beijerterm - AI Agent Documentation
 
 > **This is the single source of truth for AI coding assistants working on this project.**
-> **Last Updated:** January 7, 2026 | **Version:** v1.3.0
+> **Last Updated:** January 16, 2026 | **Version:** v1.5.0
 
 ---
 
@@ -25,12 +25,12 @@
 
 | Metric | Count |
 |--------|-------|
-| **Glossaries** | ~206 |
-| **Term Pages** | ~2 |
+| **Glossaries** | ~208 |
+| **Term Pages** | ~9 |
 | **Resources** | ~1 |
-| **Total Term Entries** | ~583,000 |
+| **Total Term Entries** | ~583,652 |
 | **Categories** | 14 |
-| **Tags** | ~102 |
+| **Tags** | ~133 |
 | **Languages** | Dutch ↔ English (primarily) |
 
 ### Content Types
@@ -344,6 +344,72 @@ Parses MediaWiki markup:
 - Added Glossaries tab (207 items) and Terms tab (141 items)
 - Each tab has its own A-Z navigation
 - Tab descriptions explain the difference
+
+---
+
+## 🔄 Recent Development History
+
+### January 16, 2026 - v1.5.0: Theme Switcher & Visual Improvements
+
+**🎨 Client-Side Theme Switcher Implementation**
+
+Added complete theming system with 6 color schemes:
+
+**Features:**
+- Client-side theme switcher using CSS custom properties (CSS variables)
+- localStorage persistence across all pages
+- Subtle 🎨 emoji button in header (no text, minimal UI)
+- Dropdown menu with 6 theme options and color swatches
+- Theme selection shows checkmark indicator
+
+**Available Themes:**
+1. **Royal Blue** (default) - `#4169e1` / `#2948a8`
+2. **Modern Tech Blue** - `#0969da` / `#0550ae` (GitHub-style)
+3. **Corporate Navy** - `#1e3a8a` / `#1e293b`
+4. **Academic Slate** - `#334155` / `#1e293b` (with `#0ea5e9` accent)
+5. **Refined Teal** - `#0891b2` / `#0e7490`
+6. **Minimalist B&W** - `#1a1a1a` / `#0a0a0a` (black header, white body)
+
+**Technical Implementation:**
+- `:root` and `[data-theme="..."]` CSS selectors define color variables
+- JavaScript in footer:
+  - `loadTheme()` - Reads from localStorage, applies data-theme attribute
+  - `setTheme(theme)` - Saves to localStorage, updates UI, closes dropdown
+  - `updateThemeUI(theme)` - Updates dropdown checkmarks
+  - `toggleThemeDropdown()` - Shows/hides dropdown
+  - Click-outside listener to auto-close dropdown
+- localStorage key: `beijerterm-theme`
+
+**Comprehensive Theme Integration:**
+- Fixed all hardcoded colors to use CSS variables
+- Header gradient: `linear-gradient(135deg, var(--primary-color), var(--primary-dark))`
+- Footer gradient: `linear-gradient(135deg, var(--primary-dark), #1a1a1a)`
+- Active tab buttons: `var(--primary-color)`
+- All links, badges, highlights: theme-aware
+- Tag reference tables: theme-aware headers
+- Special handling for Minimal theme: inverted black header with white text
+
+**Icon Update:**
+- Changed from MB (Michael Beijer) to B (Beijerterm)
+- Circular icon with white background and colored border
+- Border color changes with theme: `var(--primary-color)`
+
+**Files Modified:**
+- `site/styles.css` - CSS variables for 6 themes + theme switcher UI styles (~100 lines added)
+- `scripts/build_site.py` - Theme switcher HTML in header + JavaScript in footer (~90 lines)
+- `site/b-icon.svg` - NEW circular B icon (replacing MB icon)
+
+**User Experience:**
+- Theme persists across page navigation
+- Works on all 208 glossary pages
+- No backend required - pure client-side
+- Instant theme switching with no page reload
+
+**Deployment:**
+- GitHub Actions automatically builds site on push
+- Workflow located at `.github/workflows/deploy.yaml`
+- Build script generates `_site/` folder (not tracked in git due to 196MB search index)
+- GitHub Pages serves from built `_site/` artifact
 
 ---
 
