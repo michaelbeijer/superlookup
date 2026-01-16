@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - Beijerterm Admin{% endblock %}
+
+{% block content %}
+<div class="dashboard">
+    <h1>📊 Dashboard</h1>
+    
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-icon">📚</div>
+            <div class="stat-value">{{ stats.glossaries }}</div>
+            <div class="stat-label">Glossaries</div>
+            <a href="{{ url_for('glossaries') }}" class="stat-link">View all →</a>
+        </div>
+        
+        <div class="stat-card">
+            <div class="stat-icon">📄</div>
+            <div class="stat-value">{{ stats.terms }}</div>
+            <div class="stat-label">Term Pages</div>
+            <a href="{{ url_for('terms') }}" class="stat-link">View all →</a>
+        </div>
+        
+        <div class="stat-card">
+            <div class="stat-icon">📰</div>
+            <div class="stat-value">{{ stats.resources }}</div>
+            <div class="stat-label">Resources</div>
+            <a href="{{ url_for('resources') }}" class="stat-link">View all →</a>
+        </div>
+    </div>
+    
+    <div class="quick-actions">
+        <h2>Quick Actions</h2>
+        <div class="action-buttons">
+            <a href="{{ url_for('glossaries') }}" class="action-btn">
+                <span class="btn-icon">📚</span>
+                <span class="btn-text">Edit Glossary</span>
+            </a>
+            <a href="{{ url_for('terms') }}" class="action-btn">
+                <span class="btn-icon">✏️</span>
+                <span class="btn-text">Create Term Page</span>
+            </a>
+            <a href="{{ url_for('resources', filename='whats-new') }}" class="action-btn">
+                <span class="btn-icon">📝</span>
+                <span class="btn-text">Update What's New</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="recent-activity">
+        <h2>Recent Changes</h2>
+        <p class="placeholder-text">Coming soon: Recent commits and activity feed</p>
+    </div>
+</div>
+{% endblock %}

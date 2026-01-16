@@ -1,7 +1,7 @@
 # Beijerterm - AI Agent Documentation
 
 > **This is the single source of truth for AI coding assistants working on this project.**
-> **Last Updated:** January 16, 2026 | **Version:** v1.5.1
+> **Last Updated:** January 16, 2026 | **Version:** v1.6.0
 
 ---
 
@@ -470,7 +470,164 @@ git push
 
 ---
 
-## 📚 Related Projects
+## �️ Admin Panel (New in v1.6.0)
+
+### Overview
+
+The custom admin panel provides a user-friendly interface for editing glossaries, terms, and resources without directly manipulating Markdown files. It's designed specifically for Beijerterm's needs.
+
+**Access:** http://localhost:5000 (development mode)
+
+### Architecture
+
+| Component | Technology | Purpose |
+|-----------|-----------|---------|
+| **Backend** | Flask 3.0+ | REST API, authentication, file I/O |
+| **Frontend** | Pure JavaScript | Spreadsheet editor, no frameworks |
+| **Authentication** | GitHub OAuth | Production mode |
+| **Dev Mode** | Env variable bypass | Local development |
+| **Parser** | Custom Python | Markdown tables ↔ JSON |
+
+### Features
+
+**✅ Implemented:**
+- Excel-like glossary spreadsheet editor
+- Inline cell editing with Tab navigation
+- Add/delete rows, sort A→Z / Z→A
+- Search/filter across all fields
+- Find duplicates highlighting
+- Import/Export TSV for bulk operations
+- Auto-save with change tracking
+- Keyboard shortcuts (Ctrl+S, Ctrl+Enter)
+
+**🔄 In Progress:**
+- Term page WYSIWYG Markdown editor
+- Resources editor for What's New
+- Git commit/push from admin panel
+- Preview functionality
+
+### File Structure
+
+```
+admin/
+├── app.py                     # Flask application (~450 lines)
+│   ├── parse_glossary_markdown() - Parses .md with frontmatter + table
+│   ├── generate_glossary_markdown() - Converts JSON back to markdown
+│   ├── Routes: /, /login, /auth/*, /glossaries, /api/glossaries/*
+│   └── GitHub OAuth + dev mode authentication
+│
+├── start_dev.py               # Development launcher
+│   └── Sets ADMIN_DEV_MODE=true for OAuth bypass
+│
+├── requirements.txt           # Python dependencies
+│   ├── Flask>=3.0.0
+│   ├── PyYAML>=6.0
+│   ├── requests>=2.31.0
+│   └── PyGithub>=2.1.1
+│
+├── templates/                 # Jinja2 templates
+│   ├── base.html              # Navigation layout, navbar, user menu
+│   ├── login.html             # GitHub OAuth or dev mode login
+│   ├── index.html             # Dashboard with stats (208 glossaries, 9 terms)
+│   ├── glossaries.html        # List view with entry counts
+│   └── glossary_editor.html   # Full spreadsheet interface with toolbar
+│
+└── static/
+    ├── css/
+    │   ├── admin.css          # Main admin styling (~450 lines)
+    │   └── glossary_editor.css # Spreadsheet table, cells (~250 lines)
+    └── js/
+        ├── admin.js           # Global utilities, notifications, Ctrl+S
+        └── glossary_editor.js # GlossaryEditor class (~400 lines)
+```
+
+### Development Workflow
+
+**Starting the server:**
+```bash
+cd admin/
+python start_dev.py
+# Visit http://localhost:5000
+# Click "Continue in Dev Mode" to bypass OAuth
+```
+
+**Making changes:**
+1. Edit files in `admin/`
+2. Flask auto-reloads on file changes
+3. Refresh browser to see updates
+4. Test glossary editing thoroughly
+
+**Production deployment (future):**
+- Set up GitHub OAuth app
+- Configure `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET`
+- Deploy to server or use GitHub Codespaces
+
+### Glossary File Format
+
+Glossaries are stored as `.md` files with YAML frontmatter + Markdown table:
+
+```markdown
+---
+title: Agricultural Terms
+category: agriculture
+source_language: en
+target_language: nl
+source: "Original source citation"
+entries: 245
+---
+
+| Dutch | English | Domain | Notes |
+|-------|---------|--------|-------|
+| akkerbouw | arable farming | Agriculture | |
+| gewasbescherming | crop protection | Agriculture | Pesticides, herbicides |
+```
+
+**Parser behavior:**
+- `parse_glossary_markdown()`: Splits on `---`, parses YAML, extracts table rows
+- `generate_glossary_markdown()`: Converts JSON back to frontmatter + table format
+- Handles empty cells, missing columns, special characters
+
+### Keyboard Shortcuts
+
+| Shortcut | Action |
+|----------|--------|
+| **Tab** | Move to next cell |
+| **Shift+Tab** | Move to previous cell |
+| **Enter** | Move to next row (same column) |
+| **Ctrl+Enter** | Add new row at end |
+| **Ctrl+S** | Save changes |
+| **Escape** | Clear search/cancel edit |
+
+### API Endpoints
+
+| Endpoint | Method | Purpose |
+|----------|--------|---------|
+| `GET /` | GET | Dashboard |
+| `GET /login` | GET | Login page |
+| `GET /glossaries` | GET | Glossary list view |
+| `GET /glossaries/<filename>` | GET | Glossary editor page |
+| `GET /api/glossaries/<filename>` | GET | Get glossary data (JSON) |
+| `POST /api/glossaries/<filename>` | POST | Save glossary changes |
+
+### Known Issues
+
+- Server crashes on syntax errors (needs better error handling)
+- No validation for required fields yet
+- Git commit/push not yet implemented
+- No rollback/undo for saved changes
+
+### Future Enhancements
+
+- Visual Markdown editor for term pages (TinyMCE or SimpleMDE)
+- Bulk operations: merge glossaries, split by category
+- Import from other formats (CSV, XLSX, TMX)
+- Conflict resolution for concurrent edits
+- Activity log and change history
+- Search across all content types
+
+---
+
+## �📚 Related Projects
 
 | Project | Description | Link |
 |---------|-------------|------|

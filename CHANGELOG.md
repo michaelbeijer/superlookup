@@ -6,6 +6,31 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.6.0] - 2026-01-16
+
+### Added
+- **Custom Admin Panel** (`/admin`) - Full-featured content management system
+  - Excel-like glossary spreadsheet editor with inline editing
+  - Rich text Markdown editor for term pages (in progress)
+  - Resource editor for What's New and other pages (in progress)
+  - GitHub OAuth authentication + dev mode bypass
+  - Flask-based backend with REST API
+  - Tab navigation, keyboard shortcuts (Ctrl+S, Ctrl+Enter)
+  - Bulk operations: sort, search, import/export TSV, find duplicates
+  - Auto-save with change tracking
+
+### Technical
+- New `/admin` directory with Flask application
+- Python dependencies: Flask, PyYAML, requests, PyGithub
+- Markdown table parser/generator for glossary files
+- Dev mode startup script for local development
+
+### Notes
+- Admin panel is work-in-progress (v0.1)
+- Currently supports glossary editing only
+- Term page and resource editors coming next
+- Git commit/push integration to be implemented
+
 ## [1.5.1] - 2026-01-16
 
 ### Added

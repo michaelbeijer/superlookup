@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Glossaries - Beijerterm Admin{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <h1>📚 Glossaries</h1>
+    <button class="btn-primary" onclick="alert('Create new glossary - Coming soon!')">
+        + New Glossary
+    </button>
+</div>
+
+<div class="content-list">
+    {% for glossary in glossaries %}
+    <div class="list-item">
+        <div class="item-info">
+            <div class="item-title">{{ glossary.title }}</div>
+            <div class="item-meta">
+                {{ glossary.entry_count }} entries • 
+                {{ glossary.source_lang }} → {{ glossary.target_lang }} • 
+                {{ glossary.filename }}.yml
+            </div>
+        </div>
+        <div class="item-actions">
+            <a href="{{ url_for('edit_glossary', filename=glossary.filename) }}" class="btn-edit">
+                ✏️ Edit
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+    
+    {% if not glossaries %}
+    <div class="list-item">
+        <p class="placeholder-text">No glossaries found</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

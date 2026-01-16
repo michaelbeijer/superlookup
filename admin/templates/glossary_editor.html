@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+{% block title %}Edit {{ glossary.title }} - Beijerterm Admin{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/glossary_editor.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="editor-container">
+    <div class="editor-header">
+        <div class="header-left">
+            <a href="{{ url_for('glossaries') }}" class="back-link">← Back to Glossaries</a>
+            <h1>{{ glossary.title }}</h1>
+        </div>
+        <div class="header-right">
+            <button class="btn-secondary" data-action="undo" disabled>
+                ↶ Undo
+            </button>
+            <button class="btn-secondary" data-action="redo" disabled>
+                ↷ Redo
+            </button>
+            <button class="btn-primary" data-action="save">
+                💾 Save Changes
+            </button>
+        </div>
+    </div>
+
+    <div class="editor-toolbar">
+        <div class="toolbar-group">
+            <button class="toolbar-btn" data-action="add-row" title="Add Row (Ctrl+Enter)">
+                ➕ Add Row
+            </button>
+            <button class="toolbar-btn" data-action="delete-rows" title="Delete Selected Rows">
+                🗑️ Delete
+            </button>
+            <button class="toolbar-btn" data-action="sort-asc" title="Sort A→Z">
+                ⬆️ Sort A→Z
+            </button>
+            <button class="toolbar-btn" data-action="sort-desc" title="Sort Z→A">
+                ⬇️ Sort Z→A
+            </button>
+        </div>
+        
+        <div class="toolbar-group">
+            <button class="toolbar-btn" data-action="import" title="Import TSV">
+                📥 Import
+            </button>
+            <button class="toolbar-btn" data-action="export" title="Export TSV">
+                📤 Export
+            </button>
+            <button class="toolbar-btn" data-action="find-duplicates" title="Find Duplicates">
+                🔍 Find Duplicates
+            </button>
+        </div>
+        
+        <div class="toolbar-group">
+            <input type="text" class="search-box" placeholder="Search..." data-action="search">
+            <span class="entry-count">{{ glossary.entries|length }} entries</span>
+        </div>
+    </div>
+
+    <div class="spreadsheet-container">
+        <table class="spreadsheet" id="glossary-table">
+            <thead>
+                <tr>
+                    <th class="col-select"><input type="checkbox" id="select-all"></th>
+                    <th class="col-number">#</th>
+                    <th class="col-source">{{ glossary.source_lang|upper }} (Source)</th>
+                    <th class="col-target">{{ glossary.target_lang|upper }} (Target)</th>
+                    <th class="col-notes">Notes</th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+                {% for entry in glossary.entries %}
+                <tr data-index="{{ loop.index0 }}">
+                    <td class="col-select"><input type="checkbox" class="row-select"></td>
+                    <td class="col-number">{{ loop.index }}</td>
+                    <td class="col-source" contenteditable="true" data-field="source">{{ entry.source }}</td>
+                    <td class="col-target" contenteditable="true" data-field="target">{{ entry.target }}</td>
+                    <td class="col-notes" contenteditable="true" data-field="notes">{{ entry.notes or '' }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="editor-footer">
+        <div class="footer-info">
+            Last saved: <span id="last-saved">Never</span>
+        </div>
+        <div class="footer-status">
+            <span id="status-message">Ready</span>
+        </div>
+    </div>
+</div>
+
+<!-- Hidden file input for import -->
+<input type="file" id="import-file" accept=".tsv,.txt" style="display: none;">
+
+<script>
+// Pass glossary data to JavaScript
+window.GLOSSARY_DATA = {{ glossary|tojson }};
+window.GLOSSARY_FILENAME = {{ filename|tojson }};
+</script>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/glossary_editor.js') }}"></script>
+{% endblock %}

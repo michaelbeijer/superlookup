@@ -1,0 +1,257 @@
+/* Glossary Editor Styles */
+
+.editor-container {
+    background: var(--bg-primary);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    overflow: hidden;
+}
+
+.editor-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+    border-bottom: 2px solid var(--border-color);
+    background: var(--bg-secondary);
+}
+
+.header-left {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.back-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+.editor-header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--text-primary);
+}
+
+.header-right {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.btn-secondary {
+    padding: 0.5rem 1rem;
+    background: var(--bg-tertiary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+}
+
+.btn-secondary:hover:not(:disabled) {
+    background: var(--bg-secondary);
+    border-color: var(--primary-color);
+}
+
+.btn-secondary:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Toolbar */
+.editor-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: var(--bg-primary);
+    border-bottom: 1px solid var(--border-color);
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.toolbar-group {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.toolbar-btn {
+    padding: 0.5rem 1rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+    white-space: nowrap;
+}
+
+.toolbar-btn:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+}
+
+.search-box {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 0.9rem;
+    width: 200px;
+}
+
+.entry-count {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    padding: 0.5rem;
+}
+
+/* Spreadsheet */
+.spreadsheet-container {
+    overflow: auto;
+    max-height: calc(100vh - 350px);
+}
+
+.spreadsheet {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.spreadsheet thead {
+    position: sticky;
+    top: 0;
+    background: var(--bg-tertiary);
+    z-index: 10;
+}
+
+.spreadsheet th {
+    padding: 0.75rem;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 2px solid var(--border-color);
+    white-space: nowrap;
+}
+
+.spreadsheet td {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--border-color);
+    vertical-align: top;
+}
+
+.spreadsheet tbody tr:hover {
+    background: #f8f9fa;
+}
+
+.spreadsheet tbody tr.selected {
+    background: #e3f2fd;
+}
+
+.spreadsheet tbody tr.modified {
+    background: #fff3cd;
+}
+
+/* Column widths */
+.col-select {
+    width: 40px;
+    text-align: center;
+}
+
+.col-number {
+    width: 60px;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+}
+
+.col-source {
+    width: 35%;
+    min-width: 200px;
+}
+
+.col-target {
+    width: 35%;
+    min-width: 200px;
+}
+
+.col-notes {
+    width: 30%;
+    min-width: 150px;
+}
+
+/* Editable cells */
+td[contenteditable="true"] {
+    cursor: text;
+    position: relative;
+    outline: none;
+}
+
+td[contenteditable="true"]:focus {
+    background: white;
+    box-shadow: inset 0 0 0 2px var(--primary-color);
+    z-index: 5;
+}
+
+td[contenteditable="true"]:empty::before {
+    content: attr(data-placeholder);
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+/* Checkboxes */
+input[type="checkbox"] {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+}
+
+/* Footer */
+.editor-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border-color);
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+#status-message {
+    font-weight: 500;
+}
+
+#status-message.saving {
+    color: var(--primary-color);
+}
+
+#status-message.saved {
+    color: var(--success-color);
+}
+
+#status-message.error {
+    color: var(--danger-color);
+}
+
+/* Highlight duplicates */
+tr.duplicate td[data-field="source"] {
+    background: #fee;
+    border-left: 3px solid var(--danger-color);
+}
+
+/* Empty row placeholder */
+tr.empty-row {
+    opacity: 0.5;
+}
+
+tr.empty-row td[contenteditable="true"] {
+    font-style: italic;
+    color: var(--text-secondary);
+}
