@@ -468,49 +468,12 @@ def generate_site_header(current_page: str = "home") -> str:
             </div>
             <nav class="header-nav">
                 <a href="https://michaelbeijer.co.uk" target="_blank" title="Author's website">Michael Beijer</a>
-                <a href="{asset_prefix}whats-new" title="Recent glossary and term additions">What's New</a>
+                <a href="{asset_prefix}resources/whats-new" title="Recent glossary and term additions">What's New</a>
                 <a href="https://github.com/michaelbeijer/beijerterm" target="_blank" title="View source code and contribute" class="github-icon">
                     <svg width="20" height="20" viewBox="0 0 16 16" fill="currentColor">
                         <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
                     </svg>
                 </a>
-                <div class="theme-switcher">
-                    <button class="theme-button" onclick="toggleThemeDropdown()" title="Change color theme">
-                        🎨
-                    </button>
-                    <div class="theme-dropdown" id="theme-dropdown">
-                        <div class="theme-option" onclick="setTheme('royal-blue')" data-theme="royal-blue">
-                            <div class="theme-color" style="background: #4169e1;"></div>
-                            <span class="theme-name">Royal Blue</span>
-                            <span class="theme-check">✓</span>
-                        </div>
-                        <div class="theme-option" onclick="setTheme('tech-blue')" data-theme="tech-blue">
-                            <div class="theme-color" style="background: #0969da;"></div>
-                            <span class="theme-name">Modern Tech</span>
-                            <span class="theme-check">✓</span>
-                        </div>
-                        <div class="theme-option" onclick="setTheme('navy')" data-theme="navy">
-                            <div class="theme-color" style="background: #1e3a8a;"></div>
-                            <span class="theme-name">Corporate Navy</span>
-                            <span class="theme-check">✓</span>
-                        </div>
-                        <div class="theme-option" onclick="setTheme('slate')" data-theme="slate">
-                            <div class="theme-color" style="background: #334155;"></div>
-                            <span class="theme-name">Academic Slate</span>
-                            <span class="theme-check">✓</span>
-                        </div>
-                        <div class="theme-option" onclick="setTheme('teal')" data-theme="teal">
-                            <div class="theme-color" style="background: #0891b2;"></div>
-                            <span class="theme-name">Refined Teal</span>
-                            <span class="theme-check">✓</span>
-                        </div>
-                        <div class="theme-option" onclick="setTheme('minimal')" data-theme="minimal">
-                            <div class="theme-color" style="background: #1a1a1a;"></div>
-                            <span class="theme-name">Minimalist B&W</span>
-                            <span class="theme-check">✓</span>
-                        </div>
-                    </div>
-                </div>
             </nav>
         </div>
     </header>'''
@@ -574,22 +537,6 @@ def generate_site_footer() -> str:
                 }}
             }});
         }}
-        
-        function toggleThemeDropdown() {{
-            document.getElementById('theme-dropdown').classList.toggle('active');
-        }}
-        
-        // Close dropdown when clicking outside
-        document.addEventListener('click', function(event) {{
-            const themeSwitcher = document.querySelector('.theme-switcher');
-            const dropdown = document.getElementById('theme-dropdown');
-            if (themeSwitcher && !themeSwitcher.contains(event.target)) {{
-                dropdown.classList.remove('active');
-            }}
-        }});
-        
-        // Load theme on page load
-        loadTheme();
     </script>'''
 
 
