@@ -354,8 +354,9 @@ def load_all_content() -> tuple[list[dict], list[dict], list[dict]]:
             "body": body,
             **frontmatter,
         }
-        # Override source_url with GitHub URL (frontmatter may have old wiki URL)
-        item["source_url"] = github_url
+        # Add GitHub URL while preserving original source_url
+        item["github_url"] = github_url
+        item["github_filename"] = md_file.name
         item["type"] = "glossary"
         item["terms"] = parse_markdown_table(body)
         item["term_count"] = len(item["terms"])
@@ -1751,8 +1752,10 @@ def generate_glossary_page(glossary: dict) -> str:
                     <dd>{', '.join(tags) if tags else '—'}</dd>
                     <dt>Last Updated</dt>
                     <dd>{glossary.get('last_updated', 'Unknown')}</dd>
+                    <dt>GitHub</dt>
+                    <dd><a href="{glossary.get('github_url', '#')}" target="_blank">{glossary.get('github_filename', 'View on GitHub')}</a></dd>
                     <dt>Source</dt>
-                    <dd><a href="{glossary.get('source_url', '#')}" target="_blank">View on GitHub</a></dd>
+                    <dd><a href="{glossary.get('source_url', '#')}" target="_blank">{glossary.get('source_url', 'Unknown')}</a>{' (retrieved ' + glossary.get('source_retrieved', '') + ')' if glossary.get('source_retrieved') else ''}</dd>
                 </dl>
             </section>
 

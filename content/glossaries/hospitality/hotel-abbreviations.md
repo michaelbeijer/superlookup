@@ -7,6 +7,7 @@ target_lang: "en"
 tags: ["hospitality", "hotels", "abbreviations"]
 last_updated: "2026-01-16"
 source_url: "http://hotelstudies.in/abbreviations-used-in-hotels/"
+source_retrieved: "2021-11-25"
 term_count: 38
 ---
 
