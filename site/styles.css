@@ -1899,5 +1899,24 @@ main {
     background: #e5e5e5;
 }
 
+/* Site icon (emoji) */
+.site-brand .site-icon {
+    font-size: 32px;
+    line-height: 1;
+    margin-right: -0.25rem;
+}
 
+/* GitHub icon in header */
+.header-nav {
+    align-items: center;
+}
 
+.header-nav a.github-icon {
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.header-nav a.github-icon svg {
+    display: block;
+}
