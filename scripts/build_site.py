@@ -460,7 +460,7 @@ def generate_site_header(current_page: str = "home") -> str:
         <div class="header-content">
             <div class="header-left">
                 <a href="/" class="site-brand" title="Beijerterm homepage">
-                    <img src="{asset_prefix}mb-icon.svg" alt="Beijerterm" class="site-logo">
+                    <img src="{asset_prefix}b-icon.svg" alt="Beijerterm" class="site-logo">
                     <span>Beijerterm</span>
                     <span class="version-badge">v1.3.0</span>
                 </a>
@@ -470,6 +470,43 @@ def generate_site_header(current_page: str = "home") -> str:
                 <a href="https://michaelbeijer.co.uk" target="_blank" title="Author's website">Michael Beijer</a>
                 <a href="https://github.com/michaelbeijer/beijerterm" target="_blank" title="View source code and contribute">GitHub</a>
                 <a href="https://supervertaler.com" target="_blank" title="AI-powered translation workbench">Supervertaler</a>
+                <div class="theme-switcher">
+                    <button class="theme-button" onclick="toggleThemeDropdown()" title="Change color theme">
+                        🎨
+                    </button>
+                    <div class="theme-dropdown" id="theme-dropdown">
+                        <div class="theme-option" onclick="setTheme('royal-blue')" data-theme="royal-blue">
+                            <div class="theme-color" style="background: #4169e1;"></div>
+                            <span class="theme-name">Royal Blue</span>
+                            <span class="theme-check">✓</span>
+                        </div>
+                        <div class="theme-option" onclick="setTheme('tech-blue')" data-theme="tech-blue">
+                            <div class="theme-color" style="background: #0969da;"></div>
+                            <span class="theme-name">Modern Tech</span>
+                            <span class="theme-check">✓</span>
+                        </div>
+                        <div class="theme-option" onclick="setTheme('navy')" data-theme="navy">
+                            <div class="theme-color" style="background: #1e3a8a;"></div>
+                            <span class="theme-name">Corporate Navy</span>
+                            <span class="theme-check">✓</span>
+                        </div>
+                        <div class="theme-option" onclick="setTheme('slate')" data-theme="slate">
+                            <div class="theme-color" style="background: #334155;"></div>
+                            <span class="theme-name">Academic Slate</span>
+                            <span class="theme-check">✓</span>
+                        </div>
+                        <div class="theme-option" onclick="setTheme('teal')" data-theme="teal">
+                            <div class="theme-color" style="background: #0891b2;"></div>
+                            <span class="theme-name">Refined Teal</span>
+                            <span class="theme-check">✓</span>
+                        </div>
+                        <div class="theme-option" onclick="setTheme('minimal')" data-theme="minimal">
+                            <div class="theme-color" style="background: #1a1a1a;"></div>
+                            <span class="theme-name">Minimalist B&W</span>
+                            <span class="theme-check">✓</span>
+                        </div>
+                    </div>
+                </div>
             </nav>
         </div>
     </header>'''
@@ -504,7 +541,52 @@ def generate_site_footer() -> str:
         <div class="footer-bottom">
             <p>&copy; 2025-2026 Michael Beijer. Built with ❤️ for the translation community.</p>
         </div>
-    </footer>'''
+    </footer>
+    <script>
+        // Theme Switcher
+        function loadTheme() {{
+            const theme = localStorage.getItem('beijerterm-theme') || 'royal-blue';
+            document.documentElement.setAttribute('data-theme', theme);
+            updateThemeUI(theme);
+        }}
+        
+        function setTheme(theme) {{
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('beijerterm-theme', theme);
+            updateThemeUI(theme);
+            document.getElementById('theme-dropdown').classList.remove('active');
+        }}
+        
+        function updateThemeUI(theme) {{
+            // Update selected state
+            document.querySelectorAll('.theme-option').forEach(option => {{
+                const check = option.querySelector('.theme-check');
+                if (option.dataset.theme === theme) {{
+                    option.classList.add('selected');
+                    check.style.display = 'block';
+                }} else {{
+                    option.classList.remove('selected');
+                    check.style.display = 'none';
+                }}
+            }});
+        }}
+        
+        function toggleThemeDropdown() {{
+            document.getElementById('theme-dropdown').classList.toggle('active');
+        }}
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(event) {{
+            const themeSwitcher = document.querySelector('.theme-switcher');
+            const dropdown = document.getElementById('theme-dropdown');
+            if (themeSwitcher && !themeSwitcher.contains(event.target)) {{
+                dropdown.classList.remove('active');
+            }}
+        }});
+        
+        // Load theme on page load
+        loadTheme();
+    </script>'''
 
 
 def generate_search_index(glossaries: list[dict], terms: list[dict]) -> list[dict]:
@@ -2007,8 +2089,8 @@ def build_site():
     print("Copying static assets...")
     if (SITE_DIR / "styles.css").exists():
         shutil.copy(SITE_DIR / "styles.css", OUTPUT_DIR / "styles.css")
-    if (SITE_DIR / "mb-icon.svg").exists():
-        shutil.copy(SITE_DIR / "mb-icon.svg", OUTPUT_DIR / "mb-icon.svg")
+    if (SITE_DIR / "b-icon.svg").exists():
+        shutil.copy(SITE_DIR / "b-icon.svg", OUTPUT_DIR / "b-icon.svg")
     if (SITE_DIR / "MB.ico").exists():
         shutil.copy(SITE_DIR / "MB.ico", OUTPUT_DIR / "favicon.ico")
     
