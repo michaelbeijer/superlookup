@@ -238,7 +238,7 @@ Parses MediaWiki markup:
 - Text Light: `#6b7280`
 - Background: `#ffffff`
 - Background Secondary: `#f3f4f6`
-- Footer Background: `#1f2937`
+- Footer Background: `#0f172a` (very dark slate)
 
 ---
 
