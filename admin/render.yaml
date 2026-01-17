@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: beijerterm-admin
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: FLASK_SECRET_KEY
+        generateValue: true
+      - key: GITHUB_CLIENT_ID
+        sync: false
+      - key: GITHUB_CLIENT_SECRET
+        sync: false
+      - key: ALLOWED_GITHUB_USERS
+        value: "michaelbeijer"

@@ -20,11 +20,18 @@ sys.path.insert(0, str(Path(__file__).parent.parent / 'scripts'))
 app = Flask(__name__)
 app.secret_key = os.environ.get('FLASK_SECRET_KEY', 'dev-secret-key-change-in-production')
 
+# Development/Production mode
+ADMIN_DEV_MODE = os.environ.get('ADMIN_DEV_MODE', '').lower() == 'true'
+PRODUCTION_MODE = os.environ.get('PRODUCTION', '').lower() == 'true'
+IS_DEV = ADMIN_DEV_MODE and not PRODUCTION_MODE
+
 # GitHub OAuth configuration
 GITHUB_CLIENT_ID = os.environ.get('GITHUB_CLIENT_ID', '')
 GITHUB_CLIENT_SECRET = os.environ.get('GITHUB_CLIENT_SECRET', '')
 GITHUB_REPO_OWNER = 'michaelbeijer'
 GITHUB_REPO_NAME = 'beijerterm'
+ALLOWED_USERS = os.environ.get('ALLOWED_GITHUB_USERS', 'michaelbeijer').split(',')
+CALLBACK_URL = os.environ.get('CALLBACK_URL', 'http://localhost:5000/callback')
 
 # Content paths
 BASE_DIR = Path(__file__).parent.parent
@@ -42,6 +49,11 @@ def get_github_token() -> Optional[str]:
 def require_auth(f):
     """Decorator to require GitHub authentication"""
     def wrapper(*args, **kwargs):
+        # Bypass auth in development mode
+        if IS_DEV:
+            return f(*args, **kwargs)
+        
+        # Production: require GitHub OAuth
         if 'github_token' not in session:
             return redirect(url_for('login'))
         return f(*args, **kwargs)
@@ -180,12 +192,10 @@ def login():
     if 'github_token' in session:
         return redirect(url_for('index'))
     
-    # For development, allow bypassing OAuth
-    dev_mode = os.environ.get('ADMIN_DEV_MODE') == 'true'
-    
     return render_template('login.html', 
                           github_client_id=GITHUB_CLIENT_ID,
-                          dev_mode=dev_mode)
+                          callback_url=CALLBACK_URL,
+                          dev_mode=IS_DEV)
 
 
 @app.route('/auth/github/callback')
@@ -200,7 +210,8 @@ def github_callback():
     response = requests.post(token_url, data={
         'client_id': GITHUB_CLIENT_ID,
         'client_secret': GITHUB_CLIENT_SECRET,
-        'code': code
+        'code': code,
+        'redirect_uri': CALLBACK_URL
     }, headers={'Accept': 'application/json'})
     
     if response.status_code != 200:
@@ -212,15 +223,21 @@ def github_callback():
     if not access_token:
         return 'Error: No access token in response', 400
     
-    # Store token in session
-    session['github_token'] = access_token
-    
     # Get user info
     user_response = requests.get('https://api.github.com/user', 
                                  headers={'Authorization': f'token {access_token}'})
     if user_response.status_code == 200:
         user_data = user_response.json()
-        session['github_user'] = user_data.get('login')
+        username = user_data.get('login')
+        
+        # Check if user is allowed
+        if username not in ALLOWED_USERS:
+            return f'Error: User {username} is not authorized to access this admin panel', 403
+        
+        session['github_token'] = access_token
+        session['github_user'] = username
+    else:
+        return 'Error: Could not get user info from GitHub', 400
     
     return redirect(url_for('index'))
 
@@ -228,7 +245,7 @@ def github_callback():
 @app.route('/auth/dev-login', methods=['POST'])
 def dev_login():
     """Development mode login (bypass OAuth)"""
-    if os.environ.get('ADMIN_DEV_MODE') != 'true':
+    if not IS_DEV:
         return 'Dev mode not enabled', 403
     
     session['github_token'] = 'dev-token'
