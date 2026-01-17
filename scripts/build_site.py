@@ -469,7 +469,7 @@ def generate_site_header(current_page: str = "home") -> str:
             <nav class="header-nav">
                 <a href="https://michaelbeijer.co.uk" target="_blank" title="Author's website">Michael Beijer</a>
                 <a href="{asset_prefix}resources/whats-new" title="Recent glossary and term additions">What's New</a>
-                <a href="https://admin.beijerterm.com" target="_blank" title="Admin panel (authentication required)" class="admin-link">
+                <a href="https://beijerterm-production.up.railway.app" target="_blank" title="Admin panel (authentication required)" class="admin-link">
                     <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" style="vertical-align: -2px; margin-right: 4px;">
                         <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0z"/>
                         <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
