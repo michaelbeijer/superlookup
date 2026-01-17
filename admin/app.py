@@ -120,7 +120,7 @@ def generate_glossary_markdown(data: Dict) -> str:
 def index():
     """Admin dashboard"""
     stats = {
-        'glossaries': len(list(GLOSSARIES_DIR.glob('*.yml'))),
+        'glossaries': len(list(GLOSSARIES_DIR.rglob('*.md'))),
         'terms': len(list(TERMS_DIR.glob('*.md'))),
         'resources': len(list(RESOURCES_DIR.glob('*.md')))
     }
@@ -200,7 +200,7 @@ def logout():
 @require_auth
 def glossaries():
     """List all glossaries"""
-    glossary_files = sorted(GLOSSARIES_DIR.glob('*.md'))
+    glossary_files = sorted(GLOSSARIES_DIR.rglob('*.md'))
     glossaries_data = []
     
     for file in glossary_files:

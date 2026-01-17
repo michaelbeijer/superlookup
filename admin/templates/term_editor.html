@@ -1,0 +1,144 @@
+{% extends "base.html" %}
+
+{% block title %}Edit Term: {{ filename }} - Beijerterm Admin{% endblock %}
+
+{% block extra_css %}
+<style>
+    .editor-container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    .editor-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .editor-toolbar {
+        background: white;
+        border: 1px solid #ddd;
+        border-bottom: none;
+        padding: 10px;
+        border-radius: 4px 4px 0 0;
+        display: flex;
+        gap: 10px;
+    }
+    .editor-textarea {
+        width: 100%;
+        min-height: 600px;
+        font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 0 0 4px 4px;
+        padding: 15px;
+        resize: vertical;
+    }
+    .toolbar-btn {
+        padding: 5px 10px;
+        border: 1px solid #ddd;
+        background: white;
+        border-radius: 3px;
+        cursor: pointer;
+        font-size: 13px;
+    }
+    .toolbar-btn:hover {
+        background: #f5f5f5;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="editor-container">
+    <div class="editor-header">
+        <div>
+            <a href="{{ url_for('terms') }}" style="color: #666; text-decoration: none;">← Back to Terms</a>
+            <h1 style="margin: 10px 0;">Edit Term: {{ filename }}</h1>
+        </div>
+        <div>
+            <button class="btn" onclick="window.location.href='{{ url_for('terms') }}'">Cancel</button>
+            <button class="btn btn-primary" onclick="saveTerm()">💾 Save Changes</button>
+        </div>
+    </div>
+
+    <div class="editor-toolbar">
+        <button class="toolbar-btn" onclick="insertMarkdown('**', '**')" title="Bold">
+            <strong>B</strong>
+        </button>
+        <button class="toolbar-btn" onclick="insertMarkdown('*', '*')" title="Italic">
+            <em>I</em>
+        </button>
+        <button class="toolbar-btn" onclick="insertMarkdown('## ', '')" title="Heading">
+            H2
+        </button>
+        <button class="toolbar-btn" onclick="insertMarkdown('[', '](url)')" title="Link">
+            🔗 Link
+        </button>
+        <button class="toolbar-btn" onclick="insertMarkdown('`', '`')" title="Code">
+            &lt;/&gt;
+        </button>
+        <button class="toolbar-btn" onclick="insertMarkdown('- ', '')" title="List">
+            • List
+        </button>
+    </div>
+    
+    <textarea id="content" class="editor-textarea">{{ content }}</textarea>
+    
+    <div style="margin-top: 20px; color: #666; font-size: 14px;">
+        <strong>💡 Tip:</strong> This is a Markdown editor. Use Markdown syntax for formatting.
+        <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" style="margin-left: 10px;">View Markdown Guide →</a>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function insertMarkdown(before, after) {
+        const textarea = document.getElementById('content');
+        const start = textarea.selectionStart;
+        const end = textarea.selectionEnd;
+        const selectedText = textarea.value.substring(start, end);
+        const replacement = before + selectedText + after;
+        
+        textarea.value = textarea.value.substring(0, start) + replacement + textarea.value.substring(end);
+        
+        // Set cursor position
+        const newPos = start + before.length + selectedText.length;
+        textarea.focus();
+        textarea.setSelectionRange(newPos, newPos);
+    }
+
+    function saveTerm() {
+        const content = document.getElementById('content').value;
+        
+        fetch('{{ url_for('api_term', filename=filename) }}', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ content: content })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                showNotification('✓ Term saved successfully!', 'success');
+                setTimeout(() => {
+                    window.location.href = '{{ url_for('terms') }}';
+                }, 1500);
+            } else {
+                showNotification('✗ Error saving term: ' + (data.error || 'Unknown error'), 'error');
+            }
+        })
+        .catch(error => {
+            showNotification('✗ Error saving term: ' + error, 'error');
+        });
+    }
+
+    // Keyboard shortcut: Ctrl+S to save
+    document.addEventListener('keydown', function(e) {
+        if (e.ctrlKey && e.key === 's') {
+            e.preventDefault();
+            saveTerm();
+        }
+    });
+</script>
+{% endblock %}

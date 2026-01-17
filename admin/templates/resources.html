@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block title %}Resources - Beijerterm Admin{% endblock %}
+
+{% block content %}
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+    <h1>📰 Resources</h1>
+    <button class="btn btn-primary" onclick="alert('Create resource coming soon!')">
+        📰 + New Resource
+    </button>
+</div>
+
+{% if resources %}
+    <div class="card">
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Filename</th>
+                    <th style="width: 100px;">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for resource in resources %}
+                <tr>
+                    <td><strong>{{ resource.title }}</strong></td>
+                    <td><code>{{ resource.filename }}.md</code></td>
+                    <td>
+                        <a href="{{ url_for('edit_resource', filename=resource.filename) }}" class="btn btn-sm">
+                            ✏️ Edit
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% else %}
+    <div class="card" style="text-align: center; padding: 60px;">
+        <p style="font-size: 48px; margin-bottom: 20px;">📰</p>
+        <h3>No resources yet</h3>
+        <p style="color: #666; margin-bottom: 30px;">Create your first resource page (articles, guides, etc.).</p>
+        <button class="btn btn-primary" onclick="alert('Create resource coming soon!')">
+            📰 Create First Resource
+        </button>
+    </div>
+{% endif %}
+{% endblock %}

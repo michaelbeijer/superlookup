@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block title %}Term Pages - Beijerterm Admin{% endblock %}
+
+{% block content %}
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+    <h1>📝 Term Pages</h1>
+    <button class="btn btn-primary" onclick="alert('Create term page coming soon!')">
+        ✏️ + New Term Page
+    </button>
+</div>
+
+{% if terms %}
+    <div class="card">
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Filename</th>
+                    <th style="width: 100px;">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for term in terms %}
+                <tr>
+                    <td><strong>{{ term.title }}</strong></td>
+                    <td>{{ term.description[:100] }}{% if term.description|length > 100 %}...{% endif %}</td>
+                    <td><code>{{ term.filename }}.md</code></td>
+                    <td>
+                        <a href="{{ url_for('edit_term', filename=term.filename) }}" class="btn btn-sm">
+                            ✏️ Edit
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% else %}
+    <div class="card" style="text-align: center; padding: 60px;">
+        <p style="font-size: 48px; margin-bottom: 20px;">📝</p>
+        <h3>No term pages yet</h3>
+        <p style="color: #666; margin-bottom: 30px;">Create your first individual term definition page.</p>
+        <button class="btn btn-primary" onclick="alert('Create term page coming soon!')">
+            ✏️ Create First Term Page
+        </button>
+    </div>
+{% endif %}
+{% endblock %}
