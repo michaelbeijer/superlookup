@@ -247,7 +247,10 @@ def edit_glossary(filename):
 
 
 @app.route('/api/glossaries/<filename>', methods=['GET', 'POST'])
-@require_authmd'
+@require_auth
+def api_glossary(filename):
+    """Get or update a specific glossary (JSON)"""
+    file_path = GLOSSARIES_DIR / filename
     
     if request.method == 'GET':
         if not file_path.exists():
@@ -267,10 +270,7 @@ def edit_glossary(filename):
         markdown = generate_glossary_markdown(data)
         
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(markdown
-        
-        with open(file_path, 'w', encoding='utf-8') as f:
-            yaml.dump(data, f, allow_unicode=True, sort_keys=False)
+            f.write(markdown)
         
         # TODO: Commit to GitHub
         
