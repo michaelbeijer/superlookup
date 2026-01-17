@@ -6,6 +6,7 @@ import os
 import sys
 import json
 import yaml
+import subprocess
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
@@ -46,6 +47,52 @@ def require_auth(f):
         return f(*args, **kwargs)
     wrapper.__name__ = f.__name__
     return wrapper
+
+
+def run_git_command(command: List[str]) -> tuple[bool, str]:
+    """Run a git command and return success status and output"""
+    try:
+        result = subprocess.run(
+            command,
+            cwd=BASE_DIR,
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        return True, result.stdout
+    except subprocess.CalledProcessError as e:
+        return False, f"Git error: {e.stderr}"
+    except Exception as e:
+        return False, f"Error: {str(e)}"
+
+
+def git_commit_and_push(file_path: str, commit_message: str) -> tuple[bool, str]:
+    """Add, commit, and push a file to GitHub"""
+    # Make file_path relative to BASE_DIR
+    try:
+        rel_path = Path(file_path).relative_to(BASE_DIR)
+    except ValueError:
+        return False, "File path is not within repository"
+    
+    # Git add
+    success, output = run_git_command(['git', 'add', str(rel_path)])
+    if not success:
+        return False, f"Failed to add file: {output}"
+    
+    # Git commit
+    success, output = run_git_command(['git', 'commit', '-m', commit_message])
+    if not success:
+        # Check if it's just "nothing to commit"
+        if 'nothing to commit' in output.lower():
+            return False, "No changes to commit"
+        return False, f"Failed to commit: {output}"
+    
+    # Git push
+    success, output = run_git_command(['git', 'push', 'origin', 'main'])
+    if not success:
+        return False, f"Failed to push: {output}"
+    
+    return True, "Successfully committed and pushed to GitHub!"
 
 
 def parse_glossary_markdown(content: str) -> Dict:
@@ -484,6 +531,47 @@ def api_resource(filename):
         # TODO: Commit to GitHub
         
         return jsonify({'success': True})
+
+
+@app.route('/api/git/commit', methods=['POST'])
+@require_auth
+def git_commit():
+    """Commit and push changes to GitHub"""
+    data = request.json
+    file_path = data.get('file_path', '')
+    commit_message = data.get('commit_message', '')
+    
+    if not file_path:
+        return jsonify({'error': 'File path is required'}), 400
+    
+    if not commit_message:
+        return jsonify({'error': 'Commit message is required'}), 400
+    
+    # Handle wildcard paths for glossaries (e.g., content/glossaries/**/*.md)
+    if '**' in file_path:
+        # Extract the filename pattern
+        parts = file_path.split('/')
+        filename = parts[-1]  # e.g., "filename.md"
+        search_dir = BASE_DIR / '/'.join(parts[:-2])  # e.g., "content/glossaries"
+        
+        # Search for the file recursively
+        found_files = list(search_dir.rglob(filename))
+        if not found_files:
+            return jsonify({'error': 'File not found'}), 404
+        
+        abs_path = found_files[0]  # Use first match
+    else:
+        # Resolve absolute path normally
+        abs_path = BASE_DIR / file_path
+        if not abs_path.exists():
+            return jsonify({'error': 'File does not exist'}), 404
+    
+    success, message = git_commit_and_push(str(abs_path), commit_message)
+    
+    if success:
+        return jsonify({'success': True, 'message': message})
+    else:
+        return jsonify({'error': message}), 500
 
 
 if __name__ == '__main__':

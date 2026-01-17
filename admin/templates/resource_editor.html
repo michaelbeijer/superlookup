@@ -57,6 +57,7 @@
         <div>
             <button class="btn" onclick="window.location.href='{{ url_for('resources') }}'">Cancel</button>
             <button class="btn btn-primary" onclick="saveResource()">💾 Save Changes</button>
+            <button class="btn" onclick="showCommitDialog()" style="background: #28a745; color: white;">🚀 Commit & Push</button>
         </div>
     </div>
 
@@ -140,5 +141,38 @@
             saveResource();
         }
     });
+
+    function showCommitDialog() {
+        const message = prompt('Enter commit message:', 'Update resource: {{ filename }}');
+        if (message) {
+            commitAndPush(message);
+        }
+    }
+
+    function commitAndPush(commitMessage) {
+        showNotification('⏳ Committing and pushing to GitHub...', 'info');
+        
+        fetch('/api/git/commit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                file_path: 'content/resources/{{ filename }}.md',
+                commit_message: commitMessage
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                showNotification('✓ ' + data.message, 'success');
+            } else {
+                showNotification('✗ ' + (data.error || 'Commit failed'), 'error');
+            }
+        })
+        .catch(error => {
+            showNotification('✗ Error: ' + error, 'error');
+        });
+    }
 </script>
 {% endblock %}

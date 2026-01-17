@@ -24,6 +24,9 @@ class GlossaryEditor {
         // Save button
         document.querySelector('[data-action="save"]').addEventListener('click', () => this.save());
         
+        // Commit & Push button
+        document.querySelector('[data-action="commit-push"]').addEventListener('click', () => this.showCommitDialog());
+        
         // Toolbar buttons
         document.querySelector('[data-action="add-row"]').addEventListener('click', () => this.addRow());
         document.querySelector('[data-action="delete-rows"]').addEventListener('click', () => this.deleteSelectedRows());
@@ -433,6 +436,42 @@ class GlossaryEditor {
             console.error('Save error:', error);
             this.updateStatus('Error saving', 'error');
             showNotification('Error saving changes', 'error');
+        }
+    }
+    
+    showCommitDialog() {
+        const message = prompt('Enter commit message:', `Update glossary: ${this.filename}`);
+        if (message) {
+            this.commitAndPush(message);
+        }
+    }
+    
+    async commitAndPush(commitMessage) {
+        // Need to find the relative path to the glossary file
+        // Glossaries can be in subdirectories, so we need to search
+        showNotification('⏳ Committing and pushing to GitHub...', 'info');
+        
+        try {
+            const response = await fetch('/api/git/commit', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    file_path: `content/glossaries/**/${this.filename}.md`,
+                    commit_message: commitMessage
+                })
+            });
+            
+            const data = await response.json();
+            
+            if (data.success) {
+                showNotification('✓ ' + data.message, 'success');
+            } else {
+                showNotification('✗ ' + (data.error || 'Commit failed'), 'error');
+            }
+        } catch (error) {
+            showNotification('✗ Error: ' + error, 'error');
         }
     }
 }
