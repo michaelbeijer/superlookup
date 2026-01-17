@@ -1,0 +1,65 @@
+name: Build and Deploy Beijerterm Site
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install PyYAML
+          
+      - name: Install Pagefind
+        run: |
+          wget https://github.com/CloudCannon/pagefind/releases/download/v1.4.0/pagefind-v1.4.0-x86_64-unknown-linux-musl.tar.gz
+          tar -xzf pagefind-v1.4.0-x86_64-unknown-linux-musl.tar.gz
+          chmod +x pagefind
+          sudo mv pagefind /usr/local/bin/
+          
+      - name: Build site
+        run: |
+          python scripts/build_site.py
+          
+      - name: Remove large search index (optional)
+        run: |
+          if [ -f _site/search-index.json ]; then
+            echo "Removing large search-index.json (195MB)"
+            rm _site/search-index.json
+          fi
+          
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
