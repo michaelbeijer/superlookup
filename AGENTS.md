@@ -531,6 +531,50 @@ The custom admin panel provides a user-friendly interface for editing glossaries
 - Git commit/push from admin panel
 - Preview functionality
 
+### 🎯 Next Priority: Custom Domain Setup (Planned for v1.6.2)
+
+**Goal:** Replace `beijerterm-production.up.railway.app` with `admin.beijerterm.com`
+
+**Why subdomain instead of path (`/admin`):**
+- Main site on GitHub Pages can't reverse-proxy
+- Railway has built-in custom domain support
+- Cleaner separation of concerns
+- No performance overhead from proxying
+
+**Implementation Steps:**
+
+1. **DNS Configuration** (at domain registrar):
+   ```
+   Type: CNAME
+   Name: admin
+   Value: beijerterm-production.up.railway.app
+   TTL: 3600
+   ```
+
+2. **Railway Configuration**:
+   - Go to Railway project settings
+   - Add custom domain: `admin.beijerterm.com`
+   - Railway auto-provisions SSL certificate
+   - Wait for DNS propagation (~5-30 minutes)
+
+3. **Update Beijerterm Links**:
+   - `scripts/build_site.py`: Update all Railway URLs
+   - Header navigation: `https://admin.beijerterm.com`
+   - Edit links: `https://admin.beijerterm.com/glossaries/{filename}`
+   - Admin panel login redirect: Update in Flask app
+
+**Final URLs:**
+- `admin.beijerterm.com` - Dashboard
+- `admin.beijerterm.com/glossaries` - Glossary list
+- `admin.beijerterm.com/glossaries/agricultural-tractor-glossary.md` - Editor
+- `admin.beijerterm.com/terms/{slug}` - Term editor
+- `admin.beijerterm.com/resources/{slug}` - Resource editor
+
+**Files to Update:**
+- `scripts/build_site.py` - All admin panel URLs
+- `admin/app.py` - OAuth redirect URIs
+- Documentation (README, AGENTS.md)
+
 ### File Structure
 
 ```
