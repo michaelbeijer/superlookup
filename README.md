@@ -1,6 +1,6 @@
 # Beijerterm
 
-[![Version](https://img.shields.io/badge/version-v1.6.0-blue.svg)](https://github.com/michaelbeijer/beijerterm/releases)
+[![Version](https://img.shields.io/badge/version-v1.6.1-blue.svg)](https://github.com/michaelbeijer/beijerterm/releases)
 [![License](https://img.shields.io/badge/license-CC0-green.svg)](LICENSE.md)
 [![GitHub Pages](https://img.shields.io/badge/hosted-GitHub%20Pages-orange.svg)](https://michaelbeijer.github.io/beijerterm/)
 
@@ -104,6 +104,32 @@ npx pagefind --site _site
 # Serve locally
 npx serve _site
 ```
+
+##  Deployment Architecture
+
+Beijerterm uses a **static site generation + GitHub Actions** workflow:
+
+### What gets stored in Git:
+- ✅ Source content (Markdown files in `content/`)
+- ✅ Build scripts (`scripts/build_site.py`)
+- ✅ CSS and assets (`site/`)
+- ❌ Generated HTML (`_site/`) - **gitignored**
+- ❌ Search index (`_site/pagefind/`) - **gitignored (~196MB)**
+
+### How deployment works:
+
+1. **You push** → Source files committed to GitHub
+2. **GitHub Actions** (`.github/workflows/deploy.yaml`):
+   - Runs `python scripts/build_site.py` → Generates HTML pages
+   - Runs `npx pagefind --site _site` → Generates search index (~196MB)
+   - Uploads complete `_site/` folder as deployment artifact
+3. **GitHub Pages** → Serves the built site with search index
+
+**Why this approach?**
+- Git repo stays small (no 196MB search index commits)
+- Search index regenerated fresh on every deployment
+- Build artifacts never pollute version history
+- Standard practice for static site generators
 
 ##  Contributing
 
