@@ -12,6 +12,11 @@
         <div class="header-left">
             <a href="{{ url_for('glossaries') }}" class="back-link">← Back to Glossaries</a>
             <h1>{{ glossary.title }}</h1>
+            <a href="https://github.com/michaelbeijer/beijerterm/blob/main/content/glossaries/{{ glossary.category }}/{{ filename }}" 
+               target="_blank" 
+               style="color: #0969da; text-decoration: none; font-size: 14px; margin-left: 10px;">
+                📄 View on GitHub →
+            </a>
         </div>
         <div class="header-right">
             <button class="btn-secondary" data-action="undo" disabled>

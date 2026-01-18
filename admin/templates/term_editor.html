@@ -53,6 +53,11 @@
         <div>
             <a href="{{ url_for('terms') }}" style="color: #666; text-decoration: none;">← Back to Terms</a>
             <h1 style="margin: 10px 0;">Edit Term: {{ filename }}</h1>
+            <a href="https://github.com/michaelbeijer/beijerterm/blob/main/content/terms/{{ filename }}" 
+               target="_blank" 
+               style="color: #0969da; text-decoration: none; font-size: 14px; margin-left: 5px;">
+                📄 View on GitHub →
+            </a>
         </div>
         <div>
             <button class="btn" onclick="window.location.href='{{ url_for('terms') }}'">Cancel</button>
