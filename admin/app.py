@@ -431,18 +431,23 @@ def terms():
     terms_data = []
     
     for file in term_files:
-        with open(file, 'r', encoding='utf-8') as f:
-            content = f.read()
-            # Extract frontmatter
-            if content.startswith('---'):
-                parts = content.split('---', 2)
-                if len(parts) >= 3:
-                    frontmatter = yaml.safe_load(parts[1])
-                    terms_data.append({
-                        'filename': file.stem,
-                        'title': frontmatter.get('title', file.stem),
-                        'description': frontmatter.get('description', '')
-                    })
+        try:
+            with open(file, 'r', encoding='utf-8') as f:
+                content = f.read()
+                # Extract frontmatter
+                if content.startswith('---'):
+                    parts = content.split('---', 2)
+                    if len(parts) >= 3:
+                        frontmatter = yaml.safe_load(parts[1])
+                        terms_data.append({
+                            'filename': file.stem,
+                            'title': frontmatter.get('title', file.stem),
+                            'description': frontmatter.get('description', '')
+                        })
+        except Exception as e:
+            # Skip malformed files
+            print(f"Error parsing {file.name}: {e}")
+            continue
     
     return render_template('terms.html', terms=terms_data)
 
