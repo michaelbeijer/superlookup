@@ -392,12 +392,26 @@ def create_glossary():
     if file_path.exists():
         return jsonify({'error': 'Glossary already exists'}), 400
     
+    # Get current date for last_updated
+    today = datetime.now().strftime('%Y-%m-%d')
+    
     # Create initial glossary with empty table
     content = f"""---
-title: "{title}"
+title: {title}
+slug: {filename}
+description: Terminology from {title}
+type: glossary
 source_lang: {source_lang}
 target_lang: {target_lang}
+term_count: 0
+last_updated: {today}
+tags:
+  - {subdirectory if subdirectory else 'general'}
 ---
+
+# {title}
+
+## Terms
 
 | {source_lang.upper()} | {target_lang.upper()} | Notes |
 |------|------|-------|
