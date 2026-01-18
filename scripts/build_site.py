@@ -470,7 +470,7 @@ def generate_site_header(current_page: str = "home") -> str:
                 <a href="/" class="site-brand" title="Beijerterm homepage">
                     <span class="site-icon">🌐</span>
                     <span>Beijerterm</span>
-                    <span class="version-badge">v1.6.1</span>
+                    <span class="version-badge">v1.6.2</span>
                 </a>
                 {tagline}
             </div>

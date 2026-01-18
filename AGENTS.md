@@ -1,7 +1,7 @@
 # Beijerterm - AI Agent Documentation
 
 > **This is the single source of truth for AI coding assistants working on this project.**
-> **Last Updated:** January 17, 2026 | **Version:** v1.6.1
+> **Last Updated:** January 18, 2026 | **Version:** v1.6.2
 
 ---
 
@@ -276,6 +276,30 @@ Parses MediaWiki markup:
 ---
 
 ## 🔄 Recent Development History
+
+### January 18, 2026 - Button Labels & YAML Fixes (v1.6.2)
+
+**Improved UX and error handling:**
+
+- **Button label improvements**: Renamed for better clarity
+  - "Save Changes" → "💾 Save Draft" (indicates temporary Railway storage)
+  - "Commit & Push" → "🚀 Publish to GitHub" (indicates permanent publishing)
+  - Applied consistently across Terms, Glossaries, and Resources editors
+- **GitHub link fixes**: Added `.md` extension to "View on GitHub" links
+  - Fixed links in term_editor.html, glossary_editor.html, resource_editor.html
+  - Links now correctly navigate to actual Markdown files
+- **YAML error handling**: Added try-except in `/terms` route
+  - Gracefully skips malformed term files instead of crashing
+  - Fixed `s-avonds.md` frontmatter with proper YAML quoting for special characters
+  - Prevents Internal Server Error when encountering YAML syntax issues
+
+**Files Modified:**
+- `admin/templates/term_editor.html` - Button labels + GitHub link .md extension
+- `admin/templates/glossary_editor.html` - Button labels + GitHub link .md extension
+- `admin/templates/resource_editor.html` - Button labels + GitHub link .md extension
+- `admin/app.py` - Added try-except error handling to `terms()` route
+- `content/terms/s-avonds.md` - Fixed YAML frontmatter quoting
+- Version badge: v1.6.1 → v1.6.2
 
 ### January 17, 2026 - Navigation & Edit Links (v1.6.1)
 

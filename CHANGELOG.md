@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.6.2] - 2026-01-18
+
+### Changed
+- **Button labels improved** for better clarity
+  - "Save Changes" → "💾 Save Draft" (indicates temporary Railway storage)
+  - "Commit & Push" → "🚀 Publish to GitHub" (indicates permanent publishing)
+  - Applied consistently across Terms, Glossaries, and Resources editors
+
+### Fixed
+- **GitHub links** now include `.md` extension
+  - Fixed "View on GitHub" links in all editor pages (Terms, Glossaries, Resources)
+  - Links now correctly navigate to the actual Markdown file
+- **YAML parsing errors** in Terms route
+  - Added try-except error handling to gracefully skip malformed term files
+  - Fixed frontmatter in `s-avonds.md` with proper YAML quoting for special characters
+  - Prevents Internal Server Error when encountering files with YAML syntax issues
+
 ## [1.6.1] - 2026-01-17
 
 ### Added
