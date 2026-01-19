@@ -25,5 +25,5 @@ Note: FILM is usually plastic, FOIL is usually metal. Not always though.
 
 > **Van Dale (nl-en)**:
 > folie:
-> (aluminium) (tin)foil
-> (plastic) sheet, film
+> 1. (aluminium) (tin)foil
+> 2. (plastic) sheet, film
