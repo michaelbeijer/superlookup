@@ -98,7 +98,59 @@ main {
 	cursor: pointer;
 }
 .go:hover { filter: brightness(1.06); }
-.hint { color: var(--muted); font-size: 0.85rem; margin: 0.6em 0 0; }
+.hint { color: var(--muted); font-size: 0.85rem; margin: 0.4em 0 1em; }
+
+/* Inline results — browser-like tab strip */
+.results { margin: 0 0 2.5em; }
+.tabstrip {
+	display: flex;
+	gap: 0.25em;
+	border-bottom: 1px solid var(--border);
+}
+.tab-btn {
+	font: inherit;
+	font-weight: 600;
+	font-size: 0.95rem;
+	padding: 0.55em 1em;
+	border: 1px solid transparent;
+	border-bottom: none;
+	border-radius: 8px 8px 0 0;
+	background: transparent;
+	color: var(--muted);
+	cursor: pointer;
+	margin-bottom: -1px;
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn[aria-selected="true"] {
+	color: var(--text);
+	background: var(--bg);
+	border-color: var(--border);
+	border-bottom: 1px solid var(--bg);
+}
+.tab-panel {
+	border: 1px solid var(--border);
+	border-top: none;
+	border-radius: 0 0 12px 12px;
+	padding: 0.5em;
+}
+.panel-scroll { max-height: 460px; overflow-y: auto; padding: 0.5em; }
+.muted { color: var(--muted); }
+.muted.more { margin: 0.75em 0 0.25em; font-size: 0.9rem; }
+
+/* Superterm result groups */
+.st-sense { padding: 0.7em 0.6em; border-bottom: 1px solid var(--border); }
+.st-sense:last-of-type { border-bottom: none; }
+.st-label { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.15em; }
+.st-terms { font-size: 1.15rem; font-weight: 600; }
+.st-meta { font-size: 0.78rem; color: var(--muted); margin-top: 0.15em; }
+
+/* Wikipedia items */
+.wiki-item { display: block; padding: 0.6em; border-radius: 8px; color: var(--text); }
+.wiki-item:hover { text-decoration: none; background: rgba(51, 102, 204, 0.06); }
+.wiki-title { display: block; font-weight: 600; color: var(--accent); }
+.wiki-desc { display: block; font-size: 0.88rem; color: var(--muted); }
+
+.launch-head { font-size: 1.1rem; margin: 0 0 0.2em; }
 
 /* Resource cards */
 .grid {

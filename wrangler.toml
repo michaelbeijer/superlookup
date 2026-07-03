@@ -1,8 +1,12 @@
-# Cloudflare deployment as a static-assets Worker / Pages project.
-# `npm run build` produces dist/; deploy that as static assets at the edge.
-# No Worker script — this is a pure static site.
+# Cloudflare Worker with static assets.
+# `npm run build` produces dist/ (the Astro site), served via the ASSETS
+# binding. The Worker script (worker/index.js) additionally handles
+# /api/superterm — a server-side proxy to the Superterm search Worker, so the
+# browser calls a same-origin endpoint and CORS never comes into play.
 name = "superlookup"
+main = "worker/index.js"
 compatibility_date = "2024-09-23"
 
 [assets]
 directory = "./dist"
+binding = "ASSETS"
