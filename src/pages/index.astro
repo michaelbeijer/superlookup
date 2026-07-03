@@ -35,7 +35,7 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 				spellcheck="false" autocapitalize="off" inputmode="search" />
 			<button type="submit" class="go">Search</button>
 		</div>
-		<p class="hint">Cards marked <span class="chip">▾ preview</span> expand their results here; the rest open in a new tab <span aria-hidden="true">↗</span>.</p>
+		<p class="hint">Cards marked <span class="chip">inline</span> show their results here when expanded; the rest open in a new tab <span aria-hidden="true">↗</span>.</p>
 	</form>
 
 	<section class="grid" id="grid" aria-label="Resources">
@@ -51,7 +51,7 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 							<span class="card-name">
 								{r.name}
 								{r.native && <span class="badge">built-in</span>}
-								<span class="chip">preview</span>
+								<span class="chip">inline</span>
 							</span>
 							<span class="card-desc">{r.description}</span>
 						</span>
@@ -118,6 +118,18 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		card.querySelector('.card-results').hidden = true;
 	}
 
+	// A sticky bar pinned to the top of each inline panel, with an
+	// always-visible "open the full resource" link that stays put while the
+	// results scroll underneath it.
+	function shell(card, bodyHtml) {
+		const r = byId.get(card.dataset.id);
+		const href = esc(buildUrl(r, state.q, state.from, state.to));
+		return `<div class="rs-bar">` +
+			`<span class="rs-title">${esc(r.icon)} ${esc(r.name)}</span>` +
+			`<a class="rs-open" href="${href}" target="_blank" rel="noopener" aria-label="Open ${esc(r.name)}">Open ↗</a>` +
+			`</div><div class="rs-body">${bodyHtml}</div>`;
+	}
+
 	async function loadInline(card) {
 		if (!state.q) return;
 		const out = card.querySelector('.card-results');
@@ -127,46 +139,48 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		card.dataset.loaded = stamp;
 
 		if (card.dataset.kind === 'superterm') {
-			out.innerHTML = '<p class="muted">Searching Superterm…</p>';
+			out.innerHTML = shell(card, '<p class="muted">Searching Superterm…</p>');
 			try {
 				const r = await fetch(`/api/superterm?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}`,
 					{ headers: { Accept: 'application/json' } });
 				if (!r.ok) throw new Error(r.status);
-				renderSuperterm(out, await r.json());
+				out.innerHTML = shell(card, supertermBody(await r.json()));
 			} catch (e) {
 				card.dataset.loaded = '';
-				out.innerHTML = `<p class="muted">Couldn’t reach Superterm. <a href="https://superterm.io/?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}" target="_blank" rel="noopener">Open superterm.io ↗</a></p>`;
+				out.innerHTML = shell(card, '<p class="muted">Couldn’t reach Superterm right now.</p>');
 			}
 		} else if (card.dataset.kind === 'mediawiki') {
 			const lang = card.dataset.side === 'target' ? state.to : state.from;
 			const host = card.dataset.host; // wikipedia | wiktionary
-			out.innerHTML = `<p class="muted">Searching ${host}…</p>`;
+			out.innerHTML = shell(card, `<p class="muted">Searching ${esc(host)}…</p>`);
 			try {
 				const api = `https://${lang}.${host}.org/w/api.php?action=opensearch&limit=12&namespace=0&format=json&origin=*&search=${encodeURIComponent(state.q)}`;
 				const [, titles, descs, urls] = await (await fetch(api)).json();
-				if (!titles || !titles.length) {
-					out.innerHTML = `<p class="muted">No ${esc(host)} (${esc(lang)}) results for “${esc(state.q)}”.</p>`;
-					return;
-				}
-				out.innerHTML = titles.map((t, i) => `
-					<a class="wiki-item" href="${esc(urls[i])}" target="_blank" rel="noopener">
-						<span class="wiki-title">${esc(t)}</span>
-						${descs && descs[i] ? `<span class="wiki-desc">${esc(descs[i])}</span>` : ''}
-					</a>`).join('');
+				out.innerHTML = shell(card, mediawikiBody(titles, descs, urls, host, lang));
 			} catch (e) {
 				card.dataset.loaded = '';
-				out.innerHTML = `<p class="muted">Couldn’t reach ${esc(host)}.</p>`;
+				out.innerHTML = shell(card, `<p class="muted">Couldn’t reach ${esc(host)}.</p>`);
 			}
 		}
 	}
 
-	function renderSuperterm(out, data) {
+	function mediawikiBody(titles, descs, urls, host, lang) {
+		if (!titles || !titles.length) {
+			return `<p class="muted">No ${esc(host)} (${esc(lang)}) results for “${esc(state.q)}”.</p>`;
+		}
+		return titles.map((t, i) => `
+			<a class="wiki-item" href="${esc(urls[i])}" target="_blank" rel="noopener">
+				<span class="wiki-title">${esc(t)}</span>
+				${descs && descs[i] ? `<span class="wiki-desc">${esc(descs[i])}</span>` : ''}
+			</a>`).join('');
+	}
+
+	function supertermBody(data) {
 		// Only show pairs whose target is the selected language.
 		const entries = (data.entries || []).filter((e) => !e.lb || e.lb === state.to);
 		const senses = data.senses || [];
 		if (!entries.length) {
-			out.innerHTML = `<p class="muted">No Superterm results for “${esc(state.q)}”. <a href="https://superterm.io/?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}" target="_blank" rel="noopener">Search the full site ↗</a></p>`;
-			return;
+			return `<p class="muted">No Superterm results for “${esc(state.q)}” in this language pair.</p>`;
 		}
 		const labelOf = new Map(senses.map((s) => [s.id, s.label]));
 		const groups = new Map();
@@ -188,8 +202,7 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 				<div class="st-meta">${doms ? `<span class="st-dom">${doms}</span>` : ''}${badges}</div>
 			</div>`;
 		}
-		html += `<p class="muted more"><a href="https://superterm.io/?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}" target="_blank" rel="noopener">Open full results on superterm.io ↗</a></p>`;
-		out.innerHTML = html;
+		return html;
 	}
 
 	// ── Run a search ──────────────────────────────────────────────────
