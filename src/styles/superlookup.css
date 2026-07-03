@@ -277,6 +277,152 @@ main {
 	white-space: nowrap; border: 0;
 }
 
+/* ─────────────────────────────────────────────────────────────────────────
+   Landing page (desktop-app first)
+   ───────────────────────────────────────────────────────────────────────── */
+.lander { padding-top: 0.5em; }
+
+.lander-hero {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 2.5em;
+	align-items: center;
+	margin-bottom: 3.5em;
+}
+.lander-hero h1 {
+	font-size: 2.7rem;
+	line-height: 1.1;
+	letter-spacing: -0.03em;
+	margin: 0 0 0.4em;
+}
+.lander-hero .lead {
+	color: var(--muted);
+	font-size: 1.1rem;
+	margin: 0 0 1.5em;
+}
+.cta-row { display: flex; flex-wrap: wrap; gap: 0.7em; align-items: center; }
+.btn-primary {
+	font-weight: 700;
+	font-size: 1.02rem;
+	padding: 0.7em 1.4em;
+	border: 1px solid var(--accent);
+	border-radius: 11px;
+	background: var(--accent);
+	color: #fff;
+}
+.btn-primary:hover { text-decoration: none; filter: brightness(1.07); }
+.btn-ghost {
+	font-weight: 600;
+	padding: 0.7em 1.2em;
+	border: 1px solid var(--border);
+	border-radius: 11px;
+	color: var(--text);
+	background: var(--bg);
+}
+.btn-ghost:hover { text-decoration: none; border-color: var(--accent); color: var(--accent); }
+.platforms { color: var(--muted); font-size: 0.86rem; margin: 1em 0 0; }
+
+/* App mockup ("screenshot") — a self-contained render of the desktop app.
+   Swap for a real PNG by replacing the .mock block with <img class="app-shot-img" …>. */
+.app-shot { margin: 0; }
+.mock {
+	border: 1px solid #cfd5de;
+	border-radius: 12px;
+	overflow: hidden;
+	box-shadow: 0 18px 44px rgba(20, 33, 61, 0.16);
+	background: #fff;
+	font-size: 0.8rem;
+}
+.mock-bar {
+	display: flex; align-items: center; gap: 0.55em;
+	padding: 0.5em 0.8em;
+	background: #f0f2f5;
+	border-bottom: 1px solid #e1e5ea;
+}
+.mock-dot { width: 0.66em; height: 0.66em; border-radius: 50%; background: #cfd5de; }
+.mock-dot.r { background: #ff5f57; } .mock-dot.y { background: #febc2e; } .mock-dot.g { background: #28c840; }
+.mock-title { margin-left: 0.4em; color: var(--muted); font-weight: 600; font-size: 0.78rem; }
+.mock-controls {
+	display: flex; align-items: center; gap: 0.4em;
+	padding: 0.6em 0.7em;
+	border-bottom: 1px solid #eceef2;
+}
+.mock-sel {
+	border: 1px solid #d5d9e0; border-radius: 7px;
+	padding: 0.28em 0.5em; color: var(--text); background: #fff; white-space: nowrap;
+}
+.mock-swap { color: var(--muted); padding: 0 0.15em; }
+.mock-q {
+	flex: 1; min-width: 0;
+	border: 1px solid var(--accent); border-radius: 7px;
+	padding: 0.28em 0.55em; color: var(--text);
+}
+.mock-go {
+	background: var(--accent); color: #fff; font-weight: 600;
+	border-radius: 7px; padding: 0.3em 0.7em;
+}
+.mock-tabs { display: flex; gap: 3px; padding: 0.5em 0.6em 0; background: #eef1f5; }
+.mtab {
+	background: #e2e7ee; color: #5a5a5a;
+	border: 1px solid #d3d9e1; border-bottom: none;
+	border-radius: 8px 8px 0 0;
+	padding: 0.4em 0.7em; white-space: nowrap;
+	display: inline-flex; align-items: center; gap: 0.35em;
+}
+.mtab.active { background: #fff; color: var(--text); font-weight: 600; position: relative; z-index: 1; }
+.mtab.more { background: transparent; border: none; color: var(--muted); }
+.mock-page { background: #fff; border-top: 1px solid #d3d9e1; padding: 1em 1.1em 1.3em; }
+.mock-sense { padding: 0.5em 0; border-bottom: 1px solid #eef0f3; }
+.mock-sense:last-child { border-bottom: none; }
+.mock-lbl { color: var(--muted); font-size: 0.72rem; }
+.mock-terms { font-size: 1.02rem; font-weight: 700; }
+.mock-meta { color: var(--muted); font-size: 0.72rem; margin-top: 0.2em; }
+.mock-src {
+	font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.03em;
+	border: 1px solid var(--border); border-radius: 4px; padding: 0.02em 0.4em; margin-left: 0.3em;
+}
+.app-shot-img { width: 100%; border-radius: 12px; box-shadow: 0 18px 44px rgba(20, 33, 61, 0.16); }
+
+/* How it works */
+.how { margin: 0 0 3em; }
+.how h2, .features h2, .download h2 { font-size: 1.5rem; margin: 0 0 0.8em; letter-spacing: -0.01em; }
+.how ol { margin: 0; padding-left: 1.2em; color: var(--text); }
+.how li { margin: 0.4em 0; }
+.how li strong { font-weight: 700; }
+
+/* Feature grid */
+.features { margin: 0 0 3em; }
+.feature-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+	gap: 1em;
+}
+.feature {
+	border: 1px solid var(--border);
+	border-radius: 12px;
+	padding: 1.1em 1.15em;
+	background: var(--card-bg);
+}
+.feature h3 { margin: 0.1em 0 0.3em; font-size: 1.02rem; display: flex; align-items: center; gap: 0.5em; }
+.feature p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+.feature .fic { font-size: 1.3rem; }
+
+/* Download section */
+.download { margin: 0 0 1em; }
+.dl-row { display: flex; flex-wrap: wrap; gap: 0.7em; margin: 0 0 0.8em; }
+.dl-pill {
+	display: inline-flex; align-items: center; gap: 0.5em;
+	border: 1px solid var(--border); border-radius: 11px;
+	padding: 0.7em 1.2em; font-weight: 600; color: var(--text); background: var(--bg);
+}
+.dl-pill:hover { text-decoration: none; border-color: var(--accent); color: var(--accent); }
+.dl-note { color: var(--muted); font-size: 0.9rem; margin: 0; }
+
+@media (max-width: 720px) {
+	.lander-hero { grid-template-columns: 1fr; gap: 1.6em; }
+	.lander-hero h1 { font-size: 2.15rem; }
+}
+
 @media (max-width: 560px) {
 	.hero h1 { font-size: 2.1rem; }
 	.pair select { flex: 1; min-width: 0; }

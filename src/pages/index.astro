@@ -1,216 +1,125 @@
 ---
 import Base from '../layouts/Base.astro';
-import { RESOURCES, LANGUAGES } from '../data/resources.js';
+const RELEASES = 'https://github.com/michaelbeijer/superlookup-desktop/releases/latest';
 ---
 
-<Base>
-	<section class="hero">
-		<h1>SuperLookup</h1>
-		<p class="tag">
-			One search box for a translator’s reference web. Type a term, pick your
-			language pair, and open every resource with the query already filled in.
-			Wikipedia and Wiktionary also list their matching pages inline.
-		</p>
-		<aside class="desktop-cta">
-			<span class="desktop-cta-text">
-				<strong>Prefer a desktop app?</strong> The free SuperLookup desktop app
-				opens each site in its own embedded, ad-free tab and adds a global
-				hotkey — Windows, macOS &amp; Linux.
-			</span>
-			<a class="desktop-cta-btn"
-				href="https://github.com/michaelbeijer/superlookup-desktop/releases/latest"
-				target="_blank" rel="noopener">Download ↓</a>
-		</aside>
-	</section>
+<Base
+	title="SuperLookup — a translator’s reference web in one window"
+	description="A free desktop app that opens every terminology and reference site — Superterm, IATE, Linguee, ProZ, Glosbe, Wikipedia and 35+ more — each in its own ad-free tab, summoned by a global hotkey on whatever term you’ve selected. Windows, macOS & Linux."
+>
+	<script is:inline>
+		// Preserve old shareable deep links: /?q=…&from=…&to=… now lives at /search.
+		if (new URLSearchParams(location.search).has('q')) {
+			location.replace('/search' + location.search);
+		}
+	</script>
 
-	<form class="search" id="search" autocomplete="off">
-		<div class="pair">
-			<label class="sr-only" for="from">From</label>
-			<select id="from" aria-label="Source language">
-				{LANGUAGES.map((l) => (
-					<option value={l.code} selected={l.code === 'nl'}>{l.name}</option>
-				))}
-			</select>
-			<button type="button" id="swap" class="swap" aria-label="Swap languages" title="Swap languages">⇄</button>
-			<label class="sr-only" for="to">To</label>
-			<select id="to" aria-label="Target language">
-				{LANGUAGES.map((l) => (
-					<option value={l.code} selected={l.code === 'en'}>{l.name}</option>
-				))}
-			</select>
-		</div>
-		<div class="query">
-			<input id="q" type="search" placeholder="Search a term…" autocomplete="off"
-				spellcheck="false" autocapitalize="off" inputmode="search" />
-			<button type="submit" class="go">Search</button>
-		</div>
-		<p class="hint">Cards marked <span class="chip">inline</span> show their results here when expanded; the rest open in a new tab <span aria-hidden="true">↗</span>.</p>
-	</form>
-
-	<section class="grid" id="grid" aria-label="Resources">
-		{RESOURCES.map((r) => (
-			r.inline ? (
-				<div class:list={["card", "inline", { native: r.native }]} data-id={r.id}
-					data-kind={r.inline.kind}
-					data-host={r.inline.host ?? ''}
-					data-side={r.inline.side ?? ''}>
-					<button type="button" class="card-head" aria-expanded="false">
-						<span class="card-icon" aria-hidden="true">{r.icon}</span>
-						<span class="card-body">
-							<span class="card-name">
-								{r.name}
-								{r.native && <span class="badge">built-in</span>}
-								<span class="chip">inline</span>
-							</span>
-							<span class="card-desc">{r.description}</span>
-						</span>
-						<span class="card-caret" aria-hidden="true">▾</span>
-					</button>
-					<div class="card-results" hidden></div>
+	<div class="lander">
+		<section class="lander-hero">
+			<div class="lander-hero-copy">
+				<h1>Your reference web, in one window.</h1>
+				<p class="lead">
+					SuperLookup opens every terminology and reference site a translator
+					reaches for — each in its own ad-free tab — and jumps to the front
+					searching whatever term you’ve selected, from <em>any</em> app.
+				</p>
+				<div class="cta-row">
+					<a class="btn-primary" href={RELEASES} target="_blank" rel="noopener">Download free ↓</a>
+					<a class="btn-ghost" href="/search">Try the web version →</a>
 				</div>
-			) : (
-				<a class:list={["card", "launcher", { native: r.native }]} data-id={r.id} href="#" target="_blank" rel="noopener" aria-disabled="true">
-					<span class="card-icon" aria-hidden="true">{r.icon}</span>
-					<span class="card-body">
-						<span class="card-name">{r.name}</span>
-						<span class="card-desc">{r.description}</span>
-					</span>
-					<span class="card-go" aria-hidden="true">↗</span>
-				</a>
-			)
-		))}
-	</section>
+				<p class="platforms">Windows · macOS · Linux — no install, no account, no sign-up.</p>
+			</div>
+
+			<figure class="app-shot">
+				<div class="mock" role="img" aria-label="The SuperLookup desktop app: a search bar over a row of browser tabs, one per reference site, showing a result.">
+					<div class="mock-bar">
+						<span class="mock-dot r"></span><span class="mock-dot y"></span><span class="mock-dot g"></span>
+						<span class="mock-title">SuperLookup</span>
+					</div>
+					<div class="mock-controls">
+						<span class="mock-sel">Dutch</span>
+						<span class="mock-swap">⇄</span>
+						<span class="mock-sel">English</span>
+						<span class="mock-q">octrooi</span>
+						<span class="mock-go">Search</span>
+					</div>
+					<div class="mock-tabs">
+						<span class="mtab active">📚 Superterm</span>
+						<span class="mtab">🇪🇺 IATE</span>
+						<span class="mtab">📗 Linguee</span>
+						<span class="mtab">📘 Glosbe</span>
+						<span class="mtab">📖 Wikipedia</span>
+						<span class="mtab more">+34</span>
+					</div>
+					<div class="mock-page">
+						<div class="mock-sense">
+							<div class="mock-lbl">Intellectual property · noun</div>
+							<div class="mock-terms">patent</div>
+							<div class="mock-meta">octrooi → patent <span class="mock-src">Superterm</span></div>
+						</div>
+						<div class="mock-sense">
+							<div class="mock-lbl">Law · noun</div>
+							<div class="mock-terms">letters patent</div>
+							<div class="mock-meta">octrooi → letters patent <span class="mock-src">IATE</span></div>
+						</div>
+					</div>
+				</div>
+			</figure>
+		</section>
+
+		<section class="how">
+			<h2>How it works</h2>
+			<ol>
+				<li><strong>Select a term</strong> anywhere — your CAT tool, a PDF, an email, a browser.</li>
+				<li><strong>Press the global hotkey</strong> (default <code>Ctrl+Alt+L</code>). SuperLookup jumps to the front, already searching it.</li>
+				<li><strong>Flick through the tabs</strong> — every site opens in its own embedded, ad-free view, with your login remembered and trackers blocked.</li>
+			</ol>
+		</section>
+
+		<section class="features">
+			<h2>Why a desktop app</h2>
+			<div class="feature-grid">
+				<div class="feature">
+					<h3><span class="fic">⌨️</span> Global hotkey</h3>
+					<p>Summon it on any selected text, from any application — no copy-paste, no alt-tabbing.</p>
+				</div>
+				<div class="feature">
+					<h3><span class="fic">🗂️</span> 40+ resources, one place</h3>
+					<p>Superterm, IATE, Linguee, ProZ, Glosbe, bab.la, Wikipedia, EUR-Lex, medical &amp; EU terminology and more — enable only what you use.</p>
+				</div>
+				<div class="feature">
+					<h3><span class="fic">🚫</span> Ad-free &amp; private</h3>
+					<p>An EasyList-based blocker strips ads and trackers from every tab, so the sites are cleaner than in a normal browser.</p>
+				</div>
+				<div class="feature">
+					<h3><span class="fic">🔐</span> Logins that stick</h3>
+					<p>Sign into ProZ, Juremy or Superterm once and stay signed in across launches.</p>
+				</div>
+				<div class="feature">
+					<h3><span class="fic">🔎</span> Inline previews</h3>
+					<p>Wikipedia, Wiktionary and Wikidata list their matching pages right inside the tab; site favicons and adjustable zoom keep it tidy.</p>
+				</div>
+				<div class="feature">
+					<h3><span class="fic">🪶</span> Light &amp; self-contained</h3>
+					<p>A single download that runs without installing anything, and lives in the system tray so the hotkey works even when the window is closed.</p>
+				</div>
+			</div>
+		</section>
+
+		<section class="download">
+			<h2>Download</h2>
+			<div class="dl-row">
+				<a class="dl-pill" href={RELEASES} target="_blank" rel="noopener">🪟 Windows</a>
+				<a class="dl-pill" href={RELEASES} target="_blank" rel="noopener">🍎 macOS</a>
+				<a class="dl-pill" href={RELEASES} target="_blank" rel="noopener">🐧 Linux</a>
+			</div>
+			<p class="dl-note">
+				Each build is self-contained (~150–210 MB) and starts in a couple of
+				seconds. New to it? Read the <a href="/help">quick help</a>. Prefer to
+				stay in the browser? Use the <a href="/search">web version</a> — or get
+				it built into <a href="https://supervertaler.com" rel="noopener">Supervertaler</a>
+				alongside your own termbases and translation memories.
+			</p>
+		</section>
+	</div>
 </Base>
-
-<script>
-	import { RESOURCES, buildUrl } from '../data/resources.js';
-
-	const form = document.getElementById('search');
-	const qInput = document.getElementById('q');
-	const fromSel = document.getElementById('from');
-	const toSel = document.getElementById('to');
-	const swapBtn = document.getElementById('swap');
-	const grid = document.getElementById('grid');
-	const byId = new Map(RESOURCES.map((r) => [r.id, r]));
-
-	const state = { q: '', from: 'nl', to: 'en' };
-
-	const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => (
-		{ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]
-	));
-
-	// ── Launch cards: fill each resource's deep link ──────────────────
-	function applyLaunchers() {
-		grid.querySelectorAll('.card.launcher').forEach((card) => {
-			const r = byId.get(card.dataset.id);
-			if (!r) return;
-			if (state.q) {
-				card.href = buildUrl(r, state.q, state.from, state.to);
-				card.removeAttribute('aria-disabled');
-			} else {
-				card.href = '#';
-				card.setAttribute('aria-disabled', 'true');
-			}
-		});
-	}
-
-	// ── Inline cards: expand + lazy-load results ──────────────────────
-	function openCard(card) {
-		card.classList.add('open');
-		card.querySelector('.card-head').setAttribute('aria-expanded', 'true');
-		card.querySelector('.card-results').hidden = false;
-		loadInline(card);
-	}
-	function closeCard(card) {
-		card.classList.remove('open');
-		card.querySelector('.card-head').setAttribute('aria-expanded', 'false');
-		card.querySelector('.card-results').hidden = true;
-	}
-
-	// A sticky bar pinned to the top of each inline panel, with an
-	// always-visible "open the full resource" link that stays put while the
-	// results scroll underneath it.
-	function shell(card, bodyHtml) {
-		const r = byId.get(card.dataset.id);
-		const href = esc(buildUrl(r, state.q, state.from, state.to));
-		return `<div class="rs-bar">` +
-			`<span class="rs-title">${esc(r.icon)} ${esc(r.name)}</span>` +
-			`<a class="rs-open" href="${href}" target="_blank" rel="noopener" aria-label="Open ${esc(r.name)}">Open ↗</a>` +
-			`</div><div class="rs-body">${bodyHtml}</div>`;
-	}
-
-	async function loadInline(card) {
-		if (!state.q) return;
-		const out = card.querySelector('.card-results');
-		// Skip a reload if this card already shows the current query.
-		const stamp = `${state.q}|${state.from}|${state.to}`;
-		if (card.dataset.loaded === stamp) return;
-		card.dataset.loaded = stamp;
-
-		// All inline cards are MediaWiki (Wikipedia / Wiktionary), which expose a
-		// CORS-open OpenSearch API — no proxy needed.
-		const lang = card.dataset.side === 'target' ? state.to : state.from;
-		const host = card.dataset.host; // wikipedia | wiktionary
-		out.innerHTML = shell(card, `<p class="muted">Searching ${esc(host)}…</p>`);
-		try {
-			const api = `https://${lang}.${host}.org/w/api.php?action=opensearch&limit=12&namespace=0&format=json&origin=*&search=${encodeURIComponent(state.q)}`;
-			const [, titles, descs, urls] = await (await fetch(api)).json();
-			out.innerHTML = shell(card, mediawikiBody(titles, descs, urls, host, lang));
-		} catch (e) {
-			card.dataset.loaded = '';
-			out.innerHTML = shell(card, `<p class="muted">Couldn’t reach ${esc(host)}.</p>`);
-		}
-	}
-
-	function mediawikiBody(titles, descs, urls, host, lang) {
-		if (!titles || !titles.length) {
-			return `<p class="muted">No ${esc(host)} (${esc(lang)}) results for “${esc(state.q)}”.</p>`;
-		}
-		return titles.map((t, i) => `
-			<a class="wiki-item" href="${esc(urls[i])}" target="_blank" rel="noopener">
-				<span class="wiki-title">${esc(t)}</span>
-				${descs && descs[i] ? `<span class="wiki-desc">${esc(descs[i])}</span>` : ''}
-			</a>`).join('');
-	}
-
-	// ── Run a search ──────────────────────────────────────────────────
-	function run() {
-		state.q = qInput.value.trim();
-		state.from = fromSel.value;
-		state.to = toSel.value;
-		applyLaunchers();
-		if (!state.q) return;
-		// Refresh any already-open inline (Wikipedia / Wiktionary) card.
-		grid.querySelectorAll('.card.inline').forEach((card) => {
-			card.dataset.loaded = '';
-			if (card.classList.contains('open')) loadInline(card);
-		});
-	}
-
-	form.addEventListener('submit', (e) => { e.preventDefault(); run(); });
-	swapBtn.addEventListener('click', () => {
-		[fromSel.value, toSel.value] = [toSel.value, fromSel.value];
-		if (qInput.value.trim()) run();
-	});
-
-	// Inline card header toggles its panel.
-	grid.querySelectorAll('.card.inline .card-head').forEach((head) => {
-		head.addEventListener('click', () => {
-			const card = head.closest('.card.inline');
-			if (card.classList.contains('open')) closeCard(card);
-			else openCard(card);
-		});
-	});
-
-	// Disabled launcher cards shouldn't navigate to "#".
-	grid.addEventListener('click', (e) => {
-		const card = e.target.closest('.card.launcher');
-		if (card && card.getAttribute('aria-disabled') === 'true') e.preventDefault();
-	});
-
-	// Shareable ?q=&from=&to= deep link.
-	const params = new URLSearchParams(location.search);
-	if (params.get('from')) fromSel.value = params.get('from');
-	if (params.get('to')) toSel.value = params.get('to');
-	if (params.get('q')) { qInput.value = params.get('q'); run(); }
-</script>
