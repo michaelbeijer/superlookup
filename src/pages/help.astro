@@ -1,0 +1,80 @@
+---
+import Base from '../layouts/Base.astro';
+const REPO = 'https://github.com/michaelbeijer/superlookup-desktop';
+---
+
+<Base
+	title="SuperLookup desktop — Help"
+	description="How to use the SuperLookup desktop app: install, the global hotkey, managing your searches, ad-blocking, and more."
+>
+	<article class="help">
+		<h1>SuperLookup desktop — Help</h1>
+		<p class="lead">
+			The desktop app opens each reference site in its own embedded, ad-free
+			browser tab, and can be summoned by a global hotkey on whatever text you’ve
+			selected. It’s the standalone companion to this website — no install, no
+			account, and it doesn’t need Supervertaler.
+		</p>
+
+		<h2>Install</h2>
+		<p>
+			Download the build for your OS from the
+			<a href={REPO + '/releases/latest'} target="_blank" rel="noopener">latest release</a>.
+			Each build is self-contained (it bundles everything, so it’s ~150–210 MB and
+			takes a couple of seconds to start).
+		</p>
+		<ul>
+			<li><strong>Windows</strong> — unzip and run <code>SuperLookup.exe</code>.</li>
+			<li><strong>macOS</strong> — unzip and <em>right-click → Open</em> the first time (the build isn’t signed yet, so Gatekeeper asks once).</li>
+			<li><strong>Linux</strong> — unzip, <code>chmod +x SuperLookup</code>, and run it.</li>
+		</ul>
+
+		<h2>The global hotkey</h2>
+		<ul>
+			<li>Default: <code>Ctrl+Alt+L</code>. Select a term in <em>any</em> app (your CAT tool, a PDF, an email), press it, and SuperLookup jumps to the front already searching it.</li>
+			<li>Change it in <strong>Settings (⚙) → Global hotkey</strong> — click the field and press your combo (it needs at least one modifier).</li>
+			<li>SuperLookup lives in the <strong>system tray</strong>: closing the window keeps it (and the hotkey) running. Click the tray icon to bring it back, and <strong>Quit</strong> from the tray menu when you’re done.</li>
+		</ul>
+
+		<h2>Your searches</h2>
+		<p>Open <strong>Settings (⚙)</strong> to tailor which sites appear as tabs:</p>
+		<ul>
+			<li><strong>Enable / disable</strong> any search, and <strong>reorder</strong> them with ↑ / ↓.</li>
+			<li><strong>Add your own</strong> — a name, an icon, and a URL template with placeholders: <code>{'{query}'}</code>, <code>{'{sl}'}</code>, <code>{'{tl}'}</code>, <code>{'{sl_full}'}</code>, <code>{'{tl_full}'}</code>, and the source/target language format.</li>
+			<li><strong>Import / Export</strong> your set as JSON to back it up or share it, and <strong>Restore defaults</strong> any time.</li>
+		</ul>
+
+		<h2>Good to know</h2>
+		<ul>
+			<li><strong>Ads &amp; trackers are blocked</strong> in every tab (an EasyList-based blocker), so the sites are cleaner than in a normal browser.</li>
+			<li><strong>Logins persist</strong> — sign into a site once and you stay signed in across launches.</li>
+			<li>It <strong>remembers your last language pair</strong>.</li>
+			<li>Sites that block being embedded still work; only your <em>own</em> pages can’t be shown inside a plain browser tab, which is exactly why this desktop app exists.</li>
+		</ul>
+
+		<h2>Help &amp; issues</h2>
+		<p>
+			Found a bug or want a feature?
+			<a href={REPO + '/issues'} target="_blank" rel="noopener">Open an issue on GitHub</a>.
+			Source and releases live in the
+			<a href={REPO} target="_blank" rel="noopener">superlookup-desktop</a> repo.
+		</p>
+
+		<p class="back"><a href="/">← Back to SuperLookup</a></p>
+	</article>
+</Base>
+
+<style>
+	.help { max-width: 44em; }
+	.help h1 { font-size: 2rem; margin: 0 0 0.4em; letter-spacing: -0.02em; }
+	.help h2 { font-size: 1.25rem; margin: 1.7em 0 0.4em; }
+	.help .lead { color: #5a5a5a; font-size: 1.05rem; margin: 0 0 0.5em; }
+	.help p { color: #333333; }
+	.help ul { padding-left: 1.2em; margin: 0.3em 0 0; }
+	.help li { color: #333333; margin: 0.35em 0; }
+	.help code {
+		background: #f2f4f8; padding: 0.1em 0.4em; border-radius: 4px;
+		font-size: 0.9em; font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+	}
+	.help .back { margin-top: 2.5em; }
+</style>
