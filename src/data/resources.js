@@ -74,7 +74,7 @@ export function buildUrl(resource, query, from, to, opusCorpus = 'DGT') {
 }
 
 export const RESOURCES = [
-	{ id: 'superterm', name: 'Superterm', icon: '📚', description: 'Curated multilingual terminology database, with full provenance', url_template: 'https://superterm.io/?q={query}&from={sl}&to={tl}', lang_format: 'iso2', bidirectional: true, native: true, inline: { kind: 'superterm' } },
+	{ id: 'superterm', name: 'Superterm', icon: '📚', description: 'Curated multilingual terminology database, with full provenance — opens on superterm.io', url_template: 'https://superterm.io/?q={query}&from={sl}&to={tl}', lang_format: 'iso2', bidirectional: true, native: true },
 	{ id: 'iate', name: 'IATE', icon: '🇪🇺', description: 'EU terminology database', url_template: 'https://iate.europa.eu/search/byUrl?term={query}&sl={sl}&tl={tl}', lang_format: 'iso2', bidirectional: false },
 	{ id: 'linguee', name: 'Linguee', icon: '📗', description: 'Bilingual dictionary with context', url_template: 'https://www.linguee.com/{sl_full}-{tl_full}/search?source=auto&query={query}', lang_format: 'full_lower', bidirectional: true },
 	{ id: 'proz', name: 'ProZ.com', icon: '💬', description: 'Translator terminology (KudoZ) database', url_template: 'https://www.proz.com/search/?term={query}&from={sl}&to={tl}&results_per_page=25&es=1', lang_format: 'iso3', bidirectional: false },

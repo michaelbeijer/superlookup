@@ -8,9 +8,8 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		<h1>SuperLookup</h1>
 		<p class="tag">
 			One search box for a translator’s reference web. Type a term, pick your
-			language pair, then <strong>expand a card</strong> to read its results in
-			place, or open any other resource in a new tab — all with the query
-			pre-filled.
+			language pair, and open every resource with the query already filled in.
+			Wikipedia and Wiktionary also list their matching pages inline.
 		</p>
 	</section>
 
@@ -60,7 +59,7 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 					<div class="card-results" hidden></div>
 				</div>
 			) : (
-				<a class="card launcher" data-id={r.id} href="#" target="_blank" rel="noopener" aria-disabled="true">
+				<a class:list={["card", "launcher", { native: r.native }]} data-id={r.id} href="#" target="_blank" rel="noopener" aria-disabled="true">
 					<span class="card-icon" aria-hidden="true">{r.icon}</span>
 					<span class="card-body">
 						<span class="card-name">{r.name}</span>
@@ -138,29 +137,18 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		if (card.dataset.loaded === stamp) return;
 		card.dataset.loaded = stamp;
 
-		if (card.dataset.kind === 'superterm') {
-			out.innerHTML = shell(card, '<p class="muted">Searching Superterm…</p>');
-			try {
-				const r = await fetch(`/api/superterm?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}`,
-					{ headers: { Accept: 'application/json' } });
-				if (!r.ok) throw new Error(r.status);
-				out.innerHTML = shell(card, supertermBody(await r.json()));
-			} catch (e) {
-				card.dataset.loaded = '';
-				out.innerHTML = shell(card, '<p class="muted">Couldn’t reach Superterm right now.</p>');
-			}
-		} else if (card.dataset.kind === 'mediawiki') {
-			const lang = card.dataset.side === 'target' ? state.to : state.from;
-			const host = card.dataset.host; // wikipedia | wiktionary
-			out.innerHTML = shell(card, `<p class="muted">Searching ${esc(host)}…</p>`);
-			try {
-				const api = `https://${lang}.${host}.org/w/api.php?action=opensearch&limit=12&namespace=0&format=json&origin=*&search=${encodeURIComponent(state.q)}`;
-				const [, titles, descs, urls] = await (await fetch(api)).json();
-				out.innerHTML = shell(card, mediawikiBody(titles, descs, urls, host, lang));
-			} catch (e) {
-				card.dataset.loaded = '';
-				out.innerHTML = shell(card, `<p class="muted">Couldn’t reach ${esc(host)}.</p>`);
-			}
+		// All inline cards are MediaWiki (Wikipedia / Wiktionary), which expose a
+		// CORS-open OpenSearch API — no proxy needed.
+		const lang = card.dataset.side === 'target' ? state.to : state.from;
+		const host = card.dataset.host; // wikipedia | wiktionary
+		out.innerHTML = shell(card, `<p class="muted">Searching ${esc(host)}…</p>`);
+		try {
+			const api = `https://${lang}.${host}.org/w/api.php?action=opensearch&limit=12&namespace=0&format=json&origin=*&search=${encodeURIComponent(state.q)}`;
+			const [, titles, descs, urls] = await (await fetch(api)).json();
+			out.innerHTML = shell(card, mediawikiBody(titles, descs, urls, host, lang));
+		} catch (e) {
+			card.dataset.loaded = '';
+			out.innerHTML = shell(card, `<p class="muted">Couldn’t reach ${esc(host)}.</p>`);
 		}
 	}
 
@@ -175,36 +163,6 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 			</a>`).join('');
 	}
 
-	function supertermBody(data) {
-		// Only show pairs whose target is the selected language.
-		const entries = (data.entries || []).filter((e) => !e.lb || e.lb === state.to);
-		const senses = data.senses || [];
-		if (!entries.length) {
-			return `<p class="muted">No Superterm results for “${esc(state.q)}” in this language pair.</p>`;
-		}
-		const labelOf = new Map(senses.map((s) => [s.id, s.label]));
-		const groups = new Map();
-		for (const e of entries) {
-			const key = e.sg ?? `t:${e.a}`;
-			if (!groups.has(key)) groups.set(key, []);
-			groups.get(key).push(e);
-		}
-		let html = '';
-		for (const [key, list] of groups) {
-			const label = labelOf.get(key) || list[0].a;
-			const targets = [...new Set(list.map((e) => e.b))].map(esc).join(' · ');
-			const doms = [...new Set(list.map((e) => e.dom).filter(Boolean))].map(esc).join(', ');
-			const srcs = [...new Set(list.map((e) => e.src).filter(Boolean))];
-			const badges = srcs.map((s) => `<span class="st-src">${esc(s)}</span>`).join('');
-			html += `<div class="st-sense">
-				<div class="st-label">${esc(label)}</div>
-				<div class="st-terms">${targets}</div>
-				<div class="st-meta">${doms ? `<span class="st-dom">${doms}</span>` : ''}${badges}</div>
-			</div>`;
-		}
-		return html;
-	}
-
 	// ── Run a search ──────────────────────────────────────────────────
 	function run() {
 		state.q = qInput.value.trim();
@@ -212,13 +170,11 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		state.to = toSel.value;
 		applyLaunchers();
 		if (!state.q) return;
-		// Reload any already-open inline card, and auto-open Superterm.
+		// Refresh any already-open inline (Wikipedia / Wiktionary) card.
 		grid.querySelectorAll('.card.inline').forEach((card) => {
 			card.dataset.loaded = '';
 			if (card.classList.contains('open')) loadInline(card);
 		});
-		const st = grid.querySelector('.card.inline[data-kind="superterm"]');
-		if (st && !st.classList.contains('open')) openCard(st);
 	}
 
 	form.addEventListener('submit', (e) => { e.preventDefault(); run(); });
