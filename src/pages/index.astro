@@ -1,0 +1,120 @@
+---
+import Base from '../layouts/Base.astro';
+import { RESOURCES, LANGUAGES } from '../data/resources.js';
+---
+
+<Base>
+	<section class="hero">
+		<h1>SuperLookup</h1>
+		<p class="tag">
+			One search box for a translator’s reference web. Type a term, pick your
+			language pair, and jump straight into every resource with the query
+			already filled in.
+		</p>
+	</section>
+
+	<form class="search" id="search" autocomplete="off">
+		<div class="pair">
+			<label class="sr-only" for="from">From</label>
+			<select id="from" aria-label="Source language">
+				{LANGUAGES.map((l) => (
+					<option value={l.code} selected={l.code === 'nl'}>{l.name}</option>
+				))}
+			</select>
+			<button type="button" id="swap" class="swap" aria-label="Swap languages" title="Swap languages">⇄</button>
+			<label class="sr-only" for="to">To</label>
+			<select id="to" aria-label="Target language">
+				{LANGUAGES.map((l) => (
+					<option value={l.code} selected={l.code === 'en'}>{l.name}</option>
+				))}
+			</select>
+		</div>
+		<div class="query">
+			<input id="q" type="search" placeholder="Search a term…" autocomplete="off"
+				spellcheck="false" autocapitalize="off" inputmode="search" />
+			<button type="submit" class="go">Search</button>
+		</div>
+		<p class="hint" id="hint">Each card opens that resource in a new tab, with your query pre-filled.</p>
+	</form>
+
+	<section class="grid" id="grid" aria-label="Resources">
+		{RESOURCES.map((r) => (
+			<a
+				class:list={["card", { native: r.native }]}
+				data-id={r.id}
+				href="#"
+				target="_blank"
+				rel="noopener"
+				aria-disabled="true"
+			>
+				<span class="card-icon" aria-hidden="true">{r.icon}</span>
+				<span class="card-body">
+					<span class="card-name">
+						{r.name}
+						{r.native && <span class="badge">built-in</span>}
+					</span>
+					<span class="card-desc">{r.description}</span>
+				</span>
+				<span class="card-go" aria-hidden="true">↗</span>
+			</a>
+		))}
+	</section>
+</Base>
+
+<script>
+	import { RESOURCES, buildUrl } from '../data/resources.js';
+
+	const form = document.getElementById('search');
+	const qInput = document.getElementById('q');
+	const fromSel = document.getElementById('from');
+	const toSel = document.getElementById('to');
+	const swapBtn = document.getElementById('swap');
+	const grid = document.getElementById('grid');
+	const byId = new Map(RESOURCES.map((r) => [r.id, r]));
+
+	function applyQuery() {
+		const q = qInput.value.trim();
+		const from = fromSel.value;
+		const to = toSel.value;
+		const has = q.length > 0;
+		grid.querySelectorAll('.card').forEach((card) => {
+			const r = byId.get(card.dataset.id);
+			if (!r) return;
+			if (has) {
+				card.href = buildUrl(r, q, from, to);
+				card.removeAttribute('aria-disabled');
+			} else {
+				card.href = '#';
+				card.setAttribute('aria-disabled', 'true');
+			}
+		});
+	}
+
+	form.addEventListener('submit', (e) => {
+		e.preventDefault();
+		applyQuery();
+		qInput.focus();
+	});
+
+	// Keep hrefs live as the user tweaks the query/pair after a first search.
+	[qInput, fromSel, toSel].forEach((el) => el.addEventListener('input', applyQuery));
+
+	swapBtn.addEventListener('click', () => {
+		const a = fromSel.value;
+		fromSel.value = toSel.value;
+		toSel.value = a;
+		applyQuery();
+	});
+
+	// A disabled card shouldn't navigate to "#".
+	grid.addEventListener('click', (e) => {
+		const card = e.target.closest('.card');
+		if (card && card.getAttribute('aria-disabled') === 'true') e.preventDefault();
+	});
+
+	// Support a shareable ?q=…&from=…&to=… deep link.
+	const params = new URLSearchParams(location.search);
+	if (params.get('from')) fromSel.value = params.get('from');
+	if (params.get('to')) toSel.value = params.get('to');
+	if (params.get('q')) { qInput.value = params.get('q'); applyQuery(); }
+</script>

@@ -1,0 +1,49 @@
+---
+interface Props {
+	title?: string;
+	description?: string;
+}
+const {
+	title = 'SuperLookup — one search box for a translator’s reference web',
+	description = 'Type once, search a whole shelf of terminology and reference resources — Superterm, IATE, Linguee, ProZ, Juremy, BabelNet, Wikipedia and more.',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="icon" href="/favicon.ico" sizes="any" />
+		<title>{title}</title>
+		<meta name="description" content={description} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:type" content="website" />
+		<link rel="stylesheet" href="/superlookup.css" />
+	</head>
+	<body>
+		<header class="site-head">
+			<a class="wordmark" href="/">SuperLookup</a>
+			<nav class="site-tools">
+				<a href="https://superterm.io" rel="noopener">Superterm</a>
+				<a href="https://supervertaler.com" rel="noopener">Supervertaler</a>
+			</nav>
+		</header>
+
+		<main>
+			<slot />
+		</main>
+
+		<footer class="site-foot">
+			<p>
+				<strong>SuperLookup</strong> — a one-box search across a translator’s
+				reference web, by
+				<a href="https://beijer.uk" rel="noopener">Michael Beijer</a>. The
+				desktop version, inside
+				<a href="https://supervertaler.com" rel="noopener">Supervertaler</a>,
+				also searches your own local termbases and translation memories.
+			</p>
+		</footer>
+	</body>
+</html>

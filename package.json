@@ -1,0 +1,16 @@
+{
+  "name": "superlookup",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SuperLookup — one search box across a translator's reference web (superlookup.io)",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^5.16.0"
+  }
+}
