@@ -7,13 +7,6 @@ const RELEASES = 'https://github.com/michaelbeijer/superlookup-desktop/releases/
 	title="SuperLookup — a translator’s reference web in one window"
 	description="A free desktop app that opens every terminology and reference site — Superterm, IATE, Linguee, ProZ, Glosbe, Wikipedia and 35+ more — each in its own ad-free tab, summoned by a global hotkey on whatever term you’ve selected. Windows, macOS & Linux."
 >
-	<script is:inline>
-		// Preserve old shareable deep links: /?q=…&from=…&to=… now lives at /search.
-		if (new URLSearchParams(location.search).has('q')) {
-			location.replace('/search' + location.search);
-		}
-	</script>
-
 	<div class="lander">
 		<section class="lander-hero">
 			<div class="lander-hero-copy">
@@ -25,7 +18,7 @@ const RELEASES = 'https://github.com/michaelbeijer/superlookup-desktop/releases/
 				</p>
 				<div class="cta-row">
 					<a class="btn-primary" href={RELEASES} target="_blank" rel="noopener">Download free ↓</a>
-					<a class="btn-ghost" href="/search">Try the web version →</a>
+					<a class="btn-ghost" href="https://supervertaler.com" rel="noopener">Or inside Supervertaler →</a>
 				</div>
 				<p class="platforms">Windows · macOS · Linux — no install, no account, no sign-up.</p>
 			</div>
@@ -115,9 +108,9 @@ const RELEASES = 'https://github.com/michaelbeijer/superlookup-desktop/releases/
 			</div>
 			<p class="dl-note">
 				Each build is self-contained (~150–210 MB) and starts in a couple of
-				seconds. New to it? Read the <a href="/help">quick help</a>. Prefer to
-				stay in the browser? Use the <a href="/search">web version</a> — or get
-				it built into <a href="https://supervertaler.com" rel="noopener">Supervertaler</a>
+				seconds. New to it? Read the <a href="/help">quick help</a>. SuperLookup
+				also comes built into the
+				<a href="https://supervertaler.com" rel="noopener">Supervertaler Workbench</a>,
 				alongside your own termbases and translation memories.
 			</p>
 		</section>

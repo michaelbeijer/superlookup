@@ -6,8 +6,8 @@ interface Props {
 	description?: string;
 }
 const {
-	title = 'SuperLookup — one search box for a translator’s reference web',
-	description = 'Type once, search a whole shelf of terminology and reference resources — Superterm, IATE, Linguee, ProZ, Juremy, BabelNet, Wikipedia and more.',
+	title = 'SuperLookup — a translator’s reference web in one window',
+	description = 'A free desktop app that opens every terminology and reference site in its own ad-free tab, summoned by a global hotkey on whatever term you’ve selected.',
 } = Astro.props;
 ---
 
@@ -27,7 +27,7 @@ const {
 		<header class="site-head">
 			<a class="wordmark" href="/">SuperLookup</a>
 			<nav class="site-tools">
-				<a href="/search">Web search</a>
+				<a href="https://github.com/michaelbeijer/superlookup-desktop/releases/latest" rel="noopener">Download ↓</a>
 				<a href="/help">Help</a>
 				<a href="https://superterm.io" rel="noopener">Superterm</a>
 				<a href="https://supervertaler.com" rel="noopener">Supervertaler</a>
@@ -45,8 +45,8 @@ const {
 				<a href="https://beijer.uk" rel="noopener">Michael Beijer</a>. A free
 				<a href="https://github.com/michaelbeijer/superlookup-desktop/releases/latest" rel="noopener">desktop app</a>
 				(each site in its own ad-free tab, plus a global hotkey — Windows,
-				macOS &amp; Linux), a <a href="/search">web version</a>, or built into
-				<a href="https://supervertaler.com" rel="noopener">Supervertaler</a>
+				macOS &amp; Linux), or built into the
+				<a href="https://supervertaler.com" rel="noopener">Supervertaler Workbench</a>
 				alongside your own local termbases and translation memories.
 			</p>
 		</footer>
