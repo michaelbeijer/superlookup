@@ -42,7 +42,33 @@ main {
 }
 
 .hero h1 { font-size: 2.6rem; margin: 0 0 0.2em; letter-spacing: -0.02em; }
-.hero .tag { color: var(--muted); max-width: 44em; margin: 0 0 2em; font-size: 1.05rem; }
+.hero .tag { color: var(--muted); max-width: 44em; margin: 0 0 1.5em; font-size: 1.05rem; }
+
+/* Download-the-desktop-app callout */
+.desktop-cta {
+	display: flex;
+	align-items: center;
+	gap: 1em 1.25em;
+	flex-wrap: wrap;
+	max-width: 44em;
+	margin: 0 0 2em;
+	padding: 0.85em 1.1em;
+	border: 1px solid var(--border);
+	border-radius: 12px;
+	background: #f6f8fc;
+}
+.desktop-cta-text { flex: 1; min-width: 220px; font-size: 0.92rem; color: var(--text); }
+.desktop-cta-btn {
+	flex: none;
+	font-weight: 600;
+	white-space: nowrap;
+	padding: 0.55em 1.15em;
+	border: 1px solid var(--accent);
+	border-radius: 10px;
+	background: var(--accent);
+	color: #fff;
+}
+.desktop-cta-btn:hover { text-decoration: none; filter: brightness(1.06); }
 
 /* Search controls */
 .search { margin-bottom: 2.25em; }
