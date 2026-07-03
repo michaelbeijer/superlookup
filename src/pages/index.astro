@@ -8,9 +8,9 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		<h1>SuperLookup</h1>
 		<p class="tag">
 			One search box for a translator’s reference web. Type a term, pick your
-			language pair, and read <strong>Superterm</strong> and
-			<strong>Wikipedia</strong> results right here — or jump into any other
-			resource with the query already filled in.
+			language pair, then <strong>expand a card</strong> to read its results in
+			place, or open any other resource in a new tab — all with the query
+			pre-filled.
 		</p>
 	</section>
 
@@ -35,47 +35,41 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 				spellcheck="false" autocapitalize="off" inputmode="search" />
 			<button type="submit" class="go">Search</button>
 		</div>
+		<p class="hint">Cards marked <span class="chip">▾ preview</span> expand their results here; the rest open in a new tab <span aria-hidden="true">↗</span>.</p>
 	</form>
 
-	<!-- Inline results: a browser-like tab strip for the sources that expose data. -->
-	<section class="results" id="results" hidden>
-		<div class="tabstrip" role="tablist" aria-label="Inline results">
-			<button class="tab-btn" role="tab" data-tab="superterm" aria-selected="true">📚 Superterm</button>
-			<button class="tab-btn" role="tab" data-tab="wikipedia" aria-selected="false">📖 Wikipedia</button>
-		</div>
-		<div class="tab-panel" id="panel-superterm" role="tabpanel">
-			<div class="panel-scroll" id="out-superterm"></div>
-		</div>
-		<div class="tab-panel" id="panel-wikipedia" role="tabpanel" hidden>
-			<div class="panel-scroll" id="out-wikipedia"></div>
-		</div>
-	</section>
-
-	<section class="launchers" aria-label="Open in a new tab">
-		<h2 class="launch-head">Open in a new tab</h2>
-		<p class="hint">These sites can’t be shown inline (they block embedding), so each card opens them in a new tab with your query pre-filled.</p>
-		<div class="grid" id="grid">
-			{RESOURCES.map((r) => (
-				<a
-					class:list={["card", { native: r.native }]}
-					data-id={r.id}
-					href="#"
-					target="_blank"
-					rel="noopener"
-					aria-disabled="true"
-				>
+	<section class="grid" id="grid" aria-label="Resources">
+		{RESOURCES.map((r) => (
+			r.inline ? (
+				<div class:list={["card", "inline", { native: r.native }]} data-id={r.id}
+					data-kind={r.inline.kind}
+					data-host={r.inline.host ?? ''}
+					data-side={r.inline.side ?? ''}>
+					<button type="button" class="card-head" aria-expanded="false">
+						<span class="card-icon" aria-hidden="true">{r.icon}</span>
+						<span class="card-body">
+							<span class="card-name">
+								{r.name}
+								{r.native && <span class="badge">built-in</span>}
+								<span class="chip">preview</span>
+							</span>
+							<span class="card-desc">{r.description}</span>
+						</span>
+						<span class="card-caret" aria-hidden="true">▾</span>
+					</button>
+					<div class="card-results" hidden></div>
+				</div>
+			) : (
+				<a class="card launcher" data-id={r.id} href="#" target="_blank" rel="noopener" aria-disabled="true">
 					<span class="card-icon" aria-hidden="true">{r.icon}</span>
 					<span class="card-body">
-						<span class="card-name">
-							{r.name}
-							{r.native && <span class="badge">built-in</span>}
-						</span>
+						<span class="card-name">{r.name}</span>
 						<span class="card-desc">{r.description}</span>
 					</span>
 					<span class="card-go" aria-hidden="true">↗</span>
 				</a>
-			))}
-		</div>
+			)
+		))}
 	</section>
 </Base>
 
@@ -88,21 +82,21 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 	const toSel = document.getElementById('to');
 	const swapBtn = document.getElementById('swap');
 	const grid = document.getElementById('grid');
-	const results = document.getElementById('results');
 	const byId = new Map(RESOURCES.map((r) => [r.id, r]));
+
+	const state = { q: '', from: 'nl', to: 'en' };
 
 	const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => (
 		{ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]
 	));
 
 	// ── Launch cards: fill each resource's deep link ──────────────────
-	function applyCards(q, from, to) {
-		const has = q.length > 0;
-		grid.querySelectorAll('.card').forEach((card) => {
+	function applyLaunchers() {
+		grid.querySelectorAll('.card.launcher').forEach((card) => {
 			const r = byId.get(card.dataset.id);
 			if (!r) return;
-			if (has) {
-				card.href = buildUrl(r, q, from, to);
+			if (state.q) {
+				card.href = buildUrl(r, state.q, state.from, state.to);
 				card.removeAttribute('aria-disabled');
 			} else {
 				card.href = '#';
@@ -111,30 +105,70 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		});
 	}
 
-	// ── Superterm (via same-origin proxy /api/superterm) ──────────────
-	async function loadSuperterm(q, from, to) {
-		const out = document.getElementById('out-superterm');
-		out.innerHTML = '<p class="muted">Searching Superterm…</p>';
-		try {
-			const r = await fetch(`/api/superterm?q=${encodeURIComponent(q)}&from=${from}&to=${to}`,
-				{ headers: { Accept: 'application/json' } });
-			if (!r.ok) throw new Error('bad status ' + r.status);
-			const data = await r.json();
-			renderSuperterm(out, data, q, from, to);
-		} catch (e) {
-			out.innerHTML = `<p class="muted">Couldn’t reach Superterm. <a href="https://superterm.io/?q=${encodeURIComponent(q)}&from=${from}&to=${to}" target="_blank" rel="noopener">Open it on superterm.io ↗</a></p>`;
+	// ── Inline cards: expand + lazy-load results ──────────────────────
+	function openCard(card) {
+		card.classList.add('open');
+		card.querySelector('.card-head').setAttribute('aria-expanded', 'true');
+		card.querySelector('.card-results').hidden = false;
+		loadInline(card);
+	}
+	function closeCard(card) {
+		card.classList.remove('open');
+		card.querySelector('.card-head').setAttribute('aria-expanded', 'false');
+		card.querySelector('.card-results').hidden = true;
+	}
+
+	async function loadInline(card) {
+		if (!state.q) return;
+		const out = card.querySelector('.card-results');
+		// Skip a reload if this card already shows the current query.
+		const stamp = `${state.q}|${state.from}|${state.to}`;
+		if (card.dataset.loaded === stamp) return;
+		card.dataset.loaded = stamp;
+
+		if (card.dataset.kind === 'superterm') {
+			out.innerHTML = '<p class="muted">Searching Superterm…</p>';
+			try {
+				const r = await fetch(`/api/superterm?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}`,
+					{ headers: { Accept: 'application/json' } });
+				if (!r.ok) throw new Error(r.status);
+				renderSuperterm(out, await r.json());
+			} catch (e) {
+				card.dataset.loaded = '';
+				out.innerHTML = `<p class="muted">Couldn’t reach Superterm. <a href="https://superterm.io/?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}" target="_blank" rel="noopener">Open superterm.io ↗</a></p>`;
+			}
+		} else if (card.dataset.kind === 'mediawiki') {
+			const lang = card.dataset.side === 'target' ? state.to : state.from;
+			const host = card.dataset.host; // wikipedia | wiktionary
+			out.innerHTML = `<p class="muted">Searching ${host}…</p>`;
+			try {
+				const api = `https://${lang}.${host}.org/w/api.php?action=opensearch&limit=12&namespace=0&format=json&origin=*&search=${encodeURIComponent(state.q)}`;
+				const [, titles, descs, urls] = await (await fetch(api)).json();
+				if (!titles || !titles.length) {
+					out.innerHTML = `<p class="muted">No ${esc(host)} (${esc(lang)}) results for “${esc(state.q)}”.</p>`;
+					return;
+				}
+				out.innerHTML = titles.map((t, i) => `
+					<a class="wiki-item" href="${esc(urls[i])}" target="_blank" rel="noopener">
+						<span class="wiki-title">${esc(t)}</span>
+						${descs && descs[i] ? `<span class="wiki-desc">${esc(descs[i])}</span>` : ''}
+					</a>`).join('');
+			} catch (e) {
+				card.dataset.loaded = '';
+				out.innerHTML = `<p class="muted">Couldn’t reach ${esc(host)}.</p>`;
+			}
 		}
 	}
 
-	function renderSuperterm(out, data, q, from, to) {
-		const entries = data.entries || [];
+	function renderSuperterm(out, data) {
+		// Only show pairs whose target is the selected language.
+		const entries = (data.entries || []).filter((e) => !e.lb || e.lb === state.to);
 		const senses = data.senses || [];
 		if (!entries.length) {
-			out.innerHTML = `<p class="muted">No Superterm results for “${esc(q)}”. <a href="https://superterm.io/?q=${encodeURIComponent(q)}&from=${from}&to=${to}" target="_blank" rel="noopener">Search the full site ↗</a></p>`;
+			out.innerHTML = `<p class="muted">No Superterm results for “${esc(state.q)}”. <a href="https://superterm.io/?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}" target="_blank" rel="noopener">Search the full site ↗</a></p>`;
 			return;
 		}
 		const labelOf = new Map(senses.map((s) => [s.id, s.label]));
-		// Group entries by sense group (sg), preserving first-seen order.
 		const groups = new Map();
 		for (const e of entries) {
 			const key = e.sg ?? `t:${e.a}`;
@@ -143,53 +177,35 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		}
 		let html = '';
 		for (const [key, list] of groups) {
-			const label = labelOf.get(key);
-			const head = label ? esc(label) : esc(list[0].a);
+			const label = labelOf.get(key) || list[0].a;
 			const targets = [...new Set(list.map((e) => e.b))].map(esc).join(' · ');
-			const meta = [...new Set(list.map((e) => e.dom).filter(Boolean))].map(esc).join(', ');
-			const src = [...new Set(list.map((e) => e.src).filter(Boolean))].map(esc).join(', ');
+			const doms = [...new Set(list.map((e) => e.dom).filter(Boolean))].map(esc).join(', ');
+			const srcs = [...new Set(list.map((e) => e.src).filter(Boolean))];
+			const badges = srcs.map((s) => `<span class="st-src">${esc(s)}</span>`).join('');
 			html += `<div class="st-sense">
-				<div class="st-label">${head}</div>
+				<div class="st-label">${esc(label)}</div>
 				<div class="st-terms">${targets}</div>
-				<div class="st-meta">${[meta, src].filter(Boolean).join(' · ')}</div>
+				<div class="st-meta">${doms ? `<span class="st-dom">${doms}</span>` : ''}${badges}</div>
 			</div>`;
 		}
-		html += `<p class="muted more"><a href="https://superterm.io/?q=${encodeURIComponent(q)}&from=${from}&to=${to}" target="_blank" rel="noopener">Open full results on superterm.io ↗</a></p>`;
+		html += `<p class="muted more"><a href="https://superterm.io/?q=${encodeURIComponent(state.q)}&from=${state.from}&to=${state.to}" target="_blank" rel="noopener">Open full results on superterm.io ↗</a></p>`;
 		out.innerHTML = html;
-	}
-
-	// ── Wikipedia (MediaWiki OpenSearch API — CORS-open via origin=*) ──
-	async function loadWikipedia(q, from) {
-		const out = document.getElementById('out-wikipedia');
-		out.innerHTML = '<p class="muted">Searching Wikipedia…</p>';
-		try {
-			const api = `https://${from}.wikipedia.org/w/api.php?action=opensearch&limit=10&namespace=0&format=json&origin=*&search=${encodeURIComponent(q)}`;
-			const r = await fetch(api);
-			const [, titles, descs, urls] = await r.json();
-			if (!titles || !titles.length) {
-				out.innerHTML = `<p class="muted">No Wikipedia (${esc(from)}) results for “${esc(q)}”.</p>`;
-				return;
-			}
-			out.innerHTML = titles.map((t, i) => `
-				<a class="wiki-item" href="${esc(urls[i])}" target="_blank" rel="noopener">
-					<span class="wiki-title">${esc(t)}</span>
-					${descs[i] ? `<span class="wiki-desc">${esc(descs[i])}</span>` : ''}
-				</a>`).join('');
-		} catch (e) {
-			out.innerHTML = `<p class="muted">Couldn’t reach Wikipedia.</p>`;
-		}
 	}
 
 	// ── Run a search ──────────────────────────────────────────────────
 	function run() {
-		const q = qInput.value.trim();
-		const from = fromSel.value;
-		const to = toSel.value;
-		applyCards(q, from, to);
-		if (!q) { results.hidden = true; return; }
-		results.hidden = false;
-		loadSuperterm(q, from, to);
-		loadWikipedia(q, from);
+		state.q = qInput.value.trim();
+		state.from = fromSel.value;
+		state.to = toSel.value;
+		applyLaunchers();
+		if (!state.q) return;
+		// Reload any already-open inline card, and auto-open Superterm.
+		grid.querySelectorAll('.card.inline').forEach((card) => {
+			card.dataset.loaded = '';
+			if (card.classList.contains('open')) loadInline(card);
+		});
+		const st = grid.querySelector('.card.inline[data-kind="superterm"]');
+		if (st && !st.classList.contains('open')) openCard(st);
 	}
 
 	form.addEventListener('submit', (e) => { e.preventDefault(); run(); });
@@ -198,17 +214,18 @@ import { RESOURCES, LANGUAGES } from '../data/resources.js';
 		if (qInput.value.trim()) run();
 	});
 
-	// Tab switching.
-	document.querySelectorAll('.tab-btn').forEach((btn) => {
-		btn.addEventListener('click', () => {
-			document.querySelectorAll('.tab-btn').forEach((b) => b.setAttribute('aria-selected', String(b === btn)));
-			document.querySelectorAll('.tab-panel').forEach((p) => { p.hidden = p.id !== `panel-${btn.dataset.tab}`; });
+	// Inline card header toggles its panel.
+	grid.querySelectorAll('.card.inline .card-head').forEach((head) => {
+		head.addEventListener('click', () => {
+			const card = head.closest('.card.inline');
+			if (card.classList.contains('open')) closeCard(card);
+			else openCard(card);
 		});
 	});
 
-	// Disabled cards shouldn't navigate to "#".
+	// Disabled launcher cards shouldn't navigate to "#".
 	grid.addEventListener('click', (e) => {
-		const card = e.target.closest('.card');
+		const card = e.target.closest('.card.launcher');
 		if (card && card.getAttribute('aria-disabled') === 'true') e.preventDefault();
 	});
 
