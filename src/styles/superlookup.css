@@ -322,7 +322,7 @@ main {
 .btn-ghost:hover { text-decoration: none; border-color: var(--accent); color: var(--accent); }
 .platforms { color: var(--muted); font-size: 0.86rem; margin: 1em 0 0; }
 
-/* App mockup ("screenshot") — a self-contained render of the desktop app.
+/* App mockup ("screenshot") – a self-contained render of the desktop app.
    Swap for a real PNG by replacing the .mock block with <img class="app-shot-img" …>. */
 .app-shot { margin: 0; }
 .mock {
