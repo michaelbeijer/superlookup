@@ -185,7 +185,7 @@ main {
 .muted { color: var(--muted); }
 .muted.more { margin: 0.75em 0 0.25em; font-size: 0.9rem; }
 
-/* Superterm result groups */
+/* Beijerterm result groups */
 .st-sense { padding: 0.7em 0.6em; border-bottom: 1px solid var(--border); }
 .st-sense:last-of-type { border-bottom: none; }
 .st-label { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.15em; }
