@@ -283,11 +283,11 @@ main {
 .lander { padding-top: 0.5em; }
 
 .lander-hero {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 2.5em;
-	align-items: center;
 	margin-bottom: 3.5em;
+}
+.lander-hero-copy {
+	max-width: 42em;
+	margin-bottom: 2.2em;
 }
 .lander-hero h1 {
 	font-size: 2.7rem;
@@ -381,7 +381,14 @@ main {
 	font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.03em;
 	border: 1px solid var(--border); border-radius: 4px; padding: 0.02em 0.4em; margin-left: 0.3em;
 }
-.app-shot-img { width: 100%; border-radius: 12px; box-shadow: 0 18px 44px rgba(20, 33, 61, 0.16); }
+.app-shot-img {
+	width: 100%;
+	height: auto;
+	display: block;
+	border: 1px solid #cfd5de;
+	border-radius: 12px;
+	box-shadow: 0 18px 44px rgba(20, 33, 61, 0.16);
+}
 
 /* How it works */
 .how { margin: 0 0 3em; }
@@ -419,7 +426,6 @@ main {
 .dl-note { color: var(--muted); font-size: 0.9rem; margin: 0; }
 
 @media (max-width: 720px) {
-	.lander-hero { grid-template-columns: 1fr; gap: 1.6em; }
 	.lander-hero h1 { font-size: 2.15rem; }
 }
 

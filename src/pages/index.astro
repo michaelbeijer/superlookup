@@ -1,5 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
+import { Image } from 'astro:assets';
+import appShot from '../assets/superlookup-desktop.png';
 const RELEASES = 'https://github.com/michaelbeijer/superlookup-desktop/releases/latest';
 ---
 
@@ -26,39 +28,14 @@ const RELEASES = 'https://github.com/michaelbeijer/superlookup-desktop/releases/
 			</div>
 
 			<figure class="app-shot">
-				<div class="mock" role="img" aria-label="The SuperLookup desktop app: a search bar over a row of browser tabs, one per reference site, showing a result.">
-					<div class="mock-bar">
-						<span class="mock-dot r"></span><span class="mock-dot y"></span><span class="mock-dot g"></span>
-						<span class="mock-title">SuperLookup</span>
-					</div>
-					<div class="mock-controls">
-						<span class="mock-sel">Dutch</span>
-						<span class="mock-swap">⇄</span>
-						<span class="mock-sel">English</span>
-						<span class="mock-q">octrooi</span>
-						<span class="mock-go">Search</span>
-					</div>
-					<div class="mock-tabs">
-						<span class="mtab active">📚 Superterm</span>
-						<span class="mtab">🇪🇺 IATE</span>
-						<span class="mtab">📗 Linguee</span>
-						<span class="mtab">📘 Glosbe</span>
-						<span class="mtab">📖 Wikipedia</span>
-						<span class="mtab more">+34</span>
-					</div>
-					<div class="mock-page">
-						<div class="mock-sense">
-							<div class="mock-lbl">Intellectual property · noun</div>
-							<div class="mock-terms">patent</div>
-							<div class="mock-meta">octrooi → patent <span class="mock-src">Superterm</span></div>
-						</div>
-						<div class="mock-sense">
-							<div class="mock-lbl">Law · noun</div>
-							<div class="mock-terms">letters patent</div>
-							<div class="mock-meta">octrooi → letters patent <span class="mock-src">IATE</span></div>
-						</div>
-					</div>
-				</div>
+				<Image
+					src={appShot}
+					alt="The SuperLookup desktop app: a From/To language bar over a row of tabs — Superterm, IATE, Linguee, ProZ, Reverso, BabelNet, Wikipedia, Wiktionary, Wikidata, AcronymFinder — with the Reverso tab open, showing translations and bilingual example sentences for the Dutch word ‘trein’."
+					class="app-shot-img"
+					widths={[720, 1200, 1687]}
+					sizes="(max-width: 900px) 100vw, 860px"
+					loading="eager"
+				/>
 			</figure>
 		</section>
 
