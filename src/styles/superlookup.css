@@ -35,6 +35,50 @@ a:hover { text-decoration: underline; }
 .wordmark:hover { text-decoration: none; }
 .site-tools { display: flex; gap: 1.1em; font-size: 0.95rem; }
 
+/* Hamburger toggle — shown only on narrow screens (see media query below) */
+.nav-toggle {
+	display: none;
+	flex-direction: column;
+	justify-content: center;
+	gap: 4px;
+	width: 42px;
+	height: 36px;
+	padding: 0;
+	background: none;
+	border: 1px solid var(--border);
+	border-radius: 8px;
+	cursor: pointer;
+}
+.nav-toggle:hover { border-color: var(--accent); }
+.nav-toggle-bar {
+	display: block;
+	width: 20px;
+	height: 2px;
+	margin: 0 auto;
+	background: var(--text);
+	transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+.nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(2) { opacity: 0; }
+.nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
+@media (max-width: 720px) {
+	.nav-toggle { display: flex; }
+	.site-tools {
+		display: none;
+		width: 100%;
+		flex-direction: column;
+		gap: 0;
+		margin-top: 0.5em;
+		border-top: 1px solid var(--border);
+	}
+	.site-tools.open { display: flex; }
+	.site-tools a {
+		padding: 0.75em 0.15em;
+		border-bottom: 1px solid var(--border);
+	}
+}
+
 main {
 	max-width: 900px;
 	margin: 0 auto;

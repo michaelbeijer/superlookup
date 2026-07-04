@@ -26,7 +26,12 @@ const {
 	<body>
 		<header class="site-head">
 			<a class="wordmark" href="/" title="SuperLookup home">SuperLookup</a>
-			<nav class="site-tools">
+			<button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="site-nav">
+				<span class="nav-toggle-bar"></span>
+				<span class="nav-toggle-bar"></span>
+				<span class="nav-toggle-bar"></span>
+			</button>
+			<nav class="site-tools" id="site-nav">
 				<a href="https://github.com/michaelbeijer/superlookup-desktop/releases/latest"
 					target="_blank" rel="noopener"
 					title="Download the free desktop app – Windows, macOS or Linux">Download ↓</a>
@@ -56,5 +61,23 @@ const {
 				alongside your own local termbases and translation memories.
 			</p>
 		</footer>
+
+		<script>
+			const navToggle = document.querySelector('.nav-toggle');
+			const siteNav = document.getElementById('site-nav');
+			if (navToggle && siteNav) {
+				navToggle.addEventListener('click', () => {
+					const open = siteNav.classList.toggle('open');
+					navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+				});
+				// Tapping a link closes the menu again.
+				siteNav.querySelectorAll('a').forEach((a) =>
+					a.addEventListener('click', () => {
+						siteNav.classList.remove('open');
+						navToggle.setAttribute('aria-expanded', 'false');
+					}),
+				);
+			}
+		</script>
 	</body>
 </html>
